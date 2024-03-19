@@ -1,0 +1,2056 @@
+{
+  "source": "Auto-CORPus (full-text)",
+  "date": "20210927",
+  "key": "autocorpus_fulltext.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "29535761.html",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "A Genome-Wide Search for Gene-Environment Effects in Isolated Cleft Lip with or without Cleft Palate Triads Points to an Interaction between Maternal Periconceptional Vitamin Use and Variants in ESRRG",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 200,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "keywords section",
+                "iao_id": "IAO:0000630"
+              }
+            ],
+            "section_title_1": "keywords"
+          },
+          "text": "gene-environment interaction, GWAS, case-parent triad, orofacial cleft, cleft lip with or without cleft palate, birth defects, genetic epidemiology, Haplin",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 363,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Background: It is widely accepted that cleft lip with or without cleft palate (CL/P) results from the complex interplay between multiple genetic and environmental factors. However, a robust investigation of these gene-environment (GxE) interactions at a genome-wide level is still lacking for isolated CL/P.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 678,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Materials and Methods: We used our R-package Haplin to perform a genome-wide search for GxE effects in isolated CL/P. From a previously published GWAS, genotypes and information on maternal periconceptional cigarette smoking, alcohol intake, and vitamin use were available on 1908 isolated CL/P triads of predominantly European or Asian ancestry. A GxE effect is present if the relative risk estimates for gene-effects in the offspring are different across exposure strata. We tested this using the relative risk ratio (RRR). Besides analyzing all ethnicities combined (“pooled analysis”), separate analyses were conducted on Europeans and Asians to investigate ethnicity-specific effects. To control for multiple testing, q-values were calculated from the p-values.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1444,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Results: We identified significant GxVitamin interactions with three SNPs in “Estrogen-related receptor gamma” (ESRRG) in the pooled analysis. The RRRs (95% confidence intervals) were 0.56 (0.45–0.69) with rs1339221 (q = 0.011), 0.57 (0.46–0.70) with rs11117745 (q = 0.011), and 0.62 (0.50–0.76) with rs2099557 (q = 0.037). The associations were stronger when these SNPs were analyzed as haplotypes composed of two-SNP and three-SNP combinations. The strongest effect was with the “t-t-t” haplotype of the rs1339221-rs11117745-rs2099557 combination [RRR = 0.50 (0.40–0.64)], suggesting that the effects observed with the other SNP combinations, including those in the single-SNP analyses, were mainly driven by this haplotype. Although there were potential GxVitamin effects with rs17734557 and rs1316471 and GxAlcohol effects with rs9653456 and rs921876 in the European sample, respectively, none of the SNPs was located in or near genes with strong links to orofacial clefts. GxAlcohol and GxSmoke effects were not assessed in the Asian sample because of a lack of observations for these exposures.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2544,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Discussion/Conclusion: We identified significant interactions between vitamin use and variants in ESRRG in the pooled analysis. These GxE effects are novel and warrant further investigations to elucidate their roles in orofacial clefting. If validated, they could provide prospects for exploring the impact of estrogens and vitamins on clefting, with potential translational applications.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2932,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "With a prevalence of 3.4–22.9 per 10,000 live births (Mossey and Castilla, 2003), cleft lip with or without cleft palate (CL/P) ranks among the most common birth defects in humans. It is widely accepted that CL/P results from the complex interplay between multiple genetic and environmental factors (GxE), but only recently have data and practical approaches become available to enable an investigation of these effects at a genome-wide level. Identifying GxE interactions may not only provide important insights into the etiology of orofacial clefts, but may also be important from a public health perspective because of the potential for interventions on environmental risk factors alone, particularly in genetically more susceptible subgroups of the population. This rationale has long been demonstrated in animal models (Millicovsky and Johnston, 1981a,b; Juriloff, 2002), but the evidence in humans is less conclusive. Just as some murine strains are more susceptible to external teratogens, human fetuses harboring high-risk alleles may also be more sensitive to particular environmental risk factors, and identifying those that interact with genetic risk variants may lead to important inroads in our understanding of the causes of CL/P.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4188,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "Over the years, a growing list of maternal exposures has been reported to influence the risk of isolated CL/P. In particular, cigarette smoking (Zeiger and Beaty, 2002; Little et al., 2004; Lie et al., 2008), alcohol consumption (DeRoo et al., 2008), folic acid and other B-complex vitamin supplementation (Hayes, 2002; Munger, 2002; Munger et al., 2004; Wilcox et al., 2007), and anti-folate medication (Hernández-Díaz et al., 2000; Holmes et al., 2001) have been among the most widely studied exposures. Associations with other environmental risk factors have also been reported (reviewed in Dixon et al., 2011), but these have been less consistent across studies and no consensus has yet emerged on the harmful effects of these exposures.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4929,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "A wide variety of study designs have been used to study GxE effects in orofacial clefts, one of which involves treating a case-parent triad as the unit of analysis. This family-based “triad design” handles bias due to population stratification by using non-transmitted parental alleles as controls, to be compared with the alleles transmitted to the case child (Gjessing and Lie, 2006). We and others have used the triad design to investigate GxE effects in orofacial clefts (Jugessur et al., 2003; Shi et al., 2007; Wu et al., 2010). In terms of statistical power, a unit comprising one case and one control provides approximately the same power as a complete triad when studying single-SNP associations (Schaid, 2002). For haplotype reconstruction, however, the triad design offers the additional advantage of allowing haplotypes to be deduced from the family structure (Gjessing and Lie, 2006).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 5826,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "A handful of genome-wide association studies (GWAS) have now been published on orofacial clefts (reviewed in Dixon et al., 2011; Mangold et al., 2011; Rahimov et al., 2012; Beaty et al., 2016), offering unprecedented opportunities for investigating GxE effects at a genome-wide level. Using data on case-parent triads from a previously published GWAS (Beaty et al., 2010), Wu et al. (2014) and Beaty et al. (2011) screened for GxE effects in one category of orofacial clefts: isolated cleft palate only (CPO). Here, we used the same GWAS dataset to search for GxE effects in the larger category of isolated CL/P.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 6438,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Study participants"
+          },
+          "text": "Participants in this study stem from an international cleft collaboration involving seven Asian and six European/US populations. Characteristics of the study populations and details of the GWAS have been provided in Beaty et al. (2010). Briefly, genotyping was performed on an Illumina Human610-Quad® platform and genotypes for 589,945 SNPS were deposited in the Database of Genotypes and Phenotypes (dbGaP; http://www.ncbi.nlm.nih.gov/gap) under study accession ID phs000094.v1.p1. Besides genotypes, information was also available on maternal cigarette smoking, alcohol intake, and vitamin use in the periconceptional period (i.e., 3 months prior to conception through the first trimester of pregnancy). Interviews and questionnaires were used to assess maternal exposures and the data were coded as simple yes/no responses for cigarette smoking, any reported alcohol consumption, and any use of vitamin supplements. For a detailed description of these maternal exposures, see the recent work on isolated CPO by Wu et al. (2014) and the study outline at dbGAP under study accession ID phs000094.v1.p1. Quality control was performed using the approach outlined in Haaland et al. (2017). The number of SNPs before and after the pruning process is provided in Table ​Table1.1. Figure ​Figure11 shows the distribution of triads by ethnicity and environmental exposure after quality control was performed. Note that we did not analyze GxSmoke or GxAlcohol in the Asian sample because very few of the mothers reported smoking cigarettes or drinking alcohol in the periconceptional period. The final version of the dataset included genotypes for 1,908 nuclear families; 825 were of European ancestry, 1,024 of Asian descent, and 59 of other ethnicities. Table ​Table22 provides an overview of triad completeness and ethnicity. Among the 1,908 nuclear families, 1,594 were complete mother-father-child triads and 314 were parent–child dyads only.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 8417,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Statistical analysis"
+          },
+          "text": "We are continuously extending a comprehensive R-package, Haplin, for analyzing different constellations of family-based data (Gjessing and Lie, 2006). Haplin uses maximum likelihood to estimate the relative risk (RR), p-value, and 95% confidence intervals for a given risk allele or haplotype. To identify GxE effects, a Wald test is used to test whether RR estimates for gene-effects in the offspring are significantly different across strata of exposed and unexposed mothers, as described in our previous works (Skare et al., 2012; Gjerdevik et al., 2017). A GxE effect is assessed as the ratio of relative risks (RRR). That is, RRR = RR(1)/RR(0), where RR(1) and RR(0) are the relative risks for the offspring of exposed and unexposed mothers, respectively. If RRR ≠ 1, the RR among the exposed is different from the RR among the unexposed, which would indicate a GxE effect. See Haaland et al. (2017) for more details on the calculation of RRR.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9385,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Statistical analysis"
+          },
+          "text": "Since its inception, Haplin has incorporated haplotype estimation for triads. By using the expectation-maximization (EM) algorithm (Dempster et al., 1977), Haplin reconstructs haplotypes from the multi-SNP data even though phase is not known from the observed markers alone. The EM-algorithm also enables Haplin to account for missing parental genotypes, thus allowing the 314 parent–child dyads in the current dataset to be included in the analyses.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9835,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Statistical analysis"
+          },
+          "text": "If an offspring was homozygous for the risk allele at a locus, we assumed a multiplicative dose-response model. In other words, the relative risk with two copies of the risk allele was assumed to be simply RR × RR. For each maternal exposure (smoking, alcohol use, vitamin use), we performed separate analyses on Asians (n = 1,024), Europeans (n = 825), and all participants combined irrespective of their ethnicity (“pooled sample”; N = 1,908). The different sets of analyses are illustrated in Figure ​Figure11.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10348,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Statistical analysis"
+          },
+          "text": "Further, we conducted haplotype analyses for SNPs that had very low q-values. This was done using the haplinSlide function in Haplin, as described in our previous works on candidate genes for clefts (Jugessur et al., 2008, 2009b, 2012a,b).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10587,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Statistical analysis"
+          },
+          "text": "Next, we performed statistical power calculations using the hapPowerAsymp function in Haplin. It is based on the asymptotic variance-covariance structure of the Wald test, as described in our recent work (Gjerdevik et al., 2017). The sample sizes used in these calculations reflect those that were available in the current GWAS dataset (Figure ​(Figure11).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10943,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Statistical analysis"
+          },
+          "text": "To facilitate the interpretation of the large number of statistical tests being performed simultaneously, we generated Quantile-Quantile (QQ) plots (Wilk and Gnanadesikan, 1968) using the pQQ function in Haplin to screen for significant p-values. This was done separately for the analysis of each exposure. To control the false discovery rate, we used the method described by Storey and Tibshirani (2003) where q-values are computed from the p-values. The function qvalue from the R-package “q-value” in the Bioconductor repository [https://www.bioconductor.org/, Gentleman et al., 2004] was used to generate the q-values. A low q-value indicates a low likelihood that a statistically significant association is a false positive. A q-value of 0.1, for instance, corresponds to a false discovery rate of 10%.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11750,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Statistical analysis"
+          },
+          "text": "A regional plot was generated to map the chromosomal area flanking the most significant SNP (“lead SNP”). This plot provides a visual display of linkage disequilibrium between the lead SNP and other SNPs, along with their positions. It also provides the position of the closest genes and the recombination rates in the region. We generated the plot by modifying an R-script available at http://www.broadinstitute.org/files/shared/diabetes/scandinavs/assocplot.R (Pruim et al., 2010).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12233,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Statistical analysis"
+          },
+          "text": "The plethora of publicly available data makes it feasible to explore the connections between different entities, e.g., genes and vitamins. Hetionet integrates different sources of information from actively maintained meta-databases and allows the visualization of possible paths between various diseases, genes and compounds (Himmelstein et al., 2017, https://neo4j.het.io/). For example, to explore possible links between a given disease, compounds and gene nodes, Hetionet uses the following databases: Disease Ontology (Kibbe et al., 2015), Drug Bank (Law et al., 2014), and Entrez Gene (Maglott et al., 2005). Furthermore, Hetionet can also integrate information from the Human Interactome Database (Rolland et al., 2014), CMap (https://clue.io/) or Bgee (Bastian et al., 2008) to identify potential gene-gene interactions, compound-gene interactions and gene expression in specific tissue, respectively. We queried Hetionet to visualize the relationship between genes and maternal exposures for the cleft lip phenotype. The complete query and output codes are provided in the online Supplementary Text 1.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 13342,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Ethics approvals"
+          },
+          "text": "Ethics approvals for the International Cleft Consortium were obtained from the respective institutional review boards of the participating sites. The consortium was formed in 2007 and each participating institution approved research protocols for the recruitment of case-parent triads from 13 individual sites. All participants have granted their written informed consents. The participating sites included institutions in the US (Johns Hopkins University; University of Iowa; Utah State University; National Institute of Environmental Health Sciences (NIEHS); University of Pittsburgh), Denmark (University of Southern Denmark), Norway (University of Bergen), China (Peking University Health Science Center; Wuhan University; Peking Union Medical College; West China School of Stomatology, Sichuan University; School of Stomatology, Beijing University), Korea (Yonsei University), Taiwan (Chang Gung Memorial Hospital), and Singapore (KK Women's & Children's Hospital; National University of Singapore). For more details on the recruitment sites, the research approvals and protocols, see the online “Supplementary Note” of the original publication (Beaty et al., 2010), as well as the study outline at dbGAP (https://www.ncbi.nlm.nih.gov/gap) under study accession number phs000094.v1.p1.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 14648,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results"
+          },
+          "text": "Tables ​Tables33–5 provide the relative risk ratios (RRRs) and 95% confidence intervals (CIs) for the top 20 SNPs in each set of analyses depicted in Figure ​Figure1.1. These SNPs were ranked by p-value, and their corresponding q-values are also provided in these tables. RRRs were calculated as previously described by Haaland et al. (2017). Figures ​Figures22–4 show the QQ-plots for each maternal exposure. The corresponding Manhattan plots are provided in Figures ​Figures55–7. For SNPs that are not associated with isolated CL/P, –log10 (p-values) in the QQ-plots are expected to fall along the straight diagonal line representing the null distribution, within the 95% confidence band (gray area). Conversely, –log10 (p-values) would fall above this line, outside the confidence band and in the upper right-hand corner of the plot. Several SNPs were significantly associated with isolated CL/P in the GxVitamin analyses of the pooled sample (Figure ​(Figure2).2). In the other analyses, none of the SNPs were outside the confidence bands, suggesting that the distribution of p-values is as expected if there are no associations. Still, in each of the GxVitamin and GxAlcohol analyses of the European sample (Tables ​(Tables3,3, ​,5),5), two SNPs had markedly lower p-values than expected (see also Figures ​Figures5,5, ​,7).7). However, none of these SNPs was located in or near genes with obvious links to orofacial clefts. In the remainder of this section, therefore, we focus mainly on the results of the GxVitamin analysis of the pooled sample.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 16208,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results"
+          },
+          "text": "All the top 20 SNPs in the GxVitamin analysis of the pooled sample had q-values below 0.54 (Table ​(Table3).3). The two top SNPs among these, rs1339221 and rs11117745, both had a q-value of 0.01 and are located in the gene for “Estrogen-related receptor gamma” (ESRRG). These SNPs are in strong linkage disequilibrium (LD) with one another (R2 = 0.77 and D' = 1.00). A third SNP, rs2099557 (q = 0.037), is also located in ESRRG but is in weaker LD with the above two SNPs (R2 = 0.33 and D' = 0.57 with rs1339221; R2 = 0.28 and D' = 0.61 with rs11117745). A regional plot centered around the lead SNP in ESRRG (rs1339221) was generated to visualize the strength of the association signals and regional information around that SNP (Figure ​(Figure8).8). Next, we performed stratified analyses of the SNPs in ESRRG by first testing for an overall child effect in the unstratified sample, followed by the effects among children who were exposed and unexposed to maternal vitamin use, respectively (Table ​(Table6).6). All three SNPs exhibited a so-called “qualitative interaction” (Clayton, 2009), in that the effect of the SNP-allele among mothers taking vitamins was in the opposite direction of that among mothers not taking vitamins. Specifically, RR>1 among non-takers, whereas RR < 1 among takers, and none of the 95% CIs included 1 (Table ​(Table6).6). There were no statistically significant overall effects of the child's allele alone for any of the SNPs; all the 95% CIs included RR = 1. As mentioned earlier, the total GxE effect was measured as the ratio of the RRs in each stratum of vitamin use (i.e., RRVitamins/RRNo\nvitamins). RRRs and 95% CIs were 0.56 (0.45–0.69) with the variant allele at rs1339221 (q = 0.011), 0.57 (0.46–0.70) with the variant allele at rs11117745 (q = 0.011), and 0.62 (0.50–0.76) with the variant allele at rs2099557 (q = 0.037) (Table ​(Table66).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 18092,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results"
+          },
+          "text": "Next, we considered haplotypes of the top three SNPs in ESRRG (Table ​(Table7)7) and analyzed the following two-SNP and three-SNP combinations: (i) rs2099557-rs1339221, (ii) rs1339221-rs11117745, and (iii) rs2099557-rs1339221-rs11117745. The RRRs and 95% CIs were 0.52 (0.41-0.66) for SNP combination (i), 0.55 (0.44–0.68) for SNP combination (ii), and 0.50 (0.40–0.64) for SNP combination (iii) (Table ​(Table7).7). The pattern of RRRs was similar to that in the single-SNP analyses. Provided that vitamin use itself is not harmful, the haplotypes with the lowest p-values appeared to be protective among vitamin-takers, but detrimental among non-takers (Table ​(Table7).7). The RRs and RRRs were even further away from 1, and the p-values were lower than in the single-SNP analyses. The most prominent effect was with the “t-t-t” haplotype in the analysis of SNP combination (iii) above, suggesting that the observed effects with SNP combinations (i) and (ii), as well as those observed in the single-SNP analyses, are likely to be driven by this haplotype.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 19151,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results"
+          },
+          "text": "Our in silico analyses using Hetionet revealed that the cleft lip phenotype is influenced by vitamins A and D through a network of genes connected to ESRRG (Figure ​(Figure9).9). Except for “Platelet derived growth factor subunit A” (PDGFA), few of the genes in the network have previously been linked to orofacial clefts. Figure ​Figure99 shows that ESRRG is expressed in three major tissues/organs and that the cleft lip phenotype is localized to the embryo, head, and telencephalon (the most highly developed and anterior part of the forebrain). ESRRG regulates or interacts with various genes that are regulated by the levels of vitamin A and D. Note that several genes are up- or down-regulated in the telencephalon (marked by blue arrows in Figure ​Figure9)9) and they also interact directly with ESRRG.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 19960,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "The current genome-wide search for GxE effects in isolated CL/P is based on the largest available GWAS dataset on orofacial cleft triads (Beaty et al., 2010). We identified a statistically significant GxE effect between maternal periconceptional vitamin use and genetic variants in ESRRG in the pooled analysis. We also identified potential GxVitamin and GxAlcohol effects in the European sample (Tables ​(Tables3,3, ​,5),5), but none of the SNPs were outside the 95% confidence bands in the QQ plots (Figures ​(Figures2,2, ​,4),4), nor were they located in or near genes with obvious connections to orofacial clefts. Because of a lack of observations, we were unable to perform GxSmoke and GxAlcohol analyses in the Asian sample. The low level of alcohol intake and cigarette smoking appears to be a general trend among Asian women, and is likely to be even lower among those who are pregnant or planning pregnancy (Yang et al., 2010; Ng et al., 2014; Haaland et al., 2017). Although GxVitamin analysis of the Asian sample was not hampered by a lack of observations, vitamin intake was nevertheless markedly lower in this group compared to European women (14 vs. 56%) (Figure ​(Figure11).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 21159,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "The current genome-wide scan for GxE effects in isolated CL/P was motivated by a number of observations. First, several studies have reported associations between orofacial clefts and periconceptional maternal cigarette smoking, alcohol intake and vitamin use (reviewed in Jugessur et al., 2009a; Dixon et al., 2011; Marazita, 2012; Rahimov et al., 2012; Leslie and Marazita, 2013; Beaty et al., 2016), but our comprehensive analysis of 334 autosomal cleft candidate genes showed little evidence of interaction with these maternal exposures despite being the largest GxE study of clefts at the time (Skare et al., 2012). Second, the lack of GxE effects may be due to a combination of limited statistical power to detect nothing but the largest GxE effects and the a priori small environmental contributions to CL/P (~9%) and CPO (~10%) (Grosen et al., 2011). Because most previous GxE studies have used a candidate-gene approach and are based on relatively small sample sizes, the small environmental contributions are likely to have further reduced the power to detect a GxE effect. Third, only two genome-wide studies of GxE effects have so far been published in orofacial clefts—in isolated CPO (Beaty et al., 2011; Wu et al., 2014). We thus focused on the larger sample of isolated CL/P and screened for GxE effects using the same GWAS dataset as in Wu et al. (2014).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 22530,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "The connection between vitamins and variants in ESRRG is novel in the context of orofacial clefts. To shed more light on how vitamins, ESRRG and clefting might relate to one another, we performed in silico analyses using the Hetionet database (Figure ​(Figure9).9). By harnessing data from several publicly available meta-databases, Hetionet generates a detailed overview of the relationships between a given disorder/disease, genes and compounds that might easily be overlooked if the focus were solely on specific aspects of disease-gene associations (Greene et al., 2015; Himmelstein et al., 2017). Our analyses revealed a rich network of genes connecting cleft lip to ESRRG and to two vitamins in particular—vitamins A and D. These genes are significantly influenced by the levels of these two vitamins, which might partially explain why the extra vitamin intake by pregnant mothers appears to protect the fetus against clefts. There is some evidence in the literature linking vitamin A itself and genes related to vitamin A, e.g., retinoic acid receptor alpha, RARA, with the risk of orofacial clefts (Rothman et al., 1995; Mitchell et al., 2003; Bille et al., 2007; Johansen et al., 2008; Boyles et al., 2009; Skare et al., 2012). For instance, early studies in mice showed that the timing of exposure to retinoic acid (a metabolite of vitamin A) is important in the disruption of the expression patterns of key growth factors, resulting in abnormally small palatal shelves that cannot fuse (Abbott et al., 1989, 2005; Abbott and Birnbaum, 1990). Compared to vitamin A or vitamin B complex, few studies have examined the effects of high or low dose of vitamin D on clefting risk. Unfortunately, the cleft consortium (Beaty et al., 2010) did not include detailed information on the use of different types of vitamins, which would have allowed a more targeted analysis of vitamins A and D in relation to the ESRRG variants.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 24457,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "The impact of specific variants in ESRRG on the risk of orofacial clefts is also uncharted territory, but several lines of evidence point to a biologically plausible link between estrogens, ESRRG and craniofacial malformations. First, estrogens are a group of steroid-based sex hormones that are involved in several important developmental and physiological processes, including cartilage proliferation and growth, and formation of the craniofacial complex (Ahi, 2016). Second, sex hormones are involved in several traits associated with sexual dimorphism (Callewaert et al., 2010; Randall et al., 2013; Sanger et al., 2014). Given the consistently observed higher male-to-female ratio of isolated CL/P (~2:1 in Caucasians), it is plausible that the skewed sex prevalence is a manifestation of opposing sex steroid actions. Third, exposure to very high or very low doses of estrogens during embryonic development results in craniofacial skeletal malformations in various animal models (Fushimi et al., 2009; Cohen et al., 2014; Morthorst et al., 2016). For instance, when zebrafish are exposed to bisphenol-A (an endocrine-disrupting chemical that mimics estrogen), they develop craniofacial malformations (Kramer et al., 1990). Signaling and dosage regulation of estrogens are finely orchestrated by estrogen receptors (ERs) and estrogen related receptors (ESRRs). These two closely-related families of receptors share target genes, co-regulators and promoters (Maglott et al., 2005). ESRRG, the gene identified in our GxVitamin analyses, encodes the orphan nuclear receptor “Estrogen-related receptor γ” (ERRγ). ERRγ itself does not appear to be important for skeletal development, but it is a sex-dependent negative regulator of postnatal bone formation (Cardelli and Aubin, 2014).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 26241,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "The majority of the genes in Figure ​Figure99 have not previously been linked to orofacial clefts, except perhaps for PDGFA. This gene belongs to the PDGF family of genes that play important roles in the PDGF receptor-alpha (PDGFR-α) signaling pathway. Compared to PDGFA, PDGFC has a well-substantiated role in palatogenesis (Eberhart et al., 2008). Mice with the Pdgfc gene knocked out (Pdgfc−/−) exhibit a complete cleft of the secondary palate (Ding et al., 2004). The phenotype is less severe in Pdgfa−/− mice. The ligands PDGFA and PDGFC share a common pathway with the PDGFR-α receptor in regulating the development of craniofacial structures. Targeted deletion of murine Pdgfra causes neural tube closure defects, including midfacial and palatal clefts (Soriano, 1997). Retinoic acid, on the other hand, inhibits proliferation of embryonic palatal shelves in mice by downregulating Pdgfc activity (Han et al., 2006). Pedigo et al. (2007) later reported the location of a complex retinoic acid response element in a region upstream of the transcription start site of PDGFA that was previously shown to harbor basal and vitamin D-inducible enhancer activity, which lends support to the connections seen between these entities in Figure ​Figure99.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 27492,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "In addition to the novel insights from the biological findings, we aimed at developing a robust method for genome-wide screening of GxE effects in GWAS data. Using a log-linear model with multiplicative dose-response is a very efficient statistical approach, and case-parent triads provide sufficient information to reconstruct haplotypes with high precision. Yet, our study may still lack power to detect effects that are small. Figure ​Figure1010 depicts power simulations for different sample sizes and different proportions of exposed to unexposed mothers, reflecting those that were available in the current GWAS dataset. The figure shows that there is acceptable power at a nominal significance level of 5% to detect a single-SNP GxE effect with relative risk ratio (RRR) of 1.4 or higher in a sample consisting of 2,000 triads, and an effect with RRR of 1.6 or higher with 1,000 triads. The proportion of exposed to unexposed cases does not have a major impact on power as long as it does not deviate substantially from 1-to-1. In a GWAS setting, there is of course the extra burden of extensive multiple testing. Controlling the FDR in our study for each exposure is less taxing on statistical power and better suited for discovery than, for instance, a strict Bonferroni correction. However, it increases the need for independent verification of top hits.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 28856,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Our study has limitations. Even though it was based on the largest collection of isolated CL/P triads to date, it still had limited statistical power in the smallest group of exposed mothers. This was especially true for the GxSmoke and GxAlcohol analyses in the Asian sample, where the low level of exposure prevented any meaningful GxE analysis. The lack of a replication cohort was also a major shortcoming. Our study is the first to investigate the risk of isolated CL/P using GWAS data in two major ethnicities, and there are currently no other similar studies on isolated CL/P that can be used to confirm our findings. Further, our assumption of a detectable RRR of 1.4 with a sample size of 2,000 triads and an RRR of 1.6 with 1,000 triads may be optimistic in the context of birth defects and complex traits in general. The current scan for GxE effects in isolated CL/P should therefore be considered exploratory and hypothesis-generating at this stage, assuming that other researchers who in the future have access to comparable cleft data and more detailed information on different types of vitamins (including vitamins A and D) would be interested in replicating these findings.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 30045,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "To summarize, we identified significant interactions between variants in ESRRG and vitamin use in the pooled analysis. Our in silico analyses revealed an intricate network of genes linking cleft lip, ESRRG and two vitamins in particular: vitamins A and D. These GxE effects are novel and warrant further investigations to unravel the potential interplay between vitamins and ESRRG variants. If confirmed in other cleft samples, they could provide prospects for exploring the impact of estrogens and vitamins on orofacial clefts, with potential translational applications.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 30616,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "author contributions section",
+                "iao_id": "IAO:0000323"
+              }
+            ],
+            "section_title_1": "Author contributions"
+          },
+          "text": "AJ, HG, RL, ØH, MG, and JR: Conception of the work, study design, data analysis and interpretation, manuscript preparation and final manuscript approval; HG, MG, JR, and ØH: Statistical modeling and software design; AJ, HG, and RL: Funding acquisition.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 30888,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "author contributions section",
+                "iao_id": "IAO:0000323"
+              }
+            ],
+            "section_title_1": "Author contributions",
+            "section_title_2": "Conflict of interest statement"
+          },
+          "text": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 31090,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "acknowledgements section",
+                "iao_id": "IAO:0000324"
+              }
+            ],
+            "section_title_1": "Acknowledgments"
+          },
+          "text": "We are indebted to the families who contributed to this study, and the orofacial cleft consortium as a whole. We also sincerely thank everyone involved in the recruitment process and the genotyping of DNA from the families.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 31328,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "footnote section",
+                "iao_id": "IAO:0000325"
+              }
+            ],
+            "section_title_1": "Footnotes"
+          },
+          "text": "Funding. This research was supported by the Bergen Medical Research Foundation (BMFS) grant 807191, by the Research Council of Norway (RCN) through its Centres of Excellence funding scheme, grant 262700, and by the Biobank Norway II grant 245464/F50 from the RCN.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 31600,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material"
+          },
+          "text": "The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fgene.2018.00060/full#supplementary-material",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 31779,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Teratogenic effects of retinoic acid are modulated in mice lacking expression of epidermal growth factor and transforming growth factor-α",
+            "journal": "Birth Defects Res. Part A Clin. Mol. Teratol.",
+            "volume": "73",
+            "section_title_1": "References"
+          },
+          "text": "Abbott B. D., Best D. S., Narotsky M. G. (2005). Teratogenic effects of retinoic acid are modulated in mice lacking expression of epidermal growth factor and transforming growth factor-α. Birth Defects Res. Part A Clin. Mol. Teratol.\n73, 204–217. 10.1002/bdra.20117 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 32091,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "TCDD-induced altered expression of growth factors may have a role in producing cleft palate and enhancing the incidence of clefts after coadministration of retinoic acid and TCDD",
+            "journal": "Toxicol. Appl. Pharmacol.",
+            "volume": "106",
+            "section_title_1": "References"
+          },
+          "text": "Abbott B. D., Birnbaum L. S. (1990). TCDD-induced altered expression of growth factors may have a role in producing cleft palate and enhancing the incidence of clefts after coadministration of retinoic acid and TCDD. Toxicol. Appl. Pharmacol.\n106, 418–432. 10.1016/0041-008X(90)90337-T [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 32413,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Etiology of retinoic acid-induced cleft palate varies with the embryonic stage",
+            "journal": "Teratology",
+            "volume": "40",
+            "section_title_1": "References"
+          },
+          "text": "Abbott B. D., Harris M. W., Birnbaum L. S. (1989). Etiology of retinoic acid-induced cleft palate varies with the embryonic stage. Teratology\n40, 533–553. 10.1002/tera.1420400602 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 32628,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Signalling pathways in trophic skeletal development and morphogenesis: insights from studies on teleost fish",
+            "journal": "Dev. Biol.",
+            "volume": "420",
+            "section_title_1": "References"
+          },
+          "text": "Ahi E. P. (2016). Signalling pathways in trophic skeletal development and morphogenesis: insights from studies on teleost fish. Dev. Biol.\n420, 11–31. 10.1016/j.ydbio.2016.10.003 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 32843,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Bgee: integrating and comparing heterogeneous transcriptome data among species",
+            "journal": "Data Integration in the Life Sciences: 5th International Workshop, DILS 2008, Evry, France, June 25-27, (2008).",
+            "section_title_1": "References"
+          },
+          "text": "Bastian F., Parmentier G., Roux J., Moretti S., Laudet V., Robinson-Rechavi M. (2008). Bgee: integrating and comparing heterogeneous transcriptome data among species, in Data Integration in the Life Sciences: 5th International Workshop, DILS 2008, Evry, France, June 25-27, (2008). eds Bairoch A., Cohen-Boulakia S., Froidevaux C. (Berlin; Heidelberg: Springer; ), 124–131. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 33233,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetic factors influencing risk to orofacial clefts: today's challenges and tomorrow's opportunities",
+            "journal": "F1000Res",
+            "volume": "5",
+            "section_title_1": "References"
+          },
+          "text": "Beaty T. H., Marazita M. L., Leslie E. J. (2016). Genetic factors influencing risk to orofacial clefts: today's challenges and tomorrow's opportunities. F1000Res\n5:2800. 10.12688/f1000research.9503.1 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 33488,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A genome-wide association study of cleft lip with and without cleft palate identifies risk variants near MAFB and ABCA4",
+            "journal": "Nat. Genet.",
+            "volume": "42",
+            "section_title_1": "References"
+          },
+          "text": "Beaty T. H., Murray J. C., Marazita M. L., Munger R. G., Ruczinski I., Hetmanski J. B., et al. . (2010). A genome-wide association study of cleft lip with and without cleft palate identifies risk variants near MAFB and ABCA4. Nat. Genet.\n42, 525–529. 10.1038/ng.580 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 33809,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Evidence for gene-environment interaction in a genome wide study of nonsyndromic cleft palate",
+            "journal": "Genet. Epidemiol.",
+            "volume": "35",
+            "section_title_1": "References"
+          },
+          "text": "Beaty T. H., Ruczinski I., Murray J. C., Marazita M. L., Munger R. G., Hetmanski J. B., et al. . (2011). Evidence for gene-environment interaction in a genome wide study of nonsyndromic cleft palate. Genet. Epidemiol.\n35, 469–478. 10.1002/gepi.20595 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34114,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Oral clefts and life style factors–a case-cohort study based on prospective Danish data",
+            "journal": "Eur. J. Epidemiol.",
+            "volume": "22",
+            "section_title_1": "References"
+          },
+          "text": "Bille C., Olsen J., Vach W., Knudsen V. K., Olsen S. F., Rasmussen K., et al. . (2007). Oral clefts and life style factors–a case-cohort study based on prospective Danish data. Eur. J. Epidemiol.\n22, 173–181. 10.1007/s10654-006-9099-5 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34385,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Oral facial clefts and gene polymorphisms in metabolism of folate/one-carbon and vitamin A: a pathway-wide association study",
+            "journal": "Genet. Epidemiol.",
+            "volume": "33",
+            "section_title_1": "References"
+          },
+          "text": "Boyles A. L., Wilcox A. J., Taylor J. A., Shi M., Weinberg C. R., Meyer K., et al. . (2009). Oral facial clefts and gene polymorphisms in metabolism of folate/one-carbon and vitamin A: a pathway-wide association study. Genet. Epidemiol.\n33, 247–255. 10.1002/gepi.20376 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34709,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Skeletal sexual dimorphism: relative contribution of sex steroids, GH-IGF1, and mechanical loading",
+            "journal": "J. Endocrinol.",
+            "volume": "207",
+            "section_title_1": "References"
+          },
+          "text": "Callewaert F., Sinnesael M., Gielen E., Boonen S., Vanderschueren D. (2010). Skeletal sexual dimorphism: relative contribution of sex steroids, GH-IGF1, and mechanical loading. J. Endocrinol.\n207, 127–134. 10.1677/JOE-10-0209 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34971,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "ERRgamma is not required for skeletal development but is a RUNX2-dependent negative regulator of postnatal bone formation in male mice",
+            "journal": "PLoS ONE",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "Cardelli M., Aubin J. E. (2014). ERRgamma is not required for skeletal development but is a RUNX2-dependent negative regulator of postnatal bone formation in male mice. PLoS ONE\n9:e109592\n10.1371/journal.pone.0109592 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35243,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Prediction and interaction in complex disease genetics: experience in type 1 diabetes",
+            "journal": "PLoS Genet.",
+            "volume": "5",
+            "section_title_1": "References"
+          },
+          "text": "Clayton D. G. (2009). Prediction and interaction in complex disease genetics: experience in type 1 diabetes. PLoS Genet.\n5:e1000540. 10.1371/journal.pgen.1000540 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35460,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Modulation of estrogen causes disruption of craniofacial chondrogenesis in Danio rerio",
+            "journal": "Aquat. Toxicol.",
+            "volume": "152",
+            "section_title_1": "References"
+          },
+          "text": "Cohen S. P., LaChappelle A. R., Walker B. S., Lassiter C. S. (2014). Modulation of estrogen causes disruption of craniofacial chondrogenesis in Danio rerio. Aquat. Toxicol.\n152, 113–120. 10.1016/j.aquatox.2014.03.028 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35713,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Maximum likelihood from incomplete Data via the EM algorithm",
+            "journal": "J. R. Stat. Soc. Ser. B",
+            "volume": "39",
+            "section_title_1": "References"
+          },
+          "text": "Dempster A. P., Laird N. M., Rubin D. B. (1977). Maximum likelihood from incomplete Data via the EM algorithm. J. R. Stat. Soc. Ser. B\n39, 1–38. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35874,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "First-trimester maternal alcohol consumption and the risk of infant oral clefts in Norway: a population-based case-control study",
+            "journal": "Am. J. Epidemiol",
+            "volume": "168",
+            "section_title_1": "References"
+          },
+          "text": "DeRoo L. A., Wilcox A. J., Drevon C. A., Lie R. T. (2008). First-trimester maternal alcohol consumption and the risk of infant oral clefts in Norway: a population-based case-control study. Am. J. Epidemiol. 168, 638–646. 10.1093/aje/kwn186 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 36169,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A specific requirement for PDGF-C in palate formation and PDGFR-alpha signaling",
+            "journal": "Nat. Genet.",
+            "volume": "36",
+            "section_title_1": "References"
+          },
+          "text": "Ding H., Wu X., Boström H., Kim I., Wong N., Tsoi B., et al. . (2004). A specific requirement for PDGF-C in palate formation and PDGFR-alpha signaling. Nat. Genet.\n36, 1111–1116. 10.1038/ng1415 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 36399,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Cleft lip and palate: understanding genetic and environmental influences",
+            "journal": "Nat. Rev. Genet.",
+            "volume": "12",
+            "section_title_1": "References"
+          },
+          "text": "Dixon M. J., Marazita M. L., Beaty T. H., Murray J. C. (2011). Cleft lip and palate: understanding genetic and environmental influences. Nat. Rev. Genet.\n12, 167–178. 10.1038/nrg2933 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 36637,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "MicroRNA Mirn140 modulates Pdgf signaling during palatogenesis",
+            "journal": "Nat. Genet.",
+            "volume": "40",
+            "section_title_1": "References"
+          },
+          "text": "Eberhart J. K., He X., Swartz M. E., Yan Y. L., Song H., Boling T. C., et al. . (2008). MicroRNA Mirn140 modulates Pdgf signaling during palatogenesis. Nat. Genet.\n40, 290–298. 10.1038/ng.82 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 36883,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "17β-Estradiol inhibits chondrogenesis in the skull development of zebrafish embryos",
+            "journal": "Aquat. Toxicol.",
+            "volume": "95",
+            "section_title_1": "References"
+          },
+          "text": "Fushimi S., Wada N., Nohno T., Tomita M., Saijoh K., Sunami S., et al. . (2009). 17β-Estradiol inhibits chondrogenesis in the skull development of zebrafish embryos. Aquat. Toxicol.\n95, 292–298. 10.1016/j.aquatox.2009.03.004 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37144,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Bioconductor: open software development for computational biology and bioinformatics",
+            "journal": "Genome Biol.",
+            "volume": "5",
+            "section_title_1": "References"
+          },
+          "text": "Gentleman R. C., Carey V. J., Bates D. M., Bolstad B., Dettling M., Dudoit S., et al. . (2004). Bioconductor: open software development for computational biology and bioinformatics. Genome Biol.\n5:R80. 10.1186/gb-2004-5-10-r80 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37426,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Parent-of-origin-environment interactions in case-parent triads with or without independent controls",
+            "journal": "Ann. Hum. Genet.",
+            "volume": "82",
+            "section_title_1": "References"
+          },
+          "text": "Gjerdevik M., Haaland O. A., Romanowska J., Lie R. T., Jugessur A., Gjessing H. K. (2017). Parent-of-origin-environment interactions in case-parent triads with or without independent controls. Ann. Hum. Genet.\n82, 60–73. 10.1111/ahg.12224 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37720,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Case-parent triads: estimating single- and double-dose effects of fetal and maternal disease gene haplotypes",
+            "journal": "Ann. Hum. Genet.",
+            "volume": "70",
+            "section_title_1": "References"
+          },
+          "text": "Gjessing H. K., Lie R. T. (2006). Case-parent triads: estimating single- and double-dose effects of fetal and maternal disease gene haplotypes. Ann. Hum. Genet.\n70(Pt 3), 382–396. 10.1111/j.1529-8817.2005.00218.x [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37969,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Understanding multicellular function and disease with human tissue-specific networks",
+            "journal": "Nat. Genet.",
+            "volume": "47",
+            "section_title_1": "References"
+          },
+          "text": "Greene C. S., Krishnan A., Wong A. K., Ricciotti E., Zelaya R. A., Himmelstein D. S., et al. . (2015). Understanding multicellular function and disease with human tissue-specific networks. Nat. Genet.\n47, 569–576. 10.1038/ng.3259 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38254,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Risk of oral clefts in twins",
+            "journal": "Epidemiology",
+            "volume": "22",
+            "section_title_1": "References"
+          },
+          "text": "Grosen D., Bille C., Petersen I., Skytthe A., Hjelmborg J. B., Pedersen J. K., et al. . (2011). Risk of oral clefts in twins. Epidemiology\n22, 313–319. 10.1097/EDE.0b013e3182125f9c [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38490,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide analysis of parent-of-origin interaction effects with environmental exposure (PoOxE): an application to European and Asian cleft palate trios",
+            "journal": "PLoS ONE",
+            "volume": "12",
+            "section_title_1": "References"
+          },
+          "text": "Haaland Ø. A., Jugessur A., Gjerdevik M., Romanowska J., Shi M., Beaty T. H., et al. . (2017). Genome-wide analysis of parent-of-origin interaction effects with environmental exposure (PoOxE): an application to European and Asian cleft palate trios. PLoS ONE\n12:e0184358. 10.1371/journal.pone.0184358 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38846,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "PDGF-C controls proliferation and is down-regulated by retinoic acid in mouse embryonic palatal mesenchymal cells",
+            "journal": "Birth Defects Res. B Dev. Reprod. Toxicol.",
+            "volume": "77",
+            "section_title_1": "References"
+          },
+          "text": "Han J., Xiao Y., Lin J., Li Y. (2006). PDGF-C controls proliferation and is down-regulated by retinoic acid in mouse embryonic palatal mesenchymal cells. Birth Defects Res. B Dev. Reprod. Toxicol.\n77, 438–444. 10.1002/bdrb.20094 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39111,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Environmental risk factors and oral clefts",
+            "journal": "Cleft Lip and Palate: From Origin to Treatment",
+            "section_title_1": "References"
+          },
+          "text": "Hayes C. (2002). Environmental risk factors and oral clefts, in Cleft Lip and Palate: From Origin to Treatment, ed Wyszynski D. F. (New York, NY: Oxford University Press; ), 159–169. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39310,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Folic acid antagonists during pregnancy and the risk of birth defects",
+            "journal": "N. Engl. J. Med.",
+            "volume": "343",
+            "section_title_1": "References"
+          },
+          "text": "Hernández-Díaz S., Werler M. M., Walker A. M., Mitchell A. A. (2000). Folic acid antagonists during pregnancy and the risk of birth defects. N. Engl. J. Med.\n343, 1608–1614. 10.1056/NEJM200011303432204 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39548,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Systematic integration of biomedical knowledge prioritizes drugs for repurposing",
+            "journal": "Elife",
+            "volume": "6",
+            "section_title_1": "References"
+          },
+          "text": "Himmelstein D. S., Lizee A., Hessler C., Brueggeman L., Chen S. L., Hadley D., et al. . (2017). Systematic integration of biomedical knowledge prioritizes drugs for repurposing. Elife\n6:e26726. 10.7554/eLife.26726 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39817,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The teratogenicity of anticonvulsant drugs",
+            "journal": "N. Engl. J. Med.",
+            "volume": "344",
+            "section_title_1": "References"
+          },
+          "text": "Holmes L. B., Harvey E. A., Coull B. A., Huntington K. B., Khoshbin S., Hayes A. M., et al. . (2001). The teratogenicity of anticonvulsant drugs. N. Engl. J. Med.\n344, 1132–1138. 10.1056/NEJM200104123441504 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40060,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Maternal dietary intake of vitamin A and risk of orofacial clefts: a population-based case-control study in Norway",
+            "journal": "Am. J. Epidemiol.",
+            "volume": "167",
+            "section_title_1": "References"
+          },
+          "text": "Johansen A. M., Lie R. T., Wilcox A. J., Andersen L. F., Drevon C. A. (2008). Maternal dietary intake of vitamin A and risk of orofacial clefts: a population-based case-control study in Norway. Am. J. Epidemiol.\n167, 1164–1170. 10.1093/aje/kwn035 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40343,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The genetics of isolated orofacial clefts: from genotypes to subphenotypes",
+            "journal": "Oral Dis.",
+            "volume": "15",
+            "section_title_1": "References"
+          },
+          "text": "Jugessur A., Farlie P. G., Kilpatrick N. (2009a). The genetics of isolated orofacial clefts: from genotypes to subphenotypes. Oral Dis.\n15, 437–453. 10.1111/j.1601-0825.2009.01577.x [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40561,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Variants of developmental genes (TGFA, TGFB3, and MSX1) and their associations with orofacial clefts: a case-parent triad analysis",
+            "journal": "Genet. Epidemiol.",
+            "volume": "24",
+            "section_title_1": "References"
+          },
+          "text": "Jugessur A., Lie R. T., Wilcox A. J., Murray J. C., Taylor J. A., Saugstad O. D., et al. . (2003). Variants of developmental genes (TGFA, TGFB3, and MSX1) and their associations with orofacial clefts: a case-parent triad analysis. Genet. Epidemiol.\n24, 230–239. 10.1002/gepi.10223 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40878,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetic variants in IRF6 and the risk of facial clefts: single-marker and haplotype-based analyses in a population-based case-control study of facial clefts in Norway",
+            "journal": "Genet. Epidemiol.",
+            "volume": "32",
+            "section_title_1": "References"
+          },
+          "text": "Jugessur A., Rahimov F., Lie R. T., Wilcox A. J., Gjessing H. K., Nilsen R. M., et al. . (2008). Genetic variants in IRF6 and the risk of facial clefts: single-marker and haplotype-based analyses in a population-based case-control study of facial clefts in Norway. Genet. Epidemiol.\n32, 413–424. 10.1002/gepi.20314 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41248,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetic determinants of facial clefting: analysis of 357 candidate genes using two national cleft studies from Scandinavia",
+            "journal": "PLoS ONE",
+            "volume": "4",
+            "section_title_1": "References"
+          },
+          "text": "Jugessur A., Shi M., Gjessing H. K., Lie R. T., Wilcox A. J., Weinberg C. R., et al. . (2009b). Genetic determinants of facial clefting: analysis of 357 candidate genes using two national cleft studies from Scandinavia. PLoS ONE\n4:e5385. 10.1371/journal.pone.0005385 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41570,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Using offspring-parent triads to study complex traits: a tutorial based on orofacial clefts",
+            "journal": "Norweg. J. Epidemiol.",
+            "volume": "21",
+            "section_title_1": "References"
+          },
+          "text": "Jugessur A., Skare Ø., Harris J. R., Lie R. T., Gjessing H. K. (2012a). Using offspring-parent triads to study complex traits: a tutorial based on orofacial clefts. Norweg. J. Epidemiol.\n21, 251–267. 10.5324/nje.v21i2.1503 [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41820,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "X-linked genes and risk of orofacial clefts: evidence from two population-based studies in Scandinavia",
+            "journal": "PLoS ONE",
+            "volume": "7",
+            "section_title_1": "References"
+          },
+          "text": "Jugessur A., Skare Ø., Lie R. T., Wilcox A. J., Christensen K., Christiansen L., et al. . (2012b). X-linked genes and risk of orofacial clefts: evidence from two population-based studies in Scandinavia. PLoS ONE\n7:e39240. 10.1371/journal.pone.0039240 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42126,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Mapping studies in animal models",
+            "journal": "Cleft Lip and Palate: From Origin to Treatment",
+            "section_title_1": "References"
+          },
+          "text": "Juriloff D. M. (2002). Mapping studies in animal models, in Cleft Lip and Palate: From Origin to Treatment, ed Wyszynski D. F. (New York, NY: Oxford University Press; ), 265–282. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42321,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Disease ontology 2015 update: an expanded and updated database of human diseases for linking biomedical knowledge through disease data",
+            "journal": "Nucleic Acids Res.",
+            "volume": "43",
+            "section_title_1": "References"
+          },
+          "text": "Kibbe W. A., Arze C., Felix V., Mitraka E., Bolton E., Fu G., et al. . (2015). Disease ontology 2015 update: an expanded and updated database of human diseases for linking biomedical knowledge through disease data. Nucleic Acids Res.\n43, D1071–D1078. 10.1093/nar/gku1011 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42647,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Dystonia gene in Ashkenazi Jewish population is located on chromosome 9q32-34",
+            "journal": "Ann. Neurol.",
+            "volume": "27",
+            "section_title_1": "References"
+          },
+          "text": "Kramer P. L., de Leon D., Ozelius L., Risch N., Bressman S. B., Brin M. F., et al. . (1990). Dystonia gene in Ashkenazi Jewish population is located on chromosome 9q32-34. Ann. Neurol.\n27, 114–120. 10.1002/ana.410270203 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42903,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "DrugBank 4.0: shedding new light on drug metabolism",
+            "journal": "Nucleic Acids Res.",
+            "volume": "42",
+            "section_title_1": "References"
+          },
+          "text": "Law V., Knox C., Djoumbou Y., Jewison T., Guo A. C., Liu Y., et al. . (2014). DrugBank 4.0: shedding new light on drug metabolism. Nucleic Acids Res.\n42, D1091–D1097. 10.1093/nar/gkt1068 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43145,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetics of cleft lip and cleft palate",
+            "journal": "Am. J. Med. Genet. C Semin. Med. Genet.",
+            "volume": "163C",
+            "section_title_1": "References"
+          },
+          "text": "Leslie E. J., Marazita M. L. (2013). Genetics of cleft lip and cleft palate. Am. J. Med. Genet. C Semin. Med. Genet.\n163C, 246–258. 10.1002/ajmg.c.31381 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43353,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Maternal smoking and oral clefts: the role of detoxification pathway genes",
+            "journal": "Epidemiology",
+            "volume": "19",
+            "section_title_1": "References"
+          },
+          "text": "Lie R. T., Wilcox A. J., Taylor J., Gjessing H. K., Saugstad O. D., Aabyholm F., et al. . (2008). Maternal smoking and oral clefts: the role of detoxification pathway genes. Epidemiology\n19, 606–615. 10.1097/EDE.0b013e3181690731 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43637,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Tobacco smoking and oral clefts: a meta-analysis",
+            "journal": "Bull. World Health Organ.",
+            "volume": "82",
+            "section_title_1": "References"
+          },
+          "text": "Little J., Cardy A., Munger R. G. (2004). Tobacco smoking and oral clefts: a meta-analysis. Bull. World Health Organ.\n82, 213–218.  [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43813,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Entrez gene: gene-centered information at NCBI",
+            "journal": "Nucleic Acids Res.",
+            "volume": "33",
+            "section_title_1": "References"
+          },
+          "text": "Maglott D., Ostell J., Pruitt K. D., Tatusova T. (2005). Entrez gene: gene-centered information at NCBI. Nucleic Acids Res.\n33, D54–D58. 10.1093/nar/gki031 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44024,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Breakthroughs in the genetics of orofacial clefting",
+            "journal": "Trends Mol. Med.",
+            "volume": "17",
+            "section_title_1": "References"
+          },
+          "text": "Mangold E., Ludwig K. U., Nöthen M. M. (2011). Breakthroughs in the genetics of orofacial clefting. Trends Mol. Med.\n17, 725–733. 10.1016/j.molmed.2011.07.007 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44219,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The evolution of human genetic studies of cleft lip and cleft palate",
+            "journal": "Annu. Rev. Genomics Hum. Genet.",
+            "volume": "13",
+            "section_title_1": "References"
+          },
+          "text": "Marazita M. L. (2012). The evolution of human genetic studies of cleft lip and cleft palate. Annu. Rev. Genomics Hum. Genet.\n13, 263–283. 10.1146/annurev-genom-090711-163729 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44448,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Hyperoxia and hypoxia in pregnancy: simple experimental manipulation alters the incidence of cleft lip and palate in CL/Fr mice",
+            "journal": "Proc. Natl. Acad. Sci. U.S.A.",
+            "volume": "78",
+            "section_title_1": "References"
+          },
+          "text": "Millicovsky G., Johnston M. C. (1981a). Hyperoxia and hypoxia in pregnancy: simple experimental manipulation alters the incidence of cleft lip and palate in CL/Fr mice. Proc. Natl. Acad. Sci. U.S.A.\n78, 5722–5723. 10.1073/pnas.78.9.5722 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44740,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Maternal hyperoxia greatly reduces the incidence of phenytoin-induced cleft lip and palate in A/J mice",
+            "journal": "Science",
+            "volume": "212",
+            "section_title_1": "References"
+          },
+          "text": "Millicovsky G., Johnston M. C. (1981b). Maternal hyperoxia greatly reduces the incidence of phenytoin-induced cleft lip and palate in A/J mice. Science\n212, 671–672. 10.1126/science.7221553 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44966,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Retinoic acid receptor alpha gene variants, multivitamin use, and liver intake as risk factors for oral clefts: a population-based case-control study in Denmark, 1991-1994",
+            "journal": "Am. J. Epidemiol.",
+            "volume": "158",
+            "section_title_1": "References"
+          },
+          "text": "Mitchell L. E., Murray J. C., O'Brien S., Christensen K. (2003). Retinoic acid receptor alpha gene variants, multivitamin use, and liver intake as risk factors for oral clefts: a population-based case-control study in Denmark, 1991-1994. Am. J. Epidemiol.\n158, 69–76. 10.1093/aje/kwg102 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45289,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Severe malformations of eelpout (Zoarces viviparus) fry are induced by maternal estrogenic exposure during early embryogenesis",
+            "journal": "Mar. Environ. Res.",
+            "volume": "113",
+            "section_title_1": "References"
+          },
+          "text": "Morthorst J. E., Korsgaard B., Bjerregaard P. (2016). Severe malformations of eelpout (Zoarces viviparus) fry are induced by maternal estrogenic exposure during early embryogenesis. Mar. Environ. Res.\n113, 80–87. 10.1016/j.marenvres.2015.11.007 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45570,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "journal": "Global Registry and Database on Craniofacial Anomalies",
+            "section_title_1": "References"
+          },
+          "text": "Mossey P., Castilla E. E. (2003). Global Registry and Database on Craniofacial Anomalies. Geneva: World Health Organization. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45711,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Maternal nutrition and oral clefts",
+            "journal": "Cleft Lip and Palate: From Origin to Treatment",
+            "section_title_1": "References"
+          },
+          "text": "Munger R. G. (2002). Maternal nutrition and oral clefts, in Cleft Lip and Palate: From Origin to Treatment, ed Wyszynski D. F. (New York, NY: Oxford University Press; ), 170–192. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45906,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Maternal vitamin B-6 and folate status and risk of oral cleft birth defects in the Philippines",
+            "journal": "Birth Defects Res. Part A Clin. Mol. Teratol.",
+            "volume": "70",
+            "section_title_1": "References"
+          },
+          "text": "Munger R. G., Sauberlich H. E., Corcoran C., Nepomuceno B., Daack-Hirsch S., Solon F. S. (2004). Maternal vitamin B-6 and folate status and risk of oral cleft birth defects in the Philippines. Birth Defects Res. Part A Clin. Mol. Teratol.\n70, 464–471. 10.1002/bdra.20037 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46213,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Smoking prevalence and cigarette consumption in 187 countries, 1980-2012",
+            "journal": "JAMA",
+            "volume": "311",
+            "section_title_1": "References"
+          },
+          "text": "Ng M., Freeman M. K., Fleming T. D., Robinson M., Dwyer-Lindgren L., Thomson B., et al. . (2014). Smoking prevalence and cigarette consumption in 187 countries, 1980-2012. JAMA\n311, 183–192. 10.1001/jama.2013.284692 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46465,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Retinoic acid inducibility of the human PDGF-a gene is mediated by 5′-distal DNA motifs that overlap with basal enhancer and vitamin D response elements",
+            "journal": "Gene Expr.",
+            "volume": "14",
+            "section_title_1": "References"
+          },
+          "text": "Pedigo N. G., Zhang H., Mishra A., McCorkle J. R., Ormerod A. K., Kaetzel D. M. (2007). Retinoic acid inducibility of the human PDGF-a gene is mediated by 5′-distal DNA motifs that overlap with basal enhancer and vitamin D response elements. Gene Expr.\n14, 1–12. 10.3727/000000007783991763 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46810,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "LocusZoom: regional visualization of genome-wide association scan results",
+            "journal": "Bioinformatics",
+            "volume": "26",
+            "section_title_1": "References"
+          },
+          "text": "Pruim R. J., Welch R. P., Sanna S., Teslovich T. M., Chines P. S., Gliedt T. P., et al. . (2010). LocusZoom: regional visualization of genome-wide association scan results. Bioinformatics\n26, 2336–2337. 10.1093/bioinformatics/btq419 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47098,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetics of nonsyndromic orofacial clefts",
+            "journal": "Cleft Palate Craniofac. J.",
+            "volume": "49",
+            "section_title_1": "References"
+          },
+          "text": "Rahimov F., Jugessur A., Murray J. C. (2012). Genetics of nonsyndromic orofacial clefts. Cleft Palate Craniofac. J.\n49, 73–91. 10.1597/10-178 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47295,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Sex-stratified genome-wide association studies including 270,000 individuals show sexual dimorphism in genetic loci for anthropometric traits",
+            "journal": "PLoS Genet.",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "Randall J. C., Winkler T. W., Kutalik Z., Berndt S. I., Jackson A. U., Monda K. L., et al. . (2013). Sex-stratified genome-wide association studies including 270,000 individuals show sexual dimorphism in genetic loci for anthropometric traits. PLoS Genet.\n9:e1003500. 10.1371/journal.pgen.1003500 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47647,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A proteome-scale map of the human interactome network",
+            "journal": "Cell",
+            "volume": "159",
+            "section_title_1": "References"
+          },
+          "text": "Rolland T., Taşan M., Charloteaux B., Pevzner S. J., Zhong Q., Sahni N., et al. . (2014). A proteome-scale map of the human interactome network. Cell\n159, 1212–1226. 10.1016/j.cell.2014.10.050 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47895,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Teratogenicity of high vitamin A intake",
+            "journal": "N. Engl. J. Med.",
+            "volume": "333",
+            "section_title_1": "References"
+          },
+          "text": "Rothman K. J., Moore L. L., Singer M. R., Nguyen U. S., Mannino S., Milunsky A. (1995). Teratogenicity of high vitamin A intake. N. Engl. J. Med.\n333, 1369–1373. 10.1056/NEJM199511233332101 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48121,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The oestrogen pathway underlies the evolution of exaggerated male cranial shapes in Anolis lizards",
+            "journal": "Proc. Biol. Sci.",
+            "volume": "281",
+            "section_title_1": "References"
+          },
+          "text": "Sanger T. J., Seav S. M., Tokita M., Langerhans R. B., Ross L. M., Losos J. B., et al. . (2014). The oestrogen pathway underlies the evolution of exaggerated male cranial shapes in Anolis lizards. Proc. Biol. Sci.\n281:20140329. 10.1098/rspb.2014.0329 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48427,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Disease-marker association",
+            "journal": "Biostatistical Genetics and Genetic Epidemiology",
+            "section_title_1": "References"
+          },
+          "text": "Schaid D. J. (2002). Disease-marker association, in Biostatistical Genetics and Genetic Epidemiology, eds Elston R. C., Olson J. M., Palmer L. (Chichester: John Wiley & Sons Ltd; ), 206–217. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48634,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Orofacial cleft risk is increased with maternal smoking and specific detoxification-gene variants",
+            "journal": "Am. J. Hum. Genet.",
+            "volume": "80",
+            "section_title_1": "References"
+          },
+          "text": "Shi M., Christensen K., Weinberg C. R., Romitti P., Bathum L., Lozada A., et al. . (2007). Orofacial cleft risk is increased with maternal smoking and specific detoxification-gene variants. Am. J. Hum. Genet.\n80, 76–90. 10.1086/510518 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48924,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Application of a novel hybrid study design to explore gene-environment interactions in orofacial clefts",
+            "journal": "Ann. Hum. Genet.",
+            "volume": "76",
+            "section_title_1": "References"
+          },
+          "text": "Skare O., Jugessur A., Lie R. T., Wilcox A. J., Murray J. C., Lunde A., et al. . (2012). Application of a novel hybrid study design to explore gene-environment interactions in orofacial clefts. Ann. Hum. Genet.\n76, 221–236. 10.1111/j.1469-1809.2012.00707.x [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49236,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The PDGF alpha receptor is required for neural crest cell development and for normal patterning of the somites",
+            "journal": "Development",
+            "volume": "124",
+            "section_title_1": "References"
+          },
+          "text": "Soriano P. (1997). The PDGF alpha receptor is required for neural crest cell development and for normal patterning of the somites. Development\n124, 2691–2700.  [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49421,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Statistical significance for genomewide studies",
+            "journal": "Proc. Natl. Acad. Sci. U.S.A.",
+            "volume": "100",
+            "section_title_1": "References"
+          },
+          "text": "Storey J. D., Tibshirani R. (2003). Statistical significance for genomewide studies. Proc. Natl. Acad. Sci. U.S.A.\n100, 9440–9445. 10.1073/pnas.1530509100 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49631,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Folic acid supplements and risk of facial clefts: national population based case-control study",
+            "journal": "BMJ",
+            "volume": "334",
+            "section_title_1": "References"
+          },
+          "text": "Wilcox A. J., Lie R. T., Solvoll K., Taylor J., McConnaughey D. R., Abyholm F., et al. . (2007). Folic acid supplements and risk of facial clefts: national population based case-control study. BMJ\n334:464. 10.1136/bmj.39079.618287.0B [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49920,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Probability plotting methods for the analysis of data",
+            "journal": "Biometrika",
+            "volume": "55",
+            "section_title_1": "References"
+          },
+          "text": "Wilk M. B., Gnanadesikan R. (1968). Probability plotting methods for the analysis of data. Biometrika\n55, 1–17. 10.2307/2334448 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50084,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Evidence of gene-environment interaction for the IRF6 gene and maternal multivitamin supplementation in controlling the risk of cleft lip with/without cleft palate",
+            "journal": "Hum. Genet.",
+            "volume": "128",
+            "section_title_1": "References"
+          },
+          "text": "Wu T., Liang K. Y., Hetmanski J. B., Ruczinski I., Fallin M. D., Ingersoll R. G., et al. . (2010). Evidence of gene-environment interaction for the IRF6 gene and maternal multivitamin supplementation in controlling the risk of cleft lip with/without cleft palate. Hum. Genet.\n128, 401–410. 10.1007/s00439-010-0863-y [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50455,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Evidence of gene-environment interaction for two genes on chromosome 4 and environmental tobacco smoke in controlling the risk of nonsyndromic cleft palate",
+            "journal": "PLoS ONE",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "Wu T., Schwender H., Ruczinski I., Murray J. C., Marazita M. L., Munger R. G., et al. . (2014). Evidence of gene-environment interaction for two genes on chromosome 4 and environmental tobacco smoke in controlling the risk of nonsyndromic cleft palate. PLoS ONE\n9:e88088. 10.1371/journal.pone.0088088 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50811,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Prevalence of diabetes among men and women in China",
+            "journal": "N. Engl. J. Med.",
+            "volume": "362",
+            "section_title_1": "References"
+          },
+          "text": "Yang W., Lu J., Weng J., Jia W., Ji L., Xiao J., et al.  (2010). Prevalence of diabetes among men and women in China. N. Engl. J. Med.\n362, 1090–1101. 10.1056/NEJMoa0908292 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 51020,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Gene-environment interaction and risk to oral clefts",
+            "journal": "Cleft Lip and Palate: From Origin to Treatment",
+            "section_title_1": "References"
+          },
+          "text": "Zeiger J. S., Beaty T. H. (2002). Gene-environment interaction and risk to oral clefts, in Cleft Lip and Palate: From Origin to Treatment, ed Wyszynski D. F. E. (New York, NY: Oxford University Press; ), 283–289. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

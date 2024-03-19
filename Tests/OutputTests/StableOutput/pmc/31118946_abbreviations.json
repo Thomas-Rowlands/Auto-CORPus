@@ -1,0 +1,106 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "31118946.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "BMI",
+          "text_long": "body mass index"
+        },
+        {
+          "text_short": "GWIA",
+          "text_long": "genome-wide interaction analyses"
+        },
+        {
+          "text_short": "GSEA",
+          "text_long": "Gene Set Enrichment Algorithm"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "genome wide association study"
+        },
+        {
+          "text_short": "GWASs",
+          "text_long": "genome-wide association studies"
+        },
+        {
+          "text_short": "FTO",
+          "text_long": "found the interaction rs11847697(PRKD1)-rs9939609"
+        },
+        {
+          "text_short": "GWIAs",
+          "text_long": "genome-wide interaction analyses"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequencies"
+        },
+        {
+          "text_short": "KEGG",
+          "text_long": "Kyoto Encyclopedia of Genes and Genomes"
+        },
+        {
+          "text_short": "GO",
+          "text_long": "Gene Ontology"
+        },
+        {
+          "text_short": "VIP",
+          "text_long": "vasoactive intestinal peptide"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "BMI",
+          "text_long": "body mass index"
+        },
+        {
+          "text_short": "GWIA",
+          "text_long": "genome-wide interaction analyses"
+        },
+        {
+          "text_short": "GSEA",
+          "text_long": "Gene Set Enrichment Algorithm"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "genome wide association study"
+        },
+        {
+          "text_short": "GWASs",
+          "text_long": "genome-wide association studies"
+        },
+        {
+          "text_short": "FTO",
+          "text_long": "found the interaction rs11847697(PRKD1)-rs9939609"
+        },
+        {
+          "text_short": "GWIAs",
+          "text_long": "genome-wide interaction analyses"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequencies"
+        },
+        {
+          "text_short": "KEGG",
+          "text_long": "Kyoto Encyclopedia of Genes and Genomes"
+        },
+        {
+          "text_short": "GO",
+          "text_long": "Gene Ontology"
+        },
+        {
+          "text_short": "VIP",
+          "text_long": "vasoactive intestinal peptide"
+        }
+      ]
+    }
+  ]
+}

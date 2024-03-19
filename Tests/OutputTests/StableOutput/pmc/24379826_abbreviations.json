@@ -1,0 +1,122 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "24379826.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "SUA",
+          "text_long": "serum uric acid"
+        },
+        {
+          "text_short": "CVD",
+          "text_long": "cardiovascular disease"
+        },
+        {
+          "text_short": "SAFHS",
+          "text_long": "San Antonio Family Heart Study"
+        },
+        {
+          "text_short": "GWA",
+          "text_long": "genome-wide association"
+        },
+        {
+          "text_short": "SNP",
+          "text_long": "single nucleotide polymorphism"
+        },
+        {
+          "text_short": "ESRD",
+          "text_long": "end-stage renal disease"
+        },
+        {
+          "text_short": "UTHSCSA",
+          "text_long": "University of Texas Health Science Center—San Antonio"
+        },
+        {
+          "text_short": "FDR",
+          "text_long": "false discovery rate"
+        },
+        {
+          "text_short": "JLA",
+          "text_long": "joint linkage/association"
+        },
+        {
+          "text_short": "CNTN4",
+          "text_long": "contactin 4"
+        },
+        {
+          "text_short": "Ig",
+          "text_long": "immunoglobulin"
+        },
+        {
+          "text_short": "NHLBI",
+          "text_long": "National Heart, Lung and Blood Institute"
+        },
+        {
+          "text_short": "NIMH",
+          "text_long": "National Institute of Mental Health"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "SUA",
+          "text_long": "serum uric acid"
+        },
+        {
+          "text_short": "CVD",
+          "text_long": "cardiovascular disease"
+        },
+        {
+          "text_short": "SAFHS",
+          "text_long": "San Antonio Family Heart Study"
+        },
+        {
+          "text_short": "GWA",
+          "text_long": "genome-wide association"
+        },
+        {
+          "text_short": "SNP",
+          "text_long": "single nucleotide polymorphism"
+        },
+        {
+          "text_short": "ESRD",
+          "text_long": "end-stage renal disease"
+        },
+        {
+          "text_short": "UTHSCSA",
+          "text_long": "University of Texas Health Science Center—San Antonio"
+        },
+        {
+          "text_short": "FDR",
+          "text_long": "false discovery rate"
+        },
+        {
+          "text_short": "JLA",
+          "text_long": "joint linkage/association"
+        },
+        {
+          "text_short": "CNTN4",
+          "text_long": "contactin 4"
+        },
+        {
+          "text_short": "Ig",
+          "text_long": "immunoglobulin"
+        },
+        {
+          "text_short": "NHLBI",
+          "text_long": "National Heart, Lung and Blood Institute"
+        },
+        {
+          "text_short": "NIMH",
+          "text_long": "National Institute of Mental Health"
+        }
+      ]
+    }
+  ]
+}

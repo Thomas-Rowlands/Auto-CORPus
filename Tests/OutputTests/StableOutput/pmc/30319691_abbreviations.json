@@ -1,0 +1,26 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "30319691.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "ADAS-Cog",
+          "text_long": "Alzheimer’s Disease Assessment Scale-Cognitive subscale"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "ADAS-Cog",
+          "text_long": "Alzheimer’s Disease Assessment Scale-Cognitive subscale"
+        }
+      ]
+    }
+  ]
+}

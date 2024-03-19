@@ -1,0 +1,50 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "30631343.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "FDR",
+          "text_long": "false discovery rate"
+        },
+        {
+          "text_short": "GCTA",
+          "text_long": "Genome-wide Complex Trait Analysis"
+        },
+        {
+          "text_short": "NIDCR",
+          "text_long": "National Institute of Dental and Craniofacial Research"
+        },
+        {
+          "text_short": "EMBC",
+          "text_long": "Engineering in Medicine and Biology Society"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "FDR",
+          "text_long": "false discovery rate"
+        },
+        {
+          "text_short": "GCTA",
+          "text_long": "Genome-wide Complex Trait Analysis"
+        },
+        {
+          "text_short": "NIDCR",
+          "text_long": "National Institute of Dental and Craniofacial Research"
+        },
+        {
+          "text_short": "EMBC",
+          "text_long": "Engineering in Medicine and Biology Society"
+        }
+      ]
+    }
+  ]
+}

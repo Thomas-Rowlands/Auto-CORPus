@@ -1,0 +1,1478 @@
+{
+  "source": "Auto-CORPus (full-text)",
+  "date": "20210927",
+  "key": "autocorpus_fulltext.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "24847357.html",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Genome wide association study of SNP-, gene-, and pathway-based approaches to identify genes influencing susceptibility to Staphylococcus aureus infections",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 155,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "keywords section",
+                "iao_id": "IAO:0000630"
+              }
+            ],
+            "section_title_1": "keywords"
+          },
+          "text": "Staphylococcus aureus, skin and soft tissue infection, GWAS, disease susceptibility, integrin and keratin disease pathway",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 284,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Background: We conducted a genome-wide association study (GWAS) to identify specific genetic variants that underlie susceptibility to diseases caused by Staphylococcus aureus in humans.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 477,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Methods: Cases (n = 309) and controls (n = 2925) were genotyped at 508,921 single nucleotide polymorphisms (SNPs). Cases had at least one laboratory and clinician confirmed disease caused by S. aureus whereas controls did not. R-package (for SNP association), EIGENSOFT (to estimate and adjust for population stratification) and gene- (VEGAS) and pathway-based (DAVID, PANTHER, and Ingenuity Pathway Analysis) analyses were performed.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 911,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Results: No SNP reached genome-wide significance. Four SNPs exceeded the p < 10−5 threshold including two (rs2455012 and rs7152530) reaching a p-value < 10−7. The nearby genes were PDE4B (rs2455012), TXNRD2 (rs3804047), VRK1 and BCL11B (rs7152530), and PNPLA5 (rs470093). The top two findings from the gene-based analysis were NMRK2 (pgene = 1.20E-05), which codes an integrin binding molecule (focal adhesion), and DAPK3 (pgene = 5.10E-05), a serine/threonine kinase (apoptosis and cytokinesis). The pathway analyses identified epithelial cell responses to mechanical and non-mechanical stress.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1506,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Conclusion: We identified potential susceptibility genes for S. aureus diseases in this preliminary study but confirmation by other studies is needed. The observed associations could be relevant given the complexity of S. aureus as a pathogen and its ability to exploit multiple biological pathways to cause infections in humans.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1835,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "Staphylococcus aureus is a complex human pathogen due to its ability to survive both as a carriage organism, and behave as an opportunistic pathogen in a susceptible host. It is a leading cause of invasive bacterial infection that contributes to substantial morbidity and mortality worldwide. This bacterium can cause a variety of diseases ranging from mild to severe skin and soft tissue infections, keratitis, and osteomyelitis to life-threatening bacteremia, pneumonia, endocarditis, and sepsis (Lowy, 1998; Rehm, 2008). Even though S. aureus colonizes human anterior nares and other sites on skin in 30–50% of the general population (Graham et al., 2006; Kuehnert et al., 2006; Gordon and Lowy, 2008), not everyone who is colonized gets infected. One reason could be differences in genetic susceptibility to colonization and infections. The established role of host susceptibility in other infectious diseases lends support for a role of host genetics in S. aureus infection (de Bakker and Telenti, 2010). Genetic susceptibility to S. aureus infections is expected to be complex because this pathogen uses a wide variety of virulence factors that interact with several host pathways to cause disease in humans.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 3061,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "Numerous alleles segregating at a large number of loci contribute to complex disease susceptibility (Yang et al., 2011) with contributions from both common and rare alleles. Because genetic risk factors for S. aureus infections have not been previously studied on a genome-wide scale, we utilized the Personalized Medicine Research Project (PMRP) of Marshfield Clinic—a large, population-based biobank of DNA samples—to perform a preliminary genome-wide association study (GWAS) of laboratory-confirmed S. aureus infections to discover the underlying host-pathogen interactions.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 3639,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Subjects"
+          },
+          "text": "This study utilized Marshfield Clinic's PMRP biobank, a cohort of ~20,000 individuals from 14 Zip Codes surrounding Marshfield, Wisconsin, USA. DNA samples from 3234 PMRP participants were genotyped at >500,000 SNPs as part of the NHGRI/NIGMS-funded eMERGE network (McCarty et al., 2011). These genotypic data are linked to longitudinal electronic medical records (EMR) at the Marshfield Clinic and have served as a powerful resource in previous studies (McCarty et al., 2011; Cross et al., 2012; Hebbring et al., 2013). The population of PMRP is stable and highly homogeneous with a predominant Northern European genetic background and so carries lower risk of confounding by population stratification. All individuals in the study provided informed consent and the study was approved by the Marshfield Clinic IRB.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4483,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Study design"
+          },
+          "text": "This study examined host susceptibility genes for S. aureus infection regardless of S. aureus colonization status. We performed a case/control GWAS on a subgroup of the PMRP population: 3234 subjects (309 cases/2925 controls). All study subjects were over 49 years of age. Cases were defined as individuals who had at least one laboratory confirmed test in their medical record of a disease caused by S. aureus. Controls were subjects who did not have any evidence of infection due to S. aureus in their EMR. We reasoned that because cases had to have evidence of laboratory confirmed S. aureus infection in the EMR, patients with no evidence of infection in the EMR would form an ideal control group. The results using our control group are likely very similar to those that would be obtained using population-based controls, as is often employed in GWAS studies (Burton et al., 2007). Only subjects with self-identified Northern European ancestry were included; therefore, both cases and controls had the same genetic ancestry. Additionally, a principal components analysis of their genome-wide genotypes in all study subjects (without knowledge of case/control status) was performed, revealing no evidence of population substructure (Supplemental Figure 1). With this filtered set of case/control subjects, we performed three levels of statistical analysis: SNP-based, Gene-based, and Pathway-based, to identify novel polymorphisms, genes, and pathways involved in susceptibility to S. aureus diseases. This hierarchical investigation of genetic effects allows for the incorporation of a gradation of biological information into the statistical tests—the SNP-based scan is the most comprehensive and agnostic to prior biological knowledge, the gene-based analysis uses positional information and collapses effects from the same protein-coding region, and the pathway-based analysis incorporates information obtained from various molecular biology studies.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 6453,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Phenotypes"
+          },
+          "text": "We extracted demographic and medical information on all case/control subjects from the Marshfield Clinic EMR. All cases had an active infection that had yielded S. aureus as the major or the only bacterium on a culture plate from a clinical sample such as blood, sputum, etc. Hospital surveillance subjects who were positive for S. aureus colonization by PCR were excluded from the study. Age, sex, body mass index (BMI), and Type 2 Diabetes (T2D) status as determined from the EMR were tested for association with case/control status. The binary variables were analyzed using a Fisher's exact test, and the continuous variables were analyzed through a two-tailed T-test to test mean differences between cases and controls.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7186,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Genotypic data"
+          },
+          "text": "The Illumina 660W-QUAD Beadchip array (Illumina, San Diego, California, USA) was used to generate genotype data on over 500 K SNPs from cases and controls. To ease automation of analysis, only data obtained from autosomes were analyzed. After filtering out SNPs with low minor allele frequency (<0.01), missing genotype data (≥0.05 of the study population with missing genotypes) or a significant departure from Hardy-Weinberg equilibrium (HWE) (p < 1E-5), there were 508,921 SNPs that passed the quality control screening and were used in subsequent analysis. For a sample to be included in the analysis, we ensured that it had at least 99% of the non-missing SNPs and for each SNP to be included in the analysis, we required that the SNP should have at least 95% of the non-missing subjects.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7993,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Population stratification estimation using EIGENSOFT"
+          },
+          "text": "We used the EIGENSOFT program (Price et al., 2006) to examine population stratification in our dataset. The program combines population genetics methods and the use of PCA to explicitly capture ancestry differences between cases and controls along continuous axes of variation.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 8322,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "SNP-based analysis using PLINK and R–Package"
+          },
+          "text": "PLINK (Purcell et al., 2007), a whole genome association analysis tool set, was used to perform the filtering and QC procedures (as described under “Genotypic data” above) on the raw dataset to generate the data set employed in this study. R is a free software programming language and software environment for statistical computing and graphics (R. Core Team, 2013). The glm() function within R was used to establish the logistic model assuming an additive mode of inheritance with adjustment for the following risk factors: age, gender, BMI, diabetes and the top three principal components estimated from EIGENSOFT for population stratification. The p-values calculated from the logistic model were used to test the associations between SNPs and case/control phenotype.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9137,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Gene-based analysis using VEGAS"
+          },
+          "text": "VEGAS is a software program that tests association between a gene and phenotype trait. VEGAS uses SNP-level data to incorporate information from a full set of markers annotated to each gene and accounts for linkage disequilibrium (LD) between markers (Neale and Sham, 2004; Liu et al., 2010). All SNPs annotated to a gene were used in the calculation, and the method adjusted by the linkage disequilibrium structure by using HapMap data. Monte Carlo simulations from multivariate Gaussian random variables and Cholesky decomposition matrices were employed by VEGAS to produce disease association p-values per gene, correcting for the correlation structure between nearby SNPs. This type of analysis has several advantages including the collapsing of effects for all genotyped SNPs within each gene, and reducing the multiple testing burdens. The LD structure of each gene region is factored into the analysis through applying decomposition matrices in the analysis, effectively factoring-out the correlational structure between tightly linked SNPs. Additionally, gene-based results enable the subsequent use of many pathway analysis packages designed to use a single measurement from each gene.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10362,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Pathway-based analysis by DAVID, PANTHER, and ingenuity pathway analysis (IPA) programs"
+          },
+          "text": "All genes with a p-value = 0.01 from the VEGAS analysis were used as input to perform separate pathway analysis by DAVID, PANTHER, and IPA. The DAVID analyses consisted of three steps: measurement of the functional relationship of gene pairs, a DAVID agglomeration procedure to partition genes into functional gene groups, and visualization of the results (Huang et al., 2007, 2009a,b). PANTHER is a publically-available database having gene ontology, functional annotation, and evolutionary conservation information. PANTHER Pathways are available within the database and these pathways were used in our analysis. We calculated p-values for enrichment of S. aureus-associated genes within specific PANTHER pathways using a standard hypergeometric statistical approach. The statistical over-representation test was implemented in the PANTHER program. A binomial test was used to compare our gene list to a reference list (all human genes) to determine over- or under- representation of genes from our list in PANTHER gene function categories using an experiment-wise approach (experiment-wise α = 0.05) (Mi and Thomas, 2009). Gene-based analyses using IPA (Ingenuity® Systems, www.ingenuity.com, Redwood City, California, USA, www.ingenuity.com) were used to generate protein-protein interaction networks.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11754,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Population stratification"
+          },
+          "text": "Using EIGENSOFT to perform PCA of the 508,921 genotypes from all study subjects (without knowledge of case/control status), we found no evidence of strong population stratification (Supplemental Figure 1). Therefore none of the 3234 study subjects were excluded because of population stratification.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12085,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Study subject characteristics"
+          },
+          "text": "It has been previously noted that male sex, age, high BMI and T2D are risk factors for invasive S. aureus infection (Graffunder and Venezia, 2002). As expected, the percent of males was significantly greater in the cases than the control group (51 vs. 39%; p = 5.50E-05) (Table ​(Table1).1). There was no significant difference in mean age of case and controls. The prevalence of T2D was significantly higher among cases than controls (22.3 vs. 12.7%; p = 1.03E-05) and so was the mean BMI (cases: 32.1 vs. control: 29.5 kg/m2; p = 3.50E-8). Our findings are consistent with those of previous reports.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12715,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Q-Q plot"
+          },
+          "text": "We performed Q-Q analysis on the p-values obtained using logistic model assuming additive model of inheritance (Figure ​(Figure1).1). The plot showed no evidence of population stratification, confounding effects, or systematic bias in the results from the statistical routines employed.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 13009,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "HWE"
+          },
+          "text": "Eight hundred forty three SNPs were excluded from the analysis due to departure from HWE exceeding α = 1E-05.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 13121,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "SNP-based analyses"
+          },
+          "text": "SNP associations were tested using logistic regression analysis after adjusting for risk factors such as age, gender, BMI, diabetes and three principal components. No single SNP in the GWAS reached the level of genome-wide significance (p < 5 × 10−8) (Figure ​(Figure2).2). However, four SNPs exceeded the p < 10−5 threshold, including two SNPs (rs2455012 and rs7152530) with a p < 10−7 (Table ​(Table2).2). Out of these four SNPs, two were intronic (PDE4B and TXNRD2), one was intergenic with respect to VRK1 and BCL11B, and one was in the 3'UTR of PNPLA5. Of the four SNPs on chromosome 14 (Table ​(Table2),2), rs1892234 was in weak linkage disequilibrium (LD) with the other three SNPs (r2 < 0.42) which were in strong LD with each other (r2 = 0.80). The two SNPs in XRN1 were in strong LD (r2 = 0.92), two of the SNPs on chromosome 22 (rs470093 and rs9614174) were in moderate LD (r2 = 0.49), and the two SNPs on chromosome 19 exhibited low LD (r2 = 0.09).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 14099,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "VEGAS-based gene analyses"
+          },
+          "text": "Table ​Table33 shows the top 15 genes ranked by their p-values from the VEGAS analysis and four additional interesting genes that could potentially have a role in S. aureus-caused diseases based on their known involvement in immune and inflammatory processes. The topmost hit was NMRK2 (or ITGB1BP3; p = 1.20E-05) which encodes nicotinamide riboside kinase 2. Two of the 15 genes also featured in the list from the SNP-based analysis: DAPK3 (p = 5.10E-05) and XRN1 (p = 1.85E-04).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 14604,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Pathway analyses"
+          },
+          "text": "The top-ranked 196 genes (p-value = 0.01) resulting from the VEGAS analysis were selected for the DAVID analyses but none of the gene groups were statistically significant. One of the top gene groups (gene group 1; Supplemental Table 1) included CST8 (cystatin 8), SERPINA6 (serine peptidase inhibitor, clade A, member 6), SERPINA10 (serine peptidase inhibitor, clade A, member 10), and SPINK1 (serine peptidase inhibitor, Kazak type 1). The enriched genes in group 2 (Supplemental Table 1) included four keratin genes: KRT24 (form intermediate filament), KRT82 (type II hair keratin), KRT12 (type I intermediate filament keratin 12), and KRT75 (form intermediate filament in in the cytoplasm of epithelial cells). As expected, the PANTHER analysis also suggested enrichment for intermediate filament cytoskeleton pathway (Supplemental Table 2). Using the same gene set input as in DAVID and PANTHER, the IPA was also explored with the intent of hypothesis-generating protein-protein interaction networks associated our gene data set. The IPA yielded 12 protein networks (data not shown) of which network 7, involving cell death, and survival, appeared interesting (Supplemental Figure 2).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 15809,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Multiple diseases (endocarditis, skin infections, etc.) caused by S. aureus are mediated by two main classes of virulence factors, adhesion and secretory proteins, which interact with host receptors and inflammatory/anti-inflammatory molecules to produce the disease phenotype (Gordon and Lowy, 2008). Adhesion proteins help the pathogen to attach to the skin and survive on the epidermis and in the sub-epidermal layer through a repertoire of molecules collectively known as MSCRAMMS (microbial surface components recognizing adhesive matrix molecules). The MSCRAMMS can bind to fibronectin, fibrinogen, and platelets among others. Subsequent to attachment, S. aureus can secrete tissue and organ-specific virulence proteins (e.g., coagulase, proteases, toxins, superantigens) with a wide range of virulence functions that enable the pathogen to infect its host.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 16682,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "So far, most of the genetic susceptibility data related to S. aureus has been limited to S. aureus colonization. For example, the glucocorticoid receptor gene polymorphisms are associated with carriage risk (van den Akker et al., 2006), whereas DEFB1 has been shown to promote persistent colonization by modulating beta-defensin expression in keratinocytes (Nurjadi et al., 2013). In contrast, the Danish middle-aged/elderly twin study showed that host genetics had a modest influence only on S. aureus carrier state (Andersen et al., 2012). While our manuscript was under review, a study by Nelson et al did not find any SNP that has genome wide significance for association with S. aureus bacteremia (SAB) although an intronic SNP in CDON was speculated to be associated with complicated SAB (Nelson et al., 2014). In a report by Stappers et al., four SNPs from three toll-like receptor (TLR) genes, TLR1, TLR2, and TLR6, increase the susceptibility to complicated skin and soft tissue infections caused by staphylococci, streptococci, and enterococci (Stappers et al., 2014).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 17760,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "In our multi-tiered GWAS-based investigation, we have identified a number of potentially interesting genes that need further investigation. Although the individual SNP results did not pass genome-wide significance, the top-tier SNPs, Gene-based, and Pathway-based results were enriched for genes that have plausible functions in bacterial infections. This includes genes that have roles in intracellular signaling, inflammation, zinc transport, and integrin binding. Thus, these genes have relatively high prior probabilities for involvement in S. aureus infection susceptibility—an aspect of the results that we believe supports considerable interest in subsequent studies to follow-up on these findings.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 18465,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Notably, two genes (DAPK3 and XRN1) were identified in both the SNP-based and gene-based analyses. DAPK3 is a protein kinase that modulates apoptosis-related signaling pathways (Wu et al., 2010) and, in interaction with RhoD, modulates actin filament assembly and focal adhesion reorganization (Nehru et al., 2013). S. aureus is known to induce apoptosis of host cells during host invasion, leading to a compromised host immune response (Haslinger-Löffler et al., 2005). XRN1 encodes a 5'–3' exonuclease family member involved in cellular mRNA turnover (Nagarajan et al., 2013). The gene is shown to complete host mRNA degradation initiated by viral pathogens (Gaglia et al., 2012). These functions suggest possible roles for DAPK3 and XRN1 in susceptibility to diseases caused by S. aureus.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 19256,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Some of the other genes we identified have been implicated in infectious disease processes. PDE4B is involved in modulating bacteria-induced inflammation (Komatsu et al., 2013). PNPLA5 appears to be critical for autophagosome functions, including microbial clearance (Dupont et al., 2014). Mammalian hosts are known to reduce the level of free zinc to thwart pathogen growth (Kehl-Fie and Skaar, 2010) and it is plausible that SLC39A8, a zinc transporter, could be involved. BCL11B encodes a transcriptional repressor involved in T-cell development (Wakabayashi et al., 2003). NMRK2, an integrin beta1 binding protein, could function in host responses to bacterial function based on the finding that host fibronectin forms a bridge between S. aureus fibronectin-binding proteins and host cell beta1 integrins during S. aureus cellular invasion (Fowler et al., 2000). Keratin intermediate filaments are shown to have a protective role during infection with Bartonella henselae in cat scratch disease (Zhu et al., 2013). Interleukin 1 cytokine family members (IL1A, IL1B, IL1R1, and IL1RL2) are known mediators of immune and inflammatory responses (Garlanda et al., 2013).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 20426,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "It is known that many Mendelian and oligogenetic immunodeficiency disorders confer risk to staphylococcal infection including lymphocyte deficiencies such as severe combined immunodeficiency, chronic granulomatous disease, and hyper-IgE syndrome (Stephan et al., 1993; Grimbacher et al., 1999; Van de Vosse et al., 2009). These disorders are typified by highly disruptive mutations occurring in genes central to lymphoid cell competency including STAT3, JAK3, DOCK8, and CD18, among others (Hogg et al., 1999; Kalman et al., 2004; Jiao et al., 2008; Zhang et al., 2009). However, most cases of severe staphylococcal infection are not attributable to these more rare conditions and have unknown genetic etiology.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 21137,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "In summary, this preliminary GWAS applied a SNP-to-gene-to-disease-pathway approach to identify susceptibility genes against a broad umbrella of laboratory confirmed S. aureus infections. While no one SNP and gene was found to be highly significant in this study, we suspect that for a versatile pathogen like S. aureus, that needs to overcome barriers presented by a variety of tissues and defense systems to infect various sites in the body, there are bound to be several genes involved in host susceptibility. Not everyone exposed to a virulent or a colonizing strain of S. aureus has similar severity of infection. It is reasonable to speculate that effects of variants segregating at multiple genes contribute to the severity of S. aureus infection. Similarly, there could be protective alleles that may lower the risk of clinically-attended infection as well. Additional studies will be needed to confirm these findings but eventually functional studies will be needed to illuminate the detailed mechanisms of how these variants confer predisposition to infection. Once consensus disease loci and pathways are identified, they can serve as targets for future pharmaceutical development and further elucidation of how aberrant cellular processes/signaling give rise to Staphylococcus-induced pathologies.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 22446,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Conflict of interest statement"
+          },
+          "text": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 22648,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "acknowledgements section",
+                "iao_id": "IAO:0000324"
+              }
+            ],
+            "section_title_1": "Acknowledgments"
+          },
+          "text": "We would like to thank Crystal Jacobson, Amy Aswani, and Rob Strenn for very helpful informatics expertise and Dr. Matt Hall for valuable discussions and advice regarding the clinical aspects of S. aureus infection. We would also like to sincerely thank the PMRP participants. The project described was supported by the Clinical and Translational Science Award (CTSA) program, previously through the National Center for Research Resources (NCRR) grant 1UL1RR025011 and the National Center for Advancing Translational Sciences (NCATS) grant 9U54TR000021, and now by the NCATS grant UL1TR000427. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH. The eMERGE Network is funded by the NHGRI, with additional funding from the National Institute of General Medical Sciences through the following grants: U01HG004438 to the Center for Inherited Disease Research; U01HG004608 to Essentia Institute for Rural Health/Marshfield Clinic Research Foundation. This study was also funded through support from the Marshfield Clinic, the Wisconsin Genomics Initiative, and philanthropic gifts in support of medical research at the Marshfield Clinic.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 23866,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material"
+          },
+          "text": "The Supplementary Material for this article can be found online at: http://www.frontiersin.org/journal/10.3389/fgene.2014.00125/abstract",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 24024,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Supplemental Figure 1"
+          },
+          "text": "A principal components analysis of genome-wide genotypes in all study subjects.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 24124,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Supplemental Figure 2"
+          },
+          "text": "One of the IPA outputs of the protein-protein interaction network using VEGAS based 196 genes (p ≤ 0.01) as input. Three genes, DAPK3, KRT12, and TXNRD2 have been shown to be in direct network UBC (ubiquitin C). Boxes in pink color are input genes from the VEGAS analysis. Network shapes Symbols: ⋄ = enzyme; ∘ = Other; ▽ = Kinase; ___ = direct interaction; ----- = indirect interaction. Additional details about the symbols can be found at www.ingenuity.com.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 24604,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Influence of host genetics and environment on nasal carriage of Staphylococcus aureus in Danish middle-aged and elderly twins",
+            "journal": "J. Infect. Dis",
+            "volume": "206",
+            "section_title_1": "References"
+          },
+          "text": "Andersen P. S., Pedersen J. K., Fode P., Skov R. L., Fowler V. G., Jr., Stegger M., et al.  (2012). Influence of host genetics and environment on nasal carriage of Staphylococcus aureus in Danish middle-aged and elderly twins. J. Infect. Dis. 206, 1178–1184\n10.1093/infdis/jis491 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 24949,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls",
+            "journal": "Nature",
+            "volume": "447",
+            "section_title_1": "References"
+          },
+          "text": "Burton P. R., Clayton D. G., Cardon L. R., Craddock N., Deloukas P., Duncanson A., et al.  (2007). Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls. Nature\n447, 661–678\n10.1038/nature05911 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 25241,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Coronary risk assessment among intermediate risk patients using a clinical and biomarker based algorithm developed and validated in two population cohorts",
+            "journal": "Curr. Med. Res. Opin",
+            "volume": "28",
+            "section_title_1": "References"
+          },
+          "text": "Cross D. S., McCarty C. A., Hytopoulos E., Beggs M., Nolan N., Harrington D., et al.  (2012). Coronary risk assessment among intermediate risk patients using a clinical and biomarker based algorithm developed and validated in two population cohorts. Curr. Med. Res. Opin. 28, 1819–1830\n10.1185/03007995 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 25599,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Infectious diseases not immune to genome-wide association",
+            "journal": "Nat. Genet",
+            "volume": "42",
+            "section_title_1": "References"
+          },
+          "text": "de Bakker P. I., Telenti A. (2010). Infectious diseases not immune to genome-wide association. Nat. Genet. 42, 731–732\n10.1038/ng0910-731 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 25773,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Neutral lipid stores and lipase PNPLA5 contribute to autophagosome biogenesis",
+            "journal": "Curr. Biol",
+            "volume": "24",
+            "section_title_1": "References"
+          },
+          "text": "Dupont N., Chauhan S., Arko-Mensah J., Castillo E. F., Masedunskas A., Weigert R., et al.  (2014). Neutral lipid stores and lipase PNPLA5 contribute to autophagosome biogenesis. Curr. Biol. 24, 609–620\n10.1016/j.cub.2014.02.008 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 26056,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Cellular invasion by Staphylococcus aureus involves a fibronectin bridge between the bacterial fibronectin-binding MSCRAMMs and host cell beta1 integrins",
+            "journal": "Eur. J. Cell Biol",
+            "volume": "79",
+            "section_title_1": "References"
+          },
+          "text": "Fowler T., Wann E. R., Joh D., Johansson S., Foster T. J., Höök M., et al.  (2000). Cellular invasion by Staphylococcus aureus involves a fibronectin bridge between the bacterial fibronectin-binding MSCRAMMs and host cell beta1 integrins. Eur. J. Cell Biol. 79, 672–679\n10.1078/0171-9335-00104 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 26386,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A common strategy for host RNA degradation by divergent viruses",
+            "journal": "J. Virol",
+            "volume": "86",
+            "section_title_1": "References"
+          },
+          "text": "Gaglia M. M., Covarrubias S., Wong W., Glaunsinger B. A. (2012). A common strategy for host RNA degradation by divergent viruses. J. Virol. 86, 9527–9530\n10.1128/JVI.01230-12 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 26616,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The interleukin-1 family: back to the future",
+            "journal": "Immunity",
+            "volume": "39",
+            "section_title_1": "References"
+          },
+          "text": "Garlanda C., Dinarello C. A., Mantovani A. (2013). The interleukin-1 family: back to the future. Immunity\n39, 1003–1018\n10.1016/j.immuni.2013.11.010 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 26820,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Pathogenesis of methicillin-resistant Staphylococcus aureus infection",
+            "journal": "Clin. Infect. Dis",
+            "volume": "46",
+            "section_title_1": "References"
+          },
+          "text": "Gordon R. J., Lowy F. D. (2008). Pathogenesis of methicillin-resistant Staphylococcus aureus infection. Clin. Infect. Dis. 46Suppl. 5, S350–S359\n10.1086/533591 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 27035,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Risk factors associated with nosocomial methicillin-resistant Staphylococcus aureus (MRSA) infection including previous use of antimicrobials",
+            "journal": "J. Antimicrob. Chemother",
+            "volume": "49",
+            "section_title_1": "References"
+          },
+          "text": "Graffunder E. M., Venezia R. A. (2002). Risk factors associated with nosocomial methicillin-resistant Staphylococcus aureus (MRSA) infection including previous use of antimicrobials. J. Antimicrob. Chemother. 49, 999–1005\n10.1093/jac/dkf009 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 27312,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A. US population based survey of Staphylococcus aureus colonization",
+            "journal": "Ann. Intern. Med",
+            "volume": "144",
+            "section_title_1": "References"
+          },
+          "text": "Graham P. L., 3rd., Lin S. X., Larson E. L. (2006). A. US population based survey of Staphylococcus aureus colonization. Ann. Intern. Med. 144, 318–325\n10.7326/0003-4819-144-5-200603070-00006 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 27540,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Hyper-IgE syndrome with recurrent infections—an autosomal dominant multisystem disorder",
+            "journal": "N. Engl. J. Med",
+            "volume": "340",
+            "section_title_1": "References"
+          },
+          "text": "Grimbacher B., Holland S. M., Gallin J. I., Greenberg F., Hill S. C., Malech H. L., et al.  (1999). Hyper-IgE syndrome with recurrent infections—an autosomal dominant multisystem disorder. N. Engl. J. Med. 340, 692–702\n10.1056/NEJM199903043400904 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 27823,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Multiple virulence factors are required for Staphylococcus aureus-induced apoptosis in endothelial cells",
+            "journal": "Cell. Microbiol",
+            "volume": "7",
+            "section_title_1": "References"
+          },
+          "text": "Haslinger-Löffler B., Kahl B. C., Grundmeier M., Strangfeld K., Wagner B., Fischer U., et al.  (2005). Multiple virulence factors are required for Staphylococcus aureus-induced apoptosis in endothelial cells. Cell. Microbiol. 7, 1087–1097\n10.1111/j.1462-5822.2005.00533.x [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 28131,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetic Evidence of PTPN22 effects on chronic lymphocytic leukemia",
+            "journal": "Blood",
+            "volume": "121",
+            "section_title_1": "References"
+          },
+          "text": "Hebbring S., Slager S., Epperla N., Mazza J. J., Ye Z., Zhou Z., et al.  (2013). Genetic Evidence of PTPN22 effects on chronic lymphocytic leukemia. Blood\n121, 237–238\n10.1182/blood-2012-08-450221 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 28383,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A novel leukocyte adhesion deficiency caused by expression but nonfunctional beta-2 integrins Mac-1 and LFA-1",
+            "journal": "J. Clin. Invest",
+            "volume": "103",
+            "section_title_1": "References"
+          },
+          "text": "Hogg N., Stewart M. P., Scarth S. L., Newton R., Shaw J. M., Law S. K., et al.  (1999). A novel leukocyte adhesion deficiency caused by expression but nonfunctional beta-2 integrins Mac-1 and LFA-1. J. Clin. Invest. 103, 97–106\n10.1172/JCI3312 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 28682,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Systematic and integrative analysis of large gene lists using DAVID Bioinformatics Resources",
+            "journal": "Nat. Protoc",
+            "volume": "4",
+            "section_title_1": "References"
+          },
+          "text": "Huang D. A. W., Sherman B. T., Lempicki R. A. (2009a). Systematic and integrative analysis of large gene lists using DAVID Bioinformatics Resources. Nat. Protoc. 4, 44–57\n10.1038/nprot.2008.211 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 28912,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists",
+            "journal": "Nucleic Acids Res",
+            "volume": "37",
+            "section_title_1": "References"
+          },
+          "text": "Huang D. A. W., Sherman B. T., Lempicki R. A. (2009b). Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists. Nucleic Acids Res. 37, 1–13\n10.1093/nar/gkn923 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 29174,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The DAVID gene functional classification tool: a novel biological module-centric algorithm to functionally analyze large gene lists",
+            "journal": "Genome Biol",
+            "volume": "8",
+            "section_title_1": "References"
+          },
+          "text": "Huang D. A. W., Sherman B. T., Tan Q., Collins J. R., Alvord W. G., Roayaei J., et al.  (2007). The DAVID gene functional classification tool: a novel biological module-centric algorithm to functionally analyze large gene lists. Genome Biol. 8:R183\n10.1186/gb-2007-8-9-r183 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 29503,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Novel and recurrent STAT3 mutations in hyper-IgE syndrome patients from different ethnic groups",
+            "journal": "Mol. Immunol",
+            "volume": "46",
+            "section_title_1": "References"
+          },
+          "text": "Jiao H., Tóth B., Erdos M., Fransson I., Rákóczi E., Balogh I., et al.  (2008). Novel and recurrent STAT3 mutations in hyper-IgE syndrome patients from different ethnic groups. Mol. Immunol. 46, 202–206\n10.1016/j.molimm.2008.07.001 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 29771,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Mutations in genes required for T-cell development: IL7R, CD45, IL2RG, JAK3, RAG1, RAG2, ARTEMIS, and ADA and severe combined immunodeficiency: HuGE review",
+            "journal": "Genet. Med",
+            "volume": "6",
+            "section_title_1": "References"
+          },
+          "text": "Kalman L., Lindegren M. L., Kobrynski L., Vogt R., Hannon H., Howard J. T., et al.  (2004). Mutations in genes required for T-cell development: IL7R, CD45, IL2RG, JAK3, RAG1, RAG2, ARTEMIS, and ADA and severe combined immunodeficiency: HuGE review. Genet. Med. 6, 16–26\n10.1097/01.GIM.0000105752.80592.A3 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 30112,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Nutritional immunity beyond iron: a role for manganese and zinc",
+            "journal": "Curr. Opin. Chem. Biol",
+            "volume": "14",
+            "section_title_1": "References"
+          },
+          "text": "Kehl-Fie T. E., Skaar E. P. (2010). Nutritional immunity beyond iron: a role for manganese and zinc. Curr. Opin. Chem. Biol. 14, 218–224\n10.1016/j.cbpa.2009.11.008 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 30331,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Inhibition of PDE4B suppresses inflammation by increasing expression of the deubiquitinase CYLD",
+            "journal": "Nat. Commun",
+            "volume": "4",
+            "section_title_1": "References"
+          },
+          "text": "Komatsu K., Lee J. Y., Miyata M., Hyang Lim J., Jono H., Koga T., et al.  (2013). Inhibition of PDE4B suppresses inflammation by increasing expression of the deubiquitinase CYLD. Nat. Commun. 4, 1684\n10.1038/ncomms2674 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 30605,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Prevalence of Staphylococcus aureus nasal colonization in the United States, 2001-2002",
+            "journal": "J. Infect. Disease",
+            "volume": "193",
+            "section_title_1": "References"
+          },
+          "text": "Kuehnert M. J., Kruszon-Moran D., Hill H. A., McQuillan G., McAllister S. K., Fosheim G., et al.  (2006). Prevalence of Staphylococcus aureus nasal colonization in the United States, 2001-2002. J. Infect. Disease. 193, 169–171\n10.1086/499632 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 30883,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A versatile gene-based test for genome-wide association studies",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "87",
+            "section_title_1": "References"
+          },
+          "text": "Liu J. Z., McRae A. F., Nyholt D. R., Medland S. E., Wray N. R., Brown K. M., et al.  (2010). A versatile gene-based test for genome-wide association studies. Am. J. Hum. Genet. 87, 139–145\n10.1016/j.ajhg.2010.06.009 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 31155,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Staphylococcus aureus infections",
+            "journal": "N. Engl. J. Med",
+            "volume": "339",
+            "section_title_1": "References"
+          },
+          "text": "Lowy F. D. (1998). Staphylococcus aureus infections. N. Engl. J. Med. 339, 520–532\n10.1056/NEJM199808203390806 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 31302,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The eMERGE Network: a consortium of biorepositories linked to electronic medical records data for conducting genomic studies",
+            "journal": "BMC Med. Genomics",
+            "volume": "4",
+            "section_title_1": "References"
+          },
+          "text": "McCarty C. A., Chisholm R. L., Chute C. G., Kulo I. J., Jarvi G. P., Larson E. B. (2011). The eMERGE Network: a consortium of biorepositories linked to electronic medical records data for conducting genomic studies. BMC Med. Genomics\n4:13\n10.1186/1755-8794-4-13 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 31619,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "PANTHER pathway: an ontology-based pathway database coupled with data analysis tools",
+            "journal": "Methods Mol. Biol",
+            "volume": "563",
+            "section_title_1": "References"
+          },
+          "text": "Mi H., Thomas P. (2009). PANTHER pathway: an ontology-based pathway database coupled with data analysis tools. Methods Mol. Biol. 563, 123–140\n10.1007/978-1-60761-175-2_7 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 31845,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "XRN 5'?3' exoribonucleases: structure, mechanisms and functions",
+            "journal": "Biochim. Biophys. Acta",
+            "volume": "1829",
+            "section_title_1": "References"
+          },
+          "text": "Nagarajan V. K., Jones C. I., Newbury S. F., Green P. J. (2013). XRN 5'?3' exoribonucleases: structure, mechanisms and functions. Biochim. Biophys. Acta\n1829, 590–603\n10.1016/j.bbegrm.2013.03.005 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 32096,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The future of association studies: gene-based analysis and replication",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "75",
+            "section_title_1": "References"
+          },
+          "text": "Neale B. M., Sham P. C. (2004). The future of association studies: gene-based analysis and replication. Am. J. Hum. Genet. 75, 353–362\n10.1086/423901 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 32301,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Interaction of RhoD and ZIP kinase modulates actin filament assembly and focal adhesion dynamics",
+            "journal": "Biochem. Biophys. Res. Commun",
+            "volume": "433",
+            "section_title_1": "References"
+          },
+          "text": "Nehru V., Almeida F. N., Aspenström P. (2013). Interaction of RhoD and ZIP kinase modulates actin filament assembly and focal adhesion dynamics. Biochem. Biophys. Res. Commun. 433, 163–169\n10.1016/j.bbrc.2013.02.046 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 32553,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A genome-wide association study of variants associated with acquisition of Staphylococcus aureus bacteremia in a healthcare setting",
+            "journal": "BMC Infect. Dis",
+            "volume": "14",
+            "section_title_1": "References"
+          },
+          "text": "Nelson C. L., Pelak K., Podgoreanu M. V., Ahn S. H., Scott W. K., Allen A. S., et al.  (2014). A genome-wide association study of variants associated with acquisition of Staphylococcus aureus bacteremia in a healthcare setting. BMC Infect. Dis. 14:83\n10.1186/1471-2334-14-83 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 32883,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Impaired β-defensin expression in human skin links DEFB1 promoter polymorphisms with persistent Staphylococcus aureus nasal carriage",
+            "journal": "J. Infect. Dis",
+            "volume": "207",
+            "section_title_1": "References"
+          },
+          "text": "Nurjadi D., Herrmann E., Hinderberger I., Zanger P. (2013). Impaired β-defensin expression in human skin links DEFB1 promoter polymorphisms with persistent Staphylococcus aureus nasal carriage. J. Infect. Dis. 207, 666–674\n10.1093/infdis/jis735 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 33164,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Principal components analysis corrects for stratification in genome-wide association studies",
+            "journal": "Nat. Genet",
+            "volume": "38",
+            "section_title_1": "References"
+          },
+          "text": "Price A. L., Patterson N. J., Plenge R. M., Weinblatt M. E., Shadick N. A., Reich D., et al.  (2006). Principal components analysis corrects for stratification in genome-wide association studies. Nat. Genet. 38, 904–909\n10.1038/ng1847 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 33435,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "PLINK: a toolset for whole-genome association and population-based linkage analysis",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "81",
+            "section_title_1": "References"
+          },
+          "text": "Purcell S., Neale B., Todd-Brown K., Thomas L., Ferreira M. A. R., Bender D., et al.  (2007). PLINK: a toolset for whole-genome association and population-based linkage analysis. Am. J. Hum. Genet. 81, 559–575\n10.1086/519795 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 33715,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "R: a language and environment for statistical computing",
+            "journal": "R Foundation for Statistical Computing",
+            "section_title_1": "References"
+          },
+          "text": "R. Core Team.,  (2013). R: a language and environment for statistical computing, in R Foundation for Statistical Computing, Vienna, Austria. Available online at: http://www.R-project.org/",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 33902,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Staphylococcus aureus: the new adventures of a legendary pathogen",
+            "journal": "Cleve. Clin. J. Med",
+            "volume": "75",
+            "section_title_1": "References"
+          },
+          "text": "Rehm S. J. (2008). Staphylococcus aureus: the new adventures of a legendary pathogen. Cleve. Clin. J. Med. 75, 177–180, 183–186, 190–192. 10.3949/ccjm.75.3.177 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34098,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "TLR1, TLR2, and TLR6 gene polymorphisms are associated with increased susceptibility to complicated skin and skin structure infections",
+            "journal": "J. Infect. Dis",
+            "section_title_1": "References"
+          },
+          "text": "Stappers M. H., Thys Y., Oosting M., Plantinga T. S., Ioana M., Reimnitz P., et al.  (2014). TLR1, TLR2, and TLR6 gene polymorphisms are associated with increased susceptibility to complicated skin and skin structure infections. J. Infect. Dis. [Epub ahead of print]. 10.1093/infdis/jiu080 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34424,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Severe combined immunodeficiency: a retrospective single-center study of clinical presentation and outcome in 117 patients",
+            "journal": "J. Pediatr",
+            "volume": "123",
+            "section_title_1": "References"
+          },
+          "text": "Stephan J. L., Vlekova V., Le Deist F., Blanche S., Donadieu J., De Saint-Basile G., et al.  (1993). Severe combined immunodeficiency: a retrospective single-center study of clinical presentation and outcome in 117 patients. J. Pediatr. 123, 564–572\n10.1016/S0022-3476(05)80951-5 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34740,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A novel mutation in NCF1 in an adult CGD patient with a liver abscess as first presentation",
+            "journal": "J. Hum. Genet",
+            "volume": "54",
+            "section_title_1": "References"
+          },
+          "text": "Van de Vosse E., van Wengen A., van Geelen J. A., de Boer M., Roos D., van Dissel J. T. (2009). A novel mutation in NCF1 in an adult CGD patient with a liver abscess as first presentation. J. Hum. Genet. 54, 313–316\n10.1038/jhg.2009.24 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35012,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Staphylococcus aureus nasal carriage is associated with glucocorticoid receptor gene polymorphisms",
+            "journal": "J. Infect. Dis",
+            "volume": "194",
+            "section_title_1": "References"
+          },
+          "text": "van den Akker E. L., Nouwen J. L., Melles D. C., van Rossum E. F., Koper J. W., Uitterlinden A. G., et al.  (2006). Staphylococcus aureus nasal carriage is associated with glucocorticoid receptor gene polymorphisms. J. Infect. Dis. 194, 814–818\n10.1086/506367 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35308,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Bcl11b is required for differentiation and survival of alphabeta T lymphocytes",
+            "journal": "Nat. Immunol",
+            "volume": "4",
+            "section_title_1": "References"
+          },
+          "text": "Wakabayashi Y., Watanabe H., Inoue J., Takeda N., Sakata J., Mishima Y., et al.  (2003). Bcl11b is required for differentiation and survival of alphabeta T lymphocytes. Nat. Immunol. 4, 533–539\n10.1038/ni927 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35552,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Link of Dlk/ZIP kinase to cell apoptosis and tumor suppression",
+            "journal": "Biochem. Biophys. Res. Commun",
+            "volume": "392",
+            "section_title_1": "References"
+          },
+          "text": "Wu Y., Yan Q., Zuo J., Saiyin H., Jiang W., Qiao S., et al.  (2010). Link of Dlk/ZIP kinase to cell apoptosis and tumor suppression. Biochem. Biophys. Res. Commun. 392, 510–515\n10.1016/j.bbrc.2010.01.054 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35792,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome partitioning of genetic variation for complex traits using common SNPs",
+            "journal": "Nat. Genet",
+            "volume": "43",
+            "section_title_1": "References"
+          },
+          "text": "Yang J., Manolio T. A., Pasquale L. R., Boerwinkle E., Caporaso N., Cunningham J. M., et al.  (2011). Genome partitioning of genetic variation for complex traits using common SNPs. Nat. Genet. 43, 519–525\n10.1038/ng.823 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 36067,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Combined immunodeficiency associated with DOCK8 mutations",
+            "journal": "N. Engl. J. Med",
+            "volume": "361",
+            "section_title_1": "References"
+          },
+          "text": "Zhang Q., Davis J. C., Lamborn I. T., Freeman A. F., Jing H., Favreau A. J., et al.  (2009). Combined immunodeficiency associated with DOCK8 mutations. N. Engl. J. Med. 361, 2046–2055\n10.1056/NEJMoa0905506 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 36328,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Depolymerization of cytokeratin intermediate filaments facilitates intracellular infection of HeLa cells by Bartonella henselae",
+            "journal": "J. Infect. Dis",
+            "volume": "207",
+            "section_title_1": "References"
+          },
+          "text": "Zhu C., Bai Y., Liu Q., Li D., Hong J., Yang Z., et al.  (2013). Depolymerization of cytokeratin intermediate filaments facilitates intracellular infection of HeLa cells by Bartonella henselae. J. Infect. Dis. 207, 1397–1405\n10.1093/infdis/jit040 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "25918517.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "GWAS",
+          "text_long": "Genome-wide association study"
+        },
+        {
+          "text_short": "PS",
+          "text_long": "population stratification”"
+        },
+        {
+          "text_short": "PCA",
+          "text_long": "principal components analyses"
+        },
+        {
+          "text_short": "PCs",
+          "text_long": "principal components"
+        },
+        {
+          "text_short": "FHS",
+          "text_long": "Framingham Heart Study"
+        },
+        {
+          "text_short": "QC",
+          "text_long": "quality control"
+        },
+        {
+          "text_short": "BMI",
+          "text_long": "body mass index"
+        },
+        {
+          "text_short": "CNVs",
+          "text_long": "copy number variations"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "GWAS",
+          "text_long": "Genome-wide association study"
+        },
+        {
+          "text_short": "PS",
+          "text_long": "population stratification”"
+        },
+        {
+          "text_short": "PCA",
+          "text_long": "principal components analyses"
+        },
+        {
+          "text_short": "PCs",
+          "text_long": "principal components"
+        },
+        {
+          "text_short": "FHS",
+          "text_long": "Framingham Heart Study"
+        },
+        {
+          "text_short": "QC",
+          "text_long": "quality control"
+        },
+        {
+          "text_short": "BMI",
+          "text_long": "body mass index"
+        },
+        {
+          "text_short": "CNVs",
+          "text_long": "copy number variations"
+        }
+      ]
+    }
+  ]
+}

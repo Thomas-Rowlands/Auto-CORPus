@@ -1,0 +1,3887 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "24376456.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Descriptive statistics for the BP traits, covariates, comorbidities, and alcohol measures.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 97,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": "Characteristics"
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": "Oz Alcohol/week"
+            },
+            {
+              "cell_id": "1.1.3",
+              "cell_text": "No.of days drink/week"
+            },
+            {
+              "cell_id": "1.1.4",
+              "cell_text": "No.of drinks/week"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": "Sample size"
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": 3027.0
+                  },
+                  {
+                    "cell_id": "1.2.3",
+                    "cell_text": 3032.0
+                  },
+                  {
+                    "cell_id": "1.2.4",
+                    "cell_text": 6882.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": "% Male"
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": "46.38%"
+                  },
+                  {
+                    "cell_id": "1.3.3",
+                    "cell_text": "46.41%"
+                  },
+                  {
+                    "cell_id": "1.3.4",
+                    "cell_text": "46.69%"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.4.1",
+                    "cell_text": "% Hypertensive"
+                  },
+                  {
+                    "cell_id": "1.4.2",
+                    "cell_text": "43.11%"
+                  },
+                  {
+                    "cell_id": "1.4.3",
+                    "cell_text": "43.14%"
+                  },
+                  {
+                    "cell_id": "1.4.4",
+                    "cell_text": "27.91%"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.5.1",
+                    "cell_text": "% Taking antihypertensive meds"
+                  },
+                  {
+                    "cell_id": "1.5.2",
+                    "cell_text": "33.10%"
+                  },
+                  {
+                    "cell_id": "1.5.3",
+                    "cell_text": "33.11%"
+                  },
+                  {
+                    "cell_id": "1.5.4",
+                    "cell_text": "19.38%"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.6.1",
+                    "cell_text": "% Taking cholesterol-lowering meds"
+                  },
+                  {
+                    "cell_id": "1.6.2",
+                    "cell_text": "20.68%"
+                  },
+                  {
+                    "cell_id": "1.6.3",
+                    "cell_text": "20.71%"
+                  },
+                  {
+                    "cell_id": "1.6.4",
+                    "cell_text": "13.34%"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.7.1",
+                    "cell_text": "% Taking antidiabetic meds"
+                  },
+                  {
+                    "cell_id": "1.7.2",
+                    "cell_text": "6.48%"
+                  },
+                  {
+                    "cell_id": "1.7.3",
+                    "cell_text": "6.46%"
+                  },
+                  {
+                    "cell_id": "1.7.4",
+                    "cell_text": "3.91%"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.8.1",
+                    "cell_text": "% Smoking regularly in the past year"
+                  },
+                  {
+                    "cell_id": "1.8.2",
+                    "cell_text": "13.68%"
+                  },
+                  {
+                    "cell_id": "1.8.3",
+                    "cell_text": "13.69%"
+                  },
+                  {
+                    "cell_id": "1.8.4",
+                    "cell_text": "15.78%"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.9.1",
+                    "cell_text": "Age"
+                  },
+                  {
+                    "cell_id": "1.9.2",
+                    "cell_text": "60.77 ± 9.26"
+                  },
+                  {
+                    "cell_id": "1.9.3",
+                    "cell_text": "60.77 ± 9.26"
+                  },
+                  {
+                    "cell_id": "1.9.4",
+                    "cell_text": "49.26 ± 13.63"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.10.1",
+                    "cell_text": "BMI"
+                  },
+                  {
+                    "cell_id": "1.10.2",
+                    "cell_text": "28.17 ± 5.30"
+                  },
+                  {
+                    "cell_id": "1.10.3",
+                    "cell_text": "28.17 ± 5.30"
+                  },
+                  {
+                    "cell_id": "1.10.4",
+                    "cell_text": "27.46 ± 5.47"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.11.1",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "1.11.2",
+                    "cell_text": "125.95 ± 18.04"
+                  },
+                  {
+                    "cell_id": "1.11.3",
+                    "cell_text": "125.97 ± 18"
+                  },
+                  {
+                    "cell_id": "1.11.4",
+                    "cell_text": "120.52 ± 16.45"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.12.1",
+                    "cell_text": "DBP"
+                  },
+                  {
+                    "cell_id": "1.12.2",
+                    "cell_text": "73.78 ± 9.36"
+                  },
+                  {
+                    "cell_id": "1.12.3",
+                    "cell_text": "73.78 ± 9.37"
+                  },
+                  {
+                    "cell_id": "1.12.4",
+                    "cell_text": "74.84 ± 9.37"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.13.1",
+                    "cell_text": "MAP"
+                  },
+                  {
+                    "cell_id": "1.13.2",
+                    "cell_text": "91.16 ± 10.56"
+                  },
+                  {
+                    "cell_id": "1.13.3",
+                    "cell_text": "91.17 + 10.56"
+                  },
+                  {
+                    "cell_id": "1.13.4",
+                    "cell_text": "90.07 ± 10.35"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.14.1",
+                    "cell_text": "PP"
+                  },
+                  {
+                    "cell_id": "1.14.2",
+                    "cell_text": "52.16 ± 15.76"
+                  },
+                  {
+                    "cell_id": "1.14.3",
+                    "cell_text": "52.17 + 15.77"
+                  },
+                  {
+                    "cell_id": "1.14.4",
+                    "cell_text": "49.26 ± 13.63"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.15.1",
+                    "cell_text": "% Drinking (non-zero value of the specified alcohol measure)"
+                  },
+                  {
+                    "cell_id": "1.15.2",
+                    "cell_text": "66.34%"
+                  },
+                  {
+                    "cell_id": "1.15.3",
+                    "cell_text": "60.65%"
+                  },
+                  {
+                    "cell_id": "1.15.4",
+                    "cell_text": "74.43%"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.16.1",
+                    "cell_text": "Mean of the alcohol measure specified by the column heading"
+                  },
+                  {
+                    "cell_id": "1.16.2",
+                    "cell_text": "2.61 ± 3.79"
+                  },
+                  {
+                    "cell_id": "1.16.3",
+                    "cell_text": "2.29 ± 2.65"
+                  },
+                  {
+                    "cell_id": "1.16.4",
+                    "cell_text": "5.46 ± 8.01"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.17.1",
+                    "cell_text": "Range of the alcohol measure"
+                  },
+                  {
+                    "cell_id": "1.17.2",
+                    "cell_text": "0–38"
+                  },
+                  {
+                    "cell_id": "1.17.3",
+                    "cell_text": "0–7"
+                  },
+                  {
+                    "cell_id": "1.17.4",
+                    "cell_text": "0–101"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 830,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Blood pressures, covariates, and alcohol measures are represented as the mean value ± the standard deviation.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "24376456.html",
+      "id": "2",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 2",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Pedigree information for each analysis sample.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 53,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "2.1.1",
+              "cell_text": "Characteristics"
+            },
+            {
+              "cell_id": "2.1.2",
+              "cell_text": "Oz Alcohol/week"
+            },
+            {
+              "cell_id": "2.1.3",
+              "cell_text": "No.of days drink/week"
+            },
+            {
+              "cell_id": "2.1.4",
+              "cell_text": "No.of drinks/week"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.2.1",
+                    "cell_text": "Sample Size from the Original/Offspring/Third Generation Cohort"
+                  },
+                  {
+                    "cell_id": "2.2.2",
+                    "cell_text": "6/3021/0"
+                  },
+                  {
+                    "cell_id": "2.2.3",
+                    "cell_text": "6/3026/0"
+                  },
+                  {
+                    "cell_id": "2.2.4",
+                    "cell_text": "6/3027/3849"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.3.1",
+                    "cell_text": "Number of founders/non-founders"
+                  },
+                  {
+                    "cell_id": "2.3.2",
+                    "cell_text": "649/2378"
+                  },
+                  {
+                    "cell_id": "2.3.3",
+                    "cell_text": "650/2382"
+                  },
+                  {
+                    "cell_id": "2.3.4",
+                    "cell_text": "650/6232"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.4.1",
+                    "cell_text": "Number of families"
+                  },
+                  {
+                    "cell_id": "2.4.2",
+                    "cell_text": 1040.0
+                  },
+                  {
+                    "cell_id": "2.4.3",
+                    "cell_text": 1042.0
+                  },
+                  {
+                    "cell_id": "2.4.4",
+                    "cell_text": 1166.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.5.1",
+                    "cell_text": "Range of Pedigree Size"
+                  },
+                  {
+                    "cell_id": "2.5.2",
+                    "cell_text": "1–134"
+                  },
+                  {
+                    "cell_id": "2.5.3",
+                    "cell_text": "1–134"
+                  },
+                  {
+                    "cell_id": "2.5.4",
+                    "cell_text": "1–307"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.6.1",
+                    "cell_text": "Parent-child pairs"
+                  },
+                  {
+                    "cell_id": "2.6.2",
+                    "cell_text": 32.0
+                  },
+                  {
+                    "cell_id": "2.6.3",
+                    "cell_text": 32.0
+                  },
+                  {
+                    "cell_id": "2.6.4",
+                    "cell_text": 4634.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.7.1",
+                    "cell_text": "Full-sib pairs"
+                  },
+                  {
+                    "cell_id": "2.7.2",
+                    "cell_text": 1384.0
+                  },
+                  {
+                    "cell_id": "2.7.3",
+                    "cell_text": 1386.0
+                  },
+                  {
+                    "cell_id": "2.7.4",
+                    "cell_text": 5001.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.8.1",
+                    "cell_text": "Half-sib pairs"
+                  },
+                  {
+                    "cell_id": "2.8.2",
+                    "cell_text": 63.0
+                  },
+                  {
+                    "cell_id": "2.8.3",
+                    "cell_text": 63.0
+                  },
+                  {
+                    "cell_id": "2.8.4",
+                    "cell_text": 277.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.9.1",
+                    "cell_text": "Cousin-cousin pairs"
+                  },
+                  {
+                    "cell_id": "2.9.2",
+                    "cell_text": 798.0
+                  },
+                  {
+                    "cell_id": "2.9.3",
+                    "cell_text": 800.0
+                  },
+                  {
+                    "cell_id": "2.9.4",
+                    "cell_text": 7359.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.10.1",
+                    "cell_text": "Grandparent-grandchild pairs"
+                  },
+                  {
+                    "cell_id": "2.10.2",
+                    "cell_text": 0.0
+                  },
+                  {
+                    "cell_id": "2.10.3",
+                    "cell_text": 0.0
+                  },
+                  {
+                    "cell_id": "2.10.4",
+                    "cell_text": 40.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.11.1",
+                    "cell_text": "Avuncular pairs"
+                  },
+                  {
+                    "cell_id": "2.11.2",
+                    "cell_text": 153.0
+                  },
+                  {
+                    "cell_id": "2.11.3",
+                    "cell_text": 153.0
+                  },
+                  {
+                    "cell_id": "2.11.4",
+                    "cell_text": 5379.0
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 466,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "24376456.html",
+      "id": "3",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 3",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Index SNPs harbored in loci with significant and suggestive interactions by the one degree-of-freedom interaction test and the joint two degree-of-freedom test.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 167,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "3.1.1",
+              "cell_text": "Position"
+            },
+            {
+              "cell_id": "3.1.2",
+              "cell_text": "SNPID"
+            },
+            {
+              "cell_id": "3.1.3",
+              "cell_text": "Genomic location"
+            },
+            {
+              "cell_id": "3.1.4",
+              "cell_text": "SNP type"
+            },
+            {
+              "cell_id": "3.1.5",
+              "cell_text": "BP trait"
+            },
+            {
+              "cell_id": "3.1.6",
+              "cell_text": "Alcohol measure"
+            },
+            {
+              "cell_id": "3.1.7",
+              "cell_text": "Ref allele"
+            },
+            {
+              "cell_id": "3.1.8",
+              "cell_text": "Coded allele freq"
+            },
+            {
+              "cell_id": "3.1.9",
+              "cell_text": "SNP main effect<!>β"
+            },
+            {
+              "cell_id": "3.1.10",
+              "cell_text": "SNP main effect<!>SE(β )"
+            },
+            {
+              "cell_id": "3.1.11",
+              "cell_text": "SNP-alcohol interaction<!>β"
+            },
+            {
+              "cell_id": "3.1.12",
+              "cell_text": "SNP-alcohol interaction<!>SE(β )"
+            },
+            {
+              "cell_id": "3.1.13",
+              "cell_text": "1 df interaction test"
+            },
+            {
+              "cell_id": "3.1.14",
+              "cell_text": "2 df joint test"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": 1.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.2.1",
+                    "cell_text": 78659796.0
+                  },
+                  {
+                    "cell_id": "3.2.2",
+                    "cell_text": "rs648425"
+                  },
+                  {
+                    "cell_id": "3.2.3",
+                    "cell_text": "Intergenic  MGC27382-PTGFR"
+                  },
+                  {
+                    "cell_id": "3.2.4",
+                    "cell_text": "Genotyped"
+                  },
+                  {
+                    "cell_id": "3.2.5",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.2.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.2.7",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "3.2.8",
+                    "cell_text": 0.02
+                  },
+                  {
+                    "cell_id": "3.2.9",
+                    "cell_text": "‒2.278"
+                  },
+                  {
+                    "cell_id": "3.2.10",
+                    "cell_text": 1.06
+                  },
+                  {
+                    "cell_id": "3.2.11",
+                    "cell_text": "‒0.317"
+                  },
+                  {
+                    "cell_id": "3.2.12",
+                    "cell_text": 0.12
+                  },
+                  {
+                    "cell_id": "3.2.13",
+                    "cell_text": 0.021
+                  },
+                  {
+                    "cell_id": "3.2.14",
+                    "cell_text": 8.47e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.3.1",
+                    "cell_text": 214823444.0
+                  },
+                  {
+                    "cell_id": "3.3.2",
+                    "cell_text": "rs17669622"
+                  },
+                  {
+                    "cell_id": "3.3.3",
+                    "cell_text": "Intron  ESRRG"
+                  },
+                  {
+                    "cell_id": "3.3.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.3.5",
+                    "cell_text": "MAP"
+                  },
+                  {
+                    "cell_id": "3.3.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.3.7",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "3.3.8",
+                    "cell_text": 0.25
+                  },
+                  {
+                    "cell_id": "3.3.9",
+                    "cell_text": -0.174
+                  },
+                  {
+                    "cell_id": "3.3.10",
+                    "cell_text": 0.245
+                  },
+                  {
+                    "cell_id": "3.3.11",
+                    "cell_text": -0.094
+                  },
+                  {
+                    "cell_id": "3.3.12",
+                    "cell_text": 0.023
+                  },
+                  {
+                    "cell_id": "3.3.13",
+                    "cell_text": 0.000304
+                  },
+                  {
+                    "cell_id": "3.3.14",
+                    "cell_text": 8.63e-07
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 2.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.4.1",
+                    "cell_text": 227403469.0
+                  },
+                  {
+                    "cell_id": "3.4.2",
+                    "cell_text": "rs16849553"
+                  },
+                  {
+                    "cell_id": "3.4.3",
+                    "cell_text": "Intergenic near  RAB4A"
+                  },
+                  {
+                    "cell_id": "3.4.4",
+                    "cell_text": "Genotyped"
+                  },
+                  {
+                    "cell_id": "3.4.5",
+                    "cell_text": "MAP"
+                  },
+                  {
+                    "cell_id": "3.4.6",
+                    "cell_text": "Oz alcohol/week"
+                  },
+                  {
+                    "cell_id": "3.4.7",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "3.4.8",
+                    "cell_text": 0.009
+                  },
+                  {
+                    "cell_id": "3.4.9",
+                    "cell_text": -5.758
+                  },
+                  {
+                    "cell_id": "3.4.10",
+                    "cell_text": 1.482
+                  },
+                  {
+                    "cell_id": "3.4.11",
+                    "cell_text": 1.452
+                  },
+                  {
+                    "cell_id": "3.4.12",
+                    "cell_text": 0.254
+                  },
+                  {
+                    "cell_id": "3.4.13",
+                    "cell_text": 1.35e-06
+                  },
+                  {
+                    "cell_id": "3.4.14",
+                    "cell_text": 7.21e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.5.1",
+                    "cell_text": 29101501.0
+                  },
+                  {
+                    "cell_id": "3.5.2",
+                    "cell_text": "rs13008299"
+                  },
+                  {
+                    "cell_id": "3.5.3",
+                    "cell_text": "Intron  FAM179A"
+                  },
+                  {
+                    "cell_id": "3.5.4",
+                    "cell_text": "Genotyped"
+                  },
+                  {
+                    "cell_id": "3.5.5",
+                    "cell_text": "DBP"
+                  },
+                  {
+                    "cell_id": "3.5.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.5.7",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "3.5.8",
+                    "cell_text": 0.29
+                  },
+                  {
+                    "cell_id": "3.5.9",
+                    "cell_text": -0.362
+                  },
+                  {
+                    "cell_id": "3.5.10",
+                    "cell_text": 0.197
+                  },
+                  {
+                    "cell_id": "3.5.11",
+                    "cell_text": -0.068
+                  },
+                  {
+                    "cell_id": "3.5.12",
+                    "cell_text": 0.018
+                  },
+                  {
+                    "cell_id": "3.5.13",
+                    "cell_text": 0.000736
+                  },
+                  {
+                    "cell_id": "3.5.14",
+                    "cell_text": 7.19e-08
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.6.1",
+                    "cell_text": 46739646.0
+                  },
+                  {
+                    "cell_id": "3.6.2",
+                    "cell_text": "rs4953404"
+                  },
+                  {
+                    "cell_id": "3.6.3",
+                    "cell_text": "Intergenic  CRIPT-SOCS5"
+                  },
+                  {
+                    "cell_id": "3.6.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.6.5",
+                    "cell_text": "PP"
+                  },
+                  {
+                    "cell_id": "3.6.6",
+                    "cell_text": "Days drinks/week"
+                  },
+                  {
+                    "cell_id": "3.6.7",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "3.6.8",
+                    "cell_text": 0.72
+                  },
+                  {
+                    "cell_id": "3.6.9",
+                    "cell_text": -0.138
+                  },
+                  {
+                    "cell_id": "3.6.10",
+                    "cell_text": 0.03
+                  },
+                  {
+                    "cell_id": "3.6.11",
+                    "cell_text": 0.006
+                  },
+                  {
+                    "cell_id": "3.6.12",
+                    "cell_text": 0.009
+                  },
+                  {
+                    "cell_id": "3.6.13",
+                    "cell_text": 0.502
+                  },
+                  {
+                    "cell_id": "3.6.14",
+                    "cell_text": 7.85e-07
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 5.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.7.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.7.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.7.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.7.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.7.5",
+                    "cell_text": "PP"
+                  },
+                  {
+                    "cell_id": "3.7.6",
+                    "cell_text": "Oz alcohol/week"
+                  },
+                  {
+                    "cell_id": "3.7.7",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "3.7.8",
+                    "cell_text": 0.72
+                  },
+                  {
+                    "cell_id": "3.7.9",
+                    "cell_text": -0.126
+                  },
+                  {
+                    "cell_id": "3.7.10",
+                    "cell_text": 0.028
+                  },
+                  {
+                    "cell_id": "3.7.11",
+                    "cell_text": 0.001
+                  },
+                  {
+                    "cell_id": "3.7.12",
+                    "cell_text": 0.006
+                  },
+                  {
+                    "cell_id": "3.7.13",
+                    "cell_text": 0.926
+                  },
+                  {
+                    "cell_id": "3.7.14",
+                    "cell_text": 9.75e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.8.1",
+                    "cell_text": 20076567.0
+                  },
+                  {
+                    "cell_id": "3.8.2",
+                    "cell_text": "rs9874923"
+                  },
+                  {
+                    "cell_id": "3.8.3",
+                    "cell_text": "Intron  KAT2B"
+                  },
+                  {
+                    "cell_id": "3.8.4",
+                    "cell_text": "Genotyped"
+                  },
+                  {
+                    "cell_id": "3.8.5",
+                    "cell_text": "MAP"
+                  },
+                  {
+                    "cell_id": "3.8.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.8.7",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "3.8.8",
+                    "cell_text": 0.43
+                  },
+                  {
+                    "cell_id": "3.8.9",
+                    "cell_text": -0.157
+                  },
+                  {
+                    "cell_id": "3.8.10",
+                    "cell_text": 0.207
+                  },
+                  {
+                    "cell_id": "3.8.11",
+                    "cell_text": 0.104
+                  },
+                  {
+                    "cell_id": "3.8.12",
+                    "cell_text": 0.021
+                  },
+                  {
+                    "cell_id": "3.8.13",
+                    "cell_text": 1.71e-05
+                  },
+                  {
+                    "cell_id": "3.8.14",
+                    "cell_text": 4.18e-07
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 10.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.9.1",
+                    "cell_text": 5875647.0
+                  },
+                  {
+                    "cell_id": "3.9.2",
+                    "cell_text": "rs3852160"
+                  },
+                  {
+                    "cell_id": "3.9.3",
+                    "cell_text": "Intergenic"
+                  },
+                  {
+                    "cell_id": "3.9.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.9.5",
+                    "cell_text": "MAP"
+                  },
+                  {
+                    "cell_id": "3.9.6",
+                    "cell_text": "Days drinks/week"
+                  },
+                  {
+                    "cell_id": "3.9.7",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "3.9.8",
+                    "cell_text": 0.39
+                  },
+                  {
+                    "cell_id": "3.9.9",
+                    "cell_text": -1.229
+                  },
+                  {
+                    "cell_id": "3.9.10",
+                    "cell_text": 0.327
+                  },
+                  {
+                    "cell_id": "3.9.11",
+                    "cell_text": 0.526
+                  },
+                  {
+                    "cell_id": "3.9.12",
+                    "cell_text": 0.093
+                  },
+                  {
+                    "cell_id": "3.9.13",
+                    "cell_text": 3.59e-07
+                  },
+                  {
+                    "cell_id": "3.9.14",
+                    "cell_text": 1.65e-06
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 7.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.10.1",
+                    "cell_text": 7296981.0
+                  },
+                  {
+                    "cell_id": "3.10.2",
+                    "cell_text": "rs4537030"
+                  },
+                  {
+                    "cell_id": "3.10.3",
+                    "cell_text": "Intergenic near  ADCY2"
+                  },
+                  {
+                    "cell_id": "3.10.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.10.5",
+                    "cell_text": "MAP"
+                  },
+                  {
+                    "cell_id": "3.10.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.10.7",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "3.10.8",
+                    "cell_text": 0.38
+                  },
+                  {
+                    "cell_id": "3.10.9",
+                    "cell_text": 1.135
+                  },
+                  {
+                    "cell_id": "3.10.10",
+                    "cell_text": 0.228
+                  },
+                  {
+                    "cell_id": "3.10.11",
+                    "cell_text": -0.087
+                  },
+                  {
+                    "cell_id": "3.10.12",
+                    "cell_text": 0.021
+                  },
+                  {
+                    "cell_id": "3.10.13",
+                    "cell_text": 0.000212
+                  },
+                  {
+                    "cell_id": "3.10.14",
+                    "cell_text": 6.9e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.11.1",
+                    "cell_text": 42351145.0
+                  },
+                  {
+                    "cell_id": "3.11.2",
+                    "cell_text": "rs7791745"
+                  },
+                  {
+                    "cell_id": "3.11.3",
+                    "cell_text": "Intergenic near  GLI3"
+                  },
+                  {
+                    "cell_id": "3.11.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.11.5",
+                    "cell_text": "MAP"
+                  },
+                  {
+                    "cell_id": "3.11.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.11.7",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "3.11.8",
+                    "cell_text": 0.8
+                  },
+                  {
+                    "cell_id": "3.11.9",
+                    "cell_text": 0.397
+                  },
+                  {
+                    "cell_id": "3.11.10",
+                    "cell_text": 0.405
+                  },
+                  {
+                    "cell_id": "3.11.11",
+                    "cell_text": -0.196
+                  },
+                  {
+                    "cell_id": "3.11.12",
+                    "cell_text": 0.039
+                  },
+                  {
+                    "cell_id": "3.11.13",
+                    "cell_text": 1.17e-05
+                  },
+                  {
+                    "cell_id": "3.11.14",
+                    "cell_text": 6.93e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.12.1",
+                    "cell_text": 57587798.0
+                  },
+                  {
+                    "cell_id": "3.12.2",
+                    "cell_text": "rs11766519"
+                  },
+                  {
+                    "cell_id": "3.12.3",
+                    "cell_text": "Intergenic near  ZNF716"
+                  },
+                  {
+                    "cell_id": "3.12.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.12.5",
+                    "cell_text": "PP"
+                  },
+                  {
+                    "cell_id": "3.12.6",
+                    "cell_text": "Days drinks/week"
+                  },
+                  {
+                    "cell_id": "3.12.7",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "3.12.8",
+                    "cell_text": 0.13
+                  },
+                  {
+                    "cell_id": "3.12.9",
+                    "cell_text": 0.312
+                  },
+                  {
+                    "cell_id": "3.12.10",
+                    "cell_text": 0.065
+                  },
+                  {
+                    "cell_id": "3.12.11",
+                    "cell_text": -0.102
+                  },
+                  {
+                    "cell_id": "3.12.12",
+                    "cell_text": 0.018
+                  },
+                  {
+                    "cell_id": "3.12.13",
+                    "cell_text": 1.56e-07
+                  },
+                  {
+                    "cell_id": "3.12.14",
+                    "cell_text": 1.12e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.13.1",
+                    "cell_text": 61050488.0
+                  },
+                  {
+                    "cell_id": "3.13.2",
+                    "cell_text": "rs10826334"
+                  },
+                  {
+                    "cell_id": "3.13.3",
+                    "cell_text": "Intergenic near  SLC16A9"
+                  },
+                  {
+                    "cell_id": "3.13.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.13.5",
+                    "cell_text": "MAP"
+                  },
+                  {
+                    "cell_id": "3.13.6",
+                    "cell_text": "Oz alcohol/week"
+                  },
+                  {
+                    "cell_id": "3.13.7",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "3.13.8",
+                    "cell_text": 0.92
+                  },
+                  {
+                    "cell_id": "3.13.9",
+                    "cell_text": -0.092
+                  },
+                  {
+                    "cell_id": "3.13.10",
+                    "cell_text": 0.535
+                  },
+                  {
+                    "cell_id": "3.13.11",
+                    "cell_text": -0.529
+                  },
+                  {
+                    "cell_id": "3.13.12",
+                    "cell_text": 0.111
+                  },
+                  {
+                    "cell_id": "3.13.13",
+                    "cell_text": 6.22e-05
+                  },
+                  {
+                    "cell_id": "3.13.14",
+                    "cell_text": 9.29e-07
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 11.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.14.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.14.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.14.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.14.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.14.5",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.14.6",
+                    "cell_text": "Oz alcohol/week"
+                  },
+                  {
+                    "cell_id": "3.14.7",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "3.14.8",
+                    "cell_text": 0.92
+                  },
+                  {
+                    "cell_id": "3.14.9",
+                    "cell_text": -0.647
+                  },
+                  {
+                    "cell_id": "3.14.10",
+                    "cell_text": 0.79
+                  },
+                  {
+                    "cell_id": "3.14.11",
+                    "cell_text": -0.864
+                  },
+                  {
+                    "cell_id": "3.14.12",
+                    "cell_text": 0.165
+                  },
+                  {
+                    "cell_id": "3.14.13",
+                    "cell_text": 6.97e-05
+                  },
+                  {
+                    "cell_id": "3.14.14",
+                    "cell_text": 3.92e-08
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.15.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.15.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.15.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.15.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.15.5",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.15.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.15.7",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "3.15.8",
+                    "cell_text": 0.91
+                  },
+                  {
+                    "cell_id": "3.15.9",
+                    "cell_text": -0.461
+                  },
+                  {
+                    "cell_id": "3.15.10",
+                    "cell_text": 0.538
+                  },
+                  {
+                    "cell_id": "3.15.11",
+                    "cell_text": -0.238
+                  },
+                  {
+                    "cell_id": "3.15.12",
+                    "cell_text": 0.052
+                  },
+                  {
+                    "cell_id": "3.15.13",
+                    "cell_text": 6.57e-05
+                  },
+                  {
+                    "cell_id": "3.15.14",
+                    "cell_text": 1.27e-08
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.16.1",
+                    "cell_text": 98784049.0
+                  },
+                  {
+                    "cell_id": "3.16.2",
+                    "cell_text": "rs12773465"
+                  },
+                  {
+                    "cell_id": "3.16.3",
+                    "cell_text": "Intron  SLIT1"
+                  },
+                  {
+                    "cell_id": "3.16.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.16.5",
+                    "cell_text": "MAP"
+                  },
+                  {
+                    "cell_id": "3.16.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.16.7",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "3.16.8",
+                    "cell_text": 0.84
+                  },
+                  {
+                    "cell_id": "3.16.9",
+                    "cell_text": 0.264
+                  },
+                  {
+                    "cell_id": "3.16.10",
+                    "cell_text": 0.321
+                  },
+                  {
+                    "cell_id": "3.16.11",
+                    "cell_text": -0.159
+                  },
+                  {
+                    "cell_id": "3.16.12",
+                    "cell_text": 0.031
+                  },
+                  {
+                    "cell_id": "3.16.13",
+                    "cell_text": 7.33e-06
+                  },
+                  {
+                    "cell_id": "3.16.14",
+                    "cell_text": 2.41e-07
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 12.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.17.1",
+                    "cell_text": 98799693.0
+                  },
+                  {
+                    "cell_id": "3.17.2",
+                    "cell_text": "rs7902871"
+                  },
+                  {
+                    "cell_id": "3.17.3",
+                    "cell_text": "Intron  SLIT1"
+                  },
+                  {
+                    "cell_id": "3.17.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.17.5",
+                    "cell_text": "DBP"
+                  },
+                  {
+                    "cell_id": "3.17.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.17.7",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "3.17.8",
+                    "cell_text": 0.81
+                  },
+                  {
+                    "cell_id": "3.17.9",
+                    "cell_text": 0.313
+                  },
+                  {
+                    "cell_id": "3.17.10",
+                    "cell_text": 0.236
+                  },
+                  {
+                    "cell_id": "3.17.11",
+                    "cell_text": -0.12
+                  },
+                  {
+                    "cell_id": "3.17.12",
+                    "cell_text": 0.023
+                  },
+                  {
+                    "cell_id": "3.17.13",
+                    "cell_text": 2.78e-06
+                  },
+                  {
+                    "cell_id": "3.17.14",
+                    "cell_text": 9.85e-07
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 16.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.18.1",
+                    "cell_text": 23911889.0
+                  },
+                  {
+                    "cell_id": "3.18.2",
+                    "cell_text": "rs7116456"
+                  },
+                  {
+                    "cell_id": "3.18.3",
+                    "cell_text": "Intergenic"
+                  },
+                  {
+                    "cell_id": "3.18.4",
+                    "cell_text": "Genotyped"
+                  },
+                  {
+                    "cell_id": "3.18.5",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.18.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.18.7",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "3.18.8",
+                    "cell_text": 0.003
+                  },
+                  {
+                    "cell_id": "3.18.9",
+                    "cell_text": -7.284
+                  },
+                  {
+                    "cell_id": "3.18.10",
+                    "cell_text": 2.649
+                  },
+                  {
+                    "cell_id": "3.18.11",
+                    "cell_text": 0.929
+                  },
+                  {
+                    "cell_id": "3.18.12",
+                    "cell_text": 0.167
+                  },
+                  {
+                    "cell_id": "3.18.13",
+                    "cell_text": 1.08e-06
+                  },
+                  {
+                    "cell_id": "3.18.14",
+                    "cell_text": 1.37e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.19.1",
+                    "cell_text": 39382675.0
+                  },
+                  {
+                    "cell_id": "3.19.2",
+                    "cell_text": "rs12292796"
+                  },
+                  {
+                    "cell_id": "3.19.3",
+                    "cell_text": "Intergenic"
+                  },
+                  {
+                    "cell_id": "3.19.4",
+                    "cell_text": "Genotyped"
+                  },
+                  {
+                    "cell_id": "3.19.5",
+                    "cell_text": "PP"
+                  },
+                  {
+                    "cell_id": "3.19.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.19.7",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "3.19.8",
+                    "cell_text": 0.07
+                  },
+                  {
+                    "cell_id": "3.19.9",
+                    "cell_text": 0.173
+                  },
+                  {
+                    "cell_id": "3.19.10",
+                    "cell_text": 0.034
+                  },
+                  {
+                    "cell_id": "3.19.11",
+                    "cell_text": -0.003
+                  },
+                  {
+                    "cell_id": "3.19.12",
+                    "cell_text": 0.003
+                  },
+                  {
+                    "cell_id": "3.19.13",
+                    "cell_text": 0.32
+                  },
+                  {
+                    "cell_id": "3.19.14",
+                    "cell_text": 3.31e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.20.1",
+                    "cell_text": 20490379.0
+                  },
+                  {
+                    "cell_id": "3.20.2",
+                    "cell_text": "rs10841530"
+                  },
+                  {
+                    "cell_id": "3.20.3",
+                    "cell_text": "Intron  PDE3A"
+                  },
+                  {
+                    "cell_id": "3.20.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.20.5",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.20.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.20.7",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "3.20.8",
+                    "cell_text": 0.56
+                  },
+                  {
+                    "cell_id": "3.20.9",
+                    "cell_text": -1.02
+                  },
+                  {
+                    "cell_id": "3.20.10",
+                    "cell_text": 0.298
+                  },
+                  {
+                    "cell_id": "3.20.11",
+                    "cell_text": 0.155
+                  },
+                  {
+                    "cell_id": "3.20.12",
+                    "cell_text": 0.029
+                  },
+                  {
+                    "cell_id": "3.20.13",
+                    "cell_text": 4.37e-06
+                  },
+                  {
+                    "cell_id": "3.20.14",
+                    "cell_text": 6.36e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.21.1",
+                    "cell_text": 89998553.0
+                  },
+                  {
+                    "cell_id": "3.21.2",
+                    "cell_text": "rs991427"
+                  },
+                  {
+                    "cell_id": "3.21.3",
+                    "cell_text": "Intergenic  KERA-LUM"
+                  },
+                  {
+                    "cell_id": "3.21.4",
+                    "cell_text": "Genotyped"
+                  },
+                  {
+                    "cell_id": "3.21.5",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.21.6",
+                    "cell_text": "Oz alcohol/week"
+                  },
+                  {
+                    "cell_id": "3.21.7",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "3.21.8",
+                    "cell_text": 0.14
+                  },
+                  {
+                    "cell_id": "3.21.9",
+                    "cell_text": 1.96
+                  },
+                  {
+                    "cell_id": "3.21.10",
+                    "cell_text": 0.614
+                  },
+                  {
+                    "cell_id": "3.21.11",
+                    "cell_text": 0.412
+                  },
+                  {
+                    "cell_id": "3.21.12",
+                    "cell_text": 0.138
+                  },
+                  {
+                    "cell_id": "3.21.13",
+                    "cell_text": 0.023
+                  },
+                  {
+                    "cell_id": "3.21.14",
+                    "cell_text": 1.6e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.22.1",
+                    "cell_text": 90001245.0
+                  },
+                  {
+                    "cell_id": "3.22.2",
+                    "cell_text": "rs4494364"
+                  },
+                  {
+                    "cell_id": "3.22.3",
+                    "cell_text": "Intergenic  KERA-LUM"
+                  },
+                  {
+                    "cell_id": "3.22.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.22.5",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.22.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.22.7",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "3.22.8",
+                    "cell_text": 0.14
+                  },
+                  {
+                    "cell_id": "3.22.9",
+                    "cell_text": 0.868
+                  },
+                  {
+                    "cell_id": "3.22.10",
+                    "cell_text": 0.436
+                  },
+                  {
+                    "cell_id": "3.22.11",
+                    "cell_text": 0.142
+                  },
+                  {
+                    "cell_id": "3.22.12",
+                    "cell_text": 0.043
+                  },
+                  {
+                    "cell_id": "3.22.13",
+                    "cell_text": 0.004
+                  },
+                  {
+                    "cell_id": "3.22.14",
+                    "cell_text": 1.66e-07
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 21.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.23.1",
+                    "cell_text": 77923788.0
+                  },
+                  {
+                    "cell_id": "3.23.2",
+                    "cell_text": "rs9318552"
+                  },
+                  {
+                    "cell_id": "3.23.3",
+                    "cell_text": "Intron RNF219-AS1"
+                  },
+                  {
+                    "cell_id": "3.23.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.23.5",
+                    "cell_text": "DBP"
+                  },
+                  {
+                    "cell_id": "3.23.6",
+                    "cell_text": "Oz alcohol/week"
+                  },
+                  {
+                    "cell_id": "3.23.7",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "3.23.8",
+                    "cell_text": 0.79
+                  },
+                  {
+                    "cell_id": "3.23.9",
+                    "cell_text": -1.724
+                  },
+                  {
+                    "cell_id": "3.23.10",
+                    "cell_text": 0.343
+                  },
+                  {
+                    "cell_id": "3.23.11",
+                    "cell_text": 0.389
+                  },
+                  {
+                    "cell_id": "3.23.12",
+                    "cell_text": 0.07
+                  },
+                  {
+                    "cell_id": "3.23.13",
+                    "cell_text": 2.1e-07
+                  },
+                  {
+                    "cell_id": "3.23.14",
+                    "cell_text": 5.33e-08
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.24.1",
+                    "cell_text": 76611144.0
+                  },
+                  {
+                    "cell_id": "3.24.2",
+                    "cell_text": "rs2735413"
+                  },
+                  {
+                    "cell_id": "3.24.3",
+                    "cell_text": "Upstream  CLEC3A"
+                  },
+                  {
+                    "cell_id": "3.24.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.24.5",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.24.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.24.7",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "3.24.8",
+                    "cell_text": 0.31
+                  },
+                  {
+                    "cell_id": "3.24.9",
+                    "cell_text": -1.607
+                  },
+                  {
+                    "cell_id": "3.24.10",
+                    "cell_text": 0.342
+                  },
+                  {
+                    "cell_id": "3.24.11",
+                    "cell_text": 0.158
+                  },
+                  {
+                    "cell_id": "3.24.12",
+                    "cell_text": 0.035
+                  },
+                  {
+                    "cell_id": "3.24.13",
+                    "cell_text": 7.8e-05
+                  },
+                  {
+                    "cell_id": "3.24.14",
+                    "cell_text": 9.18e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.25.1",
+                    "cell_text": 82895735.0
+                  },
+                  {
+                    "cell_id": "3.25.2",
+                    "cell_text": "rs16963349"
+                  },
+                  {
+                    "cell_id": "3.25.3",
+                    "cell_text": "Intron  WFDC1"
+                  },
+                  {
+                    "cell_id": "3.25.4",
+                    "cell_text": "Genotyped"
+                  },
+                  {
+                    "cell_id": "3.25.5",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.25.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.25.7",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "3.25.8",
+                    "cell_text": 0.002
+                  },
+                  {
+                    "cell_id": "3.25.9",
+                    "cell_text": 1.067
+                  },
+                  {
+                    "cell_id": "3.25.10",
+                    "cell_text": 2.784
+                  },
+                  {
+                    "cell_id": "3.25.11",
+                    "cell_text": 1.178
+                  },
+                  {
+                    "cell_id": "3.25.12",
+                    "cell_text": 0.257
+                  },
+                  {
+                    "cell_id": "3.25.13",
+                    "cell_text": 6.03e-05
+                  },
+                  {
+                    "cell_id": "3.25.14",
+                    "cell_text": 1.14e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.26.1",
+                    "cell_text": 69856172.0
+                  },
+                  {
+                    "cell_id": "3.26.2",
+                    "cell_text": "rs1943940"
+                  },
+                  {
+                    "cell_id": "3.26.3",
+                    "cell_text": "Intergenic near  FBXO15"
+                  },
+                  {
+                    "cell_id": "3.26.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.26.5",
+                    "cell_text": "DBP"
+                  },
+                  {
+                    "cell_id": "3.26.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.26.7",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "3.26.8",
+                    "cell_text": 0.47
+                  },
+                  {
+                    "cell_id": "3.26.9",
+                    "cell_text": 0.194
+                  },
+                  {
+                    "cell_id": "3.26.10",
+                    "cell_text": 0.252
+                  },
+                  {
+                    "cell_id": "3.26.11",
+                    "cell_text": 0.1
+                  },
+                  {
+                    "cell_id": "3.26.12",
+                    "cell_text": 0.024
+                  },
+                  {
+                    "cell_id": "3.26.13",
+                    "cell_text": 0.000148
+                  },
+                  {
+                    "cell_id": "3.26.14",
+                    "cell_text": 6.16e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.27.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.27.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.27.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.27.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.27.5",
+                    "cell_text": "MAP"
+                  },
+                  {
+                    "cell_id": "3.27.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.27.7",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "3.27.8",
+                    "cell_text": 0.47
+                  },
+                  {
+                    "cell_id": "3.27.9",
+                    "cell_text": 0.248
+                  },
+                  {
+                    "cell_id": "3.27.10",
+                    "cell_text": 0.284
+                  },
+                  {
+                    "cell_id": "3.27.11",
+                    "cell_text": 0.106
+                  },
+                  {
+                    "cell_id": "3.27.12",
+                    "cell_text": 0.027
+                  },
+                  {
+                    "cell_id": "3.27.13",
+                    "cell_text": 0.000448
+                  },
+                  {
+                    "cell_id": "3.27.14",
+                    "cell_text": 8.16e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.28.1",
+                    "cell_text": 40101946.0
+                  },
+                  {
+                    "cell_id": "3.28.2",
+                    "cell_text": "rs2410182"
+                  },
+                  {
+                    "cell_id": "3.28.3",
+                    "cell_text": "Downstream  IGSF5"
+                  },
+                  {
+                    "cell_id": "3.28.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.28.5",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.28.6",
+                    "cell_text": "Oz alcohol/week"
+                  },
+                  {
+                    "cell_id": "3.28.7",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "3.28.8",
+                    "cell_text": 0.4
+                  },
+                  {
+                    "cell_id": "3.28.9",
+                    "cell_text": -0.245
+                  },
+                  {
+                    "cell_id": "3.28.10",
+                    "cell_text": 0.439
+                  },
+                  {
+                    "cell_id": "3.28.11",
+                    "cell_text": -0.452
+                  },
+                  {
+                    "cell_id": "3.28.12",
+                    "cell_text": 0.093
+                  },
+                  {
+                    "cell_id": "3.28.13",
+                    "cell_text": 0.000204
+                  },
+                  {
+                    "cell_id": "3.28.14",
+                    "cell_text": 6.87e-07
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.29.1",
+                    "cell_text": 40143126.0
+                  },
+                  {
+                    "cell_id": "3.29.2",
+                    "cell_text": "rs2837253"
+                  },
+                  {
+                    "cell_id": "3.29.3",
+                    "cell_text": "Intergenic  IGSF5-PCP4"
+                  },
+                  {
+                    "cell_id": "3.29.4",
+                    "cell_text": "Imputed"
+                  },
+                  {
+                    "cell_id": "3.29.5",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.29.6",
+                    "cell_text": "Drinks/week"
+                  },
+                  {
+                    "cell_id": "3.29.7",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "3.29.8",
+                    "cell_text": 0.3
+                  },
+                  {
+                    "cell_id": "3.29.9",
+                    "cell_text": -0.777
+                  },
+                  {
+                    "cell_id": "3.29.10",
+                    "cell_text": 0.349
+                  },
+                  {
+                    "cell_id": "3.29.11",
+                    "cell_text": 0.182
+                  },
+                  {
+                    "cell_id": "3.29.12",
+                    "cell_text": 0.035
+                  },
+                  {
+                    "cell_id": "3.29.13",
+                    "cell_text": 5.1e-06
+                  },
+                  {
+                    "cell_id": "3.29.14",
+                    "cell_text": 8e-07
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2833,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "The bolded p-values achieve genome-wide significance (p ≤ 5E-08).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "24376456.html",
+      "id": "4",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 4",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Previous GWAS associations near our significant and suggestive loci.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 75,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "4.1.1",
+              "cell_text": "Index SNP representing the significant or suggestive locus<!>Position"
+            },
+            {
+              "cell_id": "4.1.2",
+              "cell_text": "Index SNP representing the significant or suggestive locus<!>Index SNP"
+            },
+            {
+              "cell_id": "4.1.3",
+              "cell_text": "Previous GWAS findings from the NHGRI GWAS catalog, the integrated map viewer in the SNP database, and dbGaP<!>Trait"
+            },
+            {
+              "cell_id": "4.1.4",
+              "cell_text": "Previous GWAS findings from the NHGRI GWAS catalog, the integrated map viewer in the SNP database, and dbGaP<!>SNP"
+            },
+            {
+              "cell_id": "4.1.5",
+              "cell_text": "Previous GWAS findings from the NHGRI GWAS catalog, the integrated map viewer in the SNP database, and dbGaP<!>Position (in bp)"
+            },
+            {
+              "cell_id": "4.1.6",
+              "cell_text": "Previous GWAS findings from the NHGRI GWAS catalog, the integrated map viewer in the SNP database, and dbGaP<!>Genomic location"
+            },
+            {
+              "cell_id": "4.1.7",
+              "cell_text": "Previous GWAS findings from the NHGRI GWAS catalog, the integrated map viewer in the SNP database, and dbGaP<!>P -value"
+            },
+            {
+              "cell_id": "4.1.8",
+              "cell_text": "Previous GWAS findings from the NHGRI GWAS catalog, the integrated map viewer in the SNP database, and dbGaP<!>Database: PubMed ID referenced"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": 1.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.2.1",
+                    "cell_text": 78659796.0
+                  },
+                  {
+                    "cell_id": "4.2.2",
+                    "cell_text": "rs648425"
+                  },
+                  {
+                    "cell_id": "4.2.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.2.4",
+                    "cell_text": "rs669733 †"
+                  },
+                  {
+                    "cell_id": "4.2.5",
+                    "cell_text": 78639573.0
+                  },
+                  {
+                    "cell_id": "4.2.6",
+                    "cell_text": "Intergenic  MGC27382-PTGFR"
+                  },
+                  {
+                    "cell_id": "4.2.7",
+                    "cell_text": 4e-08
+                  },
+                  {
+                    "cell_id": "4.2.8",
+                    "cell_text": "dbGaP: 17903302"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.3.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.3.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.3.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.3.4",
+                    "cell_text": "rs10518590 †"
+                  },
+                  {
+                    "cell_id": "4.3.5",
+                    "cell_text": 79126676.0
+                  },
+                  {
+                    "cell_id": "4.3.6",
+                    "cell_text": "Downstream  ELTD1"
+                  },
+                  {
+                    "cell_id": "4.3.7",
+                    "cell_text": 3e-06
+                  },
+                  {
+                    "cell_id": "4.3.8",
+                    "cell_text": "dbGaP: 17903302"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.4.1",
+                    "cell_text": 214823444.0
+                  },
+                  {
+                    "cell_id": "4.4.2",
+                    "cell_text": "rs17669622"
+                  },
+                  {
+                    "cell_id": "4.4.3",
+                    "cell_text": "Cardiac hypertrophy"
+                  },
+                  {
+                    "cell_id": "4.4.4",
+                    "cell_text": "rs12757165"
+                  },
+                  {
+                    "cell_id": "4.4.5",
+                    "cell_text": 214783160.0
+                  },
+                  {
+                    "cell_id": "4.4.6",
+                    "cell_text": "Intron  ESRRG"
+                  },
+                  {
+                    "cell_id": "4.4.7",
+                    "cell_text": 1e-07
+                  },
+                  {
+                    "cell_id": "4.4.8",
+                    "cell_text": "GWAS catalog: 21348951"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.5.1",
+                    "cell_text": 227403469.0
+                  },
+                  {
+                    "cell_id": "4.5.2",
+                    "cell_text": "rs16849553"
+                  },
+                  {
+                    "cell_id": "4.5.3",
+                    "cell_text": "Alcoholism"
+                  },
+                  {
+                    "cell_id": "4.5.4",
+                    "cell_text": "rs603404 †"
+                  },
+                  {
+                    "cell_id": "4.5.5",
+                    "cell_text": 227171768.0
+                  },
+                  {
+                    "cell_id": "4.5.6",
+                    "cell_text": "Intergenic  RHOU-ISCA1P2"
+                  },
+                  {
+                    "cell_id": "4.5.7",
+                    "cell_text": 8e-05
+                  },
+                  {
+                    "cell_id": "4.5.8",
+                    "cell_text": "dbGaP: None"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 2.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.6.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.6.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.6.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.6.4",
+                    "cell_text": "rs237779 †"
+                  },
+                  {
+                    "cell_id": "4.6.5",
+                    "cell_text": 227501899.0
+                  },
+                  {
+                    "cell_id": "4.6.6",
+                    "cell_text": "Intron  RAB4A"
+                  },
+                  {
+                    "cell_id": "4.6.7",
+                    "cell_text": 9e-05
+                  },
+                  {
+                    "cell_id": "4.6.8",
+                    "cell_text": "dbGaP: None"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.7.1",
+                    "cell_text": 29101501.0
+                  },
+                  {
+                    "cell_id": "4.7.2",
+                    "cell_text": "rs13008299"
+                  },
+                  {
+                    "cell_id": "4.7.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.7.4",
+                    "cell_text": "rs3190"
+                  },
+                  {
+                    "cell_id": "4.7.5",
+                    "cell_text": 28878983.0
+                  },
+                  {
+                    "cell_id": "4.7.6",
+                    "cell_text": "UTR-3  PP1CB"
+                  },
+                  {
+                    "cell_id": "4.7.7",
+                    "cell_text": 9.9e-05
+                  },
+                  {
+                    "cell_id": "4.7.8",
+                    "cell_text": "dbGaP: 17903302"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 3.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.8.1",
+                    "cell_text": 46739646.0
+                  },
+                  {
+                    "cell_id": "4.8.2",
+                    "cell_text": "rs4953404"
+                  },
+                  {
+                    "cell_id": "4.8.3",
+                    "cell_text": "Coronary heart disease"
+                  },
+                  {
+                    "cell_id": "4.8.4",
+                    "cell_text": "rs2346177"
+                  },
+                  {
+                    "cell_id": "4.8.5",
+                    "cell_text": 46495753.0
+                  },
+                  {
+                    "cell_id": "4.8.6",
+                    "cell_text": "Intergenic  EPAS1 - TMEM247"
+                  },
+                  {
+                    "cell_id": "4.8.7",
+                    "cell_text": 2e-06
+                  },
+                  {
+                    "cell_id": "4.8.8",
+                    "cell_text": "GWAS catalog: 21347282"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 5.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.9.1",
+                    "cell_text": 20076567.0
+                  },
+                  {
+                    "cell_id": "4.9.2",
+                    "cell_text": "rs9874923"
+                  },
+                  {
+                    "cell_id": "4.9.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.9.4",
+                    "cell_text": "rs2203428"
+                  },
+                  {
+                    "cell_id": "4.9.5",
+                    "cell_text": 19655412.0
+                  },
+                  {
+                    "cell_id": "4.9.6",
+                    "cell_text": "Intergenic  KCNH8-EFHB"
+                  },
+                  {
+                    "cell_id": "4.9.7",
+                    "cell_text": 9e-05
+                  },
+                  {
+                    "cell_id": "4.9.8",
+                    "cell_text": "dbGaP: None"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.10.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.10.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.10.3",
+                    "cell_text": "Coronary artery disease"
+                  },
+                  {
+                    "cell_id": "4.10.4",
+                    "cell_text": "rs1523351"
+                  },
+                  {
+                    "cell_id": "4.10.5",
+                    "cell_text": 20552477.0
+                  },
+                  {
+                    "cell_id": "4.10.6",
+                    "cell_text": "Intergenic  SGOL1-VENTXP7"
+                  },
+                  {
+                    "cell_id": "4.10.7",
+                    "cell_text": 6e-07
+                  },
+                  {
+                    "cell_id": "4.10.8",
+                    "cell_text": "dbGaP: None"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 10.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.11.1",
+                    "cell_text": 5875647.0
+                  },
+                  {
+                    "cell_id": "4.11.2",
+                    "cell_text": "rs3852160"
+                  },
+                  {
+                    "cell_id": "4.11.3",
+                    "cell_text": "QT interval"
+                  },
+                  {
+                    "cell_id": "4.11.4",
+                    "cell_text": "rs7728043"
+                  },
+                  {
+                    "cell_id": "4.11.5",
+                    "cell_text": 5950694.0
+                  },
+                  {
+                    "cell_id": "4.11.6",
+                    "cell_text": "Intergenic  KIAA0947 - HMGB3P3"
+                  },
+                  {
+                    "cell_id": "4.11.7",
+                    "cell_text": 1e-06
+                  },
+                  {
+                    "cell_id": "4.11.8",
+                    "cell_text": "GWAS catalog: 20031603"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 7.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.12.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.12.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.12.3",
+                    "cell_text": "Hypertension"
+                  },
+                  {
+                    "cell_id": "4.12.4",
+                    "cell_text": "rs2937785"
+                  },
+                  {
+                    "cell_id": "4.12.5",
+                    "cell_text": 6250044.0
+                  },
+                  {
+                    "cell_id": "4.12.6",
+                    "cell_text": "Intergenic  KIAA0947-FLJ33360"
+                  },
+                  {
+                    "cell_id": "4.12.7",
+                    "cell_text": 9e-06
+                  },
+                  {
+                    "cell_id": "4.12.8",
+                    "cell_text": "dbGaP: None"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.13.1",
+                    "cell_text": 42351145.0
+                  },
+                  {
+                    "cell_id": "4.13.2",
+                    "cell_text": "rs7791745"
+                  },
+                  {
+                    "cell_id": "4.13.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.13.4",
+                    "cell_text": "rs949459"
+                  },
+                  {
+                    "cell_id": "4.13.5",
+                    "cell_text": 42608794.0
+                  },
+                  {
+                    "cell_id": "4.13.6",
+                    "cell_text": "Intergenic  GLI3-TCP1P1"
+                  },
+                  {
+                    "cell_id": "4.13.7",
+                    "cell_text": 7e-05
+                  },
+                  {
+                    "cell_id": "4.13.8",
+                    "cell_text": "dbGaP: 17903302"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.14.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.14.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.14.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.14.4",
+                    "cell_text": "rs10486744"
+                  },
+                  {
+                    "cell_id": "4.14.5",
+                    "cell_text": 42861079.0
+                  },
+                  {
+                    "cell_id": "4.14.6",
+                    "cell_text": "Intergenic  TCP1P1-C7orf25"
+                  },
+                  {
+                    "cell_id": "4.14.7",
+                    "cell_text": 4e-09
+                  },
+                  {
+                    "cell_id": "4.14.8",
+                    "cell_text": "dbGaP: 17903302"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.15.1",
+                    "cell_text": 61050488.0
+                  },
+                  {
+                    "cell_id": "4.15.2",
+                    "cell_text": "rs10826334"
+                  },
+                  {
+                    "cell_id": "4.15.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.15.4",
+                    "cell_text": "rs10509096"
+                  },
+                  {
+                    "cell_id": "4.15.5",
+                    "cell_text": 60602081.0
+                  },
+                  {
+                    "cell_id": "4.15.6",
+                    "cell_text": "Upstream  PHYHIPL"
+                  },
+                  {
+                    "cell_id": "4.15.7",
+                    "cell_text": 4e-06
+                  },
+                  {
+                    "cell_id": "4.15.8",
+                    "cell_text": "dbGaP: 17903302"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.16.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.16.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.16.3",
+                    "cell_text": "Uric acid levels"
+                  },
+                  {
+                    "cell_id": "4.16.4",
+                    "cell_text": "rs12356193"
+                  },
+                  {
+                    "cell_id": "4.16.5",
+                    "cell_text": 61083359.0
+                  },
+                  {
+                    "cell_id": "4.16.6",
+                    "cell_text": "Intron  SLC16A9"
+                  },
+                  {
+                    "cell_id": "4.16.7",
+                    "cell_text": 1e-08
+                  },
+                  {
+                    "cell_id": "4.16.8",
+                    "cell_text": "GWAS catalog: 19503597"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.17.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.17.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.17.3",
+                    "cell_text": "Carnitine"
+                  },
+                  {
+                    "cell_id": "4.17.4",
+                    "cell_text": "rs7094971"
+                  },
+                  {
+                    "cell_id": "4.17.5",
+                    "cell_text": 61119570.0
+                  },
+                  {
+                    "cell_id": "4.17.6",
+                    "cell_text": "Intron  SLC16A9"
+                  },
+                  {
+                    "cell_id": "4.17.7",
+                    "cell_text": 3e-14
+                  },
+                  {
+                    "cell_id": "4.17.8",
+                    "cell_text": "GWAS catalog: 21886157"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.18.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.18.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.18.3",
+                    "cell_text": "Alcohol drinking"
+                  },
+                  {
+                    "cell_id": "4.18.4",
+                    "cell_text": "rs6479671"
+                  },
+                  {
+                    "cell_id": "4.18.5",
+                    "cell_text": 61367883.0
+                  },
+                  {
+                    "cell_id": "4.18.6",
+                    "cell_text": "Intergenic  CCDC6-C10orf40"
+                  },
+                  {
+                    "cell_id": "4.18.7",
+                    "cell_text": 1e-11
+                  },
+                  {
+                    "cell_id": "4.18.8",
+                    "cell_text": "dbGaP: None"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 11.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.19.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.19.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.19.3",
+                    "cell_text": "Urate levels"
+                  },
+                  {
+                    "cell_id": "4.19.4",
+                    "cell_text": "rs1171614"
+                  },
+                  {
+                    "cell_id": "4.19.5",
+                    "cell_text": 61139544.0
+                  },
+                  {
+                    "cell_id": "4.19.6",
+                    "cell_text": "UTR-5  SLC16A9"
+                  },
+                  {
+                    "cell_id": "4.19.7",
+                    "cell_text": 2e-28
+                  },
+                  {
+                    "cell_id": "4.19.8",
+                    "cell_text": "GWAS catalog: 23263486"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.20.1",
+                    "cell_text": 98784049.0
+                  },
+                  {
+                    "cell_id": "4.20.2",
+                    "cell_text": "rs12773465"
+                  },
+                  {
+                    "cell_id": "4.20.3",
+                    "cell_text": "Cystathionine"
+                  },
+                  {
+                    "cell_id": "4.20.4",
+                    "cell_text": "rs3824789 *"
+                  },
+                  {
+                    "cell_id": "4.20.5",
+                    "cell_text": 98790089.0
+                  },
+                  {
+                    "cell_id": "4.20.6",
+                    "cell_text": "Intron  SLIT1"
+                  },
+                  {
+                    "cell_id": "4.20.7",
+                    "cell_text": 6e-06
+                  },
+                  {
+                    "cell_id": "4.20.8",
+                    "cell_text": "GWAS catalog: 23251661"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.21.1",
+                    "cell_text": 98799693.0
+                  },
+                  {
+                    "cell_id": "4.21.2",
+                    "cell_text": "rs7902871"
+                  },
+                  {
+                    "cell_id": "4.21.3",
+                    "cell_text": "Total cysteine"
+                  },
+                  {
+                    "cell_id": "4.21.4",
+                    "cell_text": "rs12767760"
+                  },
+                  {
+                    "cell_id": "4.21.5",
+                    "cell_text": 99284787.0
+                  },
+                  {
+                    "cell_id": "4.21.6",
+                    "cell_text": "Intron  UBTD1"
+                  },
+                  {
+                    "cell_id": "4.21.7",
+                    "cell_text": 7e-06
+                  },
+                  {
+                    "cell_id": "4.21.8",
+                    "cell_text": "GWAS catalog: 23251661"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 12.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.22.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.22.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.22.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.22.4",
+                    "cell_text": "rs2275588 †"
+                  },
+                  {
+                    "cell_id": "4.22.5",
+                    "cell_text": 99331175.0
+                  },
+                  {
+                    "cell_id": "4.22.6",
+                    "cell_text": "Intron  ANKRD2"
+                  },
+                  {
+                    "cell_id": "4.22.7",
+                    "cell_text": 3e-07
+                  },
+                  {
+                    "cell_id": "4.22.8",
+                    "cell_text": "dbGaP: 17903302"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.23.1",
+                    "cell_text": 23911889.0
+                  },
+                  {
+                    "cell_id": "4.23.2",
+                    "cell_text": "rs7116456"
+                  },
+                  {
+                    "cell_id": "4.23.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.23.4",
+                    "cell_text": "rs1519414 †"
+                  },
+                  {
+                    "cell_id": "4.23.5",
+                    "cell_text": 23624092.0
+                  },
+                  {
+                    "cell_id": "4.23.6",
+                    "cell_text": "Intergenic  RPS2P38-LUZP2"
+                  },
+                  {
+                    "cell_id": "4.23.7",
+                    "cell_text": 4e-05
+                  },
+                  {
+                    "cell_id": "4.23.8",
+                    "cell_text": "dbGaP: 17903302"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 16.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.24.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.24.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.24.3",
+                    "cell_text": "Echocardiography"
+                  },
+                  {
+                    "cell_id": "4.24.4",
+                    "cell_text": "rs10500968 †"
+                  },
+                  {
+                    "cell_id": "4.24.5",
+                    "cell_text": 23780043.0
+                  },
+                  {
+                    "cell_id": "4.24.6",
+                    "cell_text": "Intergenic  RPS2P38 LUZP2"
+                  },
+                  {
+                    "cell_id": "4.24.7",
+                    "cell_text": 8e-07
+                  },
+                  {
+                    "cell_id": "4.24.8",
+                    "cell_text": "dbGaP: 17903301"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.25.1",
+                    "cell_text": 20490379.0
+                  },
+                  {
+                    "cell_id": "4.25.2",
+                    "cell_text": "rs10841530"
+                  },
+                  {
+                    "cell_id": "4.25.3",
+                    "cell_text": "Baseline blood pressure"
+                  },
+                  {
+                    "cell_id": "4.25.4",
+                    "cell_text": "rs10841397"
+                  },
+                  {
+                    "cell_id": "4.25.5",
+                    "cell_text": 19955235.0
+                  },
+                  {
+                    "cell_id": "4.25.6",
+                    "cell_text": "Intergenic  RPL34P25-TCP1P3"
+                  },
+                  {
+                    "cell_id": "4.25.7",
+                    "cell_text": 9e-06
+                  },
+                  {
+                    "cell_id": "4.25.8",
+                    "cell_text": "GWAS catalog: 22952603"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.26.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.26.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.26.3",
+                    "cell_text": "Aortic root size"
+                  },
+                  {
+                    "cell_id": "4.26.4",
+                    "cell_text": "rs10770612"
+                  },
+                  {
+                    "cell_id": "4.26.5",
+                    "cell_text": 20121906.0
+                  },
+                  {
+                    "cell_id": "4.26.6",
+                    "cell_text": "Intron  LOC100506393"
+                  },
+                  {
+                    "cell_id": "4.26.7",
+                    "cell_text": 2e-08
+                  },
+                  {
+                    "cell_id": "4.26.8",
+                    "cell_text": "GWAS catalog: 19584346"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.27.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.27.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.27.3",
+                    "cell_text": "QT interval"
+                  },
+                  {
+                    "cell_id": "4.27.4",
+                    "cell_text": "rs1348582"
+                  },
+                  {
+                    "cell_id": "4.27.5",
+                    "cell_text": 20423023.0
+                  },
+                  {
+                    "cell_id": "4.27.6",
+                    "cell_text": "Intron  PDE3A"
+                  },
+                  {
+                    "cell_id": "4.27.7",
+                    "cell_text": 1e-06
+                  },
+                  {
+                    "cell_id": "4.27.8",
+                    "cell_text": "GWAS catalog: 20031603"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.28.1",
+                    "cell_text": 89998553.0
+                  },
+                  {
+                    "cell_id": "4.28.2",
+                    "cell_text": "rs991427"
+                  },
+                  {
+                    "cell_id": "4.28.3",
+                    "cell_text": "Sudden cardiac arrest"
+                  },
+                  {
+                    "cell_id": "4.28.4",
+                    "cell_text": "rs10777317"
+                  },
+                  {
+                    "cell_id": "4.28.5",
+                    "cell_text": 90504505.0
+                  },
+                  {
+                    "cell_id": "4.28.6",
+                    "cell_text": "Intergenic  DCN-BTG1"
+                  },
+                  {
+                    "cell_id": "4.28.7",
+                    "cell_text": 5e-06
+                  },
+                  {
+                    "cell_id": "4.28.8",
+                    "cell_text": "GWAS catalog: 21658281"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.29.1",
+                    "cell_text": 90001245.0
+                  },
+                  {
+                    "cell_id": "4.29.2",
+                    "cell_text": "rs4494364"
+                  },
+                  {
+                    "cell_id": "4.29.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.29.4",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.29.5",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.29.6",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.29.7",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.29.8",
+                    "cell_text": ""
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.30.1",
+                    "cell_text": 76611144.0
+                  },
+                  {
+                    "cell_id": "4.30.2",
+                    "cell_text": "rs2735413"
+                  },
+                  {
+                    "cell_id": "4.30.3",
+                    "cell_text": "Folate"
+                  },
+                  {
+                    "cell_id": "4.30.4",
+                    "cell_text": "rs4888671"
+                  },
+                  {
+                    "cell_id": "4.30.5",
+                    "cell_text": 76341081.0
+                  },
+                  {
+                    "cell_id": "4.30.6",
+                    "cell_text": "Intergenic  NUDT7-VAT1L"
+                  },
+                  {
+                    "cell_id": "4.30.7",
+                    "cell_text": 7e-06
+                  },
+                  {
+                    "cell_id": "4.30.8",
+                    "cell_text": "GWAS catalog: 23251661"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 21.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.31.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.31.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.31.3",
+                    "cell_text": "Cardiac structure and function"
+                  },
+                  {
+                    "cell_id": "4.31.4",
+                    "cell_text": "rs2059238"
+                  },
+                  {
+                    "cell_id": "4.31.5",
+                    "cell_text": 76816311.0
+                  },
+                  {
+                    "cell_id": "4.31.6",
+                    "cell_text": "Intron  WWOX"
+                  },
+                  {
+                    "cell_id": "4.31.7",
+                    "cell_text": 3e-06
+                  },
+                  {
+                    "cell_id": "4.31.8",
+                    "cell_text": "GWAS catalog: 19584346"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.32.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.32.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.32.3",
+                    "cell_text": "Cardiovascular disease"
+                  },
+                  {
+                    "cell_id": "4.32.4",
+                    "cell_text": "rs2278075 †"
+                  },
+                  {
+                    "cell_id": "4.32.5",
+                    "cell_text": 76848674.0
+                  },
+                  {
+                    "cell_id": "4.32.6",
+                    "cell_text": "Intron  WWOX"
+                  },
+                  {
+                    "cell_id": "4.32.7",
+                    "cell_text": 5e-09
+                  },
+                  {
+                    "cell_id": "4.32.8",
+                    "cell_text": "dbGaP: 17903304"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.33.1",
+                    "cell_text": 82895735.0
+                  },
+                  {
+                    "cell_id": "4.33.2",
+                    "cell_text": "rs16963349"
+                  },
+                  {
+                    "cell_id": "4.33.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.33.4",
+                    "cell_text": "rs3096277 †"
+                  },
+                  {
+                    "cell_id": "4.33.5",
+                    "cell_text": 82321705.0
+                  },
+                  {
+                    "cell_id": "4.33.6",
+                    "cell_text": "Intron  CDH13"
+                  },
+                  {
+                    "cell_id": "4.33.7",
+                    "cell_text": 1e-09
+                  },
+                  {
+                    "cell_id": "4.33.8",
+                    "cell_text": "GWAS catalog: 17903302"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.34.1",
+                    "cell_text": 69856172.0
+                  },
+                  {
+                    "cell_id": "4.34.2",
+                    "cell_text": "rs1943940"
+                  },
+                  {
+                    "cell_id": "4.34.3",
+                    "cell_text": "Hypertension"
+                  },
+                  {
+                    "cell_id": "4.34.4",
+                    "cell_text": "rs4892138"
+                  },
+                  {
+                    "cell_id": "4.34.5",
+                    "cell_text": 69609765.0
+                  },
+                  {
+                    "cell_id": "4.34.6",
+                    "cell_text": "Intergenic  NETO1-FBXO15"
+                  },
+                  {
+                    "cell_id": "4.34.7",
+                    "cell_text": 1e-05
+                  },
+                  {
+                    "cell_id": "4.34.8",
+                    "cell_text": "dbGaP: None"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.35.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.35.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.35.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.35.4",
+                    "cell_text": "rs2115980"
+                  },
+                  {
+                    "cell_id": "4.35.5",
+                    "cell_text": 69706356.0
+                  },
+                  {
+                    "cell_id": "4.35.6",
+                    "cell_text": "Intergenic  NETO1-FBXO15"
+                  },
+                  {
+                    "cell_id": "4.35.7",
+                    "cell_text": 9.7e-05
+                  },
+                  {
+                    "cell_id": "4.35.8",
+                    "cell_text": "dbGaP: None"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.36.1",
+                    "cell_text": 40101946.0
+                  },
+                  {
+                    "cell_id": "4.36.2",
+                    "cell_text": "rs2410182"
+                  },
+                  {
+                    "cell_id": "4.36.3",
+                    "cell_text": "Coronary heart disease"
+                  },
+                  {
+                    "cell_id": "4.36.4",
+                    "cell_text": "rs1735151"
+                  },
+                  {
+                    "cell_id": "4.36.5",
+                    "cell_text": 40045171.0
+                  },
+                  {
+                    "cell_id": "4.36.6",
+                    "cell_text": "Intron  IGSF5"
+                  },
+                  {
+                    "cell_id": "4.36.7",
+                    "cell_text": 9e-06
+                  },
+                  {
+                    "cell_id": "4.36.8",
+                    "cell_text": "GWAS catalog: 21347282"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.37.1",
+                    "cell_text": 40143126.0
+                  },
+                  {
+                    "cell_id": "4.37.2",
+                    "cell_text": "rs2837253"
+                  },
+                  {
+                    "cell_id": "4.37.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.37.4",
+                    "cell_text": "rs2297263"
+                  },
+                  {
+                    "cell_id": "4.37.5",
+                    "cell_text": 40377724.0
+                  },
+                  {
+                    "cell_id": "4.37.6",
+                    "cell_text": "Synonymous variant  DSCAM"
+                  },
+                  {
+                    "cell_id": "4.37.7",
+                    "cell_text": 8e-05
+                  },
+                  {
+                    "cell_id": "4.37.8",
+                    "cell_text": "dbGaP: 19060910"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.38.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.38.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.38.3",
+                    "cell_text": "Blood pressure"
+                  },
+                  {
+                    "cell_id": "4.38.4",
+                    "cell_text": "rs9977943"
+                  },
+                  {
+                    "cell_id": "4.38.5",
+                    "cell_text": 40589103.0
+                  },
+                  {
+                    "cell_id": "4.38.6",
+                    "cell_text": "Intron  DSCAM"
+                  },
+                  {
+                    "cell_id": "4.38.7",
+                    "cell_text": 9e-05
+                  },
+                  {
+                    "cell_id": "4.38.8",
+                    "cell_text": "dbGaP: None"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 3224,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "The R2 measure of linkage disequilibrium between the published association and our index SNP was determined using the SNAP database and the LocusZoom Plots when available.†R2 values measuring linkage disequilibrium with the index SNPs were not available.*SNP rs3824789 associated with cystathionine had R2 values of 0.305 and 0.448 with index SNPs rs12773465 and rs7902871, respectively. The remaining linkage disequilibrium values were less than 0.2. The bolded p-values achieve genome-wide significance (p ≤ 5E-08).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

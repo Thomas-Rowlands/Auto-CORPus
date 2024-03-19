@@ -1,0 +1,512 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "25009551.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Participant characteristics.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": ""
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": "Discovery cohort<!>Cases ( n  =  1641 )"
+            },
+            {
+              "cell_id": "1.1.3",
+              "cell_text": "Discovery cohort<!>Controls ( n  =  1604 )"
+            },
+            {
+              "cell_id": "1.1.4",
+              "cell_text": "Replication cohort<!>Cases ( n  =  740 )"
+            },
+            {
+              "cell_id": "1.1.5",
+              "cell_text": "Replication cohort<!>Controls ( n  =  1051 )"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": "Men,  n  (%)"
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": "1055 (64.3)"
+                  },
+                  {
+                    "cell_id": "1.2.3",
+                    "cell_text": "968 (60.3)"
+                  },
+                  {
+                    "cell_id": "1.2.4",
+                    "cell_text": "468 (63.2)"
+                  },
+                  {
+                    "cell_id": "1.2.5",
+                    "cell_text": "643 (61.2)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": "Age, years"
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": "65.7 ± 10.68"
+                  },
+                  {
+                    "cell_id": "1.3.3",
+                    "cell_text": "60.8 ± 7.41 ‡"
+                  },
+                  {
+                    "cell_id": "1.3.4",
+                    "cell_text": "70.6 ± 11.60"
+                  },
+                  {
+                    "cell_id": "1.3.5",
+                    "cell_text": "70.2 ± 12.42"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.4.1",
+                    "cell_text": "European ancestry,  n  (%)"
+                  },
+                  {
+                    "cell_id": "1.4.2",
+                    "cell_text": "1547 (94.3)"
+                  },
+                  {
+                    "cell_id": "1.4.3",
+                    "cell_text": "1512 (94.3)"
+                  },
+                  {
+                    "cell_id": "1.4.4",
+                    "cell_text": "721 (97.4)"
+                  },
+                  {
+                    "cell_id": "1.4.5",
+                    "cell_text": "1023 (97.3)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.5.1",
+                    "cell_text": "“Ever” smoker,  n  (%)"
+                  },
+                  {
+                    "cell_id": "1.5.2",
+                    "cell_text": "1322 (80.5)"
+                  },
+                  {
+                    "cell_id": "1.5.3",
+                    "cell_text": "963 (60.1)"
+                  },
+                  {
+                    "cell_id": "1.5.4",
+                    "cell_text": "632 (85.4)"
+                  },
+                  {
+                    "cell_id": "1.5.5",
+                    "cell_text": "641 (61.0)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.6.1",
+                    "cell_text": "ABI (pre-exercise)"
+                  },
+                  {
+                    "cell_id": "1.6.2",
+                    "cell_text": "0.72 ± 0.25"
+                  },
+                  {
+                    "cell_id": "1.6.3",
+                    "cell_text": "1.1 ± 0.07 ‡"
+                  },
+                  {
+                    "cell_id": "1.6.4",
+                    "cell_text": "0.79 ± 0.30"
+                  },
+                  {
+                    "cell_id": "1.6.5",
+                    "cell_text": "1.07 ± 0.16 ‡"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.7.1",
+                    "cell_text": "ABI (post-exercise)"
+                  },
+                  {
+                    "cell_id": "1.7.2",
+                    "cell_text": "0.54 ± 0.25"
+                  },
+                  {
+                    "cell_id": "1.7.3",
+                    "cell_text": "1.1 ± 0.12 ‡"
+                  },
+                  {
+                    "cell_id": "1.7.4",
+                    "cell_text": "0.56 ± 0.28"
+                  },
+                  {
+                    "cell_id": "1.7.5",
+                    "cell_text": "1.03 ± 0.19 ‡"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.8.1",
+                    "cell_text": "Hypertension,  n  (%)"
+                  },
+                  {
+                    "cell_id": "1.8.2",
+                    "cell_text": "1358 (82.8)"
+                  },
+                  {
+                    "cell_id": "1.8.3",
+                    "cell_text": "843 (52.6) ‡"
+                  },
+                  {
+                    "cell_id": "1.8.4",
+                    "cell_text": "583 (78.8)"
+                  },
+                  {
+                    "cell_id": "1.8.5",
+                    "cell_text": "634 (60.3) ‡"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.9.1",
+                    "cell_text": "Type 2 diabetes,  n  (%)"
+                  },
+                  {
+                    "cell_id": "1.9.2",
+                    "cell_text": "507 (30.9)"
+                  },
+                  {
+                    "cell_id": "1.9.3",
+                    "cell_text": "141 (8.8) ‡"
+                  },
+                  {
+                    "cell_id": "1.9.4",
+                    "cell_text": "225 (30.4)"
+                  },
+                  {
+                    "cell_id": "1.9.5",
+                    "cell_text": "126 (12.0) ‡"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.10.1",
+                    "cell_text": "Statin use,  n  (%)"
+                  },
+                  {
+                    "cell_id": "1.10.2",
+                    "cell_text": "774 (49.2)"
+                  },
+                  {
+                    "cell_id": "1.10.3",
+                    "cell_text": "398 (24.8) ‡"
+                  },
+                  {
+                    "cell_id": "1.10.4",
+                    "cell_text": "532 (72.0)"
+                  },
+                  {
+                    "cell_id": "1.10.5",
+                    "cell_text": "326 (61.1) ‡"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.11.1",
+                    "cell_text": "CHD,  n  (%)"
+                  },
+                  {
+                    "cell_id": "1.11.2",
+                    "cell_text": "903 (55)"
+                  },
+                  {
+                    "cell_id": "1.11.3",
+                    "cell_text": "251 (15.6) ‡"
+                  },
+                  {
+                    "cell_id": "1.11.4",
+                    "cell_text": "483 (65.3)"
+                  },
+                  {
+                    "cell_id": "1.11.5",
+                    "cell_text": "235 (22.4) ‡"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 660,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Continuous traits are depicted as mean ± standard deviation and categorical traits as count (percent); ABI, ankle-brachial index; CHD, coronary heart disease.‡P < 0.001 for differences between PAD cases and controls.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "25009551.html",
+      "id": "2",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 2",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Association of rs653178 with PAD in discovery, replication, and combined cohorts, after adjustment for age and sex in logistic regression models.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 152,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "2.1.1",
+              "cell_text": "Cohort"
+            },
+            {
+              "cell_id": "2.1.2",
+              "cell_text": "PAD ( n )"
+            },
+            {
+              "cell_id": "2.1.3",
+              "cell_text": "Controls ( n )"
+            },
+            {
+              "cell_id": "2.1.4",
+              "cell_text": "Risk allele (frequency * )"
+            },
+            {
+              "cell_id": "2.1.5",
+              "cell_text": "OR (95% CI)"
+            },
+            {
+              "cell_id": "2.1.6",
+              "cell_text": "P -value"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.2.1",
+                    "cell_text": "Discovery"
+                  },
+                  {
+                    "cell_id": "2.2.2",
+                    "cell_text": 1641.0
+                  },
+                  {
+                    "cell_id": "2.2.3",
+                    "cell_text": 1604.0
+                  },
+                  {
+                    "cell_id": "2.2.4",
+                    "cell_text": "C (0.469)"
+                  },
+                  {
+                    "cell_id": "2.2.5",
+                    "cell_text": "1.23 (1.11,1.36)"
+                  },
+                  {
+                    "cell_id": "2.2.6",
+                    "cell_text": "5.59 × 10 −5"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.3.1",
+                    "cell_text": "Replication"
+                  },
+                  {
+                    "cell_id": "2.3.2",
+                    "cell_text": 740.0
+                  },
+                  {
+                    "cell_id": "2.3.3",
+                    "cell_text": 1051.0
+                  },
+                  {
+                    "cell_id": "2.3.4",
+                    "cell_text": "C (0.475)"
+                  },
+                  {
+                    "cell_id": "2.3.5",
+                    "cell_text": "1.25 (1.10,1.40)"
+                  },
+                  {
+                    "cell_id": "2.3.6",
+                    "cell_text": "8.90 × 10 −4"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.4.1",
+                    "cell_text": "Combined"
+                  },
+                  {
+                    "cell_id": "2.4.2",
+                    "cell_text": 2381.0
+                  },
+                  {
+                    "cell_id": "2.4.3",
+                    "cell_text": 2655.0
+                  },
+                  {
+                    "cell_id": "2.4.4",
+                    "cell_text": "C (0.469)"
+                  },
+                  {
+                    "cell_id": "2.4.5",
+                    "cell_text": "1.22 (1.13,1.32)"
+                  },
+                  {
+                    "cell_id": "2.4.6",
+                    "cell_text": "6.46 × 10 −7"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 326,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "CI, confidence interval; OR, odds ratio; PAD, peripheral disease.*Controls.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

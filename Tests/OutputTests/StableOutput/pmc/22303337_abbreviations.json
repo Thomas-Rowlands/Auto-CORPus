@@ -1,0 +1,90 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "22303337.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "GWAS",
+          "text_long": "Genome-wide association studies"
+        },
+        {
+          "text_short": "HDL-C",
+          "text_long": "high-density lipoprotein cholesterol"
+        },
+        {
+          "text_short": "AMD",
+          "text_long": "age-related macular degeneration"
+        },
+        {
+          "text_short": "WTCCC",
+          "text_long": "Wellcome Trust Case Control Consortium"
+        },
+        {
+          "text_short": "LDL-C",
+          "text_long": "low-density lipoprotein cholesterol"
+        },
+        {
+          "text_short": "TG",
+          "text_long": "triglyceride"
+        },
+        {
+          "text_short": "NES",
+          "text_long": "normalized enrichment score"
+        },
+        {
+          "text_short": "FDR",
+          "text_long": "false discovery rate"
+        },
+        {
+          "text_short": "HDLBP",
+          "text_long": "HDL-binding protein"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "GWAS",
+          "text_long": "Genome-wide association studies"
+        },
+        {
+          "text_short": "HDL-C",
+          "text_long": "high-density lipoprotein cholesterol"
+        },
+        {
+          "text_short": "AMD",
+          "text_long": "age-related macular degeneration"
+        },
+        {
+          "text_short": "WTCCC",
+          "text_long": "Wellcome Trust Case Control Consortium"
+        },
+        {
+          "text_short": "LDL-C",
+          "text_long": "low-density lipoprotein cholesterol"
+        },
+        {
+          "text_short": "TG",
+          "text_long": "triglyceride"
+        },
+        {
+          "text_short": "NES",
+          "text_long": "normalized enrichment score"
+        },
+        {
+          "text_short": "FDR",
+          "text_long": "false discovery rate"
+        },
+        {
+          "text_short": "HDLBP",
+          "text_long": "HDL-binding protein"
+        }
+      ]
+    }
+  ]
+}

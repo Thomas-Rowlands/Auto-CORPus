@@ -1,0 +1,191 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "25918517.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Essential characteristics of the two “vulnerability” SNPs (and their closest genes) associated with reduced lifespan in both sexes in the FHS Original cohort.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 165,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": "SNP"
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": "Ch"
+            },
+            {
+              "cell_id": "1.1.3",
+              "cell_text": "Gene region"
+            },
+            {
+              "cell_id": "1.1.4",
+              "cell_text": "Closest gene"
+            },
+            {
+              "cell_id": "1.1.5",
+              "cell_text": "Gene/protein function in cell and tissue"
+            },
+            {
+              "cell_id": "1.1.6",
+              "cell_text": "Physiological processes and health disorders associated with the gene/protein"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": "rs7894051  * This SNP is in LD with rs1049951, exonic non-synonymous SNP in the same gene"
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": "10q26.2"
+                  },
+                  {
+                    "cell_id": "1.2.3",
+                    "cell_text": "Intronic"
+                  },
+                  {
+                    "cell_id": "1.2.4",
+                    "cell_text": "ECHS1 —enoyl CoA hydratase, short chain 1, mitoch."
+                  },
+                  {
+                    "cell_id": "1.2.5",
+                    "cell_text": "ECHS1 catalyzes the hydration of 2-trans-enoyl-coenzyme A (CoA). Involved in  mitochondrial oxidation  and  apoptosis  suppression (Liu et al.,  2010 ). In LD with 3 intronic SNPs in  PAOX  (oxidase) gene"
+                  },
+                  {
+                    "cell_id": "1.2.6",
+                    "cell_text": "Overexpressed in different  cancers ; has been implicated in melanoma (Lake et al.,  2011 ), liver and colorectal cancers (Xiao et al.,  2013 ; Zhu et al.,  2013 ; Xie et al.,  2014 ); suggested role in  neurological disorders  (Chiocchetti et al.,  2014 ; Perluigi et al.,  2014 )"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": "rs4904670"
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": "14q32.11"
+                  },
+                  {
+                    "cell_id": "1.3.3",
+                    "cell_text": "Intronic"
+                  },
+                  {
+                    "cell_id": "1.3.4",
+                    "cell_text": "NRDE2  (C14orf102) necessary for RNA interference, domain containing"
+                  },
+                  {
+                    "cell_id": "1.3.5",
+                    "cell_text": "NRDE2 is highly expressed in the brain (Maiti et al.,  2011 ); linked to  PSMC1 , proteasome 26S subunit, ATPase, 1, involved in  protein degradation .  * The PSMC1 may potentially interact with  PSMD13 , a gene which is in LD with  SIRT3  (see below)"
+                  },
+                  {
+                    "cell_id": "1.3.6",
+                    "cell_text": "NRDE2 can be associated with  cancer  (melanoma) (Chiu et al.,  2014 ); Suggested role of NRDE2 and PSMC1 in schizophrenia (Maiti et al.,  2011 ); and in  neurodegeneration  (Bedford et al.,  2008 )"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.4.1",
+                    "cell_text": "rs1794108"
+                  },
+                  {
+                    "cell_id": "1.4.2",
+                    "cell_text": "11p15.5"
+                  },
+                  {
+                    "cell_id": "1.4.3",
+                    "cell_text": "Exon—nonsyn coding"
+                  },
+                  {
+                    "cell_id": "1.4.4",
+                    "cell_text": "PSMD13 —proteasome 26S subunit, non-ATPase, 13"
+                  },
+                  {
+                    "cell_id": "1.4.5",
+                    "cell_text": "PSMD13 is a proteasome regulatory subunit, involved in  protein degradation . High LD between  PSMD13  and  SIRT3 .  * Sirtuins (SIRT1-7) play a central role in epigenetic gene silencing, DNA repair, cell-cycle, microtubule organization, and aging (Giblin et al.,  2014 )"
+                  },
+                  {
+                    "cell_id": "1.4.6",
+                    "cell_text": "Aging, longevity, cancer . PSMD13-SIRT3 haplotype pools are significantly different between centenarians and younger people (Bellizzi et al.,  2007 ). Plays role in  stem cells aging and stress response  (Brown et al.,  2013 ). SIRT3 can be a tumor promoter or tumor suppressor, depending on context (Alhazzazi et al.,  2011 )"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2023,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Other SNPs are not shown because they did not pass additional QC that we applied as described in Supplement. The SNP rs1794108 was added to this table because it is next top SNP, not by P-value but by the size of its effect on LS. It is also in LD with the SIRT3 gene. The minor allele of this SNP had negative effect on lifespan with significance in males (p < 1.65E-6) and in females (p < 1.91E-4).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

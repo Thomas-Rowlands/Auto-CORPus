@@ -1,0 +1,2137 @@
+{
+  "source": "Auto-CORPus (full-text)",
+  "date": "20210927",
+  "key": "autocorpus_fulltext.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "25918517.html",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Genetics of aging, health, and survival: dynamic regulation of human longevity related traits",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 93,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "keywords section",
+                "iao_id": "IAO:0000630"
+              }
+            ],
+            "section_title_1": "keywords"
+          },
+          "text": "longitudinal data, genetics of longevity, genetics of cancer, CVD, gene-environment interaction, smoking and life span, aging changes",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 234,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Background: The roles of genetic factors in human longevity would be better understood if one can use more efficient methods in genetic analyses and investigate pleiotropic effects of genetic variants on aging and health related traits.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 478,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Data and methods: We used EMMAX software with modified correction for population stratification to perform genome wide association studies (GWAS) of female lifespan from the original FHS cohort. The male data from the original FHS cohort and male and female data combined from the offspring FHS cohort were used to confirm findings. We evaluated pleiotropic effects of selected genetic variants as well as gene-smoking interactions on health and aging related traits. Then we reviewed current knowledge on functional properties of genes related to detected variants.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1044,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Results: The eight SNPs with genome-wide significant variants were negatively associated with lifespan in both males and females. After additional QC, two of these variants were selected for further analyses of their associations with major diseases (cancer and CHD) and physiological aging changes. Gene-smoking interactions contributed to these effects. Genes closest to detected variants appear to be involved in similar biological processes and health disorders, as those found in other studies of aging and longevity e.g., in cancer and neurodegeneration.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1604,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Conclusions: The impact of genes on longevity may involve trade-off-like effects on different health traits. Genes that influence lifespan represent various molecular functions but may be involved in similar biological processes and health disorders, which could contribute to genetic heterogeneity of longevity and the lack of replication in genetic association studies.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1975,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "The literature review on the genetic influence on human aging and longevity indicates limited progress in identifying genetic mechanisms regulating human aging, health, and longevity using genome wide association studies (GWAS). Most associations detected in these studies tend to be weak and have not reached the genome-wide level of statistical significance. They also suffer from the lack of replication in studies of independent populations. What factors and conditions might be responsible for such a situation? What methods and approaches have to be used to properly address these issues?",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2581,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "The literature on genetic studies of human longevity lacks an appropriate biologically-based conceptual framework that would allow one to efficiently address questions about the dynamic roles of genes in forming aging and longevity related traits. Such a framework would help specify necessary steps for efficient comprehensive analyses of corresponding genetic mechanisms using available data. The approaches based on the systems biology of aging, health, and longevity (Kriete, 2013; Yashin and Jazwinski, 2014) merged with biodemography of aging methods (Arbeev et al., 2011; Yashin et al., 2012b) and statistical modeling (Yashin et al., 2012a; Arbeev et al., 2014) have the potential to facilitate progress in this direction.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 3311,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "The literature review also revealed the underutilized research potential of available data that were used in genetic analyses of aging and longevity traits. The possibility of more efficient analyses of genetic associations with such traits was demonstrated in Yashin et al. (1999, 2000) where the joint analyses of genetic and demographic data in centenarians studies have been performed. The methods of such analyses were further developed and adjusted for the biological and biodemographic nature of the traits and successfully used in data analyses (Yashin et al., 2007, 2013; Arbeev et al., 2011). The results of these analyses indicate that the use of biodemographic ideas, models, and methods could shed more light on genetic mechanisms linking human aging, health, and longevity.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4098,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "In genetic analyses performed in this paper we used a modified statistical procedure of testing genetic associations with longevity related traits. The populations whose data are used in GWAS often have genetic structures called “population stratification” (PS). Such structures are caused by non-random mating between groups of individuals followed by different patterns of genetic drift of allele frequencies in each group. Without proper controlling for PS in the statistical procedures used in GWAS of complex traits the analyses may result in erroneous (false-positive) associations. To avoid such errors the genetic association studies of complex traits include control for potential PS. The method of principal components analyses (PCA) suggested in Price et al. (2006) identifies several top principal components (PCs) in genetic data and uses them as observed covariates in the statistical estimation procedure in GWAS. Although this approach may be efficient in GWAS of many complex traits it may create problems in genetic association studies of human longevity. This is because the process of mortality selection that takes place in genetically heterogeneous cohorts may generate additional genetic structures in the study populations. This structure which involves genetic variants affecting life span may be captured by the selected principal components. As a result, controlling for PS in GWAS of human aging and longevity may reduce the estimates of associations of genetic variants with longevity traits, i.e., it may substantially attenuate the signals from the genetic variants one wants to detect. In this paper we applied the new procedure for controlling for population stratification (see Section S1 in Supplementary Materials) in GWAS of human life span using data on females from the original cohort of the Framingham Heart Study (FHS). This procedure as well as the results of analyses using traditional and modified methods of controlling for potential PS in GWAS of human longevity are described in Yashin et al. (2014). We investigated the associations of the detected genetic variants with life span in males from the original and in males and females from the offspring FHS cohorts as well as with health related traits and age trajectories of biomarkers from the original cohort. We also investigated functional properties of genes related to detected variants.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 6491,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Data and methods"
+          },
+          "text": "In the discovery phase of the analyses we used the life span data on genotyped females collected in the original cohort of the Framingham Heart Study (FHS) (Giroux, 2013) as well as genetic data. The genetic data were represented by 550,000 SNPs. Genotyping was conducted using Affymetrix 500 K and 50 K (non-overlapping) arrays. The lifespan data were available for 1529 participants from the original FHS cohort. The quality control (QC) procedure included 95% call rate for the sample and 95% call rate for SNPs, and HWE p-value > 1E-7. After applying the QC procedure, the data on 1111 individuals with information about lifespan and 429,783 SNPs were available for the analysis. Life spans for 204 study subjects (52 males and 152 females) were censored. We used EMMAX software to perform GWAS of female lifespan data from the original FHS cohort with modified correction for population stratification. In the confirmation phase we used genetic and the life span data on males from the same FHS cohort and the life span data on males and females combined from the offspring FHS cohort. Using available data on cancer (all sites but skin) and CVD as well as longitudinal data on physiological indices we estimated age trajectories of probabilities of staying free of the corresponding diseases for carriers and non-carriers of selected genetic variants as well as associations of these variants with age trajectories of physiological indices. We also investigated how smoking modulates estimated associations. More details about methods of data analyses used in this paper are given in Section S1 of Supplementary Materials.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 8135,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Discovery phase "
+          },
+          "text": "The most significant genetic variants (minor alleles) resulted from GWAS on human life span using female data from the original FHS cohort are shown in Table S1 (in Supplementary Materials) together with corresponding estimates of the effect sizes, p-values, genetic frequencies, and other important characteristics of these SNPs.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 8488,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Confirmation phase "
+          },
+          "text": "To test whether the selected genetic variants also show significant associations with lifespan in males we performed genetic analysis of the ten selected SNPs using lifespan data on 432 males from the original FHS cohort. The same (additive) genetic model and the same observed covariates were used in these analyses. The results are summarized in Table S2 together with corresponding estimates of the effect sizes, p-values, genetic frequencies, and other important characteristics of these SNPs. This table shows that the eight genetic variants that had negative associations with lifespan in females also showed statistically significant negative associations with lifespan in males.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9193,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Confirmation phase "
+          },
+          "text": "Statistical estimates in Tables S1, S2 are obtained using mixed effect regression model with imputed life span data on 204 study subjects). It is unclear whether detected associations remain statistically significant when the methods free of life span imputation are used in the association analyses. To address this issue we evaluated genetic associations of selected genetic variants with mortality risk using Cox's regression model that does not require data imputation. The results of these analyses (Table S3) showed highly significant associations between selected genetic variants and mortality risks.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9801,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Confirmation phase "
+          },
+          "text": "To test whether detected variants are associated with life spans of the members of the offspring FHS cohort we performed genetic analyses of data for this cohort. Since the life span data for some members of this cohort are censored these analyses have been performed using the Cox's regression model using gender as an observed covariate. All selected variants showed significant associations with mortality risk using data from the offspring cohort (Table S7).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10263,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Empirical survival functions estimated from longitudinal data confirm detected associations"
+          },
+          "text": "An important advantage of longitudinal data for genetic analyses of lifespan is the opportunity to verify the research findings obtaned using regression models in GWAS by constructing and comparing empirical survival functions for carriers and non-carriers of selected variants. Note that the case-control analysis, typicaly used in genetic studies of centenarians, does not have data to make such a verification. Since associations of the variants with lifespan in our GWAS have the same direction of the effect in both genders, the Kaplan–Meier estimates of conditional survival functions for the genotyped members of the original FHS cohort were evaluated for males and females combined. In such evaluation we took into account that the life span data on the members of the original FHS cohort are right censored and left truncated. Note that for genetic analyses one should use age at blood collection (not the age at baseline) as the left truncation variable. We calculated these variables using data from the DNA Draw Date file available for FHS data from the dbGaP. Then we calculated ages at death/censoring of those 1111 individuals using age at the first exam and the number of days since the first exam until the death event or censoring which are provided in the Framingham data. Using these data and the R package “survival” we calculated Kaplan–Meier estimates of conditional survival functions for carriers and non-carriers of selected genetic variants who survived until specific ages (e.g., 70 or 80 years).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11878,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Empirical survival functions estimated from longitudinal data confirm detected associations"
+          },
+          "text": "Figure ​Figure11 shows patterns of survival for carriers and non-carriers of the minor allele, for two SNPs: rs7894051 (in ECHS1 gene), and rs4904670 (in NRDE2 gene) that were selected for further analyses after additional QC procedure described in Supplementary Materials.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12151,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Empirical survival functions estimated from longitudinal data confirm detected associations"
+          },
+          "text": "Figures 1A,B show such functions conditional on survival to age 70 years and the Figures 1C,D show these functions for those who survived age 80 years (for males and females combined). For rs7894051, the negative effect of the minor allele on survival became pronounced only after age 80 years. The probabilities of survival for carriers and non-carriers of these variants at the age interval between 70 and 80 years are about the same. For rs4904670, the negative effect on survival starts from the age 80. This SNP manifests a survival trade-off, with minor allele having positive effect on survival at ages before 80 and negative effect afterwards. This illustrates the changing age-specific influence of genes on vulnerability to death. The role of age as a modulator of genetic effects on lifespan was suggested and discussed in our prior works (De Benedictis et al., 1998; Yashin et al., 1999, 2000, 2001; Ukraintseva, 2005). Later, it was also noted in Atzmon et al. (2006). Age-dependence of genetic effects on health and related traits was also extensively discussed and analyzed in the past by different research groups (e.g., Jarvik et al., 1997) including our own (e.g., Kulminski et al., 2013). Note that the harmful influence of the minor alleles on survival after the age 80 was manifested for all eight genetic variants listed in Table S2. The Cox regression analyses applied to the life span data from the original FHS cohort showed that the difference in survival curves among minor allele carriers and non-carriers for each of the eight SNPs, males and females combined, was highly statistically significant (Table S3 Effects of gene-environment interaction on survival: the case of smoking).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 13862,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Empirical survival functions estimated from longitudinal data confirm detected associations"
+          },
+          "text": "Using data on the smoking habit (ever or never) as well as life span data on genotyped members of the original FHS cohort (males and females combined) we evaluated effects of interactions of detected genetic variants with the smoking habit on survival. The results are shown in Figure ​Figure22.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 14157,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Empirical survival functions estimated from longitudinal data confirm detected associations"
+          },
+          "text": "Figures 2A,B show four survival functions for smoker-carriers, smoker-non-carriers, non-smoker-carriers, and non-smoker-non-carriers of the minor allele, for the two SNPs, rs7894051 and rs4904670, introduced above. These figures show that non-smokers-non-carriers have the best survival, while smokers-carriers have the worst survival among all four groups. This is an important illustration of gene-environment interaction effects on survival, though one can see that the effect of genotype is stronger than the effect of smoking in case of these two SNPs.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 14714,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "How do detected genetic variants influence incidence rates of cancer and CVD?"
+          },
+          "text": "Using available data on ages at disease onset, we evaluated conditional probabilities of staying free of cancer (all sites but skin), for males and females combined who survived to 80 years of age. The results for the two SNPs, rs7894051 and rs4904670, are shown on Figure ​Figure33.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 15074,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "How do detected genetic variants influence incidence rates of cancer and CVD?"
+          },
+          "text": "One can see from this figure that when males and females are combined, the rs7894051 does not influence cancer risk (Figure ​(Figure3A),3A), while carrying the minor allele of rs4904670 (Figure ​(Figure3B)3B) increases that risk. The pattern observed in Figure ​Figure3A3A may take place when the effect of this allele on cancer risk is opposite in males and females. To test this possibility, we evaluated the age patterns of probabilities of staying free of cancer for males and females separately. The graphs shown in Figures 3C,D provide evidence that such situation does take place: the effects of minor alleles on cancer risk after age 80 were opposite in males and females for both rs7894051 and rs4904670. That is, the presence of the minor allele in person's genome increased the risk of cancer in females and reduced it in males for both the SNPs (Figures 3C–F). However, for rs4904670 the reduction of cancer risk in males did not fully compensate for the increase in such risk in females, so that the total effect of the minor allele of this SNP on cancer risk for males and females combined was detrimental. The effects of rs7894051 and rs4904670 on mortality rates from CVD and cancer are shown in Tables S4, S5 in Supplementary Materials. The vulnerability variants of these two SNPs increased the risk of CHD onset after age 80 (Figures S2, S3 and Table S6). Since carrying the vulnerability allele reduced the cancer risk in males at the same ages, these results suggest potentially important role of antagonistic pleiotropic effects of genes in determining their impact on longevity.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 16675,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Longevity related variants can modulate patterns of aging changes in biomarkers"
+          },
+          "text": "Using longitudinal data on body mass index (BMI) for genotyped individuals from the original FHS cohort, we evaluated the average age trajectories of BMI for carriers and non-carriers of the minor allele for the same two SNPs, rs7894051 and rs4904670, in males and females. The results are shown in Figure ​Figure44.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 17070,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Longevity related variants can modulate patterns of aging changes in biomarkers"
+          },
+          "text": "One can see from Figures 4A,B that between ages 40 and 65 years the average values of BMI for carriers of minor alleles exceeded those for non-carriers, in males and females combined. After this age the curves intersected so that the BMI of the carriers became lower than that of the non-carriers. Figures 4C,D show the effect of smoking habit on the average age trajectories of BMI for rs7894051 and rs4904670 minor-allele carriers and non-carriers. One can see that the average age trajectories for non-smoker-carriers of the minor allele of any of the two SNPs differed from other groups trajectories. It is also seen that smoking did not have a strong influence on the BMI age trajectories for non-carriers, for any of the two SNPs. For rs7894051, values of BMI for non-smoker-carriers were highest at the age interval between 50 and 70 years. For rs4904670 the age trajectory of BMI for the non-smoker-carriers sharply declined after age 70, as for the rs7894051.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 18038,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Genes related to the vulnerability variants: biological meaning"
+          },
+          "text": "Table ​Table11 shows essential characteristics and biological and health effects of the two SNPs, rs7894051 and rs4904670 that passed additional QC we applied as described in Supplement, as well as related genes. We also included rs1794108 to this table and relevant discussion because it is next top SNP by the size of its effect on lifespan (though not by P-value), which could aid biological interpretation of the findings. We conducted review of current knowledge about biological and health effects of these SNPs and related genes using up-to-date publications and reliable online sources such as NCBI's PubMed, Entrez Gene, dbSNP, OMIM, Ensembl, GeneCards, GO, and MetaCore from Thomson Reuters. Genes related to SNPs identified in this study (or to SNPs that are in LD with them) are largely involved in mitochondrial oxidation, apoptosis, and protein degradation in cell. These processes are important part of cell/tissue responses to stress or damage. For example, the NRDE2 (C14orf102) gene is linked to PSMC1, a subunit of 26S proteasome involved in protein degradation, essential for cell damage response. PSMC1 may potentially interact with PSMD13, which is another subunit of the same 26S proteasome involved in protein degradation. ECHS1 is involved in mitochondrial oxidation and apoptosis, also essential for cell/tissue response to damage (Table ​(Table11).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 19476,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Genes related to the vulnerability variants: biological meaning"
+          },
+          "text": "On the level of health disorders, detected genes were most often involved in cancer and neurological disorders, such as schizophrenia and ASD, which broadly overlaps with biological and health effects of genes found in other studies of aging and longevity (e.g., Walter et al., 2011; Yashin et al., 2012c). The frequent involvement of aging/longevity associated genes in neurological disorders suggests an intriguing possibility that genes predisposing to such disorders may accelerate brain physiological aging, and through this negatively impact longevity (in addition to direct pathological effects). A number of recent studies indicate that this might be the case, especially for schizophrenia (Kochunov et al., 2013; Koutsouleris et al., 2014; Shivakumar et al., 2014; Wright et al., 2014; Silver and Bilker, 2015). Potential mechanisms by which the same genetic factor may influence aging and brain pathology could involve, for example, declines in regenerative response to damage, neural repair, axons outgrowth, and synaptic transmission, typical of both brain aging and brain disorders (Balu and Coyle, 2011; Edwards et al., 2011; Ferguson and Son, 2011; Haroutunian et al., 2014).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 20666,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Genes related to the vulnerability variants: biological meaning"
+          },
+          "text": "As for connection between lifespan related genes and cancer, it appears to be complex and involve trade-offs. Our analyses showed that carrying minor (vulnerability) allele of the two selected SNPs increased cancer risk in females. For males, however, the effect of these variants on cancer was the opposite, and carrying the vulnerability allele reduced the cancer risk in males.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 21046,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Genes related to the vulnerability variants: biological meaning"
+          },
+          "text": "Since most centenarians avoid cancer (Andersen et al., 2005; Joseph et al., 2014), it may seem logical that pro-longevity variants could indeed be among those protecting against cancer. Our results for females are in line with this suggestion. However, vulnerability variants appear to be protective against cancer in males in this study.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 21384,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Genes related to the vulnerability variants: biological meaning"
+          },
+          "text": "This raises another intriguing possibility that pro-longevity variants (in non-carriers of vulnerability alleles) may sometimes do both, promote cancer and at the same time be potentially against certain phenotypes of physical senescence. This could happen because cancer (all sites combined) and senescent phenotypes such as physical frailty, and heart failure due to muscle atrophy, have peak manifestations at different ages: cancer risk reaches its maximum typically before oldest old age (<85), while senescence-related causes become major contributors to mortality risk later (at ages 85+) (Ukraintseva and Yashin, 2003a,b; Ukraintseva et al., 2008; Akushevich et al., 2012). If person who carries such a genetic risk factor for cancer nevertheless survives the period of the highest cancer risk (before age 85), s/he may get an advantage from attenuated physical senescence at older ages, so that such genetic variant may contribute to both longevity and cancer (in case of our study, in males only). Since males and females have markedly different body composition and physical manifestation of senescence, genetic factors could affect this manifestation also differently, and be beneficial or deleterious in only one gender.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 22617,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Genes related to the vulnerability variants: biological meaning"
+          },
+          "text": "Although biological and health effects of identified genes, especially their involvement in damage response, and in cancer, overlap with those earlier found in our and others' studies of aging and lifespan associated genes, the exact replication, such as findings of identical SNPs or genes, is less common across different studies.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 22949,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "The process of population aging in the developed part of the world has dramatic consequences for population health and health-care financing, and makes the reduction of the disease burden of the elderly people a high priority research problem. Useful insights into possible strategies of improving the health of the elderly could be produced from studying the roles of genetic factors in connection with aging, health, and longevity. An important implication of the results of such studies could be the possibility of preventing many aging related chronic diseases by slowing down or postponing individual aging processes.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 23581,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Positive implications from modest progress of GWAS of human life span"
+          },
+          "text": "The genetics of human aging and longevity became the subject of intensive analyses during the last decade ranging from studies of candidate genes (Franceschi et al., 2000; De Benedictis et al., 2001; Tan et al., 2001; Christensen et al., 2006; Christensen, 2008; Willcox et al., 2008) to genome-wide association studies (GWAS) (Lunetta et al., 2007; Newman et al., 2010; Yashin et al., 2010; Deelen et al., 2011, 2013; Nebel et al., 2011) that involved hundreds-of-thousands to millions of SNPs. Although the results of numerous GWAS of human aging and life span have modest success and could not clearly describe factors and mechanisms responsible for exceptional longevity, they have important positive implications. These results helped us identify problems that need to be urgently addressed to have further progress in the research field. Why were most of the detected genetic associations with human life span so weak? Why was it so difficult to replicate the research findings using data on independent studies? What are the mechanisms by which genes influence life span? Can one identify mechanisms that link lifespan-affecting genetic variants with health indicators and aging-related changes in biomarkers? How do detected variants interact with other genetic and non-genetic factors to influence life span? To address these questions, efficient approaches capable of studying the dynamic nature of genetic effects on mortality and morbidity risks, as well as on intermediate variables measured in longitudinal data have to be used. The results obtained with the help of one such approach were described in this paper.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 25278,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Genetic estimates in GWAS of human life span require proper control for population stratification"
+          },
+          "text": "We applied a modified procedure for controlling for potential population stratification in GWAS of human life span to detect genetic variants strongly associated with life span in both males and females and used longitudinal data to address questions about the roles of these variants in health and survival outcomes, age trajectories of biomarkers, as well as the effects of interactions with non-genetic factors. Our aim was to make genetic signals stronger, to evaluate genetic connections among aging-related changes, health, and life span, to elucidate possible reasons for the lack of replication, and to develop useful insights into potential mechanisms of life span regulation. The GWAS performed in these analyses used a modified procedure to control for possible population stratification. Such modification was needed because the traditional procedure may interfere with the process of mortality selection. The confirmation of the genome-wide significant findings in a population of opposite sex (males) in the same (original) cohort and in the offspring generation indicates that these findings are likely to be true-positive. It also indicates that GWAS of human longevity with inappropriate controls for population stratification are likely to suffer from the low level of statistical significance (weak signals) and from the lack of replication.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 26735,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Additional QC testing"
+          },
+          "text": "The genetic data from the original FHS cohort were one of the first prepared for genetic analyses using GWAS, and a substantial portion of genotyped cohort members died before the quality of genotyping was substantially improved. Therefore, these data have higher chances of having genotyping error than more recently produced datasets. Taking this into account we performed testing of the quality of genotyping for eight genetic variants detected in this study (Section S2 in Supplementary Materials). As a result of this testing the two of these SNPs rs7894051 (in ECHS1 gene), and rs4904670 (in NRDE2 gene) were selected for further analyses of their associations with major diseases (cancer and CHD) and physiological aging changes. Thus, although detected genetic associations in eight SNPs were confirmed twice (findings on female data were confirmed using data on males from the original FHS cohort, and then using data from the offspring FHS cohort), additional studies with higher quality genetic data are needed to make final conclusions about the involvement of all eight detected genes in regulation of health, aging, and longevity related traits.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 27915,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Benefits of biodemographic information for genetic studies of human longevity"
+          },
+          "text": "Researchers studying the genetics of human aging and longevity tend to underestimate the role of demographic information in genetic analyses of complex traits. Our analyses show that taking this information into account may substantially improve the quality of genetic analyses. Indeed, researchers studying genetics of human life span tacitly assume that population cohorts are genetically heterogeneous with respect to individual susceptibility to death. The aging of individuals in heterogeneous cohorts is accompanied by the process of mortality selection. The genetically vulnerable individuals tend to die first and genetically robust members of the cohort will survive to the old and the oldest-old ages. In Yashin et al. (1999, 2000, 2007, 2013) and Tan et al. (2003), we developed and tested a series of statistical methods for efficient joint analyses of genetic and demographic information in genetic studies of human longevity. The use of such methods allowed us not only to improve estimates of associations between genetic factors and longevity but also to evaluate and compare age patterns of mortality rates for carriers and non-carriers of candidate alleles and genotypes. Such comparisons are not possible using data on genetic frequencies alone.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 29256,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Monotonic vs. non-monotonic age patterns of allele frequencies"
+          },
+          "text": "Complex diseases, such as cancer, CVD, diabetes, and AD, are major contributors to mortality in old age. Genetic variants which increase risks of such diseases were shown to negatively affect survival and/or be less common among the long-lived people in many studies (e.g., Benes et al., 2001; De Benedictis et al., 2001; Lescai et al., 2009; Park et al., 2009, 2010; Nebel et al., 2011; Ruiz et al., 2011; Yashin and Jazwinski, 2014). The results of our analyses are in line with negative effects of detected alleles on survival after age 80 years. Note that such connection between genetic variants and survival is manifested by monotonically declining age patterns of the allele frequencies.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 30012,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Monotonic vs. non-monotonic age patterns of allele frequencies"
+          },
+          "text": "Previously we found that the non-monotonic age patterns of allele frequencies are also possible (Yashin et al., 1999, 2000). These patterns (e.g., when the variant's frequency first declines, then reaches minimum, and then increases) corresponds to a very important property of some genetic variants where their effects on mortality risk change with increasing age from detrimental to beneficial. In this case the mortality curves for carriers and non-carriers of the corresponding genetic variant intersect. Possible reasons for such intersection are discussed in Yashin et al. (2001) and Atzmon et al. (2006). Such a pattern could be responsible for the seemingly paradoxical presence of “risk alleles” for complex diseases in genomes of long-lived people, sometimes reported in literature (e.g., De Benedictis et al., 1998; Bladbjerg et al., 1999; Bonafe et al., 1999; Yashin et al., 1999, 2001b; Beekman et al., 2010; Freudenberg-Hua et al., 2014). Thus, the results of genetic studies of human longevity confirm the existence of two groups of genetic variants which can be characterized by different age patterns of genetic frequencies.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 31153,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Genetic heterogeneity of complex traits"
+          },
+          "text": "The results of our analyses show that negative associations of selected genetic variants with human life span in females were confirmed in males; they also influence the incidence rates of cancer of all sites combined (but skin) and CVD. One may argue that the health and longevity traits investigated in this study (i.e., life span and two diseases) are too heterogeneous: individual differences in life spans may depend on susceptibility to different chronic conditions and cause specific mortality risks; cancers of distinct sites are often associated with different genetic and non-genetic factors; the term CVD includes many diseases dealing with cardio-vascular problems, each having its own sets of risk factors; etc. Although these concerns are certainly correct, one often does not have much choice: the selection of a trait for analysis is determined by the available data which has to be enough to get reliable conclusions from the analyses. Studying factors affecting aggregated traits (e.g., cancer of all sites, all-cause, mortality risk, etc.) may help us detect regularities and identify mechanisms that are common for many specific phenotypes (cancers of specific sites, mortality risks by cause, etc.) comprising such traits. An important question is how best to analyze heterogeneous traits when you must? How can an understanding that the trait is genetically heterogeneous affect methods and results of analyses?",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 32625,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Genetic heterogeneity of complex traits"
+          },
+          "text": "Despite the fact that the presence of such heterogeneity is recognized by many researchers in the field, there is no agreement concerning the best strategies for dealing with this issue. The recommendation that follows from our experience would be to investigate genetic heterogeneity by using different statistical models of the connections between genetic factors and phenotypic traits, to consider how the results of analyses (e.g., sets of selected genetic variants) differ for different quality control procedures, to perform careful studies of the non-replicating results, keeping in mind that different genetic mechanisms may be responsible for the same manifestation of a given trait. The goal of the analyses thus becomes, not just finding the one or more longevity (or vulnerability) alleles/genotypes responsible for the genetic variation of life span in all individuals, but investigating possible alternative mechanisms responsible for developing this trait. These mechanisms may involve different sets of genes in different individuals or in different groups of individuals. The genetic heterogeneity of longevity could be partly responsible for the lack of replication of respective genetic association studies.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 33851,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Genetic mechanisms linking aging, health, and longevity"
+          },
+          "text": "Although exact replication, such as findings of identical SNPs or genes, is not common across genetic association studies of aging and longevity, biological and health effects of identified genes, especially their involvement in similar damage responses, and in similar pathology, often overlap between the different studies. In our case, the involvement of selected genes (Table ​(Table1)1) in cancer and neurological disorders was reported in both our and others' studies of aging and lifespan associated genes (e.g., Walter et al., 2011).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34447,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Genetic mechanisms linking aging, health, and longevity"
+          },
+          "text": "The results of our review of current knowledge also suggest an intriguing possibility that the vulnerability SNPs in genes involved in neurological disorders might also contribute to accelerated brain aging, and through this negatively impact longevity, which idea deserves further investigation. Connections between lifespan related genes and cancer may involve complex trade-offs. More detail on potential biological mechanisms are provided in section on Biological Meaning above.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34929,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Genetic mechanisms linking aging, health, and longevity"
+          },
+          "text": "In sum, our study demonstrated genetic connections among lifespan, physiological aging changes, and complex diseases. Comparison of functional properties of genes found in this and other genetic studies of aging/longevity indicates that human lifespan may be regulated by different sets of genes; however, these genes tend to be involved in similar biological processes and complex pathology. The fact that the same biological process or health outcome may be realized through the different genes suggests that genes may potentially be interchangeable in their influence on longevity. This could contribute to both genetic heterogeneity of longevity and to a lack of replication in genetic association studies of lifespan and related phenotypes. Additional studies with a higher quality genetic data are needed to support our conclusions.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35767,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Conflict of interest statement"
+          },
+          "text": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35969,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "acknowledgements section",
+                "iao_id": "IAO:0000324"
+              }
+            ],
+            "section_title_1": "Acknowledgments"
+          },
+          "text": "Research reported in this publication was supported by the National Institute on Aging of the National Institutes of Health under Award Numbers R01AG046860, P01AG043352, and P30AG034424. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. The Framingham Heart Study is conducted and supported by the National Heart, Lung, and Blood Institute (NHLBI) in collaboration with Boston University (Contract No. N01-HC-25195). This manuscript was not prepared in collaboration with investigators of the Framingham Heart Study and does not necessarily reflect the opinions or views of the Framingham Heart Study, Boston University, or NHLBI. Funding for SHARe Affymetrix genotyping was provided by NHLBI Contract N02-HL-64278. SHARe Illumina genotyping was provided under an agreement between Illumina and Boston University.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 36895,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material"
+          },
+          "text": "The Supplementary Material for this article can be found online at: http://www.frontiersin.org/journal/10.3389/fgene.2015.00122/abstract",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37053,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "New stochastic carcinogenesis model with covariates: an approach involving intracellular barrier mechanisms",
+            "journal": "Math. Biosci",
+            "volume": "236",
+            "section_title_1": "References"
+          },
+          "text": "Akushevich I., Veremeyeva G., Kravchenko J., Ukraintseva S., Arbeev K., Akleyev A. V., et al. . (2012). New stochastic carcinogenesis model with covariates: an approach involving intracellular barrier mechanisms. Math. Biosci. 236, 16–30. 10.1016/j.mbs.2011.12.002 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37383,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "SIRT3 and cancer: tumor promoter or suppressor?",
+            "journal": "Biochim. Biophys. Acta",
+            "volume": "1816",
+            "section_title_1": "References"
+          },
+          "text": "Alhazzazi T. Y., Kamarajan P., Verdin E., Kapila Y. L. (2011). SIRT3 and cancer: tumor promoter or suppressor?\nBiochim. Biophys. Acta\n1816, 80–88. 10.1016/j.bbcan.2011.04.004 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37613,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Cancer in the oldest old",
+            "journal": "Mech. Ageing Dev",
+            "volume": "126",
+            "section_title_1": "References"
+          },
+          "text": "Andersen S. L., Terry D. F., Wilcox M. A., Babineau T., Malek K., Perls T. T. (2005). Cancer in the oldest old. Mech. Ageing Dev. 126, 263–267. 10.1016/j.mad.2004.08.019 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37819,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Joint analyses of longitudinal and time-to-event data in research on aging: implications for predicting health and survival",
+            "journal": "Front Public Health",
+            "volume": "2",
+            "section_title_1": "References"
+          },
+          "text": "Arbeev K. G., Akushevich I., Kulminski A. M., Ukraintseva S. V., Yashin A. I. (2014). Joint analyses of longitudinal and time-to-event data in research on aging: implications for predicting health and survival. Front Public Health\n2:228. 10.3389/fpubh.2014.00228 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38137,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Evaluation of genotype-specific survival using joint analysis of genetic and non-genetic subsamples of longitudinal data",
+            "journal": "Biogerontology",
+            "volume": "12",
+            "section_title_1": "References"
+          },
+          "text": "Arbeev K. G., Ukraintseva S. V., Arbeeva L. S., Akushevich I., Kulminski A. M., Yashin A. I. (2011). Evaluation of genotype-specific survival using joint analysis of genetic and non-genetic subsamples of longitudinal data. Biogerontology\n12, 157–166. 10.1007/s10522-010-9316-1 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38469,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Lipoprotein genotype and conserved pathway for exceptional longevity in humans",
+            "journal": "PLoS Biol",
+            "volume": "4",
+            "section_title_1": "References"
+          },
+          "text": "Atzmon G., Rincon M., Schechter C. B., Shuldiner A. R., Lipton R. B., Bergman A., et al. . (2006). Lipoprotein genotype and conserved pathway for exceptional longevity in humans. PLoS Biol. 4:e113. 10.1371/journal.pbio.0040113 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38751,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Neuroplasticity signaling pathways linked to the pathophysiology of schizophrenia",
+            "journal": "Neurosci. Biobehav. Rev",
+            "volume": "35",
+            "section_title_1": "References"
+          },
+          "text": "Balu D. T., Coyle J. T. (2011). Neuroplasticity signaling pathways linked to the pathophysiology of schizophrenia. Neurosci. Biobehav. Rev. 35, 848–870. 10.1016/j.neubiorev.2010.10.005 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38991,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Depletion of 26S proteasomes in mouse brain neurons causes neurodegeneration and Lewy-like inclusions resembling human pale bodies",
+            "journal": "J. Neurosci",
+            "volume": "28",
+            "section_title_1": "References"
+          },
+          "text": "Bedford L., Hay D., Devoy A., Paine S., Powe D. G., Seth R., et al. . (2008). Depletion of 26S proteasomes in mouse brain neurons causes neurodegeneration and Lewy-like inclusions resembling human pale bodies. J. Neurosci. 28, 8189–8198. 10.1523/JNEUROSCI.2218-08.2008 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39315,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide association study (GWAS)-identified disease risk alleles do not compromise human longevity",
+            "journal": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "107",
+            "section_title_1": "References"
+          },
+          "text": "Beekman M., Nederstigt C., Suchiman H. E. D., Kremer D., Van Der Breggen R., Lakenberg N., et al. . (2010). Genome-wide association study (GWAS)-identified disease risk alleles do not compromise human longevity. Proc. Natl. Acad. Sci. U.S.A. 107, 18046–18049. 10.1073/pnas.1003540107 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39654,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Characterization of a bidirectional promoter shared between two human genes related to aging: SIRT3 and PSMD13",
+            "journal": "Genomics",
+            "volume": "89",
+            "section_title_1": "References"
+          },
+          "text": "Bellizzi D., Dato S., Cavalcante P., Covello G., Di Cianni F., Passarino G., et al. . (2007). Characterization of a bidirectional promoter shared between two human genes related to aging: SIRT3 and PSMD13. Genomics\n89, 143–150. 10.1016/j.ygeno.2006.09.004 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39946,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The C766T low-density lipoprotein receptor related protein polymorphism and coronary artery disease, plasma lipoproteins, and longevity in the Czech population",
+            "journal": "J. Mol. Med",
+            "volume": "79",
+            "section_title_1": "References"
+          },
+          "text": "Benes P., Muzik J., Benedik J., Elbl L., Vasku A., Siskova L., et al. . (2001). The C766T low-density lipoprotein receptor related protein polymorphism and coronary artery disease, plasma lipoproteins, and longevity in the Czech population. J. Mol. Med. 79, 116–120. 10.1007/s001090100196 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40271,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Longevity is independent of common variations in genes associated with cardiovascular risk",
+            "journal": "Thromb. Haemost",
+            "volume": "82",
+            "section_title_1": "References"
+          },
+          "text": "Bladbjerg E. M., Andersen-Ranberg K., De Maat M. P., Kristensen S. R., Jeune B., Gram J., et al. . (1999). Longevity is independent of common variations in genes associated with cardiovascular risk. Thromb. Haemost. 82, 1100–1105.  [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40528,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "p53 variants predisposing to cancer are present in healthy centenarians",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "64",
+            "section_title_1": "References"
+          },
+          "text": "Bonafe M., Olivieri F., Mari D., Baggio G., Mattace R., Sansoni P., et al. . (1999). p53 variants predisposing to cancer are present in healthy centenarians. Am. J. Hum. Genet. 64, 292–295. 10.1086/302196 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40788,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "SIRT3 reverses aging-associated degeneration",
+            "journal": "Cell Rep",
+            "volume": "3",
+            "section_title_1": "References"
+          },
+          "text": "Brown K., Xie S., Qiu X., Mohrin M., Shin J., Liu Y., et al. . (2013). SIRT3 reverses aging-associated degeneration. Cell Rep. 3, 319–327. 10.1016/j.celrep.2013.01.005 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41011,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Protein signatures of oxidative stress response in a patient specific cell line model for autism",
+            "journal": "Mol. Autism",
+            "volume": "5",
+            "section_title_1": "References"
+          },
+          "text": "Chiocchetti A. G., Haslinger D., Boesch M., Karl T., Wiemann S., Freitag C. M., et al. . (2014). Protein signatures of oxidative stress response in a patient specific cell line model for autism. Mol. Autism\n5:10. 10.1186/2040-2392-5-10 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41302,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide characterization of circulating tumor cells identifies novel prognostic genomic alterations in systemic melanoma metastasis",
+            "journal": "Clin. Chem",
+            "volume": "60",
+            "section_title_1": "References"
+          },
+          "text": "Chiu C. G., Nakamura Y., Chong K. K., Huang S. K., Kawas N. P., Triche T., et al. . (2014). Genome-wide characterization of circulating tumor cells identifies novel prognostic genomic alterations in systemic melanoma metastasis. Clin. Chem. 60, 873–885. 10.1373/clinchem.2013.213611 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41621,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Human biodemography: some challenges and possibilities for aging research",
+            "journal": "Demogr. Res",
+            "volume": "19",
+            "section_title_1": "References"
+          },
+          "text": "Christensen K. (2008). Human biodemography: some challenges and possibilities for aging research. Demogr. Res. 19, 1575–1586. 10.4054/DemRes.2008.19.43 [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41800,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The quest for genetic determinants of human longevity: challenges and insights",
+            "journal": "Nat. Rev. Genet",
+            "volume": "7",
+            "section_title_1": "References"
+          },
+          "text": "Christensen K., Johnson T. E., Vaupel J. W. (2006). The quest for genetic determinants of human longevity: challenges and insights. Nat. Rev. Genet. 7, 436–448. 10.1038/nrg1871 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42032,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Age-related changes of the 3'APOB-VNTR genotype pool in ageing cohorts",
+            "journal": "Ann. Hum. Genet",
+            "volume": "62",
+            "section_title_1": "References"
+          },
+          "text": "De Benedictis G., Carotenuto L., Carrieri G., De Luca M., Falcone E., Rose G., et al. . (1998). Age-related changes of the 3'APOB-VNTR genotype pool in ageing cohorts. Ann. Hum. Genet. 62, 115–122. 10.1017/S0003480098006757 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42292,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Recent advances in human gene-longevity association studies",
+            "journal": "Mech. Ageing Dev",
+            "volume": "122",
+            "section_title_1": "References"
+          },
+          "text": "De Benedictis G., Tan Q., Jeune B., Christensen K., Ukraintseva S. V., Bonafe M., et al. . (2001). Recent advances in human gene-longevity association studies. Mech. Ageing Dev. 122, 909–920. 10.1016/S0047-6374(01)00247-0 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42550,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Identifying the genomic determinants of aging and longevity in human population studies: progress and challenges",
+            "journal": "Bioessays",
+            "volume": "35",
+            "section_title_1": "References"
+          },
+          "text": "Deelen J., Beekman M., Capri M., Franceschi C., Slagboom P. E. (2013). Identifying the genomic determinants of aging and longevity in human population studies: progress and challenges. Bioessays\n35, 386–396. 10.1002/bies.201200148 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42836,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide association study identifies a single major locus contributing to survival into old age; the APOE locus revisited",
+            "journal": "Aging Cell",
+            "volume": "10",
+            "section_title_1": "References"
+          },
+          "text": "Deelen J., Beekman M., Uh H.-W., Helmer Q., Kuningas M., Christiansen L., et al. . (2011). Genome-wide association study identifies a single major locus contributing to survival into old age; the APOE locus revisited. Aging Cell\n10, 686–698. 10.1111/j.1474-9726.2011.00705.x [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43166,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Identifying consensus disease pathways in Parkinson's disease using an integrative systems biology approach",
+            "journal": "PLoS ONE",
+            "volume": "6",
+            "section_title_1": "References"
+          },
+          "text": "Edwards Y. J., Beecham G. W., Scott W. K., Khuri S., Bademci G., Tekin D., et al. . (2011). Identifying consensus disease pathways in Parkinson's disease using an integrative systems biology approach. PLoS ONE\n6:e16917. 10.1371/journal.pone.0016917 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43470,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Extrinsic and intrinsic determinants of nerve regeneration",
+            "journal": "J. Tissue Eng",
+            "volume": "2",
+            "section_title_1": "References"
+          },
+          "text": "Ferguson T. A., Son Y. J. (2011). Extrinsic and intrinsic determinants of nerve regeneration. J. Tissue Eng. 2:2041731411418392. 10.1177/2041731411418392 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43679,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The network and the remodeling theories of aging: historical background and new perspectives",
+            "journal": "Exp. Gerontol",
+            "volume": "35",
+            "section_title_1": "References"
+          },
+          "text": "Franceschi C., Valensin S., Bonafe M., Paolisso G., Yashin A. I., Monti D., et al. . (2000). The network and the remodeling theories of aging: historical background and new perspectives. Exp. Gerontol. 35, 879–896. 10.1016/S0531-5565(00)00172-8 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43960,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Disease variants in genomes of 44 centenarians",
+            "journal": "Mol. Genet. Genomic Med",
+            "volume": "2",
+            "section_title_1": "References"
+          },
+          "text": "Freudenberg-Hua Y., Freudenberg J., Vacic V., Abhyankar A., Emde A. K., Ben-Avraham D., et al. . (2014). Disease variants in genomes of 44 centenarians. Mol. Genet. Genomic Med. 2, 438–450. 10.1002/mgg3.86 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44221,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Sirtuins: guardians of mammalian healthspan",
+            "journal": "Trends Genet",
+            "volume": "30",
+            "section_title_1": "References"
+          },
+          "text": "Giblin W., Skinner M. E., Lombard D. B. (2014). Sirtuins: guardians of mammalian healthspan. Trends Genet. 30, 271–286. 10.1016/j.tig.2014.04.007 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44422,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The Framingham study and the constitution of a restrictive concept of risk factor",
+            "journal": "Soc. Hist. Med",
+            "volume": "26",
+            "section_title_1": "References"
+          },
+          "text": "Giroux E. (2013). The Framingham study and the constitution of a restrictive concept of risk factor. Soc. Hist. Med. 26, 94–112\n10.1093/shm/hks051 [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44596,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Myelination, oligodendrocytes, and serious mental illness",
+            "journal": "Glia",
+            "volume": "62",
+            "section_title_1": "References"
+          },
+          "text": "Haroutunian V., Katsel P., Roussos P., Davis K. L., Altshuler L. L., Bartzokis G. (2014). Myelination, oligodendrocytes, and serious mental illness. Glia\n62, 1856–1877. 10.1002/glia.22716 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44820,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Evidence that the apolipoprotein E-genotype effects on lipid levels can change with age in males: a longitudinal analysis",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "61",
+            "section_title_1": "References"
+          },
+          "text": "Jarvik G. P., Goode E. L., Austin M. A., Auwerx J., Deeb S., Schellenberg G. D., et al. . (1997). Evidence that the apolipoprotein E-genotype effects on lipid levels can change with age in males: a longitudinal analysis. Am. J. Hum. Genet. 61, 171–181. 10.1086/513902 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45143,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Common cancers in centenarians",
+            "journal": "Med. Sci. Monit",
+            "volume": "20",
+            "section_title_1": "References"
+          },
+          "text": "Joseph S. C., Delcastilo E., Loukas M., Osiro S. (2014). Common cancers in centenarians. Med. Sci. Monit. 20, 18–23. 10.12659/MSM.889877 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45335,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Testing the hypothesis of accelerated cerebral white matter aging in schizophrenia and major depression",
+            "journal": "Biol. Psychiatry",
+            "volume": "73",
+            "section_title_1": "References"
+          },
+          "text": "Kochunov P., Glahn D. C., Rowland L. M., Olvera R. L., Winkler A., Yang Y. H., et al. . (2013). Testing the hypothesis of accelerated cerebral white matter aging in schizophrenia and major depression. Biol. Psychiatry\n73, 482–491. 10.1016/j.biopsych.2012.10.002 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45652,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Accelerated brain aging in schizophrenia and beyond: a neuroanatomical marker of psychiatric disorders",
+            "journal": "Schizophr. Bull",
+            "volume": "40",
+            "section_title_1": "References"
+          },
+          "text": "Koutsouleris N., Davatzikos C., Borgwardt S., Gaser C., Bottlender R., Frodl T., et al. . (2014). Accelerated brain aging in schizophrenia and beyond: a neuroanatomical marker of psychiatric disorders. Schizophr. Bull. 40, 1140–1153. 10.1093/schbul/sbt142 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45963,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Robustness and aging–a systems-level perspective",
+            "journal": "BioSystems",
+            "volume": "112",
+            "section_title_1": "References"
+          },
+          "text": "Kriete A. (2013). Robustness and aging–a systems-level perspective. BioSystems\n112, 37–48. 10.1016/j.biosystems.2013.03.014 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46123,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The role of lipid-related genes, aging-related processes, and environment in healthspan",
+            "journal": "Aging Cell",
+            "volume": "12",
+            "section_title_1": "References"
+          },
+          "text": "Kulminski A. M., Culminskaya I., Arbeev K. G., Ukraintseva S. V., Stallard E., Arbeeva L., et al. . (2013). The role of lipid-related genes, aging-related processes, and environment in healthspan. Aging Cell\n12, 237–246. 10.1111/acel.12046 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46418,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Multiplex ligation-dependent probe amplification of conjunctival melanoma reveals common BRAF V600E gene mutation and gene copy number changes",
+            "journal": "Invest. Ophthalmol. Vis. Sci",
+            "volume": "52",
+            "section_title_1": "References"
+          },
+          "text": "Lake S. L., Jmor F., Dopierala J., Taktak A. F., Coupland S. E., Damato B. E. (2011). Multiplex ligation-dependent probe amplification of conjunctival melanoma reveals common BRAF V600E gene mutation and gene copy number changes. Invest. Ophthalmol. Vis. Sci. 52, 5598–5604. 10.1167/iovs.10-6934 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46750,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "PON1 is a longevity gene: results of a meta-analysis",
+            "journal": "Ageing Res. Rev",
+            "volume": "8",
+            "section_title_1": "References"
+          },
+          "text": "Lescai F., Marchegiani F., Franceschi C. (2009). PON1 is a longevity gene: results of a meta-analysis. Ageing Res. Rev. 8, 277–284. 10.1016/j.arr.2009.04.001 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46944,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The role of enoyl-CoA hydratase short chain 1 and peroxiredoxin 3 in PP2-induced apoptosis in human breast cancer MCF-7 cells",
+            "journal": "FEBS Lett",
+            "volume": "584",
+            "section_title_1": "References"
+          },
+          "text": "Liu X., Feng R., Du L. (2010). The role of enoyl-CoA hydratase short chain 1 and peroxiredoxin 3 in PP2-induced apoptosis in human breast cancer MCF-7 cells. FEBS Lett. 584, 3185–3192. 10.1016/j.febslet.2010.06.002 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47195,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetic correlates of longevity and selected age-related phenotypes: a genome-wide association study in the Framingham Study",
+            "journal": "BMC Med. Genet",
+            "volume": "8",
+            "section_title_1": "References"
+          },
+          "text": "Lunetta K. L., D'agostino R. B., Sr., Karasik D., Benjamin E. J., Guo C. Y., Govindaraju R., et al. . (2007). Genetic correlates of longevity and selected age-related phenotypes: a genome-wide association study in the Framingham Study. BMC Med. Genet. 8 (Suppl. 1):S13. 10.1186/1471-2350-8-S1-S13 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47547,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Ontogenetic de novo copy number variations (CNVs) as a source of genetic individuality: studies on two families with MZD twins for schizophrenia",
+            "journal": "PLoS ONE",
+            "volume": "6",
+            "section_title_1": "References"
+          },
+          "text": "Maiti S., Kumar K. H., Castellani C. A., O'reilly R., Singh S. M. (2011). Ontogenetic de novo copy number variations (CNVs) as a source of genetic individuality: studies on two families with MZD twins for schizophrenia. PLoS ONE\n6:e17125. 10.1371/journal.pone.0017125 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47870,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A genome-wide association study confirms APOE as the major gene influencing survival in long-lived individuals",
+            "journal": "Mech. Ageing Dev",
+            "volume": "132",
+            "section_title_1": "References"
+          },
+          "text": "Nebel A., Kleindorp R., Caliebe A., Nothnagel M., Blanche H., Junge O., et al. . (2011). A genome-wide association study confirms APOE as the major gene influencing survival in long-lived individuals. Mech. Ageing Dev. 132, 324–330. 10.1016/j.mad.2011.06.008 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48165,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A Meta-analysis of four genome-wide association studies of survival to age 90 years or older: the cohorts for heart and aging research in genomic epidemiology consortium",
+            "journal": "J. Gerontol. A Biol. Sci. Med. Sci",
+            "volume": "65",
+            "section_title_1": "References"
+          },
+          "text": "Newman A. B., Walter S., Lunetta K. L., Garcia M. E., Slagboom P. E., Christensen K., et al. . (2010). A Meta-analysis of four genome-wide association studies of survival to age 90 years or older: the cohorts for heart and aging research in genomic epidemiology consortium. J. Gerontol. A Biol. Sci. Med. Sci. 65, 478–487. 10.1093/gerona/glq028 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48565,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Estimation of effect size distribution from genome-wide association studies and implications for future discoveries",
+            "journal": "Nat. Genet",
+            "volume": "42",
+            "section_title_1": "References"
+          },
+          "text": "Park J.-H., Wacholder S., Gail M. H., Peters U., Jacobs K. B., Chanock S. J., et al. . (2010). Estimation of effect size distribution from genome-wide association studies and implications for future discoveries. Nat. Genet. 42, 570–575. 10.1038/ng.610 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48872,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Candidate gene polymorphisms for diabetes mellitus, cardiovascular disease and cancer are associated with longevity in Koreans",
+            "journal": "Exp. Mol. Med",
+            "volume": "41",
+            "section_title_1": "References"
+          },
+          "text": "Park J. W., Ji Y. I., Choi Y.-H., Kang M.-Y., Jung E., Cho S. Y., et al. . (2009). Candidate gene polymorphisms for diabetes mellitus, cardiovascular disease and cancer are associated with longevity in Koreans. Exp. Mol. Med. 41, 772–781. 10.3858/emm.2009.41.11.083 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49193,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Unraveling the complexity of neurodegeneration in brains of subjects with Down syndrome: insights from proteomics",
+            "journal": "Proteomics Clin. Appl",
+            "volume": "8",
+            "section_title_1": "References"
+          },
+          "text": "Perluigi M., Di Domenico F., Buttterfield D. A. (2014). Unraveling the complexity of neurodegeneration in brains of subjects with Down syndrome: insights from proteomics. Proteomics Clin. Appl. 8, 73–85. 10.1002/prca.201300066 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49475,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Principal components analysis corrects for stratification in genome-wide association studies",
+            "journal": "Nat. Genet",
+            "volume": "38",
+            "section_title_1": "References"
+          },
+          "text": "Price A. L., Patterson N. J., Plenge R. M., Weinblatt M. E., Shadick N. A., Reich D. (2006). Principal components analysis corrects for stratification in genome-wide association studies. Nat. Genet. 38, 904–909. 10.1038/ng1847 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49738,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Strenuous endurance exercise improves life expectancy: it's in our genes",
+            "journal": "Br. J. Sports Med",
+            "volume": "45",
+            "section_title_1": "References"
+          },
+          "text": "Ruiz J. R., Moran M., Arenas J., Lucia A. (2011). Strenuous endurance exercise improves life expectancy: it's in our genes. Br. J. Sports Med. 45, 159–161. 10.1136/bjsm.2010.075085 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49955,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Do schizophrenia patients age early?",
+            "journal": "Asian J. Psychiatr",
+            "volume": "10",
+            "section_title_1": "References"
+          },
+          "text": "Shivakumar V., Kalmady S. V., Venkatasubramanian G., Ravi V., Gangadhar B. N. (2014). Do schizophrenia patients age early?\nAsian J. Psychiatr. 10, 3–9. 10.1016/j.ajp.2014.02.007 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50169,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Similar verbal memory impairments in schizophrenia and healthy aging. Implications for understanding of neural mechanisms",
+            "journal": "Psychiatry Res",
+            "volume": "226",
+            "section_title_1": "References"
+          },
+          "text": "Silver H., Bilker W. B. (2015). Similar verbal memory impairments in schizophrenia and healthy aging. Implications for understanding of neural mechanisms. Psychiatry Res. 226, 277–283. 10.1016/j.psychres.2014.12.062 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50421,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Logistic regression models for polymorphic and antagonistic pleiotropic gene action on human aging and longevity",
+            "journal": "Ann. Hum. Genet",
+            "volume": "67",
+            "section_title_1": "References"
+          },
+          "text": "Tan Q. H., Bathum L., Christiansen L., De Benedictis G., Dahlgaard J., Frizner N., et al. . (2003). Logistic regression models for polymorphic and antagonistic pleiotropic gene action on human aging and longevity. Ann. Hum. Genet. 67, 598–607. 10.1046/j.1529-8817.2003.00051.x [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50734,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A logistic regression model for measuring gene-longevity associations",
+            "journal": "Clin. Genet",
+            "volume": "60",
+            "section_title_1": "References"
+          },
+          "text": "Tan Q., Yashin A. I., De Benedictis G., Cintolesi F., Rose G., Bonafe M., et al. . (2001). A logistic regression model for measuring gene-longevity associations. Clin. Genet. 60, 463–469. 10.1034/j.1399-0004.2001.600610.x [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50992,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Bad” in the young – “good” in the old: is this consistent with the antagonistic pleiotropy concept? (on Dr. G.M. Martin's “How is the evolutionary biological theory of aging holding up against mounting attacks?”)",
+            "journal": "Am. Aging Assoc. Newslett",
+            "section_title_1": "References"
+          },
+          "text": "Ukraintseva S. V. (2005). Bad” in the young – “good” in the old: is this consistent with the antagonistic pleiotropy concept? (on Dr. G.M. Martin's “How is the evolutionary biological theory of aging holding up against mounting attacks?”). Am. Aging Assoc. Newslett. 4–5. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 51280,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Epidemiology of hormone-associated cancers as a reflection of age",
+            "journal": "Adv. Exp. Med. Biol",
+            "volume": "630",
+            "section_title_1": "References"
+          },
+          "text": "Ukraintseva S. V., Arbeev K. G., Yashin A. I. (2008). Epidemiology of hormone-associated cancers as a reflection of age. Adv. Exp. Med. Biol. 630, 57–71. 10.1007/978-0-387-78818-0_5 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 51498,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Individual aging and cancer risk: how are they related?",
+            "journal": "Demogr. Res",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "Ukraintseva S. V., Yashin A. I. (2003a). Individual aging and cancer risk: how are they related?\nDemogr. Res. 9, 163–196\n10.4054/DemRes.2003.9.8 [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 51670,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Opposite phenotypes of cancer and aging arise from alternative regulation of common signaling pathways",
+            "journal": "Ann. N.Y. Acad. Sci",
+            "volume": "1010",
+            "section_title_1": "References"
+          },
+          "text": "Ukraintseva S. V., Yashin A. I. (2003b). Opposite phenotypes of cancer and aging arise from alternative regulation of common signaling pathways. Ann. N.Y. Acad. Sci. 1010, 489–492. 10.1196/annals.1299.089 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 51911,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A genome-wide association study of aging",
+            "journal": "Neurobiol. Aging",
+            "volume": "32",
+            "section_title_1": "References"
+          },
+          "text": "Walter S., Atzmon G., Demerath E. W., Garcia M. E., Kaplan R. C., Kumari M., et al.  (2011). A genome-wide association study of aging. Neurobiol. Aging\n32, 2109.e2115–2109.e2128\n10.1016/j.neurobiolaging.2011.05.026 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 52181,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "FOXO3A genotype is strongly associated with human longevity",
+            "journal": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "105",
+            "section_title_1": "References"
+          },
+          "text": "Willcox B. J., Donlon T. A., He Q., Chen R., Grove J. S., Yano K., et al. . (2008). FOXO3A genotype is strongly associated with human longevity. Proc. Natl. Acad. Sci. U.S.A. 105, 13987–13992. 10.1073/pnas.0801030105 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 52453,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Accelerated white matter aging in schizophrenia: role of white matter blood perfusion",
+            "journal": "Neurobiol. Aging",
+            "volume": "35",
+            "section_title_1": "References"
+          },
+          "text": "Wright S. N., Kochunov P., Chiappelli J., Mcmahon R. P., Muellerklein F., Wijtenburg S. A., et al. . (2014). Accelerated white matter aging in schizophrenia: role of white matter blood perfusion. Neurobiol. Aging\n35, 2411–2418. 10.1016/j.neurobiolaging.2014.02.016 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 52773,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "ECHS1 acts as a novel HBsAg-binding protein enhancing apoptosis through the mitochondrial pathway in HepG2 cells",
+            "journal": "Cancer Lett",
+            "volume": "330",
+            "section_title_1": "References"
+          },
+          "text": "Xiao C. X., Yang X. N., Huang Q. W., Zhang Y. Q., Lin B. Y., Liu J. J., et al. . (2013). ECHS1 acts as a novel HBsAg-binding protein enhancing apoptosis through the mitochondrial pathway in HepG2 cells. Cancer Lett. 330, 67–73. 10.1016/j.canlet.2012.11.030 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 53066,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Expression of enoyl coenzyme A hydratase, short chain, 1, in colorectal cancer and its association with clinicopathological characteristics",
+            "journal": "Mol. Clin. Oncol",
+            "volume": "2",
+            "section_title_1": "References"
+          },
+          "text": "Xie J. P., Zhu X. S., Dai Y. C., Yu C., Xie T., Chen Z. X. (2014). Expression of enoyl coenzyme A hydratase, short chain, 1, in colorectal cancer and its association with clinicopathological characteristics. Mol. Clin. Oncol. 2, 1081–1084. 10.3892/mco.2014.340 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 53382,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The quadratic hazard model for analyzing longitudinal data on aging, health, and the life span",
+            "journal": "Phys. Life Rev",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "Yashin A. I., Arbeev K. G., Akushevich I., Kulminski A., Ukraintseva S. V., Stallard E., et al. . (2012a). The quadratic hazard model for analyzing longitudinal data on aging, health, and the life span. Phys. Life Rev. 9, 177–188. 10.1016/j.plrev.2012.05.002 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 53696,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The accuracy of statistical estimates in genetic studies of aging can be significantly improved",
+            "journal": "Biogerontology",
+            "volume": "8",
+            "section_title_1": "References"
+          },
+          "text": "Yashin A. I., Arbeev K. G., Ukraintseva S. V. (2007). The accuracy of statistical estimates in genetic studies of aging can be significantly improved. Biogerontology\n8, 243–255. 10.1007/s10522-006-9072-4 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 53955,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "How the quality of GWAS of human lifespan and health span can be improved",
+            "journal": "Front. Genet",
+            "volume": "4",
+            "section_title_1": "References"
+          },
+          "text": "Yashin A. I., Arbeev K. G., Wu D., Arbeeva L. S., Kulminski A. M., Akushevich I., et al. . (2013). How the quality of GWAS of human lifespan and health span can be improved. Front. Genet. 4:125. 10.3389/fgene.2013.00125 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 54230,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genes, demography, and life span: the contribution of demographic data in genetic studies on aging and longevity",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "65",
+            "section_title_1": "References"
+          },
+          "text": "Yashin A. I., De Benedictis G., Vaupel J. W., Tan Q., Andreev K. F., Iachine I. A., et al. . (1999). Genes, demography, and life span: the contribution of demographic data in genetic studies on aging and longevity. Am. J. Hum. Genet. 65, 1178–1193. 10.1086/302572 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 54549,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genes and longevity: lessons from studies of centenarians",
+            "journal": "J. Gerontol. A Biol. Sci. Med. Sci",
+            "volume": "55",
+            "section_title_1": "References"
+          },
+          "text": "Yashin A. I., De Benedictis G., Vaupel J. W., Tan Q., Andreev K. F., Iachine I. A., et al. . (2000). Genes and longevity: lessons from studies of centenarians. J. Gerontol. A Biol. Sci. Med. Sci. 55, B319–B328. 10.1093/gerona/55.7.B319 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 54821,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Aging and health–a systems biology perspective",
+            "journal": "Cytogenet. Genome Res",
+            "volume": "144",
+            "section_title_1": "References"
+          },
+          "text": "Yashin A. I., Jazwinski S. M. (2014). Aging and health–a systems biology perspective. Cytogenet. Genome Res. 144, 77–154. 10.1159/000370188 [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 54988,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Have the oldest old adults ever been frail in the past? A hypothesis that explains modern trends in survival",
+            "journal": "J. Gerontol. A. Biol. Sci. Med. Sci",
+            "volume": "56",
+            "section_title_1": "References"
+          },
+          "text": "Yashin A. I., Ukraintseva S. V., De Benedictis G., Anisimov V. N., Butov A. A., Arbeev K., et al. . (2001). Have the oldest old adults ever been frail in the past? A hypothesis that explains modern trends in survival. J. Gerontol. A. Biol. Sci. Med. Sci. 56, B432–B442. 10.1093/gerona/56.10.B432 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 55320,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetic structures of population cohorts change with increasing age: implications for genetic analyses of human aging and life span",
+            "journal": "Ann. Gerontol. Geriatric Res",
+            "volume": "1",
+            "section_title_1": "References"
+          },
+          "text": "Yashin A. I., Wu D., Arbeev K. G., Arbeeva L. S., Akushevich I., Kulminski A., et al.  (2014). Genetic structures of population cohorts change with increasing age: implications for genetic analyses of human aging and life span. Ann. Gerontol. Geriatric Res. 1:1020 Available online at: www.jscimedcentral.com/Gerontology/gerontology-1-1020.pdf [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 55708,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "How genes influence life span: the biodemography of human survival",
+            "journal": "Rejuvenation Res",
+            "volume": "15",
+            "section_title_1": "References"
+          },
+          "text": "Yashin A. I., Wu D., Arbeev K. G., Stallard E., Land K. C., Ukraintseva S. V. (2012b). How genes influence life span: the biodemography of human survival. Rejuvenation Res. 15, 374–380. 10.1089/rej.2011.1290 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 55971,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Joint influence of small-effect genetic variants on human longevity",
+            "journal": "Aging (Albany. NY)",
+            "volume": "2",
+            "section_title_1": "References"
+          },
+          "text": "Yashin A. I., Wu D., Arbeev K. G., Ukraintseva S. V. (2010). Joint influence of small-effect genetic variants on human longevity. Aging (Albany. NY). 2, 612–620 Available online at: www.impactaging.com/papers/v2/n9/pdf/100191.pdf [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 56245,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Polygenic effects of common single-nucleotide polymorphisms on life span: when association meets causality",
+            "journal": "Rejuvenation Res",
+            "volume": "15",
+            "section_title_1": "References"
+          },
+          "text": "Yashin A. I., Wu D., Arbeev K. G., Ukraintseva S. V. (2012c). Polygenic effects of common single-nucleotide polymorphisms on life span: when association meets causality. Rejuvenation Res. 15, 381–394. 10.1089/rej.2011.1257 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 56523,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Knockdown of ECHS1 protein expression inhibits hepatocellular carcinoma cell proliferation via suppression of Akt activity",
+            "journal": "Crit. Rev. Eukaryot. Gene Expr",
+            "volume": "23",
+            "section_title_1": "References"
+          },
+          "text": "Zhu X. S., Dai Y. C., Chen Z. X., Xie J. P., Zeng W., Lin Y. Y., et al. . (2013). Knockdown of ECHS1 protein expression inhibits hepatocellular carcinoma cell proliferation via suppression of Akt activity. Crit. Rev. Eukaryot. Gene Expr. 23, 275–282. 10.1615/CritRevEukaryotGeneExpr.2013007531 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

@@ -1,0 +1,1737 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "24847357.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Demographic and other phenotypic characteristics.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 56,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": "Characteristic"
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": "Cases (N = 309)"
+            },
+            {
+              "cell_id": "1.1.3",
+              "cell_text": "Controls (N = 2925)"
+            },
+            {
+              "cell_id": "1.1.4",
+              "cell_text": "p -value *"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": "Age (years) (mean ±  SD )"
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": "74.5 ± 10.9"
+                  },
+                  {
+                    "cell_id": "1.2.3",
+                    "cell_text": "73.5 (10.8)"
+                  },
+                  {
+                    "cell_id": "1.2.4",
+                    "cell_text": 0.13
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": "Males ( N , %)"
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": "159 (51.5)"
+                  },
+                  {
+                    "cell_id": "1.3.3",
+                    "cell_text": "1153 (39.4)"
+                  },
+                  {
+                    "cell_id": "1.3.4",
+                    "cell_text": 5.5e-05
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.4.1",
+                    "cell_text": "Type 2 diabetes (N, %)"
+                  },
+                  {
+                    "cell_id": "1.4.2",
+                    "cell_text": "69 (22.3)"
+                  },
+                  {
+                    "cell_id": "1.4.3",
+                    "cell_text": "370 (12.7)"
+                  },
+                  {
+                    "cell_id": "1.4.4",
+                    "cell_text": 1.03e-05
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.5.1",
+                    "cell_text": "Body mass index (kg/m 2 ) (mean ±  SD )"
+                  },
+                  {
+                    "cell_id": "1.5.2",
+                    "cell_text": "32.1 ± 8.0"
+                  },
+                  {
+                    "cell_id": "1.5.3",
+                    "cell_text": "29.5 ± 6.1"
+                  },
+                  {
+                    "cell_id": "1.5.4",
+                    "cell_text": 3.5e-08
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 264,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "*Two-tailed t-test assuming unequal variances used to compare continuous variables (age and body mass index) and Fisher's exact test used to compare categorical variables (% males and % with type 2 diabetes).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "24847357.html",
+      "id": "2",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 2",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Top 20 SNPs, their chromosomal locations, associated genes, major and minor alleles, minor allele frequency of cases and controls, p-value and odds ratio and 95% confidence interval.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 189,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "2.1.1",
+              "cell_text": "db SNP ID"
+            },
+            {
+              "cell_id": "2.1.2",
+              "cell_text": "Chr"
+            },
+            {
+              "cell_id": "2.1.3",
+              "cell_text": "Position (hg19)"
+            },
+            {
+              "cell_id": "2.1.4",
+              "cell_text": "Nearby genes"
+            },
+            {
+              "cell_id": "2.1.5",
+              "cell_text": "Variant location"
+            },
+            {
+              "cell_id": "2.1.6",
+              "cell_text": "Major/minor alleles"
+            },
+            {
+              "cell_id": "2.1.7",
+              "cell_text": "Case MAF *"
+            },
+            {
+              "cell_id": "2.1.8",
+              "cell_text": "control MAF"
+            },
+            {
+              "cell_id": "2.1.9",
+              "cell_text": "P-value"
+            },
+            {
+              "cell_id": "2.1.10",
+              "cell_text": "Odds ratio (95% CI)"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.2.1",
+                    "cell_text": "rs2455012"
+                  },
+                  {
+                    "cell_id": "2.2.2",
+                    "cell_text": 1.0
+                  },
+                  {
+                    "cell_id": "2.2.3",
+                    "cell_text": 66520998.0
+                  },
+                  {
+                    "cell_id": "2.2.4",
+                    "cell_text": "PDE4B"
+                  },
+                  {
+                    "cell_id": "2.2.5",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.2.6",
+                    "cell_text": "C/T"
+                  },
+                  {
+                    "cell_id": "2.2.7",
+                    "cell_text": 0.090615
+                  },
+                  {
+                    "cell_id": "2.2.8",
+                    "cell_text": 0.04519
+                  },
+                  {
+                    "cell_id": "2.2.9",
+                    "cell_text": 6.68e-07
+                  },
+                  {
+                    "cell_id": "2.2.10",
+                    "cell_text": "2.17 (1.59, 2.93)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.3.1",
+                    "cell_text": "rs7152530"
+                  },
+                  {
+                    "cell_id": "2.3.2",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "2.3.3",
+                    "cell_text": 98641215.0
+                  },
+                  {
+                    "cell_id": "2.3.4",
+                    "cell_text": "VRK1, BCL11B"
+                  },
+                  {
+                    "cell_id": "2.3.5",
+                    "cell_text": "Intergenic"
+                  },
+                  {
+                    "cell_id": "2.3.6",
+                    "cell_text": "G/A"
+                  },
+                  {
+                    "cell_id": "2.3.7",
+                    "cell_text": 0.270227
+                  },
+                  {
+                    "cell_id": "2.3.8",
+                    "cell_text": 0.366746
+                  },
+                  {
+                    "cell_id": "2.3.9",
+                    "cell_text": 8.47e-07
+                  },
+                  {
+                    "cell_id": "2.3.10",
+                    "cell_text": "0.62 (0.51, 0.75)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.4.1",
+                    "cell_text": "rs3804047"
+                  },
+                  {
+                    "cell_id": "2.4.2",
+                    "cell_text": 22.0
+                  },
+                  {
+                    "cell_id": "2.4.3",
+                    "cell_text": 19879637.0
+                  },
+                  {
+                    "cell_id": "2.4.4",
+                    "cell_text": "TXNRD2"
+                  },
+                  {
+                    "cell_id": "2.4.5",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.4.6",
+                    "cell_text": "T/C"
+                  },
+                  {
+                    "cell_id": "2.4.7",
+                    "cell_text": 0.368932
+                  },
+                  {
+                    "cell_id": "2.4.8",
+                    "cell_text": 0.281143
+                  },
+                  {
+                    "cell_id": "2.4.9",
+                    "cell_text": 3.32e-06
+                  },
+                  {
+                    "cell_id": "2.4.10",
+                    "cell_text": "1.52 (1.27, 1.81)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.5.1",
+                    "cell_text": "rs470093"
+                  },
+                  {
+                    "cell_id": "2.5.2",
+                    "cell_text": 22.0
+                  },
+                  {
+                    "cell_id": "2.5.3",
+                    "cell_text": 44276171.0
+                  },
+                  {
+                    "cell_id": "2.5.4",
+                    "cell_text": "PNPLA5"
+                  },
+                  {
+                    "cell_id": "2.5.5",
+                    "cell_text": "3' UTR"
+                  },
+                  {
+                    "cell_id": "2.5.6",
+                    "cell_text": "G/T"
+                  },
+                  {
+                    "cell_id": "2.5.7",
+                    "cell_text": 0.211974
+                  },
+                  {
+                    "cell_id": "2.5.8",
+                    "cell_text": 0.146838
+                  },
+                  {
+                    "cell_id": "2.5.9",
+                    "cell_text": 7.19e-06
+                  },
+                  {
+                    "cell_id": "2.5.10",
+                    "cell_text": "1.63 (1.31, 2.02)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.6.1",
+                    "cell_text": "rs1381281"
+                  },
+                  {
+                    "cell_id": "2.6.2",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "2.6.3",
+                    "cell_text": 98615771.0
+                  },
+                  {
+                    "cell_id": "2.6.4",
+                    "cell_text": "VRK1, BCL11B"
+                  },
+                  {
+                    "cell_id": "2.6.5",
+                    "cell_text": "Intergenic"
+                  },
+                  {
+                    "cell_id": "2.6.6",
+                    "cell_text": "A/G"
+                  },
+                  {
+                    "cell_id": "2.6.7",
+                    "cell_text": 0.322006
+                  },
+                  {
+                    "cell_id": "2.6.8",
+                    "cell_text": 0.410024
+                  },
+                  {
+                    "cell_id": "2.6.9",
+                    "cell_text": 1.07e-05
+                  },
+                  {
+                    "cell_id": "2.6.10",
+                    "cell_text": "0.67 (0.56, 0.80)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.7.1",
+                    "cell_text": "rs13107325"
+                  },
+                  {
+                    "cell_id": "2.7.2",
+                    "cell_text": 4.0
+                  },
+                  {
+                    "cell_id": "2.7.3",
+                    "cell_text": 103188709.0
+                  },
+                  {
+                    "cell_id": "2.7.4",
+                    "cell_text": "SLC39A8"
+                  },
+                  {
+                    "cell_id": "2.7.5",
+                    "cell_text": "Exon 8"
+                  },
+                  {
+                    "cell_id": "2.7.6",
+                    "cell_text": "G/A"
+                  },
+                  {
+                    "cell_id": "2.7.7",
+                    "cell_text": 0.113269
+                  },
+                  {
+                    "cell_id": "2.7.8",
+                    "cell_text": 0.065299
+                  },
+                  {
+                    "cell_id": "2.7.9",
+                    "cell_text": 1.09e-05
+                  },
+                  {
+                    "cell_id": "2.7.10",
+                    "cell_text": "1.88 (1.41, 2.47)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.8.1",
+                    "cell_text": "rs1892234"
+                  },
+                  {
+                    "cell_id": "2.8.2",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "2.8.3",
+                    "cell_text": 98720904.0
+                  },
+                  {
+                    "cell_id": "2.8.4",
+                    "cell_text": "VRK1, BCL11B"
+                  },
+                  {
+                    "cell_id": "2.8.5",
+                    "cell_text": "Intergenic"
+                  },
+                  {
+                    "cell_id": "2.8.6",
+                    "cell_text": "T/C"
+                  },
+                  {
+                    "cell_id": "2.8.7",
+                    "cell_text": 0.364078
+                  },
+                  {
+                    "cell_id": "2.8.8",
+                    "cell_text": 0.455897
+                  },
+                  {
+                    "cell_id": "2.8.9",
+                    "cell_text": 1.38e-05
+                  },
+                  {
+                    "cell_id": "2.8.10",
+                    "cell_text": "0.68 (0.57, 0.81)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.9.1",
+                    "cell_text": "rs6948646"
+                  },
+                  {
+                    "cell_id": "2.9.2",
+                    "cell_text": 7.0
+                  },
+                  {
+                    "cell_id": "2.9.3",
+                    "cell_text": 152945284.0
+                  },
+                  {
+                    "cell_id": "2.9.4",
+                    "cell_text": "ACTR3B, DPP6"
+                  },
+                  {
+                    "cell_id": "2.9.5",
+                    "cell_text": "Intergenic"
+                  },
+                  {
+                    "cell_id": "2.9.6",
+                    "cell_text": "G/A"
+                  },
+                  {
+                    "cell_id": "2.9.7",
+                    "cell_text": 0.444984
+                  },
+                  {
+                    "cell_id": "2.9.8",
+                    "cell_text": 0.362393
+                  },
+                  {
+                    "cell_id": "2.9.9",
+                    "cell_text": 1.41e-05
+                  },
+                  {
+                    "cell_id": "2.9.10",
+                    "cell_text": "1.46 (1.23, 1.73)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.10.1",
+                    "cell_text": "rs1012203"
+                  },
+                  {
+                    "cell_id": "2.10.2",
+                    "cell_text": 9.0
+                  },
+                  {
+                    "cell_id": "2.10.3",
+                    "cell_text": 104626708.0
+                  },
+                  {
+                    "cell_id": "2.10.4",
+                    "cell_text": "GRIN3A, CYLC2"
+                  },
+                  {
+                    "cell_id": "2.10.5",
+                    "cell_text": "Intergenic"
+                  },
+                  {
+                    "cell_id": "2.10.6",
+                    "cell_text": "A/G"
+                  },
+                  {
+                    "cell_id": "2.10.7",
+                    "cell_text": 0.048544
+                  },
+                  {
+                    "cell_id": "2.10.8",
+                    "cell_text": 0.104103
+                  },
+                  {
+                    "cell_id": "2.10.9",
+                    "cell_text": 1.59e-05
+                  },
+                  {
+                    "cell_id": "2.10.10",
+                    "cell_text": "0.44 (0.29, 0.62)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.11.1",
+                    "cell_text": "rs987514"
+                  },
+                  {
+                    "cell_id": "2.11.2",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "2.11.3",
+                    "cell_text": 98628943.0
+                  },
+                  {
+                    "cell_id": "2.11.4",
+                    "cell_text": "VRK1, BCL11B"
+                  },
+                  {
+                    "cell_id": "2.11.5",
+                    "cell_text": "Intergenic"
+                  },
+                  {
+                    "cell_id": "2.11.6",
+                    "cell_text": "C/T"
+                  },
+                  {
+                    "cell_id": "2.11.7",
+                    "cell_text": 0.330097
+                  },
+                  {
+                    "cell_id": "2.11.8",
+                    "cell_text": 0.415356
+                  },
+                  {
+                    "cell_id": "2.11.9",
+                    "cell_text": 1.95e-05
+                  },
+                  {
+                    "cell_id": "2.11.10",
+                    "cell_text": "0.68 (0.56, 0.81)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.12.1",
+                    "cell_text": "rs11950651"
+                  },
+                  {
+                    "cell_id": "2.12.2",
+                    "cell_text": 5.0
+                  },
+                  {
+                    "cell_id": "2.12.3",
+                    "cell_text": 103009768.0
+                  },
+                  {
+                    "cell_id": "2.12.4",
+                    "cell_text": "NUDT12, EFNA5"
+                  },
+                  {
+                    "cell_id": "2.12.5",
+                    "cell_text": "Intergenic"
+                  },
+                  {
+                    "cell_id": "2.12.6",
+                    "cell_text": "C/T"
+                  },
+                  {
+                    "cell_id": "2.12.7",
+                    "cell_text": 0.032362
+                  },
+                  {
+                    "cell_id": "2.12.8",
+                    "cell_text": 0.079829
+                  },
+                  {
+                    "cell_id": "2.12.9",
+                    "cell_text": 2.09e-05
+                  },
+                  {
+                    "cell_id": "2.12.10",
+                    "cell_text": "0.37 (0.22, 0.57)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.13.1",
+                    "cell_text": "rs12160908"
+                  },
+                  {
+                    "cell_id": "2.13.2",
+                    "cell_text": 22.0
+                  },
+                  {
+                    "cell_id": "2.13.3",
+                    "cell_text": 25928620.0
+                  },
+                  {
+                    "cell_id": "2.13.4",
+                    "cell_text": "LRP5L, ADRBK2"
+                  },
+                  {
+                    "cell_id": "2.13.5",
+                    "cell_text": "Intergenic"
+                  },
+                  {
+                    "cell_id": "2.13.6",
+                    "cell_text": "C/T"
+                  },
+                  {
+                    "cell_id": "2.13.7",
+                    "cell_text": 0.067961
+                  },
+                  {
+                    "cell_id": "2.13.8",
+                    "cell_text": 0.127401
+                  },
+                  {
+                    "cell_id": "2.13.9",
+                    "cell_text": 2.13e-05
+                  },
+                  {
+                    "cell_id": "2.13.10",
+                    "cell_text": "0.49 (0.35, 0.67)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.14.1",
+                    "cell_text": "rs12696090"
+                  },
+                  {
+                    "cell_id": "2.14.2",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "2.14.3",
+                    "cell_text": 158669688.0
+                  },
+                  {
+                    "cell_id": "2.14.4",
+                    "cell_text": "MFSD1, IQCJ-SCHIP1"
+                  },
+                  {
+                    "cell_id": "2.14.5",
+                    "cell_text": "Intergenic"
+                  },
+                  {
+                    "cell_id": "2.14.6",
+                    "cell_text": "G/T"
+                  },
+                  {
+                    "cell_id": "2.14.7",
+                    "cell_text": 0.150485
+                  },
+                  {
+                    "cell_id": "2.14.8",
+                    "cell_text": 0.226635
+                  },
+                  {
+                    "cell_id": "2.14.9",
+                    "cell_text": 2.72e-05
+                  },
+                  {
+                    "cell_id": "2.14.10",
+                    "cell_text": "0.61 (0.48, 0.76)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.15.1",
+                    "cell_text": "rs9614174"
+                  },
+                  {
+                    "cell_id": "2.15.2",
+                    "cell_text": 22.0
+                  },
+                  {
+                    "cell_id": "2.15.3",
+                    "cell_text": 44082454.0
+                  },
+                  {
+                    "cell_id": "2.15.4",
+                    "cell_text": "EFCAB6"
+                  },
+                  {
+                    "cell_id": "2.15.5",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.15.6",
+                    "cell_text": "A/C"
+                  },
+                  {
+                    "cell_id": "2.15.7",
+                    "cell_text": 0.21521
+                  },
+                  {
+                    "cell_id": "2.15.8",
+                    "cell_text": 0.151795
+                  },
+                  {
+                    "cell_id": "2.15.9",
+                    "cell_text": 2.78e-05
+                  },
+                  {
+                    "cell_id": "2.15.10",
+                    "cell_text": "1.56 (1.26, 1.92)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.16.1",
+                    "cell_text": "rs7255123"
+                  },
+                  {
+                    "cell_id": "2.16.2",
+                    "cell_text": 19.0
+                  },
+                  {
+                    "cell_id": "2.16.3",
+                    "cell_text": 3958397.0
+                  },
+                  {
+                    "cell_id": "2.16.4",
+                    "cell_text": "DAPK3"
+                  },
+                  {
+                    "cell_id": "2.16.5",
+                    "cell_text": "3' near gene"
+                  },
+                  {
+                    "cell_id": "2.16.6",
+                    "cell_text": "G/A"
+                  },
+                  {
+                    "cell_id": "2.16.7",
+                    "cell_text": 0.263754
+                  },
+                  {
+                    "cell_id": "2.16.8",
+                    "cell_text": 0.198632
+                  },
+                  {
+                    "cell_id": "2.16.9",
+                    "cell_text": 4.11e-05
+                  },
+                  {
+                    "cell_id": "2.16.10",
+                    "cell_text": "1.51 (1.24, 1.84)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.17.1",
+                    "cell_text": "rs6135407"
+                  },
+                  {
+                    "cell_id": "2.17.2",
+                    "cell_text": 20.0
+                  },
+                  {
+                    "cell_id": "2.17.3",
+                    "cell_text": 15397676.0
+                  },
+                  {
+                    "cell_id": "2.17.4",
+                    "cell_text": "MACROD2"
+                  },
+                  {
+                    "cell_id": "2.17.5",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.17.6",
+                    "cell_text": "C/T"
+                  },
+                  {
+                    "cell_id": "2.17.7",
+                    "cell_text": 0.220065
+                  },
+                  {
+                    "cell_id": "2.17.8",
+                    "cell_text": 0.158858
+                  },
+                  {
+                    "cell_id": "2.17.9",
+                    "cell_text": 4.91e-05
+                  },
+                  {
+                    "cell_id": "2.17.10",
+                    "cell_text": "1.54 (1.25, 1.90)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.18.1",
+                    "cell_text": "rs4807532"
+                  },
+                  {
+                    "cell_id": "2.18.2",
+                    "cell_text": 19.0
+                  },
+                  {
+                    "cell_id": "2.18.3",
+                    "cell_text": 3928369.0
+                  },
+                  {
+                    "cell_id": "2.18.4",
+                    "cell_text": "ATCAY"
+                  },
+                  {
+                    "cell_id": "2.18.5",
+                    "cell_text": "3' near gene"
+                  },
+                  {
+                    "cell_id": "2.18.6",
+                    "cell_text": "G/A"
+                  },
+                  {
+                    "cell_id": "2.18.7",
+                    "cell_text": 0.461165
+                  },
+                  {
+                    "cell_id": "2.18.8",
+                    "cell_text": 0.375897
+                  },
+                  {
+                    "cell_id": "2.18.9",
+                    "cell_text": 5.32e-05
+                  },
+                  {
+                    "cell_id": "2.18.10",
+                    "cell_text": "1.42 (1.20, 1.69)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.19.1",
+                    "cell_text": "rs7643377"
+                  },
+                  {
+                    "cell_id": "2.19.2",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "2.19.3",
+                    "cell_text": 142114694.0
+                  },
+                  {
+                    "cell_id": "2.19.4",
+                    "cell_text": "XRN1"
+                  },
+                  {
+                    "cell_id": "2.19.5",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.19.6",
+                    "cell_text": "C/T"
+                  },
+                  {
+                    "cell_id": "2.19.7",
+                    "cell_text": 0.483819
+                  },
+                  {
+                    "cell_id": "2.19.8",
+                    "cell_text": 0.400342
+                  },
+                  {
+                    "cell_id": "2.19.9",
+                    "cell_text": 5.7e-05
+                  },
+                  {
+                    "cell_id": "2.19.10",
+                    "cell_text": "1.41 (1.19, 1.67)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.20.1",
+                    "cell_text": "rs2535368"
+                  },
+                  {
+                    "cell_id": "2.20.2",
+                    "cell_text": 7.0
+                  },
+                  {
+                    "cell_id": "2.20.3",
+                    "cell_text": 83157207.0
+                  },
+                  {
+                    "cell_id": "2.20.4",
+                    "cell_text": "SEMA3E"
+                  },
+                  {
+                    "cell_id": "2.20.5",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.20.6",
+                    "cell_text": "G/A"
+                  },
+                  {
+                    "cell_id": "2.20.7",
+                    "cell_text": 0.202265
+                  },
+                  {
+                    "cell_id": "2.20.8",
+                    "cell_text": 0.144494
+                  },
+                  {
+                    "cell_id": "2.20.9",
+                    "cell_text": 5.9e-05
+                  },
+                  {
+                    "cell_id": "2.20.10",
+                    "cell_text": "1.56 (1.25, 1.93)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.21.1",
+                    "cell_text": "rs9867210"
+                  },
+                  {
+                    "cell_id": "2.21.2",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "2.21.3",
+                    "cell_text": 142132749.0
+                  },
+                  {
+                    "cell_id": "2.21.4",
+                    "cell_text": "XRN1"
+                  },
+                  {
+                    "cell_id": "2.21.5",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.21.6",
+                    "cell_text": "TIC"
+                  },
+                  {
+                    "cell_id": "2.21.7",
+                    "cell_text": 0.495146
+                  },
+                  {
+                    "cell_id": "2.21.8",
+                    "cell_text": 0.411453
+                  },
+                  {
+                    "cell_id": "2.21.9",
+                    "cell_text": 6.17e-05
+                  },
+                  {
+                    "cell_id": "2.21.10",
+                    "cell_text": "1.41 (1.19, 1.67)"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1869,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "*Minor allele frequency.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "24847357.html",
+      "id": "3",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 3",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Top 15 and four other potentially interesting gene hits from VEGAS gene-based analysis.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 94,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "3.1.1",
+              "cell_text": "Gene"
+            },
+            {
+              "cell_id": "3.1.2",
+              "cell_text": "Number of SNPs"
+            },
+            {
+              "cell_id": "3.1.3",
+              "cell_text": "Chr ."
+            },
+            {
+              "cell_id": "3.1.4",
+              "cell_text": "Start position (hg19)"
+            },
+            {
+              "cell_id": "3.1.5",
+              "cell_text": "End position (hg19)"
+            },
+            {
+              "cell_id": "3.1.6",
+              "cell_text": "p -value"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.2.1",
+                    "cell_text": "NMRK2 (ITGB1BP3)"
+                  },
+                  {
+                    "cell_id": "3.2.2",
+                    "cell_text": 20.0
+                  },
+                  {
+                    "cell_id": "3.2.3",
+                    "cell_text": 19.0
+                  },
+                  {
+                    "cell_id": "3.2.4",
+                    "cell_text": 3933101.0
+                  },
+                  {
+                    "cell_id": "3.2.5",
+                    "cell_text": 3942414.0
+                  },
+                  {
+                    "cell_id": "3.2.6",
+                    "cell_text": 1.2e-05
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.3.1",
+                    "cell_text": "DAPK3"
+                  },
+                  {
+                    "cell_id": "3.3.2",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "3.3.3",
+                    "cell_text": 19.0
+                  },
+                  {
+                    "cell_id": "3.3.4",
+                    "cell_text": 3958452.0
+                  },
+                  {
+                    "cell_id": "3.3.5",
+                    "cell_text": 3969827.0
+                  },
+                  {
+                    "cell_id": "3.3.6",
+                    "cell_text": 5.1e-05
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.4.1",
+                    "cell_text": "NPM3"
+                  },
+                  {
+                    "cell_id": "3.4.2",
+                    "cell_text": 4.0
+                  },
+                  {
+                    "cell_id": "3.4.3",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "3.4.4",
+                    "cell_text": 103541082.0
+                  },
+                  {
+                    "cell_id": "3.4.5",
+                    "cell_text": 103543170.0
+                  },
+                  {
+                    "cell_id": "3.4.6",
+                    "cell_text": 0.000142
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.5.1",
+                    "cell_text": "EEF2"
+                  },
+                  {
+                    "cell_id": "3.5.2",
+                    "cell_text": 17.0
+                  },
+                  {
+                    "cell_id": "3.5.3",
+                    "cell_text": 19.0
+                  },
+                  {
+                    "cell_id": "3.5.4",
+                    "cell_text": 3976054.0
+                  },
+                  {
+                    "cell_id": "3.5.5",
+                    "cell_text": 3985461.0
+                  },
+                  {
+                    "cell_id": "3.5.6",
+                    "cell_text": 0.000167
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.6.1",
+                    "cell_text": "XRN1"
+                  },
+                  {
+                    "cell_id": "3.6.2",
+                    "cell_text": 12.0
+                  },
+                  {
+                    "cell_id": "3.6.3",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "3.6.4",
+                    "cell_text": 142025449.0
+                  },
+                  {
+                    "cell_id": "3.6.5",
+                    "cell_text": 142166853.0
+                  },
+                  {
+                    "cell_id": "3.6.6",
+                    "cell_text": 0.000185
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.7.1",
+                    "cell_text": "CDK7"
+                  },
+                  {
+                    "cell_id": "3.7.2",
+                    "cell_text": 11.0
+                  },
+                  {
+                    "cell_id": "3.7.3",
+                    "cell_text": 5.0
+                  },
+                  {
+                    "cell_id": "3.7.4",
+                    "cell_text": 68530622.0
+                  },
+                  {
+                    "cell_id": "3.7.5",
+                    "cell_text": 68573257.0
+                  },
+                  {
+                    "cell_id": "3.7.6",
+                    "cell_text": 0.000206
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.8.1",
+                    "cell_text": "FBXL4"
+                  },
+                  {
+                    "cell_id": "3.8.2",
+                    "cell_text": 17.0
+                  },
+                  {
+                    "cell_id": "3.8.3",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "3.8.4",
+                    "cell_text": 99321601.0
+                  },
+                  {
+                    "cell_id": "3.8.5",
+                    "cell_text": 99395849.0
+                  },
+                  {
+                    "cell_id": "3.8.6",
+                    "cell_text": 0.000257
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.9.1",
+                    "cell_text": "ATR"
+                  },
+                  {
+                    "cell_id": "3.9.2",
+                    "cell_text": 20.0
+                  },
+                  {
+                    "cell_id": "3.9.3",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "3.9.4",
+                    "cell_text": 142168077.0
+                  },
+                  {
+                    "cell_id": "3.9.5",
+                    "cell_text": 142297668.0
+                  },
+                  {
+                    "cell_id": "3.9.6",
+                    "cell_text": 0.000269
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.10.1",
+                    "cell_text": "FGF8"
+                  },
+                  {
+                    "cell_id": "3.10.2",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "3.10.3",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "3.10.4",
+                    "cell_text": 103529887.0
+                  },
+                  {
+                    "cell_id": "3.10.5",
+                    "cell_text": 103535759.0
+                  },
+                  {
+                    "cell_id": "3.10.6",
+                    "cell_text": 0.000294
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.11.1",
+                    "cell_text": "MRPS36"
+                  },
+                  {
+                    "cell_id": "3.11.2",
+                    "cell_text": 8.0
+                  },
+                  {
+                    "cell_id": "3.11.3",
+                    "cell_text": 5.0
+                  },
+                  {
+                    "cell_id": "3.11.4",
+                    "cell_text": 68513573.0
+                  },
+                  {
+                    "cell_id": "3.11.5",
+                    "cell_text": 68525985.0
+                  },
+                  {
+                    "cell_id": "3.11.6",
+                    "cell_text": 0.000423
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.12.1",
+                    "cell_text": "CCDC125"
+                  },
+                  {
+                    "cell_id": "3.12.2",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "3.12.3",
+                    "cell_text": 5.0
+                  },
+                  {
+                    "cell_id": "3.12.4",
+                    "cell_text": 68576519.0
+                  },
+                  {
+                    "cell_id": "3.12.5",
+                    "cell_text": 68616407.0
+                  },
+                  {
+                    "cell_id": "3.12.6",
+                    "cell_text": 0.000424
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.13.1",
+                    "cell_text": "ATCAY"
+                  },
+                  {
+                    "cell_id": "3.13.2",
+                    "cell_text": 33.0
+                  },
+                  {
+                    "cell_id": "3.13.3",
+                    "cell_text": 19.0
+                  },
+                  {
+                    "cell_id": "3.13.4",
+                    "cell_text": 3880618.0
+                  },
+                  {
+                    "cell_id": "3.13.5",
+                    "cell_text": 3928080.0
+                  },
+                  {
+                    "cell_id": "3.13.6",
+                    "cell_text": 0.000571
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.14.1",
+                    "cell_text": "KCNIP2"
+                  },
+                  {
+                    "cell_id": "3.14.2",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "3.14.3",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "3.14.4",
+                    "cell_text": 103585731.0
+                  },
+                  {
+                    "cell_id": "3.14.5",
+                    "cell_text": 103603677.0
+                  },
+                  {
+                    "cell_id": "3.14.6",
+                    "cell_text": 0.000637
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.15.1",
+                    "cell_text": "MGEA5"
+                  },
+                  {
+                    "cell_id": "3.15.2",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "3.15.3",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "3.15.4",
+                    "cell_text": 103544200.0
+                  },
+                  {
+                    "cell_id": "3.15.5",
+                    "cell_text": 103578222.0
+                  },
+                  {
+                    "cell_id": "3.15.6",
+                    "cell_text": 0.000654
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.16.1",
+                    "cell_text": "LDOC1L"
+                  },
+                  {
+                    "cell_id": "3.16.2",
+                    "cell_text": 30.0
+                  },
+                  {
+                    "cell_id": "3.16.3",
+                    "cell_text": 22.0
+                  },
+                  {
+                    "cell_id": "3.16.4",
+                    "cell_text": 44888450.0
+                  },
+                  {
+                    "cell_id": "3.16.5",
+                    "cell_text": 44894178.0
+                  },
+                  {
+                    "cell_id": "3.16.6",
+                    "cell_text": 0.000664
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.17.1",
+                    "cell_text": "* IL1RL2  (75)"
+                  },
+                  {
+                    "cell_id": "3.17.2",
+                    "cell_text": 60.0
+                  },
+                  {
+                    "cell_id": "3.17.3",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.17.4",
+                    "cell_text": 102803433.0
+                  },
+                  {
+                    "cell_id": "3.17.5",
+                    "cell_text": 102855811.0
+                  },
+                  {
+                    "cell_id": "3.17.6",
+                    "cell_text": 0.0031
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.18.1",
+                    "cell_text": "* IL1B  (80)"
+                  },
+                  {
+                    "cell_id": "3.18.2",
+                    "cell_text": 20.0
+                  },
+                  {
+                    "cell_id": "3.18.3",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.18.4",
+                    "cell_text": 113587337.0
+                  },
+                  {
+                    "cell_id": "3.18.5",
+                    "cell_text": 113594356.0
+                  },
+                  {
+                    "cell_id": "3.18.6",
+                    "cell_text": 0.00322
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.19.1",
+                    "cell_text": "* ILIA  (93)"
+                  },
+                  {
+                    "cell_id": "3.19.2",
+                    "cell_text": 22.0
+                  },
+                  {
+                    "cell_id": "3.19.3",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.19.4",
+                    "cell_text": 113531492.0
+                  },
+                  {
+                    "cell_id": "3.19.5",
+                    "cell_text": 113542971.0
+                  },
+                  {
+                    "cell_id": "3.19.6",
+                    "cell_text": 0.00363
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.20.1",
+                    "cell_text": "* IL1R1  (168)"
+                  },
+                  {
+                    "cell_id": "3.20.2",
+                    "cell_text": 54.0
+                  },
+                  {
+                    "cell_id": "3.20.3",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.20.4",
+                    "cell_text": 102770401.0
+                  },
+                  {
+                    "cell_id": "3.20.5",
+                    "cell_text": 102796334.0
+                  },
+                  {
+                    "cell_id": "3.20.6",
+                    "cell_text": 0.00806
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 904,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "*Ranks of these genes are mentioned in parenthesis.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

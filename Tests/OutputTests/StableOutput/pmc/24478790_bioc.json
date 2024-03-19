@@ -1,0 +1,1926 @@
+{
+  "source": "Auto-CORPus (full-text)",
+  "date": "20210927",
+  "key": "autocorpus_fulltext.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "24478790.html",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Genome wide association and linkage analyses identified three loci—4q25, 17q23.2, and 10q11.21—associated with variation in leukocyte telomere length: the Long Life Family Study",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 177,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "keywords section",
+                "iao_id": "IAO:0000630"
+              }
+            ],
+            "section_title_1": "keywords"
+          },
+          "text": "telomere length, aging, familial longevity, genome wide association and linkage, family-based study, novel genes",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 297,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Leukocyte telomere length is believed to measure cellular aging in humans, and short leukocyte telomere length is associated with increased risks of late onset diseases, including cardiovascular disease, dementia, etc. Many studies have shown that leukocyte telomere length is a heritable trait, and several candidate genes have been identified, including TERT, TERC, OBFC1, and CTC1. Unlike most studies that have focused on genetic causes of chronic diseases such as heart disease and diabetes in relation to leukocyte telomere length, the present study examined the genome to identify variants that may contribute to variation in leukocyte telomere length among families with exceptional longevity. From the genome wide association analysis in 4,289 LLFS participants, we identified a novel intergenic SNP rs7680468 located near PAPSS1 and DKK2 on 4q25 (p = 4.7E-8). From our linkage analysis, we identified two additional novel loci with HLOD scores exceeding three, including 4.77 for 17q23.2, and 4.36 for 10q11.21. These two loci harbor a number of novel candidate genes with SNPs, and our gene-wise association analysis identified multiple genes, including DCAF7, POLG2, CEP95, and SMURF2 at 17q23.2; and RASGEF1A, HNRNPF, ANF487, CSTF2T, and PRKG1 at 10q11.21. Among these genes, multiple SNPs were associated with leukocyte telomere length, but the strongest association was observed with one contiguous haplotype in CEP95 and SMURF2. We also show that three previously reported genes—TERC, MYNN, and OBFC1—were significantly associated with leukocyte telomere length at pempirical < 0.05.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1904,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "Telomere shortening is a marker of in vivo cellular aging, and leukocyte telomere length is related to life span (Holt et al., 1996; Chadwick and Cardew, 1997; Shay and Wright, 2001; Aviv et al., 2006; Christensen et al., 2006; Armanios and Blackburn, 2012). Individuals with short leukocyte telomere length are at an increased risk of age-related diseases (e.g., cardiovascular diseases, diabetes, dementia, cancer) and premature subsequent death compared with similarly aged individuals with longer telomeres (Jeanclos et al., 1998; Epel et al., 2004; Aviv, 2009, 2012; Kaplan et al., 2009; Honig et al., 2012; Shaffer et al., 2012; Ye et al., 2013). However, the direction and strength of association between leukocyte telomere length and the risk of these diseases vary across studies (Aviv et al., 2006; Sanders et al., 2012).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2747,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "Both longevity and leukocyte telomere length are heritable traits with estimates ranging from 20 to 40% (Perls et al., 1998, 2000, 2007; Cournil and Kirkwood, 2001; Perls and Terry, 2003; Lee et al., 2004; Beekman et al., 2006; Christensen et al., 2006; Hjelmborg et al., 2006; Deelen et al., 2011; Newman et al., 2011; Murabito et al., 2012) and 34–82% (Aulchenko et al., 2004; Vasa-Nicotera et al., 2005; Broer et al., 2013), respectively. As with most complex traits, multiple genetic variants along with environmental and lifestyle factors are likely to contribute to familial longevity. Genome wide linkage studies have identified four chromosomal regions, 14q23.2, 10q26.13, and 3p26.1 (Andrew et al., 2006), and 12p11 (Vasa-Nicotera et al., 2005) that may harbor loci that influence leukocyte telomere length. Genome wide association studies (GWAS), and meta-analysis across several studies in multiple populations have revealed several candidate genes: TERC, telomerase RNA component (Codd et al., 2010), located on 3q26 (Soerensen et al., 2012), and TERT, telomerase reverse transcriptase (5p15.33) (Hartmann et al., 2009; Soerensen et al., 2012). A meta-analysis (Mangino et al., 2012) identified CTC1 (conserved telomere maintenance component 1, 17p13.1) and ZNF676 (zinc finger protein 676, 19p12) as candidate genes for telomere homeostasis in humans, and confirmed that minor variants of OBFC1 on 10q24.33 was associated with shorter leukocyte telomere length. Although their function is not certain, these genes appear to be involved in maintenance of chromosome structures.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4336,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "To identify genetic variants contributing to variation in leukocyte telomere length, we analyzed data from a large cohort of families that had multiple family members who survived to exceptionally old age (the Long Life Family Study). To detect both common and rare variants that contribute to leukocyte telomere length, this study applied two different approaches: family based association analysis and joint linkage and association analysis. In addition, a heterogeneity model for linkage analysis was applied to account for possible genetic heterogeneity across families since different families may achieve longevity through different means.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4981,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Study design and subjects for the primary study"
+          },
+          "text": "We employed a 2-stage genome wide study in genotyping participants from of the Long Life Family Study (LLFS; http://www.longlifefamilystudy.org). The details of study design and protocols are described by Newman et al. (2011). Briefly, the LLFS is a multicenter study with recruitment from four centers, Boston University Medical Center, Boston, MA, Columbia University Medical Center, New York, NY; University of Pittsburgh, Pittsburgh, PA; and University of Southern Denmark, Odense, Denmark. Nearly 5,000 Caucasian subjects from families with strong evidence for familial longevity had been recruited and examined (Sebastiani et al., 2009). The ascertainment strategy for the Denmark cohort differed slightly from US sites. Individuals who were at least 90 years of age during the study recruitment period were identified in the Danish National Register of Persons (Pedersen et al., 2006). Using the parental information on birth place, names, and parish registers available in regional archives, sibships were identified and, potentially eligible families were identified and contacted to assess the family's eligibility and willingness to participate in the LLFS using the criteria parallel to those used in the US. Of those, 4289 individuals from 586 families had measures of leukocyte telomere length and were included in the genome wide association and linkage analyses.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 6427,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Covariates"
+          },
+          "text": "Information on demographic and medical history information was obtained from participants by self-report (Newman et al., 2011). To assess potential confounding effects, multiple covariates were included in a polygenic model of heritability analysis in SOLAR (Almasy and Blangero, 1998, 2010): age, sex, education, site, generation, smoking (ever vs. never), alcohol consumption (yes vs. no), marital status (widowed/divorced vs. never married vs. married), a history of heart disease (yes/no) and diabetes (yes/no), and 20 principle components. In all subsequent analyses, we included covariates that were significant at p < 0.05: age, sex, education, site, smoking, alcohol consumption, marital status, a history of heart disease, and principle component 8 (PC8). Even though not all three indicator variables for site were significant, we forced site variables into the model.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7315,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Measurements of leukocyte telomere length"
+          },
+          "text": "Assays of average leukocyte leukocyte telomere length were performed using our modification of a method developed by Cawthon et al. (Cawthon, 2002; Cawthon et al., 2003). Briefly, the coded DNA samples were processed by laboratory personnel, blinded to participant characteristics. Real-time PCR was performed using a CFX384 thermocycler (Biorad, Richmond, CA). Assay method was optimized for use of both telomere (T) and single copy gene (S) amplifications on the same 384-well plate, with reference standard DNA samples on each plate. Test DNA samples each underwent two triplicate PCR reactions, with use of “calibrator samples” for correction for inter-plate variability. Amplification primers for telomeres included Tfor: 5′- CGGTTTGTTTGGGTTTGGGTTTGGGTTTGGGTTTGGGTT-3′ and Trev: 5′- GGCTTGCCTTACCCTTACCCTTACCCTTACCCTTACCCT-3′, and for single copy gene (beta-globin) Sfor 5′- GCTTCTGACACAACTGTGTTCACTAGC-3′ and Srev 5′- CACCAACTTCATCCACGTTCACC-3′. Thermocycling parameters were 95°C × 10 min activation, followed by 34 cycles of 95°C × 15 s, and 55°C × 120 s. Our assay coefficient of variance was 5–8%. T/S ratio was converted to basepairs (bp) leukocyte telomere length by use of the linear regression formula: bp = (1,585 * T/S ratio) + 3582, obtained by co-analysis of selected DNA samples using both PCR and terminal restriction fragment (non-radioactive TeloTAGGG leukocyte telomere length, Roche Diagnostics, Mannheim, Germany) methods (correlation coefficient r = 0.90).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 8838,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Measurements of leukocyte telomere length"
+          },
+          "text": "Because of non-normality of the leukocyte telomere length distribution (skewness = 2.22 and kurtosis = 12.19), we transformed leukocyte telomere length using an inverse normal function to minimize potential inflation of type 1 error rates (Allison et al., 1999; Etzel et al., 2003). Following the transformation, the distribution of leukocyte telomere length conformed to a normal distribution (skewness = −0.0078 and kurtosis = −0.0489) in all family members (See Figure ​FigureA1A1).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9323,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Genotyping"
+          },
+          "text": "SNP Chips manufactured by Illumina (Human Omni 2.5 v1) were used by the Center for Inherited Disease Research (CIDR) for genotyping. In depth Quality control (QC)-process was carried out in the Division of Statistical Genomics, Washington University in Saint Louis. QC was performed before imputation and included assessment of Mendelian errors as implemented in LOKI (Heath, 1997) and verification of reported pedigree relationships using GRR (Abecasis et al., 2001). 83,774 SNPs with a lower call rate <98% per marker were dropped; in addition, a total of 3,647 SNPs with high Mendelian error rate were dropped. Eighteen subjects who did not reach a 97.5% call rate were dropped. In addition, 153,363 Mendelian errors were set to missing. Of approximately 2.23 M autosomal SNPs, approximately 1.47 M with a minor allele frequency (MAF) >1% were used in the analysis.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10201,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Population structure"
+          },
+          "text": "To examine underlying population structure, principal components (PCs) analysis was performed as implemented in Eigenstrat (Patterson et al., 2006; Price et al., 2006). SNPs with MAF <5%, Hardy-Weinberg equilibrium (HWE) p-value <10−6, and with missing genotypes were excluded. In addition, 1613 SNPs from some special regions (2q21, 2q21.1, HLA1, and HLA (chromosome 6), 8p23.1, 8p23, 17q21.31, and 17q21.311) were excluded because of known inversions, HLA and other special regions that may drive the principal component (PC) analysis. After QC procedure, a total of 116,867 tag SNPs were used to create PCs model using 1522 unrelated subjects from LLFS and 361 founders from HapMap data (CEPH: Caucasians, Yoruban: YRI- Africans, Asians: Chinese and Japanese, and Tuscans: TSI- Caucasians) for the same tag SNPs as the ones used for LLFS. The PC model generated 20 PCs, and PC estimators then were expanded, within Eigenstrat framework, to all members of LLFS. PCs were subsequently used as covariates to control for population substructure/admixture.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11275,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Imputation"
+          },
+          "text": "Imputations were performed based on cosmopolitan phased haplotypes of 1000 Human Genome (1000HG, version 2010–11 data freeze, 2012-03-04 haplotypes; http://www.sph.umich.edu/csg/abecasis/MaCH/download/1000G.2012-03-14.html). Three programs were used: MACH for pre-phasing LLFS data (version 1.0.16); MINIMACH for performing imputations (version of May 2012); and ChunkChromosome script for splitting the LLFS data into smaller blocks to speed the process of imputation. In addition a number of SAS programs were implemented to streamline this process as well as transforming the final data into SAS datasets. Imputations were performed in chunks with 5000 SNPs blocks and 1000 SNPs overlap from our data. A number of filters before imputing were implemented in the LLFS genotypic data by removing markers that had MAF <1%, HWE p-value <10−6, if LLFS SNPs alleles mismatched with those of 1000HG, and not present in the 1000HG panel, as well as flipping any SNP when appropriate to the forward strand. A total of 38.05 M SNPs were imputed. For single variant-single trait association with imputed dosage two additional filters were implemented, the MAF >1% and the r2 > 0.3 (a quality score from the imputation), which reduced the analysis to 9.25 M variants.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12543,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Heritability analysis"
+          },
+          "text": "Heritability was estimated to assess how much phenotypic variance was explained by additive genetic variance using maximum likelihood methods as implemented in SOLAR (Blangero and Almasy, 1997; Almasy and Blangero, 1998). Heritability estimates were computed over all family members within the proband and offspring generations.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12892,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Family-based association analysis"
+          },
+          "text": "To determine whether common variants (MAF >1%) contribute to variation in leukocyte telomere length, a family based genome wide association study (GWAS) was performed. For the GWAS, the most parsimonious linear mixed model was used that comprised several covariates, including age, sex, education, site, smoking, alcohol consumption, marital status, a history of heart disease, and PC8. Of 20 PCs, only PC8 was included in the linear mixed model because it was found to be significant at p < 0.05 in the multivariate polygenic model described above. This mixed linear model adjusted for relatedness among family members by incorporating the kinship coefficient matrix using the R functions written by Therneau (Therneau et al., 2012). In addition, to confirm previously reported genes, we examined the regions containing the previously reported genes and applied the linear mixed effects model as above, but we ‘shuffled’ the phenotype 500 times to obtain empirical p-values at three different levels to correct for multiple testing: SNP-wise, gene-wise, and then experiment wise p-values. To obtain gene wise p-values, we shuffled the phenotypes and computed p-values to establish the distribution of smallest p-values for 500 replicates, and then counted the number of replicates that exceeded the nominal p-values for the SNPs within a gene. To obtain the experiment wise p-value, we then extended the approach we used for gene-wise estimation to include all genes.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 14393,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Linkage study"
+          },
+          "text": "To determine whether rare variants that contribute to leukocyte telomere length segregate in families, linkage analysis using haplotype based identity-by-descent (IBD: ZAPLO O'Connell, 2000) was performed. Specifically, sets of up to five tightly linked SNPs within 0.5 cM intervals were haplotyped with ZAPLO, generating a set of SNP “super-loci” spaced ~0.5 cM apart and having greater information content than individual SNPs. From these haplotypes, Loki (Heath, 1997) was used to estimate multipoint IBD in intact pedigrees, which was then imported into SOLAR for variance component linkage analysis. Because different quantitative trait loci (QTLs) influencing leukocyte telomere length are likely to segregate in different families (i.e., genetic heterogeneity), admixture (heterogeneity) LOD scores (HLOD) were completed using SOLAR (Blangero et al., 2001, 2013; Almasy and Blangero, 2010). This algorithm computes HLOD using the algorithm by C. A. B Smith in which the null hypothesis of homogeneity is compared to the hypothesis of heterogeneity (Smith, 1961; Ott, 1983). The admixture linkage analysis identified two linkage peaks—17q23.2 and 10q11.21—that had HLOD exceeding 3 when all families were included in the analysis. When restricted to linked families, HLODs increased to 5.86 for 17q23.2 and 9.69 for 10q11.21 as expected. This finding suggests that subsequent sequencing experiments can be prioritized to include these families.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 15856,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Linkage study"
+          },
+          "text": "To identify the most likely candidate genes from a large set of genes under each linkage peak, family-based Sequence Kernel Association Test (SKAT) was performed to identify genes that are associated with leukocyte telomere length (Wu et al., 2011; Chen et al., 2013). This model adjusts for the same set of covariates as in the linear mixed model and also controls for familial correlation by including kinship coefficient in the model. famSKAT tests whether multiple rare variants contribute to phenotypic variation, and does not assume that all rare variants influence phenotypes in the same direction with the same effect size. Taking one step further, we then applied measured genotype analysis to identify genetic variants that were significantly associated with variation in leukocyte telomere length. In addition, haplotype analysis was conducted when contiguous multiple variants were associated with leukocyte telomere length. Haplotype analysis was performed using PLINK (Purcell et al., 2007) and MERLIN (Abecasis et al., 2002), and the resulting haplotypes from two analyses were identical.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 16959,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Descriptive statistics"
+          },
+          "text": "Of 4289 subjects with telomere assay, 1418 were from the proband generation and the remaining 2871 were from the offspring generation (Table ​(Table1).1). The overall mean age was 70.1 and ranged from 24 to 110. There was a slightly higher proportion of women compared with men (55.1 vs. 44.9%), and the cohort comprised whites primarily. The mean age at blood draw was the youngest for the Danish site and the oldest for the NY sites (67.2 vs. 74.1). When stratified by generation, however, the maximum mean age difference across sites was 1.8 years (range for the proband generation: 89.0–90.8 years; range for the offspring generation: 59.9–61.4 years), pointing to the fact that Danish families have a larger number of offspring. The overall mean years of education was 11.6 years, and differed between cohorts (proband generation = 9.8 vs. offspring generation = 12.5).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 17862,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Descriptive statistics"
+          },
+          "text": "The mean leukocyte telomere length was 5325.3 bp (SD = 485.5), and the mean leukocyte telomere length was slightly longer for women compared with men (5356.7 bp vs. 5287.6 bp) (Table ​(Table2).2). The mean leukocyte telomere length was shorter in the proband generation compared with the offspring generation (5170.5 bp vs. 5401.8 bp, respectively; p = 5.9E-50). Leukocyte telomere length was slightly shorter for the Danish cohort compared with the US cohort (5216.2 bp vs. 5366.6 bp). When analyzed separately, factors that were significantly associated with leukocyte telomere length at p < 0.05 were heart disease, smoking, drinking and marital status. When these factors were included in the multivariable model in SOLAR as well as SPSS (SPSS, 2013), the following variables remained significant at p < 0.05: site, sex, marital status, education, drinking, smoking, heart disease, and PC8.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 18756,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Heritability"
+          },
+          "text": "The overall heritability of leukocyte telomere length was estimated to be 0.54 (SE = 0.034) in this cohort. Sex specific heritability estimates for men and women were highly significant and similar to each other (h2men = 0.597 ± 0.064, p = 1.80E-23 vs. h2women = 0.521 ± 0.053, p = 1.17E-26). When restricted to one generation, the heritability estimate for the proband generation was lower than that for offspring generation (h2proband = 0.47, SE = 0.068 vs. h2offspring = 0.848, SE = 0.54).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 19260,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Allelic association"
+          },
+          "text": "Among genotyped SNPs, rs7680468 on chromosome 4q25 reached genome-wide significance (p = 4.7E-8) in the LLFS dataset (Figure ​(Figure1).1). When imputed SNPs were included, two additional SNPs on 4q25—specifically deletion at c4:108229919 and c4:108229924 — were significantly associated with leukocyte telomere length at p < E-8 (Table ​(Table3).3). Altogether five variants, located within or between the DKK2 and PAPSS1 genes, were associated with telomere length at p < 6.6E-7 (Table ​(Table3).3). As these variants span 200 kb, pairwise linkage disequilibrium (D′) for the first three variants ranged from D′ of 0.799 to 0.90, but D′ between SNPs 3 and 4 was 0.25. In addition, several other SNPs were associated with leukocyte telomere length at suggestive levels of significance (p <E-6), including SNPs located near genes candidate genes TMPRSS7 on 3q13.2, TRDMT1 on 10p13, SYT16 on 14q23, TSHZ2 on 20q13.2, and ASCC2 on 22q12.2 (Table ​(Table33).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 20234,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Linkage analysis and measured genotype analysis"
+          },
+          "text": "To identify rare variants that segregate in a subset of families that may have been undetected by the linear mixed model, sets of SNP “super-loci” spaced ~0.5 cM apart were used to obtain greater information content than individual SNPs. This linkage analysis based on SOLAR identified four suggestive linkage peaks, including 17q23.2 (LOD = 2.52), 10q11.21 (LOD = 2.72), 12p12.1 (LOD = 1.98), and 6q14.1 (LOD = 1.83) (Figure ​(Figure2).2). To assess heterogeneity across families, we computed HLODs for these four loci using all families. HLODs were increased to 4.77 for 17q23.2, 4.36 for 10q11.21, 2.05 for 6q14.1, and 1.99 for 12p12.1 (LOD = 1.98; Table ​Table4).4). Thus, we subsequently focused on the two loci with HLOD >3 (17q23.2 and 10q11.21), which included multiple candidate genes as shown in Figures 3A,B. To narrow down the number of candidate genes under the linkage peak, a family-based gene-wise study using famSKAT was performed (Wu et al., 2011), yielding four significant candidate genes, namely DCAF7, POLG2, CEP95, and SMURF2 for 17q23.2, and five candidate genes, namely RASGEF1A, HNRNPF, ANF487, CSTF2T, and PRKG1 for 10q11.21 (Figures 3A,B; Table ​Table4).4). Two genes—CEP95 (p = 0.000189) and SMURF2 (p = 0.000271)—had the strongest support for gene-wise association.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 21576,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Linkage analysis and measured genotype analysis"
+          },
+          "text": "To identify variants that may contribute to variation in leukocyte telomere length in these genes, measured genotype analysis was performed for each SNP in the gene using SOLAR (Tables ​(Tables5A,5A, ​,B).B). For 17q23.2, multiple SNPs in CEP95 and SMURF2 supported allelic association at p < E-5. We note that the results from the measured genotype analysis using SOLAR did not differ from those in the mixed linear model above. Because multiple contiguous SNP were associated with variation in leukocyte telomere length, haplotype analysis was performed. Table ​Table5A5A shows that one contiguous haplotype G-T-T-T-G in CEP95 and C-T-G-C-G-C-A-A-C-T in SMURF2 was significantly associated with leukocyte telomere length (p < 0.0057 for transformed leukocyte telomere length). Due to low allele frequencies of risk variants, two haplotypes—the risk haplotype in black and the reference haplotype in white—were observed as shown in Table ​Table5A.5A. The mean leukocyte telomere length in haplotype carriers was shorter than that in non-carriers (5275.5 vs. 5329.4 base pairs, respectively). Similarly, for 10q11.21, a measured genotype analysis identified multiple variants in the HNRNPF gene (p < E-4) and the PRKG1 gene (p < E-5).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 22810,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Confirmation of previous findings"
+          },
+          "text": "Previously implicated genes (TERC, ARPM1, MYNN, OBFC1,and ZNF729) were examined to determine whether families ascertained based exceptional healthy aging also support allelic association for the same five reported SNPs in those genes. As shown in Table ​Table6,6, 20 SNPs from the five genes were associated with leukocyte telomere length at pnominal < 0.05. Of those, TERC, MYNN, and OBFC1 remained significant at gene-wise p < 0.05 based on a permutation based test, and MYNN was significant at experiment- wise p < 0.05. However, with the exception of rs1317082 on MYNN, different variants were associated with leukocyte telomere length in the present study.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 23504,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "We identified genetic factors that contribute to variation in leukocyte telomere length in families that were selected for exceptional longevity who also experienced healthy aging. The genome wide association analysis revealed that DKK2 and PAPSS1 on 4q25 are strong candidate genes (p4.7 < E-8) that may contribute to variation in leukocyte telomere length, and that several other genes may also be involved. In addition, two novel loci—17q23.2 (HLOD = 4.77) and 10q11.21 (HLOD = 4.36)—had HLOD scores exceeding 3. From the multiple candidate genes present under the linkage peaks, we identified nine genes that were significantly associated with leukocyte telomere length at gene-wise level, which include four genes in 17q23.2 (specifically DCAF7, POLG2, CEP95, and SMURF2) and five genes in 10q11.21 (specifically, RASGEF1A, HNRNPF, ANF487, CSTF2T, and PRKG1). Among these genes, CEP95 and SMURF2 in 17q23.2 had one contiguous novel haplotype that was significantly associated with leukocyte telomere length. In 10q11.21, SNPs in HNRNPF and PRKG1 were also associated. Further, we confirmed association between leukocyte telomere length and TERC, MYNN, and OBFC1. Our approach of combining association and linkage analyses has identified a set of novel genes that contribute to variation in leukocyte telomere length in families with exceptional longevity characterized by healthy aging. However, it is difficult to decipher the role of these candidate genes in cellular aging since differential cellular aging can arise from the fundamental processes such as cell death, or by influencing the disease processes in age related diseases. Here we discuss several genes that may contribute to biological cellular aging as measured by leukocyte telomere length.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 25275,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "The strongest GWAS signal was observed in a set of five SNPs located in 4q25, and this finding refines and extends the earlier report of linkage peak at D4S1564 (MLS = 3.65, p = 0.044; 108,376,510-108,376,856 bp) based on 137 sibships selected for longevity (Puca et al., 2001). These SNPs are located between the DKK2 and PAPSS1 genes, but one of the SNP localizes to DKK2. Because of limited work done on these genes, their role in cellular aging is unclear. The DKK2 gene is believed to be involved in embryonic development, and interacts with LDL-receptor related protein 6 (LDL6). Based on biological similarity, it may be involved in bone diseases, cancer and Alzheimer disease in adults (Magrane and Consortium, 2011). The PAPSS1 gene encodes a trypsinogen that is a member of the trypsin family of serine proteases. Mutations in this gene are associated with hereditary pancreatitis. To date, however, both genes have not been implicated in common diseases in humans.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 26250,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "TRDMT1, Homo sapiens tRNA aspartic acid methyltransferase 1, on 10p13, is involved in DNA methylation. Because of its role in methylation, Halaschek-Wiener et al. (2009) considered it to be a candidate gene for healthy aging and sequenced 47 individuals who survive to age 85 or older without any major age-related diseases. This exploratory study observed that TRDMT1 and SIRT3 had the highest frequency of variants; however, the role of TRDMT1 in aging is unclear because allele frequencies for SNPs in this gene were not compared to those in controls. Another candidate gene, SYT16 on 14q23.2 from the GWAS, was reported to be involved in trafficking and exocytosis of secretory vesicles in non-neuronal tissues. Mosing et al. (2010) reported that one of the SNPs in the gene was associated with self-rated health.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 27067,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Our genome wide linkage analysis revealed several genes that would have been missed by the GWAS, had we restricted our analysis to genes that meet the strict genome wide significance threshold. Genome wide linkage analysis followed by gene-wise association analysis identified CEP95 (Centrosomal protein 95 kDa) and SMURF2 (SMAD specific E3 ubiquitin protein ligase 2) as promising candidate genes. SMURF2 is shown to be involved in regulation of neuronal and cell polarity, induction of cellular senescence, and tumor suppression (Blank et al., 2012), suggesting its potential role in cellular aging. On the other hand, very little is known about CEP95. However the shared haplotype encompassing these two genes is a strong candidate region for sequencing. In addition, KCNH6 (potassium voltage-gated channel, subfamily H (Ether-A-Go-Go-Related), member 6) belongs to a class of voltage-gated ion channels and is believed to be involved in regulating release of neurotransmitters, controlling heart rate, secretion of insulin, neuronal excitability, etc. (http://genecards.org).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 28146,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Among several genes on 10q11.21 that showed significant gene-wise association, including RASGEF1A, HNRNPF, ANF487, CSTF2T, and PRKG1, HNRNPF and PRKG1 are candidate genes of interest. HNRNPF is involved in multiple regulatory pathways, and it has been associated with late onset Alzheimer disease, (Grupe et al., 2006) modulate neuronal viability (Boucher et al., 2002), and is also reported to be associated with cancers. PRKG1 regulates cellular platelet activation and adhesion, contraction of smooth muscles, cardiac function, and other processes involved in several functions association with central nervous system function, such as axon guidance, hippocampal and cerebellar learning, etc. These genes may be biologically relevant to healthy aging, requiring further examination.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 28931,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "The present study confirmed the genes that were previously reported to be associated with leukocyte telomere length (Vasa-Nicotera et al., 2005; Andrew et al., 2006; Mangino et al., 2009; Codd et al., 2010; Levy et al., 2010; Mangino et al., 2012). Specifically, we found at least one SNP in TERC, ARPM1, MYNN, OBFC1, and ZNF729 to be nominally associated with variation in leukocyte telomere length; however, TERC, MYNN, and OBFC1 were significantly associated with leukocyte telomere length based on a permutation test at the gene-wise level. Moreover, MYNN was significant at experiment-wise level. For these genes, different variants were significantly associated with leukocyte telomere length, except for MYNN, where rs1317082 (p = 0.000372) (Mangino et al., 2012) was previously reported.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 29726,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Several possibilities may explain the differences in findings across studies, including selection, leukocyte telomere length measurements, differences in the distribution of risk factors, etc (Aviv et al., 2006; Christensen et al., 2006; Armanios and Blackburn, 2012; Sanders et al., 2012). First, cellular aging as measured by leukocyte telomere length is likely to be a complex trait. As such, a different set of genetic and environmental risk factors can influence variation in leukocyte telomere length in different cohorts. The LLFS cohort was sampled to recruit families with strong evidence for familial longevity, and this cohort appears to be relatively healthier than other elderly cohorts (Newman et al., 2011). Previously, Newman et al. (2011) showed that compared with other large epidemiologic cohorts (including Cardiovascular Health Study, the Framingham Heart Study, and the New England Centenarian Study), the prevalence of diabetes, chronic pulmonary disease and peripheral artery disease was lower in LLFS family members and the levels of biomarkers (e.g., pulse pressure, triglycerides, HDL, and gate speed) were more favorable. In addition, the heritability estimates for leukocyte telomere length in this cohort ranged from 0.47 for the older proband generation to 0.85 for the relatively younger offspring generation with an overall estimate of 0.54. These estimates are comparable to those observed in the meta-analysis based on 19,713 subjects by Broer et al. (2013) which observed an overall heritability of 0.70, with 0.62 for the Netherlands Twin Registry and Queensland Institute Medical Research Twin study and 0.86 for the Leiden Longevity Study. However, given the difference in recruitment for LLFS compared with other studies, it is likely to yield a different set of candidate genes than in other datasets that have been ascertained for familial aggregation of heart disease or a random set of twins, for example. Moreover, there likely to exist substantial differences in life style or the distribution of environmental risk factors in these families selected for familial longevity compared with cohorts recruited based on diseases of interest. With the exception of age, sex, Caucasian ancestry, and atherosclerosis (Sanders and Newman, 2013), the strength and direction of association between leukocyte telomere length and risk factors are equivocal. Thus, to minimize the influence of these risk factors on allelic association, the present study adjusted for potential confounders, including age, sex, education, site, smoking, alcohol consumption, marital status, a history of heart disease, and one principle component because they were significantly associated with leukocyte telomere length in the LLFS dataset. Second, the telomere assays used across studies vary (Sanders and Newman, 2013). This study measured leukocyte telomere length using the quantitative PCR method (T/S ratio) (Cawthon, 2002; Cawthon et al., 2003; Honig et al., 2012), rather than the terminal restriction fragment method (TRF) (Aviv et al., 2011). The impact of methodological difference on the genetic findings is likely to be minimal. Studies that compared these two methods showed that the T/S ratio method measures only “canonical” TTAGGG telomere repeats, while the TRF method derives a “telomere” measurement including telomere-adjacent non-canonical sequences. However, over a wide-range, T/S measurements linearly relate to TRF measurements, as shown by many investigators, including Cawthon et al. (2003), Honig et al. (2012), and Aviv et al. (2011). This study supports comparability of the two methods by confirming the previously reported genes. Lastly, because the present study ascertained healthy families selected for familial longevity, there exist very few studies with such extreme sampling exist. Therefore, the present study lacks extensive replication since reported associations vary widely depending on study design (e.g., case-control vs. family based or randomly selected samples vs. extreme samples, etc.).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 33780,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "In sum, the present study identified novel variants in several genes in three loci—4q25, 17q23.2, and 10q11.21—that may contribute to variation in leukocyte telomere length in families with exceptional longevity. The findings from this study may facilitate identification of genes that may better explain how cells age, thereby enhancing our understanding of aging mechanisms.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34156,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion",
+            "section_title_2": "Conflict of interest statement"
+          },
+          "text": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34358,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "acknowledgements section",
+                "iao_id": "IAO:0000324"
+              }
+            ],
+            "section_title_1": "Acknowledgments"
+          },
+          "text": "LLFS was sponsored by the National Institute on Aging (NIA cooperative agreements U01-AG023712, U01-AG23744, U01-AG023746, U01-AG023749 and U01-AG023755).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34527,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "GRR: graphical representation of relationship errors",
+            "journal": "Bioinformatics",
+            "volume": "17",
+            "section_title_1": "References"
+          },
+          "text": "Abecasis G. R., Cherny S. S., Cookson W. O., Cardon L. R. (2001). GRR: graphical representation of relationship errors. Bioinformatics\n17, 742–743\n10.1093/bioinformatics/17.8.742 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34752,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Merlin–rapid analysis of dense genetic maps using sparse gene flow trees",
+            "journal": "Nat. Genet",
+            "volume": "30",
+            "section_title_1": "References"
+          },
+          "text": "Abecasis G. R., Cherny S. S., Cookson W. O., Cardon L. R. (2002). Merlin–rapid analysis of dense genetic maps using sparse gene flow trees. Nat. Genet. 30, 97–101\n10.1038/ng786 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34965,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Testing the robustness of the likelihood-ratio test in a variance-component quantitative-trait loci-mapping procedure",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "65",
+            "section_title_1": "References"
+          },
+          "text": "Allison D. B., Neale M. C., Zannolli R., Schork N. J., Amos C. I., Blangero J. (1999). Testing the robustness of the likelihood-ratio test in a variance-component quantitative-trait loci-mapping procedure. Am. J. Hum. Genet. 65, 531–544\n10.1086/302487 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35272,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Multipoint quantitative-trait linkage analysis in general pedigrees",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "62",
+            "section_title_1": "References"
+          },
+          "text": "Almasy L., Blangero J. (1998). Multipoint quantitative-trait linkage analysis in general pedigrees. Am. J. Hum. Genet. 62, 1198–1211\n10.1086/301844 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35475,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Variance component methods for analysis of complex phenotypes",
+            "journal": "Cold Spring Harb. Protoc",
+            "volume": "2010",
+            "section_title_1": "References"
+          },
+          "text": "Almasy L., Blangero J. (2010). Variance component methods for analysis of complex phenotypes. Cold Spring Harb. Protoc. 2010, pdb top77. 10.1101/pdb.top77 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35685,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Mapping genetic loci that determine leukocyte telomere length in a large sample of unselected female sibling pairs",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "78",
+            "section_title_1": "References"
+          },
+          "text": "Andrew T., Aviv A., Falchi M., Surdulescu G. L., Gardner J. P., Lu X., et al.  (2006). Mapping genetic loci that determine leukocyte telomere length in a large sample of unselected female sibling pairs. Am. J. Hum. Genet. 78, 480–486\n10.1086/500052 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35989,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The telomere syndromes",
+            "journal": "Nat. Rev. Genet",
+            "volume": "13",
+            "section_title_1": "References"
+          },
+          "text": "Armanios M., Blackburn E. H. (2012). The telomere syndromes. Nat. Rev. Genet. 13, 693–704\n10.1038/nrg3246 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 36150,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Linkage disequilibrium in young genetically isolated Dutch population",
+            "journal": "Eur. J. Hum. Genet",
+            "volume": "12",
+            "section_title_1": "References"
+          },
+          "text": "Aulchenko Y. S., Heutink P., Mackay I., Bertoli-Avella A. M., Pullen J., Vaessen N., et al.  (2004). Linkage disequilibrium in young genetically isolated Dutch population. Eur. J. Hum. Genet. 12, 527–534\n10.1038/sj.ejhg.5201188 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 36414,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Leukocyte telomere length, hypertension, and atherosclerosis: are there potential mechanistic explanations?",
+            "journal": "Hypertension",
+            "volume": "53",
+            "section_title_1": "References"
+          },
+          "text": "Aviv A. (2009). Leukocyte telomere length, hypertension, and atherosclerosis: are there potential mechanistic explanations?\nHypertension\n53, 590–591\n10.1161/HYPERTENSIONAHA.109.128926 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 36634,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetics of leukocyte telomere length and its role in atherosclerosis",
+            "journal": "Mutat. Res",
+            "volume": "730",
+            "section_title_1": "References"
+          },
+          "text": "Aviv A. (2012). Genetics of leukocyte telomere length and its role in atherosclerosis. Mutat. Res. 730, 68–74\n10.1016/j.mrfmmm.2011.05.001 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 36828,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Impartial comparative analysis of measurement of leukocyte telomere length/DNA content by Southern blots and qPCR",
+            "journal": "Nucleic Acids Res",
+            "volume": "39",
+            "section_title_1": "References"
+          },
+          "text": "Aviv A., Hunt S. C., Lin J., Cao X., Kimura M., Blackburn E. (2011). Impartial comparative analysis of measurement of leukocyte telomere length/DNA content by Southern blots and qPCR. Nucleic Acids Res. 39, e134\n10.1093/nar/gkr634 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37114,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Human telomere biology: pitfalls of moving from the laboratory to epidemiology",
+            "journal": "Int. J. Epidemiol",
+            "volume": "35",
+            "section_title_1": "References"
+          },
+          "text": "Aviv A., Valdes A. M., Spector T. D. (2006). Human telomere biology: pitfalls of moving from the laboratory to epidemiology. Int. J. Epidemiol. 35, 1424–1429\n10.1093/ije/dyl169 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37327,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Chromosome 4q25, microsomal transfer protein gene, and human longevity: novel data and a meta-analysis of association studies",
+            "journal": "J. Gerontol. A Biol. Sci. Med. Sci",
+            "volume": "61",
+            "section_title_1": "References"
+          },
+          "text": "Beekman M., Blauw G. J., Houwing-Duistermaat J. J., Brandt B. W., Westendorp R. G., Slagboom P. E. (2006). Chromosome 4q25, microsomal transfer protein gene, and human longevity: novel data and a meta-analysis of association studies. J. Gerontol. A Biol. Sci. Med. Sci. 61, 355–362\n10.1093/gerona/61.4.355 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37669,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Multipoint oligogenic linkage analysis of quantitative traits",
+            "journal": "Genet. Epidemiol",
+            "volume": "14",
+            "section_title_1": "References"
+          },
+          "text": "Blangero J., Almasy L. (1997). Multipoint oligogenic linkage analysis of quantitative traits. Genet. Epidemiol. 14, 959–964\n10.1002/(SICI)1098-2272(1997)14:6<959::AID-GEPI66>3.0.CO;2-K [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37890,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A kernel of truth: statistical advances in polygenic variance component models for complex human pedigrees",
+            "journal": "Adv. Genet",
+            "volume": "81",
+            "section_title_1": "References"
+          },
+          "text": "Blangero J., Diego V. P., Dyer T. D., Almeida M., Peralta J., Kent J. W., et al.  (2013). A kernel of truth: statistical advances in polygenic variance component models for complex human pedigrees. Adv. Genet. 81, 1–31\n10.1016/B978-0-12-407677-8.00001-4 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38199,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Variance component methods for detecting complex trait loci",
+            "journal": "Adv. Genet",
+            "volume": "42",
+            "section_title_1": "References"
+          },
+          "text": "Blangero J., Williams J. T., Almasy L. (2001). Variance component methods for detecting complex trait loci. Adv. Genet. 42, 151–181\n10.1016/S0065-2660(01)42021-9 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38397,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A tumor suppressor function of Smurf2 associated with controlling chromatin landscape and genome stability through RNF20",
+            "journal": "Nat. Med",
+            "volume": "18",
+            "section_title_1": "References"
+          },
+          "text": "Blank M., Tang Y., Yamashita M., Burkett S. S., Cheng S. Y., Zhang Y. E. (2012). A tumor suppressor function of Smurf2 associated with controlling chromatin landscape and genome stability through RNF20. Nat. Med. 18, 227–234\n10.1038/nm.2596 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38693,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Proteolipid protein gene modulates viability and phenotype of neurons",
+            "journal": "J. Neurosci",
+            "volume": "22",
+            "section_title_1": "References"
+          },
+          "text": "Boucher S. E., Cypher M. A., Carlock L. R., Skoff R. P. (2002). Proteolipid protein gene modulates viability and phenotype of neurons. J. Neurosci. 22, 1772–1783\n [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38900,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Meta-analysis of telomere length in 19,713 subjects reveals high heritability, stronger maternal inheritance and a paternal age effect",
+            "journal": "Eur. J. Hum. Genet",
+            "volume": "21",
+            "section_title_1": "References"
+          },
+          "text": "Broer L., Codd V., Nyholt D. R., Deelen J., Mangino M., Willemsen G., et al.  (2013). Meta-analysis of telomere length in 19,713 subjects reveals high heritability, stronger maternal inheritance and a paternal age effect. Eur. J. Hum. Genet. 21, 1163–1168\n10.1038/ejhg.2012.303 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39233,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Telomere measurement by quantitative PCR",
+            "journal": "Nucleic Acids Res",
+            "volume": "30",
+            "section_title_1": "References"
+          },
+          "text": "Cawthon R. M. (2002). Telomere measurement by quantitative PCR. Nucleic Acids Res. 30, e47\n10.1093/nar/30.10.e47 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39401,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Association between telomere length in blood and mortality in people aged 60 years or older",
+            "journal": "Lancet",
+            "volume": "361",
+            "section_title_1": "References"
+          },
+          "text": "Cawthon R. M., Smith K. R., O'brien E., Sivatchenko A., Kerber R. A. (2003). Association between telomere length in blood and mortality in people aged 60 years or older. Lancet\n361, 393–395\n10.1016/S0140-6736(03)12384-7 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39657,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "journal": "Telomeres and Telomerase",
+            "section_title_1": "References"
+          },
+          "text": "Chadwick D., Cardew G. (1997). Telomeres and Telomerase. Chichester; New York: John Wiley & Sons [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39770,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Sequence kernel association test for quantitative traits in family samples",
+            "journal": "Genet Epidemiol",
+            "volume": "37",
+            "section_title_1": "References"
+          },
+          "text": "Chen H., Meigs J. B., Dupuis J. (2013). Sequence kernel association test for quantitative traits in family samples. Genet Epidemiol. 37, 196–204\n10.1002/gepi.21703 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39989,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The quest for genetic determinants of human longevity: challenges and insights",
+            "journal": "Nat. Rev. Genet",
+            "volume": "7",
+            "section_title_1": "References"
+          },
+          "text": "Christensen K., Johnson T. E., Vaupel J. W. (2006). The quest for genetic determinants of human longevity: challenges and insights. Nat. Rev. Genet. 7, 436–448\n10.1038/nrg1871 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40220,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Common variants near TERC are associated with mean telomere length",
+            "journal": "Nat. Genet",
+            "volume": "42",
+            "section_title_1": "References"
+          },
+          "text": "Codd V., Mangino M., Van Der Harst P., Braund P. S., Kaiser M., Beveridge A. J., et al.  (2010). Common variants near TERC are associated with mean telomere length. Nat. Genet. 42, 197–199\n10.1038/ng.532 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40479,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "If you would live long, choose your parents well",
+            "journal": "Trends Genet",
+            "volume": "17",
+            "section_title_1": "References"
+          },
+          "text": "Cournil A., Kirkwood T. B. (2001). If you would live long, choose your parents well. Trends Genet. 17, 233–235\n10.1016/S0168-9525(01)02306-X [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40656,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide association study identifies a single major locus contributing to survival into old age; the APOE locus revisited",
+            "journal": "Aging Cell",
+            "volume": "10",
+            "section_title_1": "References"
+          },
+          "text": "Deelen J., Beekman M., Uh H. W., Helmer Q., Kuningas M., Christiansen L., et al.  (2011). Genome-wide association study identifies a single major locus contributing to survival into old age; the APOE locus revisited. Aging Cell\n10, 686–698\n10.1111/j.1474-9726.2011.00705.x [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40984,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Accelerated telomere shortening in response to life stress",
+            "journal": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "101",
+            "section_title_1": "References"
+          },
+          "text": "Epel E. S., Blackburn E. H., Lin J., Dhabhar F. S., Adler N. E., Morrow J. D., et al.  (2004). Accelerated telomere shortening in response to life stress. Proc. Natl. Acad. Sci. U.S.A. 101, 17312–17315\n10.1073/pnas.0407162101 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41265,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Effect of Box-Cox transformation on power of Haseman-Elston and maximum-likelihood variance components tests to detect quantitative trait Loci",
+            "journal": "Hum. Hered",
+            "volume": "55",
+            "section_title_1": "References"
+          },
+          "text": "Etzel C. J., Shete S., Beasley T. M., Fernandez J. R., Allison D. B., Amos C. I. (2003). Effect of Box-Cox transformation on power of Haseman-Elston and maximum-likelihood variance components tests to detect quantitative trait Loci. Hum. Hered. 55, 108–116\n10.1159/000072315 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41576,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A scan of chromosome 10 identifies a novel locus showing strong association with late-onset Alzheimer disease",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "78",
+            "section_title_1": "References"
+          },
+          "text": "Grupe A., Li Y., Rowland C., Nowotny P., Hinrichs A. L., Smemo S., et al.  (2006). A scan of chromosome 10 identifies a novel locus showing strong association with late-onset Alzheimer disease. Am. J. Hum. Genet. 78, 78–88\n10.1086/498851 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41869,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetic variation in healthy oldest-old",
+            "journal": "PLoS ONE",
+            "volume": "4",
+            "section_title_1": "References"
+          },
+          "text": "Halaschek-Wiener J., Amirabbasi-Beik M., Monfared N., Pieczyk M., Sailer C., Kollar A., et al.  (2009). Genetic variation in healthy oldest-old. PLoS ONE\n4:e6641\n10.1371/journal.pone.0006641 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42115,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Telomeres shorten while Tert expression increases during ageing of the short-lived fish Nothobranchius furzeri",
+            "journal": "Mech. Ageing Dev",
+            "volume": "130",
+            "section_title_1": "References"
+          },
+          "text": "Hartmann N., Reichwald K., Lechel A., Graf M., Kirschner J., Dorn A., et al.  (2009). Telomeres shorten while Tert expression increases during ageing of the short-lived fish Nothobranchius furzeri. Mech. Ageing Dev. 130, 290–296\n10.1016/j.mad.2009.01.003 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42406,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Markov chain Monte Carlo segregation and linkage analysis for oligogenic models",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "61",
+            "section_title_1": "References"
+          },
+          "text": "Heath S. C. (1997). Markov chain Monte Carlo segregation and linkage analysis for oligogenic models. Am. J. Hum. Genet. 61, 748–760\n10.1086/515506 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42608,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetic influence on human lifespan and longevity",
+            "journal": "Hum. Genet",
+            "volume": "119",
+            "section_title_1": "References"
+          },
+          "text": "Hjelmborg J. vB, Iachine I., Skytthe A., Vaupel J. W., Mcgue M., Koskenvuo M., et al.  (2006). Genetic influence on human lifespan and longevity. Hum. Genet. 119, 312–321\n10.1007/s00439-006-0144-y [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42841,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Refining the telomere-telomerase hypothesis of aging and cancer",
+            "journal": "Nat. Biotechnol",
+            "volume": "14",
+            "section_title_1": "References"
+          },
+          "text": "Holt S. E., Shay J. W., Wright W. E. (1996). Refining the telomere-telomerase hypothesis of aging and cancer. Nat. Biotechnol. 14, 836–839\n10.1038/nbt0796-836 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43036,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Association of shorter leukocyte telomere repeat length with dementia and mortality",
+            "journal": "Arch. Neurol",
+            "volume": "69",
+            "section_title_1": "References"
+          },
+          "text": "Honig L. S., Kang M. S., Schupf N., Lee J. H., Mayeux R. (2012). Association of shorter leukocyte telomere repeat length with dementia and mortality. Arch. Neurol. 69, 1332–1339\n10.1001/archneurol.2012.1541 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43298,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Shortened telomere length in white blood cells of patients with IDDM",
+            "journal": "Diabetes",
+            "volume": "47",
+            "section_title_1": "References"
+          },
+          "text": "Jeanclos E., Krolewski A., Skurnick J., Kimura M., Aviv H., Warram J. H., et al.  (1998). Shortened telomere length in white blood cells of patients with IDDM. Diabetes\n47, 482–486\n10.2337/diabetes.47.3.482 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43541,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Insulin-like growth factors and leukocyte telomere length: the cardiovascular health study",
+            "journal": "J. Gerontol. A Biol. Sci. Med. Sci",
+            "volume": "64",
+            "section_title_1": "References"
+          },
+          "text": "Kaplan R. C., Fitzpatrick A. L., Pollak M. N., Gardner J. P., Jenny N. S., Mcginn A. P., et al.  (2009). Insulin-like growth factors and leukocyte telomere length: the cardiovascular health study. J. Gerontol. A Biol. Sci. Med. Sci. 64, 1103–1106\n10.1093/gerona/glp036 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43865,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetic influences on life span and survival among elderly African-Americans, Caribbean Hispanics, and Caucasians",
+            "journal": "Am. J. Med. Genet. A",
+            "volume": "128A",
+            "section_title_1": "References"
+          },
+          "text": "Lee J. H., Flaquer A., Costa R., Andrews H., Cross P., Lantigua R., et al.  (2004). Genetic influences on life span and survival among elderly African-Americans, Caribbean Hispanics, and Caucasians. Am. J. Med. Genet. A\n128A, 159–164\n10.1002/ajmg.a.30062 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44156,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide association identifies OBFC1 as a locus involved in human leukocyte telomere biology",
+            "journal": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "107",
+            "section_title_1": "References"
+          },
+          "text": "Levy D., Neuhausen S. L., Hunt S. C., Kimura M., Hwang S. J., Chen W., et al.  (2010). Genome-wide association identifies OBFC1 as a locus involved in human leukocyte telomere biology. Proc. Natl. Acad. Sci. U.S.A. 107, 9293–9298\n10.1073/pnas.0911494107 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44465,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "UniProt Knowledgebase: a hub of integrated protein data",
+            "journal": "Database (Oxford)",
+            "volume": "2011",
+            "section_title_1": "References"
+          },
+          "text": "Magrane M., Consortium U. (2011). UniProt Knowledgebase: a hub of integrated protein data. Database (Oxford)\n2011, bar009. 10.1093/database/bar009 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44667,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide meta-analysis points to CTC1 and ZNF676 as genes regulating telomere homeostasis in humans",
+            "journal": "Hum. Mol. Genet",
+            "volume": "21",
+            "section_title_1": "References"
+          },
+          "text": "Mangino M., Hwang S. J., Spector T. D., Hunt S. C., Kimura M., Fitzpatrick A. L., et al.  (2012). Genome-wide meta-analysis points to CTC1 and ZNF676 as genes regulating telomere homeostasis in humans. Hum. Mol. Genet. 21, 5385–5394\n10.1093/hmg/dds382 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44974,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A genome-wide association study identifies a novel locus on chromosome 18q12.2 influencing white cell telomere length",
+            "journal": "J. Med. Genet",
+            "volume": "46",
+            "section_title_1": "References"
+          },
+          "text": "Mangino M., Richards J. B., Soranzo N., Zhai G., Aviv A., Valdes A. M., et al.  (2009). A genome-wide association study identifies a novel locus on chromosome 18q12.2 influencing white cell telomere length. J. Med. Genet. 46, 451–454\n10.1136/jmg.2008.064956 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45287,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A genome-wide association study of self-rated health",
+            "journal": "Twin Res. Hum. Genet",
+            "volume": "13",
+            "section_title_1": "References"
+          },
+          "text": "Mosing M. A., Verweij K. J., Medland S. E., Painter J., Gordon S. D., Heath A. C., et al.  (2010). A genome-wide association study of self-rated health. Twin Res. Hum. Genet. 13, 398–403\n10.1375/twin.13.4.398 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45551,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The search for longevity and healthy aging genes: insights from epidemiological studies and samples of long-lived individuals",
+            "journal": "J. Gerontol. A Biol. Sci. Med. Sci",
+            "volume": "67",
+            "section_title_1": "References"
+          },
+          "text": "Murabito J. M., Yuan R., Lunetta K. L. (2012). The search for longevity and healthy aging genes: insights from epidemiological studies and samples of long-lived individuals. J. Gerontol. A Biol. Sci. Med. Sci. 67, 470–479\n10.1093/gerona/gls089 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45850,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Health and function of participants in the Long Life Family Study: a comparison with other cohorts",
+            "journal": "Aging (Albany. NY)",
+            "volume": "3",
+            "section_title_1": "References"
+          },
+          "text": "Newman A. B., Glynn N. W., Taylor C. A., Sebastiani P., Perls T. T., Mayeux R., et al.  (2011). Health and function of participants in the Long Life Family Study: a comparison with other cohorts. Aging (Albany. NY). 3, 63–76\n [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46120,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Zero-recombinant haplotyping: applications to fine mapping using SNPs",
+            "journal": "Genet. Epidemiol",
+            "volume": "19",
+            "section_title_1": "References"
+          },
+          "text": "O'Connell J. R. (2000). Zero-recombinant haplotyping: applications to fine mapping using SNPs. Genet. Epidemiol. 19(Suppl. 1), S64–S70\n10.1002/1098-2272(2000)19:1+<::AID-GEPI10>3.0.CO;2-G [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46344,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Linkage analysis and family classification under heterogeneity",
+            "journal": "Ann. Hum. Genet",
+            "volume": "47",
+            "section_title_1": "References"
+          },
+          "text": "Ott J. (1983). Linkage analysis and family classification under heterogeneity. Ann. Hum. Genet. 47, 311–320\n10.1111/j.1469-1809.1983.tb01001.x [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46523,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Population structure and eigenanalysis",
+            "journal": "PLoS Genet",
+            "volume": "2",
+            "section_title_1": "References"
+          },
+          "text": "Patterson N., Price A. L., Reich D. (2006). Population structure and eigenanalysis. PLoS Genet. 2:e190\n10.1371/journal.pgen.0020190 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46710,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The danish civil registration system. A cohort of eight million persons",
+            "journal": "Dan. Med. Bull",
+            "volume": "53",
+            "section_title_1": "References"
+          },
+          "text": "Pedersen C. B., Gotzsche H., Moller J. O., Mortensen P. B. (2006). The danish civil registration system. A cohort of eight million persons. Dan. Med. Bull. 53, 441–449\n [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46904,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Survival of parents and siblings of supercentenarians",
+            "journal": "J. Gerontol. A Biol. Sci. Med. Sci",
+            "volume": "62",
+            "section_title_1": "References"
+          },
+          "text": "Perls T., Kohler I. V., Andersen S., Schoenhofen E., Pennington J., Young R., et al.  (2007). Survival of parents and siblings of supercentenarians. J. Gerontol. A Biol. Sci. Med. Sci. 62, 1028–1034\n10.1093/gerona/62.9.1028 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47183,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Siblings of centenarians live longer",
+            "journal": "Lancet",
+            "volume": "351",
+            "section_title_1": "References"
+          },
+          "text": "Perls T. T., Bubrick E., Wager C. G., Vijg J., Kruglyak L. (1998). Siblings of centenarians live longer. Lancet\n351, 1560\n10.1016/S0140-6736(05)61126-9 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47371,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetics of exceptional longevity",
+            "journal": "Exp. Gerontol",
+            "volume": "38",
+            "section_title_1": "References"
+          },
+          "text": "Perls T., Terry D. (2003). Genetics of exceptional longevity. Exp. Gerontol. 38, 725–730\n10.1016/S0531-5565(03)00098-6 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47526,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Centenarians and the genetics of longevity",
+            "journal": "Results Probl. Cell Differ",
+            "volume": "29",
+            "section_title_1": "References"
+          },
+          "text": "Perls T., Terry D. F., Silver M., Shea M., Bowen J., Joyce E., et al.  (2000). Centenarians and the genetics of longevity. Results Probl. Cell Differ. 29, 1–20\n10.1007/978-3-540-48003-7_1 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47750,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Principal components analysis corrects for stratification in genome-wide association studies",
+            "journal": "Nat. Genet",
+            "volume": "38",
+            "section_title_1": "References"
+          },
+          "text": "Price A. L., Patterson N. J., Plenge R. M., Weinblatt M. E., Shadick N. A., Reich D. (2006). Principal components analysis corrects for stratification in genome-wide association studies. Nat. Genet. 38, 904–909\n10.1038/ng1847 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48012,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A genome-wide scan for linkage to human exceptional longevity identifies a locus on chromosome 4",
+            "journal": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "98",
+            "section_title_1": "References"
+          },
+          "text": "Puca A. A., Daly M. J., Brewster S. J., Matise T. C., Barrett J., Shea-Drinkwater M., et al.  (2001). A genome-wide scan for linkage to human exceptional longevity identifies a locus on chromosome 4. Proc. Natl. Acad. Sci. U.S.A. 98, 10505–10508\n10.1073/pnas.181337598 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48336,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "PLINK: a tool set for whole-genome association and population-based linkage analyses",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "81",
+            "section_title_1": "References"
+          },
+          "text": "Purcell S., Neale B., Todd-Brown K., Thomas L., Ferreira M. A., Bender D., et al.  (2007). PLINK: a tool set for whole-genome association and population-based linkage analyses. Am. J. Hum. Genet. 81, 559–575\n10.1086/519795 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48614,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Leukocyte telomere length is associated with noninvasively measured age-related disease: the cardiovascular health study",
+            "journal": "J. Gerontol. A Biol. Sci. Med. Sci",
+            "volume": "67",
+            "section_title_1": "References"
+          },
+          "text": "Sanders J. L., Fitzpatrick A. L., Boudreau R. M., Arnold A. M., Aviv A., Kimura M., et al.  (2012). Leukocyte telomere length is associated with noninvasively measured age-related disease: the cardiovascular health study. J. Gerontol. A Biol. Sci. Med. Sci. 67, 409–416\n10.1093/gerona/glr173 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48961,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Telomere length in epidemiology: a biomarker of aging, age-related disease, both, or neither?",
+            "journal": "Epidemiol Rev",
+            "volume": "35",
+            "section_title_1": "References"
+          },
+          "text": "Sanders J. L., Newman A. B. (2013). Telomere length in epidemiology: a biomarker of aging, age-related disease, both, or neither?\nEpidemiol Rev. 35, 112–131\n10.1093/epirev/mxs008 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49195,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A family longevity selection score: ranking sibships by their longevity, size, and availability for study",
+            "journal": "Am. J. Epidemiol",
+            "volume": "170",
+            "section_title_1": "References"
+          },
+          "text": "Sebastiani P., Hadley E. C., Province M., Christensen K., Rossi W., Perls T. T., et al.  (2009). A family longevity selection score: ranking sibships by their longevity, size, and availability for study. Am. J. Epidemiol. 170, 1555–1562\n10.1093/aje/kwp309 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49506,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Depressive symptoms are not associated with leukocyte telomere length: findings from the Nova Scotia Health Survey (NSHS95), a population-based study",
+            "journal": "PLoS ONE",
+            "volume": "7",
+            "section_title_1": "References"
+          },
+          "text": "Shaffer J. A., Epel E., Kang M. S., Ye S., Schwartz J. E., Davidson K. W., et al.  (2012). Depressive symptoms are not associated with leukocyte telomere length: findings from the Nova Scotia Health Survey (NSHS95), a population-based study. PLoS ONE\n7:e48318\n10.1371/journal.pone.0048318 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49850,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Ageing and cancer: the telomere and telomerase connection",
+            "journal": "Novartis Found. Symp",
+            "volume": "235",
+            "section_title_1": "References"
+          },
+          "text": "Shay J. W., Wright W. E. (2001). Ageing and cancer: the telomere and telomerase connection. Novartis Found. Symp. 235, 116–125 discussion: 125–119, 146–119. 10.1002/0470868694.ch11 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50067,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Homogeneity test for linkage data",
+            "journal": "Proceedings From the Second International Congress of Human Genetics",
+            "section_title_1": "References"
+          },
+          "text": "Smith C. A. B. (1961). Homogeneity test for linkage data, in Proceedings From the Second International Congress of Human Genetics (Rome: ), 6–12 [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50228,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetic variation in TERT and TERC and human leukocyte telomere length and longevity: a cross-sectional and longitudinal analysis",
+            "journal": "Aging Cell",
+            "volume": "11",
+            "section_title_1": "References"
+          },
+          "text": "Soerensen M., Thinggaard M., Nygaard M., Dato S., Tan Q., Hjelmborg J., et al.  (2012). Genetic variation in TERT and TERC and human leukocyte telomere length and longevity: a cross-sectional and longitudinal analysis. Aging Cell\n11, 223–227\n10.1111/j.1474-9726.2011.00775.x [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50558,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "journal": "“IBM SPSS Statistics for Windows.” 21.0 Edn",
+            "section_title_1": "References"
+          },
+          "text": "SPSS , (2013). “IBM SPSS Statistics for Windows.” 21.0 Edn. (Armonk, NY: IBM Corp; ). [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50660,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "journal": "Package ‘kinship2’",
+            "section_title_1": "References"
+          },
+          "text": "Therneau T., Atkinson E., Sinnwell J., Matsumoto M., Schaid D., Mcdonnell S. (2012). Package ‘kinship2’ [Online]. Available online at: http://cran.r-project.org/web/packages/kinship2/kinship2.pdf",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50855,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Mapping of a major locus that determines telomere length in humans",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "76",
+            "section_title_1": "References"
+          },
+          "text": "Vasa-Nicotera M., Brouilette S., Mangino M., Thompson J. R., Braund P., Clemitson J. R., et al.  (2005). Mapping of a major locus that determines telomere length in humans. Am. J. Hum. Genet. 76, 147–151\n10.1086/426734 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 51129,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Rare-variant association testing for sequencing data with the sequence kernel association test",
+            "journal": "Am. J. Hum. Genet",
+            "volume": "89",
+            "section_title_1": "References"
+          },
+          "text": "Wu M. C., Lee S., Cai T., Li Y., Boehnke M., Lin X. (2011). Rare-variant association testing for sequencing data with the sequence kernel association test. Am. J. Hum. Genet. 89, 82–93\n10.1016/j.ajhg.2011.05.029 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 51396,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Relation between leukocyte telomere length and incident coronary heart disease events (from the 1995 canadian nova scotia health survey)",
+            "journal": "Am. J. Cardiol",
+            "volume": "111",
+            "section_title_1": "References"
+          },
+          "text": "Ye S., Shaffer J. A., Kang M. S., Harlapur M., Muntner P., Epel E., et al.  (2013). Relation between leukocyte telomere length and incident coronary heart disease events (from the 1995 canadian nova scotia health survey). Am. J. Cardiol. 111, 962–967\n10.1016/j.amjcard.2012.12.017 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

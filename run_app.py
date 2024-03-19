@@ -81,7 +81,6 @@ def fill_structure(structure, key, ftype, fpath):
     else:
         structure[key][ftype].append(fpath)
     return structure
-    pass
 
 
 def read_file_structure(file_path, target_dir):

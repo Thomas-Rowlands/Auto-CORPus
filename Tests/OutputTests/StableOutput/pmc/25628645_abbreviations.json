@@ -1,0 +1,170 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "25628645.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "LCLs",
+          "text_long": "lymphoblastoid cell lines"
+        },
+        {
+          "text_short": "GWA",
+          "text_long": "genome-wide association"
+        },
+        {
+          "text_short": "SNP",
+          "text_long": "single nucleotide polymorphism"
+        },
+        {
+          "text_short": "AML",
+          "text_long": "acute myeloid leukemia"
+        },
+        {
+          "text_short": "CML",
+          "text_long": "chronic myeloid leukemia"
+        },
+        {
+          "text_short": "CR",
+          "text_long": "complete response"
+        },
+        {
+          "text_short": "eQTL",
+          "text_long": "expression quantitative trait locus"
+        },
+        {
+          "text_short": "SNPs",
+          "text_long": "single nucleotide polymorphisms"
+        },
+        {
+          "text_short": "AUC",
+          "text_long": "area under the curve"
+        },
+        {
+          "text_short": "NIGMS",
+          "text_long": "National Institute of General Medical Sciences"
+        },
+        {
+          "text_short": "FBS",
+          "text_long": "Fetal Bovine Serum"
+        },
+        {
+          "text_short": "QC",
+          "text_long": "Quality control"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequencies"
+        },
+        {
+          "text_short": "HWE",
+          "text_long": "Hardy-Weinberg equilibrium"
+        },
+        {
+          "text_short": "RFS",
+          "text_long": "Relapse Free Survival"
+        },
+        {
+          "text_short": "PI3K",
+          "text_long": "phosphoinositide 3-kinase"
+        },
+        {
+          "text_short": "SOCS",
+          "text_long": "suppressor of cytokine signaling"
+        },
+        {
+          "text_short": "SSI",
+          "text_long": "STAT-induced STAT inhibitor"
+        },
+        {
+          "text_short": "PARP",
+          "text_long": "poly(ADP-ribose) polymerase"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "LCLs",
+          "text_long": "lymphoblastoid cell lines"
+        },
+        {
+          "text_short": "GWA",
+          "text_long": "genome-wide association"
+        },
+        {
+          "text_short": "SNP",
+          "text_long": "single nucleotide polymorphism"
+        },
+        {
+          "text_short": "AML",
+          "text_long": "acute myeloid leukemia"
+        },
+        {
+          "text_short": "CML",
+          "text_long": "chronic myeloid leukemia"
+        },
+        {
+          "text_short": "CR",
+          "text_long": "complete response"
+        },
+        {
+          "text_short": "eQTL",
+          "text_long": "expression quantitative trait locus"
+        },
+        {
+          "text_short": "SNPs",
+          "text_long": "single nucleotide polymorphisms"
+        },
+        {
+          "text_short": "AUC",
+          "text_long": "area under the curve"
+        },
+        {
+          "text_short": "NIGMS",
+          "text_long": "National Institute of General Medical Sciences"
+        },
+        {
+          "text_short": "FBS",
+          "text_long": "Fetal Bovine Serum"
+        },
+        {
+          "text_short": "QC",
+          "text_long": "Quality control"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequencies"
+        },
+        {
+          "text_short": "HWE",
+          "text_long": "Hardy-Weinberg equilibrium"
+        },
+        {
+          "text_short": "RFS",
+          "text_long": "Relapse Free Survival"
+        },
+        {
+          "text_short": "PI3K",
+          "text_long": "phosphoinositide 3-kinase"
+        },
+        {
+          "text_short": "SOCS",
+          "text_long": "suppressor of cytokine signaling"
+        },
+        {
+          "text_short": "SSI",
+          "text_long": "STAT-induced STAT inhibitor"
+        },
+        {
+          "text_short": "PARP",
+          "text_long": "poly(ADP-ribose) polymerase"
+        }
+      ]
+    }
+  ]
+}

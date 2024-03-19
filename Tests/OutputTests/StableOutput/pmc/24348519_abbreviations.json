@@ -1,0 +1,162 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "24348519.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "FTO",
+          "text_long": "fat mass and obesity gene"
+        },
+        {
+          "text_short": "BMI",
+          "text_long": "body mass index"
+        },
+        {
+          "text_short": "EMRs",
+          "text_long": "Electronic Medical Records"
+        },
+        {
+          "text_short": "CDC",
+          "text_long": "Centers of Disease Control and Prevention"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "genome-wide association studies"
+        },
+        {
+          "text_short": "PC",
+          "text_long": "principal components"
+        },
+        {
+          "text_short": "SNP",
+          "text_long": "single nucleotide polymorphism"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequency"
+        },
+        {
+          "text_short": "IRBs",
+          "text_long": "Institutional Review Boards"
+        },
+        {
+          "text_short": "QC",
+          "text_long": "Quality control"
+        },
+        {
+          "text_short": "PheWas",
+          "text_long": "Phenome wide association study"
+        },
+        {
+          "text_short": "OR",
+          "text_long": "odds ratio"
+        },
+        {
+          "text_short": "95% CIs",
+          "text_long": "95% confidence intervals"
+        },
+        {
+          "text_short": "MCMC",
+          "text_long": "Markov Chain Monte Carlo"
+        },
+        {
+          "text_short": "ECM",
+          "text_long": "extracellular matrix"
+        },
+        {
+          "text_short": "PAGE",
+          "text_long": "Population Architecture using Genomics and Epidemiology"
+        },
+        {
+          "text_short": "CUX1",
+          "text_long": "Cut-like homeobox 1"
+        },
+        {
+          "text_short": "RPGRIP1L",
+          "text_long": "retinitis pigmentosa GTPase regulator-interacting protein-1-like"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "FTO",
+          "text_long": "fat mass and obesity gene"
+        },
+        {
+          "text_short": "BMI",
+          "text_long": "body mass index"
+        },
+        {
+          "text_short": "EMRs",
+          "text_long": "Electronic Medical Records"
+        },
+        {
+          "text_short": "CDC",
+          "text_long": "Centers of Disease Control and Prevention"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "genome-wide association studies"
+        },
+        {
+          "text_short": "PC",
+          "text_long": "principal components"
+        },
+        {
+          "text_short": "SNP",
+          "text_long": "single nucleotide polymorphism"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequency"
+        },
+        {
+          "text_short": "IRBs",
+          "text_long": "Institutional Review Boards"
+        },
+        {
+          "text_short": "QC",
+          "text_long": "Quality control"
+        },
+        {
+          "text_short": "PheWas",
+          "text_long": "Phenome wide association study"
+        },
+        {
+          "text_short": "OR",
+          "text_long": "odds ratio"
+        },
+        {
+          "text_short": "95% CIs",
+          "text_long": "95% confidence intervals"
+        },
+        {
+          "text_short": "MCMC",
+          "text_long": "Markov Chain Monte Carlo"
+        },
+        {
+          "text_short": "ECM",
+          "text_long": "extracellular matrix"
+        },
+        {
+          "text_short": "PAGE",
+          "text_long": "Population Architecture using Genomics and Epidemiology"
+        },
+        {
+          "text_short": "CUX1",
+          "text_long": "Cut-like homeobox 1"
+        },
+        {
+          "text_short": "RPGRIP1L",
+          "text_long": "retinitis pigmentosa GTPase regulator-interacting protein-1-like"
+        }
+      ]
+    }
+  ]
+}

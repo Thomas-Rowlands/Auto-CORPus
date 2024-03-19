@@ -1,0 +1,170 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "24376456.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "BP",
+          "text_long": "blood pressure"
+        },
+        {
+          "text_short": "SHARe",
+          "text_long": "SNP Health Association Resource"
+        },
+        {
+          "text_short": "MLE",
+          "text_long": "maximum likelihood estimates"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "Genome-wide association studies"
+        },
+        {
+          "text_short": "ADH",
+          "text_long": "alcohol dehydrogenase"
+        },
+        {
+          "text_short": "ALDH",
+          "text_long": "aldehyde dehydrogenase"
+        },
+        {
+          "text_short": "WFDC1",
+          "text_long": "WAP four-disulfide core domain 1"
+        },
+        {
+          "text_short": "ESRRG",
+          "text_long": "estrogen-related receptor gamma"
+        },
+        {
+          "text_short": "KAT2B",
+          "text_long": "K (lysine) acetyltransferase 2B"
+        },
+        {
+          "text_short": "GLI3",
+          "text_long": "GLI family zinc finger 3"
+        },
+        {
+          "text_short": "ZNF716",
+          "text_long": "zinc finger protein 716"
+        },
+        {
+          "text_short": "PDE3A",
+          "text_long": "phosphodiesterase 3A, cGMP-inhibited"
+        },
+        {
+          "text_short": "KERA",
+          "text_long": "keratocan"
+        },
+        {
+          "text_short": "LUM",
+          "text_long": "lumican"
+        },
+        {
+          "text_short": "CLEC3A",
+          "text_long": "C-type lectin domain family 3, member A"
+        },
+        {
+          "text_short": "FBXO15",
+          "text_long": "F-box protein 15"
+        },
+        {
+          "text_short": "IGSF5",
+          "text_long": "immunoglobulin superfamily, member 5"
+        },
+        {
+          "text_short": "GEI",
+          "text_long": "gene-environment interactions"
+        },
+        {
+          "text_short": "NHLBI",
+          "text_long": "National Heart, Lung, and Blood Institute"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "BP",
+          "text_long": "blood pressure"
+        },
+        {
+          "text_short": "SHARe",
+          "text_long": "SNP Health Association Resource"
+        },
+        {
+          "text_short": "MLE",
+          "text_long": "maximum likelihood estimates"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "Genome-wide association studies"
+        },
+        {
+          "text_short": "ADH",
+          "text_long": "alcohol dehydrogenase"
+        },
+        {
+          "text_short": "ALDH",
+          "text_long": "aldehyde dehydrogenase"
+        },
+        {
+          "text_short": "WFDC1",
+          "text_long": "WAP four-disulfide core domain 1"
+        },
+        {
+          "text_short": "ESRRG",
+          "text_long": "estrogen-related receptor gamma"
+        },
+        {
+          "text_short": "KAT2B",
+          "text_long": "K (lysine) acetyltransferase 2B"
+        },
+        {
+          "text_short": "GLI3",
+          "text_long": "GLI family zinc finger 3"
+        },
+        {
+          "text_short": "ZNF716",
+          "text_long": "zinc finger protein 716"
+        },
+        {
+          "text_short": "PDE3A",
+          "text_long": "phosphodiesterase 3A, cGMP-inhibited"
+        },
+        {
+          "text_short": "KERA",
+          "text_long": "keratocan"
+        },
+        {
+          "text_short": "LUM",
+          "text_long": "lumican"
+        },
+        {
+          "text_short": "CLEC3A",
+          "text_long": "C-type lectin domain family 3, member A"
+        },
+        {
+          "text_short": "FBXO15",
+          "text_long": "F-box protein 15"
+        },
+        {
+          "text_short": "IGSF5",
+          "text_long": "immunoglobulin superfamily, member 5"
+        },
+        {
+          "text_short": "GEI",
+          "text_long": "gene-environment interactions"
+        },
+        {
+          "text_short": "NHLBI",
+          "text_long": "National Heart, Lung, and Blood Institute"
+        }
+      ]
+    }
+  ]
+}

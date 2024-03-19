@@ -1,0 +1,716 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "30631343.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Top 13 significant SNPs associated with angle of surface orientation scores.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 83,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": "SNP"
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": "Chromosome"
+            },
+            {
+              "cell_id": "1.1.3",
+              "cell_text": "Gene"
+            },
+            {
+              "cell_id": "1.1.4",
+              "cell_text": "P -values"
+            },
+            {
+              "cell_id": "1.1.5",
+              "cell_text": "FDR-corrected"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": "rs8088297"
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "1.2.3",
+                    "cell_text": "MAPK4"
+                  },
+                  {
+                    "cell_id": "1.2.4",
+                    "cell_text": "3.03 × 10 −15"
+                  },
+                  {
+                    "cell_id": "1.2.5",
+                    "cell_text": "4.29 × 10 −10"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": "rs9953590"
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "1.3.3",
+                    "cell_text": "MAPK4"
+                  },
+                  {
+                    "cell_id": "1.3.4",
+                    "cell_text": "1.15 × 10 −14"
+                  },
+                  {
+                    "cell_id": "1.3.5",
+                    "cell_text": "4.29 × 10 −10"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.4.1",
+                    "cell_text": "rs165149"
+                  },
+                  {
+                    "cell_id": "1.4.2",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "1.4.3",
+                    "cell_text": "NFATC1"
+                  },
+                  {
+                    "cell_id": "1.4.4",
+                    "cell_text": "3.76 × 10 −13"
+                  },
+                  {
+                    "cell_id": "1.4.5",
+                    "cell_text": "1.63 × 10 −9"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.5.1",
+                    "cell_text": "rs4357783"
+                  },
+                  {
+                    "cell_id": "1.5.2",
+                    "cell_text": 12.0
+                  },
+                  {
+                    "cell_id": "1.5.3",
+                    "cell_text": "SOX5"
+                  },
+                  {
+                    "cell_id": "1.5.4",
+                    "cell_text": "1.28 × 10 −12"
+                  },
+                  {
+                    "cell_id": "1.5.5",
+                    "cell_text": "5.45 × 10 −9"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.6.1",
+                    "cell_text": "exm861196"
+                  },
+                  {
+                    "cell_id": "1.6.2",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "1.6.3",
+                    "cell_text": "TACC2"
+                  },
+                  {
+                    "cell_id": "1.6.4",
+                    "cell_text": "2.00 × 10 −12"
+                  },
+                  {
+                    "cell_id": "1.6.5",
+                    "cell_text": "8.49 × 10 −9"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.7.1",
+                    "cell_text": "exm173678"
+                  },
+                  {
+                    "cell_id": "1.7.2",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "1.7.3",
+                    "cell_text": "NBAS"
+                  },
+                  {
+                    "cell_id": "1.7.4",
+                    "cell_text": "2.05 × 10 −10"
+                  },
+                  {
+                    "cell_id": "1.7.5",
+                    "cell_text": "8.46 × 10 −7"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.8.1",
+                    "cell_text": "rs8006719"
+                  },
+                  {
+                    "cell_id": "1.8.2",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "1.8.3",
+                    "cell_text": "SNX6"
+                  },
+                  {
+                    "cell_id": "1.8.4",
+                    "cell_text": "3.24 × 10 −10"
+                  },
+                  {
+                    "cell_id": "1.8.5",
+                    "cell_text": "1.33 × 10 −6"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.9.1",
+                    "cell_text": "rs7186843"
+                  },
+                  {
+                    "cell_id": "1.9.2",
+                    "cell_text": 16.0
+                  },
+                  {
+                    "cell_id": "1.9.3",
+                    "cell_text": "TEKT5"
+                  },
+                  {
+                    "cell_id": "1.9.4",
+                    "cell_text": "3.81 × 10 −10"
+                  },
+                  {
+                    "cell_id": "1.9.5",
+                    "cell_text": "1.56 × 10 −6"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.10.1",
+                    "cell_text": "rs4296170"
+                  },
+                  {
+                    "cell_id": "1.10.2",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "1.10.3",
+                    "cell_text": "TSPG3A"
+                  },
+                  {
+                    "cell_id": "1.10.4",
+                    "cell_text": "7.65 × 10 −10"
+                  },
+                  {
+                    "cell_id": "1.10.5",
+                    "cell_text": "3.11 × 10 −6"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.11.1",
+                    "cell_text": "rs4597218"
+                  },
+                  {
+                    "cell_id": "1.11.2",
+                    "cell_text": 13.0
+                  },
+                  {
+                    "cell_id": "1.11.3",
+                    "cell_text": "TGTF2F2"
+                  },
+                  {
+                    "cell_id": "1.11.4",
+                    "cell_text": "9.67 × 10 −10"
+                  },
+                  {
+                    "cell_id": "1.11.5",
+                    "cell_text": "3.91 × 10 −6"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.12.1",
+                    "cell_text": "exm1214111"
+                  },
+                  {
+                    "cell_id": "1.12.2",
+                    "cell_text": 16.0
+                  },
+                  {
+                    "cell_id": "1.12.3",
+                    "cell_text": "ZNF500"
+                  },
+                  {
+                    "cell_id": "1.12.4",
+                    "cell_text": "1.52 × 10 −9"
+                  },
+                  {
+                    "cell_id": "1.12.5",
+                    "cell_text": "6.17 × 10 −6"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.13.1",
+                    "cell_text": "rs7563083"
+                  },
+                  {
+                    "cell_id": "1.13.2",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "1.13.3",
+                    "cell_text": "TCF7L1"
+                  },
+                  {
+                    "cell_id": "1.13.4",
+                    "cell_text": "1.39 × 10 −8"
+                  },
+                  {
+                    "cell_id": "1.13.5",
+                    "cell_text": "5.35 × 10 −5"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.14.1",
+                    "cell_text": "rs8007933"
+                  },
+                  {
+                    "cell_id": "1.14.2",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "1.14.3",
+                    "cell_text": "SYNJ2BP"
+                  },
+                  {
+                    "cell_id": "1.14.4",
+                    "cell_text": "1.58 × 10 −8"
+                  },
+                  {
+                    "cell_id": "1.14.5",
+                    "cell_text": "6.06 × 10 −5"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 644,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Genes with known or potential association with craniofacial abnormality and asymmetry are boldfaced.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "30631343.html",
+      "id": "2",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 2",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Top ten SNPs associated with angle of deformation scores.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 64,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "2.1.1",
+              "cell_text": "SNP"
+            },
+            {
+              "cell_id": "2.1.2",
+              "cell_text": "Chromosome"
+            },
+            {
+              "cell_id": "2.1.3",
+              "cell_text": "Gene"
+            },
+            {
+              "cell_id": "2.1.4",
+              "cell_text": "P -value"
+            },
+            {
+              "cell_id": "2.1.5",
+              "cell_text": "FDR-corrected"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.2.1",
+                    "cell_text": "exm456223"
+                  },
+                  {
+                    "cell_id": "2.2.2",
+                    "cell_text": 5.0
+                  },
+                  {
+                    "cell_id": "2.2.3",
+                    "cell_text": "GPBP1"
+                  },
+                  {
+                    "cell_id": "2.2.4",
+                    "cell_text": "8.21 × 10 −8"
+                  },
+                  {
+                    "cell_id": "2.2.5",
+                    "cell_text": "2.95 × 10 −4"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.3.1",
+                    "cell_text": "exm903362"
+                  },
+                  {
+                    "cell_id": "2.3.2",
+                    "cell_text": 11.0
+                  },
+                  {
+                    "cell_id": "2.3.3",
+                    "cell_text": "AMBRA1"
+                  },
+                  {
+                    "cell_id": "2.3.4",
+                    "cell_text": "1.53 × 10 −7"
+                  },
+                  {
+                    "cell_id": "2.3.5",
+                    "cell_text": "5.33 × 10 −4"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.4.1",
+                    "cell_text": "rs17107396"
+                  },
+                  {
+                    "cell_id": "2.4.2",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "2.4.3",
+                    "cell_text": "NRXN3"
+                  },
+                  {
+                    "cell_id": "2.4.4",
+                    "cell_text": "5.11 × 10 −6"
+                  },
+                  {
+                    "cell_id": "2.4.5",
+                    "cell_text": "1.35 × 10 −2"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.5.1",
+                    "cell_text": "exm1354641"
+                  },
+                  {
+                    "cell_id": "2.5.2",
+                    "cell_text": 17.0
+                  },
+                  {
+                    "cell_id": "2.5.3",
+                    "cell_text": "TNRC6C"
+                  },
+                  {
+                    "cell_id": "2.5.4",
+                    "cell_text": "5.15 × 10 −6"
+                  },
+                  {
+                    "cell_id": "2.5.5",
+                    "cell_text": "1.35 × 10 −2"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.6.1",
+                    "cell_text": "rs995266"
+                  },
+                  {
+                    "cell_id": "2.6.2",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "2.6.3",
+                    "cell_text": "FANCC"
+                  },
+                  {
+                    "cell_id": "2.6.4",
+                    "cell_text": "1.48 × 10 −5"
+                  },
+                  {
+                    "cell_id": "2.6.5",
+                    "cell_text": "3.48 × 10 −2"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.7.1",
+                    "cell_text": "rs12596936"
+                  },
+                  {
+                    "cell_id": "2.7.2",
+                    "cell_text": 16.0
+                  },
+                  {
+                    "cell_id": "2.7.3",
+                    "cell_text": "FTO"
+                  },
+                  {
+                    "cell_id": "2.7.4",
+                    "cell_text": "1.72 × 10 −5"
+                  },
+                  {
+                    "cell_id": "2.7.5",
+                    "cell_text": "3.93 × 10 −2"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.8.1",
+                    "cell_text": "exm763253"
+                  },
+                  {
+                    "cell_id": "2.8.2",
+                    "cell_text": 9.0
+                  },
+                  {
+                    "cell_id": "2.8.3",
+                    "cell_text": "FANCC"
+                  },
+                  {
+                    "cell_id": "2.8.4",
+                    "cell_text": "1.96 × 10 −5"
+                  },
+                  {
+                    "cell_id": "2.8.5",
+                    "cell_text": "4.44 × 10 −2"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.9.1",
+                    "cell_text": "rs11928737"
+                  },
+                  {
+                    "cell_id": "2.9.2",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "2.9.3",
+                    "cell_text": "RARRES1"
+                  },
+                  {
+                    "cell_id": "2.9.4",
+                    "cell_text": "2.29 × 10 −5"
+                  },
+                  {
+                    "cell_id": "2.9.5",
+                    "cell_text": "4.97 × 10 −2"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.10.1",
+                    "cell_text": "rs2276750"
+                  },
+                  {
+                    "cell_id": "2.10.2",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "2.10.3",
+                    "cell_text": "RARRES1"
+                  },
+                  {
+                    "cell_id": "2.10.4",
+                    "cell_text": "2.50 × 10 −5"
+                  },
+                  {
+                    "cell_id": "2.10.5",
+                    "cell_text": "5.32 × 10 −2"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.11.1",
+                    "cell_text": "rs6588634"
+                  },
+                  {
+                    "cell_id": "2.11.2",
+                    "cell_text": 1.0
+                  },
+                  {
+                    "cell_id": "2.11.3",
+                    "cell_text": "PRKAA2"
+                  },
+                  {
+                    "cell_id": "2.11.4",
+                    "cell_text": "2.76 × 10 −5"
+                  },
+                  {
+                    "cell_id": "2.11.5",
+                    "cell_text": "5.78 × 10 −2"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 487,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "The genes with known or potential association with facial development or morphology are boldfaced.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

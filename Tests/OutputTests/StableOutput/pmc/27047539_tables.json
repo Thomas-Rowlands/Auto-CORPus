@@ -1,0 +1,1650 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "27047539.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "SNPs with p < 10−6 association with a drug response phenotype.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 69,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": "Drug"
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": "Phenotype"
+            },
+            {
+              "cell_id": "1.1.3",
+              "cell_text": "Nearest gene"
+            },
+            {
+              "cell_id": "1.1.4",
+              "cell_text": "SNP"
+            },
+            {
+              "cell_id": "1.1.5",
+              "cell_text": "Chr"
+            },
+            {
+              "cell_id": "1.1.6",
+              "cell_text": "Position"
+            },
+            {
+              "cell_id": "1.1.7",
+              "cell_text": "MAF"
+            },
+            {
+              "cell_id": "1.1.8",
+              "cell_text": "Meta-Analysis P"
+            },
+            {
+              "cell_id": "1.1.9",
+              "cell_text": "Group 1 ( N  =  33)<!>Estimate"
+            },
+            {
+              "cell_id": "1.1.10",
+              "cell_text": "Group 1 ( N  =  33)<!>P"
+            },
+            {
+              "cell_id": "1.1.11",
+              "cell_text": "Group 2 ( N  =  41)<!>Estimate"
+            },
+            {
+              "cell_id": "1.1.12",
+              "cell_text": "Group 2 ( N  =  41)<!>P"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": "Paclitaxel"
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": "MTT IC50"
+                  },
+                  {
+                    "cell_id": "1.2.3",
+                    "cell_text": "BOD1L1"
+                  },
+                  {
+                    "cell_id": "1.2.4",
+                    "cell_text": "rs185229225"
+                  },
+                  {
+                    "cell_id": "1.2.5",
+                    "cell_text": 4.0
+                  },
+                  {
+                    "cell_id": "1.2.6",
+                    "cell_text": 13609129.0
+                  },
+                  {
+                    "cell_id": "1.2.7",
+                    "cell_text": 0.02
+                  },
+                  {
+                    "cell_id": "1.2.8",
+                    "cell_text": 2.2e-07
+                  },
+                  {
+                    "cell_id": "1.2.9",
+                    "cell_text": -2.53
+                  },
+                  {
+                    "cell_id": "1.2.10",
+                    "cell_text": 0.008
+                  },
+                  {
+                    "cell_id": "1.2.11",
+                    "cell_text": -11.64
+                  },
+                  {
+                    "cell_id": "1.2.12",
+                    "cell_text": 4.7e-06
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "1.3.3",
+                    "cell_text": "MGC32805/SNCAIP *"
+                  },
+                  {
+                    "cell_id": "1.3.4",
+                    "cell_text": "rs3842595"
+                  },
+                  {
+                    "cell_id": "1.3.5",
+                    "cell_text": 5.0
+                  },
+                  {
+                    "cell_id": "1.3.6",
+                    "cell_text": 121778606.0
+                  },
+                  {
+                    "cell_id": "1.3.7",
+                    "cell_text": 0.14
+                  },
+                  {
+                    "cell_id": "1.3.8",
+                    "cell_text": 2.6e-07
+                  },
+                  {
+                    "cell_id": "1.3.9",
+                    "cell_text": -1.37
+                  },
+                  {
+                    "cell_id": "1.3.10",
+                    "cell_text": 0.0017
+                  },
+                  {
+                    "cell_id": "1.3.11",
+                    "cell_text": -1.34
+                  },
+                  {
+                    "cell_id": "1.3.12",
+                    "cell_text": 4.1e-05
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.4.1",
+                    "cell_text": "Carboplatin"
+                  },
+                  {
+                    "cell_id": "1.4.2",
+                    "cell_text": "MTT IC50"
+                  },
+                  {
+                    "cell_id": "1.4.3",
+                    "cell_text": "FRAS1"
+                  },
+                  {
+                    "cell_id": "1.4.4",
+                    "cell_text": "rs150303591"
+                  },
+                  {
+                    "cell_id": "1.4.5",
+                    "cell_text": 4.0
+                  },
+                  {
+                    "cell_id": "1.4.6",
+                    "cell_text": 79009309.0
+                  },
+                  {
+                    "cell_id": "1.4.7",
+                    "cell_text": 0.29
+                  },
+                  {
+                    "cell_id": "1.4.8",
+                    "cell_text": 5.9e-07
+                  },
+                  {
+                    "cell_id": "1.4.9",
+                    "cell_text": 0.86
+                  },
+                  {
+                    "cell_id": "1.4.10",
+                    "cell_text": 0.0025
+                  },
+                  {
+                    "cell_id": "1.4.11",
+                    "cell_text": 1.02
+                  },
+                  {
+                    "cell_id": "1.4.12",
+                    "cell_text": 6.3e-05
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.5.1",
+                    "cell_text": "Combination"
+                  },
+                  {
+                    "cell_id": "1.5.2",
+                    "cell_text": "MTT IC50"
+                  },
+                  {
+                    "cell_id": "1.5.3",
+                    "cell_text": "SLC9A9 *"
+                  },
+                  {
+                    "cell_id": "1.5.4",
+                    "cell_text": "rs201023017"
+                  },
+                  {
+                    "cell_id": "1.5.5",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "1.5.6",
+                    "cell_text": 143103669.0
+                  },
+                  {
+                    "cell_id": "1.5.7",
+                    "cell_text": 0.41
+                  },
+                  {
+                    "cell_id": "1.5.8",
+                    "cell_text": 6e-07
+                  },
+                  {
+                    "cell_id": "1.5.9",
+                    "cell_text": 0.84
+                  },
+                  {
+                    "cell_id": "1.5.10",
+                    "cell_text": 0.00052
+                  },
+                  {
+                    "cell_id": "1.5.11",
+                    "cell_text": 0.7
+                  },
+                  {
+                    "cell_id": "1.5.12",
+                    "cell_text": 0.00033
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.6.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "1.6.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "1.6.3",
+                    "cell_text": "TIAL1"
+                  },
+                  {
+                    "cell_id": "1.6.4",
+                    "cell_text": "rs66696671"
+                  },
+                  {
+                    "cell_id": "1.6.5",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "1.6.6",
+                    "cell_text": 121366953.0
+                  },
+                  {
+                    "cell_id": "1.6.7",
+                    "cell_text": 0.23
+                  },
+                  {
+                    "cell_id": "1.6.8",
+                    "cell_text": 7.3e-07
+                  },
+                  {
+                    "cell_id": "1.6.9",
+                    "cell_text": -0.89
+                  },
+                  {
+                    "cell_id": "1.6.10",
+                    "cell_text": 0.00029
+                  },
+                  {
+                    "cell_id": "1.6.11",
+                    "cell_text": -0.76
+                  },
+                  {
+                    "cell_id": "1.6.12",
+                    "cell_text": 0.00066
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.7.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "1.7.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "1.7.3",
+                    "cell_text": "ZNF731P"
+                  },
+                  {
+                    "cell_id": "1.7.4",
+                    "cell_text": "rs12025262"
+                  },
+                  {
+                    "cell_id": "1.7.5",
+                    "cell_text": 1.0
+                  },
+                  {
+                    "cell_id": "1.7.6",
+                    "cell_text": 247356732.0
+                  },
+                  {
+                    "cell_id": "1.7.7",
+                    "cell_text": 0.39
+                  },
+                  {
+                    "cell_id": "1.7.8",
+                    "cell_text": 6.6e-07
+                  },
+                  {
+                    "cell_id": "1.7.9",
+                    "cell_text": -0.84
+                  },
+                  {
+                    "cell_id": "1.7.10",
+                    "cell_text": 0.00025
+                  },
+                  {
+                    "cell_id": "1.7.11",
+                    "cell_text": -0.71
+                  },
+                  {
+                    "cell_id": "1.7.12",
+                    "cell_text": 0.00069
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.8.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "1.8.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "1.8.3",
+                    "cell_text": "PCDH20"
+                  },
+                  {
+                    "cell_id": "1.8.4",
+                    "cell_text": "rs10674174"
+                  },
+                  {
+                    "cell_id": "1.8.5",
+                    "cell_text": 13.0
+                  },
+                  {
+                    "cell_id": "1.8.6",
+                    "cell_text": 61892075.0
+                  },
+                  {
+                    "cell_id": "1.8.7",
+                    "cell_text": 0.42
+                  },
+                  {
+                    "cell_id": "1.8.8",
+                    "cell_text": 8.2e-07
+                  },
+                  {
+                    "cell_id": "1.8.9",
+                    "cell_text": -0.73
+                  },
+                  {
+                    "cell_id": "1.8.10",
+                    "cell_text": 0.0053
+                  },
+                  {
+                    "cell_id": "1.8.11",
+                    "cell_text": -0.86
+                  },
+                  {
+                    "cell_id": "1.8.12",
+                    "cell_text": 3.7e-05
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 614,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "*Nearest gene within 2000 base pairs.For regions with multiple SNPs with p < 10−6, the most significant SNP is presented. A negative estimate indicates that carriers of the minor allele had, on average, lower IC50 or EC50 (“sensitive”) while a positive estimate indicates that carriers of the minor allele had, on average, higher IC50 or EC50 (“resistant”).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "27047539.html",
+      "id": "2",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 2",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Gene regions with SNPs associated with both phenotypes for a given drug.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 79,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "2.1.1",
+              "cell_text": "Gene"
+            },
+            {
+              "cell_id": "2.1.2",
+              "cell_text": "Phenotype"
+            },
+            {
+              "cell_id": "2.1.3",
+              "cell_text": "SNP *"
+            },
+            {
+              "cell_id": "2.1.4",
+              "cell_text": "Chr"
+            },
+            {
+              "cell_id": "2.1.5",
+              "cell_text": "Position"
+            },
+            {
+              "cell_id": "2.1.6",
+              "cell_text": "P"
+            },
+            {
+              "cell_id": "2.1.7",
+              "cell_text": "Direction †"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "Paclitaxel",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.2.1",
+                    "cell_text": "COLEC12"
+                  },
+                  {
+                    "cell_id": "2.2.2",
+                    "cell_text": "MTT IC50"
+                  },
+                  {
+                    "cell_id": "2.2.3",
+                    "cell_text": "rs35067965"
+                  },
+                  {
+                    "cell_id": "2.2.4",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "2.2.5",
+                    "cell_text": 455396.0
+                  },
+                  {
+                    "cell_id": "2.2.6",
+                    "cell_text": 2.2e-05
+                  },
+                  {
+                    "cell_id": "2.2.7",
+                    "cell_text": "−−"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "Carboplatin",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.3.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "2.3.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "2.3.3",
+                    "cell_text": "rs35067965"
+                  },
+                  {
+                    "cell_id": "2.3.4",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "2.3.5",
+                    "cell_text": 455396.0
+                  },
+                  {
+                    "cell_id": "2.3.6",
+                    "cell_text": 3.8e-05
+                  },
+                  {
+                    "cell_id": "2.3.7",
+                    "cell_text": "−−"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.4.1",
+                    "cell_text": "CTIF"
+                  },
+                  {
+                    "cell_id": "2.4.2",
+                    "cell_text": "MTT IC50"
+                  },
+                  {
+                    "cell_id": "2.4.3",
+                    "cell_text": "rs8091660"
+                  },
+                  {
+                    "cell_id": "2.4.4",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "2.4.5",
+                    "cell_text": 46087936.0
+                  },
+                  {
+                    "cell_id": "2.4.6",
+                    "cell_text": 8.9e-06
+                  },
+                  {
+                    "cell_id": "2.4.7",
+                    "cell_text": "−−"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.5.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "2.5.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "2.5.3",
+                    "cell_text": "rs113867814"
+                  },
+                  {
+                    "cell_id": "2.5.4",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "2.5.5",
+                    "cell_text": 46259604.0
+                  },
+                  {
+                    "cell_id": "2.5.6",
+                    "cell_text": 1.2e-05
+                  },
+                  {
+                    "cell_id": "2.5.7",
+                    "cell_text": "−−"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.6.1",
+                    "cell_text": "CDH4"
+                  },
+                  {
+                    "cell_id": "2.6.2",
+                    "cell_text": "MTT IC50"
+                  },
+                  {
+                    "cell_id": "2.6.3",
+                    "cell_text": "rs2748151"
+                  },
+                  {
+                    "cell_id": "2.6.4",
+                    "cell_text": 20.0
+                  },
+                  {
+                    "cell_id": "2.6.5",
+                    "cell_text": 60133486.0
+                  },
+                  {
+                    "cell_id": "2.6.6",
+                    "cell_text": 4.7e-05
+                  },
+                  {
+                    "cell_id": "2.6.7",
+                    "cell_text": "++"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.7.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "2.7.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "2.7.3",
+                    "cell_text": "rs113594423"
+                  },
+                  {
+                    "cell_id": "2.7.4",
+                    "cell_text": 20.0
+                  },
+                  {
+                    "cell_id": "2.7.5",
+                    "cell_text": 60379048.0
+                  },
+                  {
+                    "cell_id": "2.7.6",
+                    "cell_text": 2.4e-05
+                  },
+                  {
+                    "cell_id": "2.7.7",
+                    "cell_text": "++"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 360,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "*Presenting most significant SNP in the region for the giving drug/phenotype. SNP within ± 20 KB of the listed gene.†A negative estimate indicates that carriers of the minor/variant allele had, on average, lower IC50 or EC50 (“sensitive”) while a positive estimate indicates that carriers of the minor/variant allele had, on average, higher IC50 or EC50 (“resistant”).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "27047539.html",
+      "id": "3",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 3",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Gene regions with SNPs associated with multiple drugs for any phenotype (p < 0.0001).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 92,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "3.1.1",
+              "cell_text": "Drug"
+            },
+            {
+              "cell_id": "3.1.2",
+              "cell_text": "Phenotype"
+            },
+            {
+              "cell_id": "3.1.3",
+              "cell_text": "SNP *"
+            },
+            {
+              "cell_id": "3.1.4",
+              "cell_text": "Chr"
+            },
+            {
+              "cell_id": "3.1.5",
+              "cell_text": "Position"
+            },
+            {
+              "cell_id": "3.1.6",
+              "cell_text": "P"
+            },
+            {
+              "cell_id": "3.1.7",
+              "cell_text": "Direction †"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "BRE",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.2.1",
+                    "cell_text": "Carboplatin"
+                  },
+                  {
+                    "cell_id": "3.2.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.2.3",
+                    "cell_text": "rs5830067"
+                  },
+                  {
+                    "cell_id": "3.2.4",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.2.5",
+                    "cell_text": 28537890.0
+                  },
+                  {
+                    "cell_id": "3.2.6",
+                    "cell_text": 1.7e-05
+                  },
+                  {
+                    "cell_id": "3.2.7",
+                    "cell_text": "++"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.3.1",
+                    "cell_text": "Combination"
+                  },
+                  {
+                    "cell_id": "3.3.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.3.3",
+                    "cell_text": "rs7572644"
+                  },
+                  {
+                    "cell_id": "3.3.4",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.3.5",
+                    "cell_text": 28320033.0
+                  },
+                  {
+                    "cell_id": "3.3.6",
+                    "cell_text": 5.8e-06
+                  },
+                  {
+                    "cell_id": "3.3.7",
+                    "cell_text": "−−"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "EML6",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.4.1",
+                    "cell_text": "Paclitaxel"
+                  },
+                  {
+                    "cell_id": "3.4.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.4.3",
+                    "cell_text": "rs75314082"
+                  },
+                  {
+                    "cell_id": "3.4.4",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.4.5",
+                    "cell_text": 55087315.0
+                  },
+                  {
+                    "cell_id": "3.4.6",
+                    "cell_text": 7.9e-05
+                  },
+                  {
+                    "cell_id": "3.4.7",
+                    "cell_text": "−−"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.5.1",
+                    "cell_text": "Combination"
+                  },
+                  {
+                    "cell_id": "3.5.2",
+                    "cell_text": "MTT IC50"
+                  },
+                  {
+                    "cell_id": "3.5.3",
+                    "cell_text": "rs17046344"
+                  },
+                  {
+                    "cell_id": "3.5.4",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.5.5",
+                    "cell_text": 55023600.0
+                  },
+                  {
+                    "cell_id": "3.5.6",
+                    "cell_text": 4.9e-05
+                  },
+                  {
+                    "cell_id": "3.5.7",
+                    "cell_text": "++"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "LINC01122",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.6.1",
+                    "cell_text": "Paclitaxel"
+                  },
+                  {
+                    "cell_id": "3.6.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.6.3",
+                    "cell_text": "rs72817940"
+                  },
+                  {
+                    "cell_id": "3.6.4",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.6.5",
+                    "cell_text": 58998563.0
+                  },
+                  {
+                    "cell_id": "3.6.6",
+                    "cell_text": 6.4e-05
+                  },
+                  {
+                    "cell_id": "3.6.7",
+                    "cell_text": "++"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "LRP1B",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.7.1",
+                    "cell_text": "Carboplatin"
+                  },
+                  {
+                    "cell_id": "3.7.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.7.3",
+                    "cell_text": "rs4233974"
+                  },
+                  {
+                    "cell_id": "3.7.4",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.7.5",
+                    "cell_text": 59295043.0
+                  },
+                  {
+                    "cell_id": "3.7.6",
+                    "cell_text": 2.6e-05
+                  },
+                  {
+                    "cell_id": "3.7.7",
+                    "cell_text": "−−"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.8.1",
+                    "cell_text": "Carboplatin"
+                  },
+                  {
+                    "cell_id": "3.8.2",
+                    "cell_text": "MTT IC50"
+                  },
+                  {
+                    "cell_id": "3.8.3",
+                    "cell_text": "rs17261321"
+                  },
+                  {
+                    "cell_id": "3.8.4",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.8.5",
+                    "cell_text": 80197843.0
+                  },
+                  {
+                    "cell_id": "3.8.6",
+                    "cell_text": 3.6e-05
+                  },
+                  {
+                    "cell_id": "3.8.7",
+                    "cell_text": "++"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "NKAIN2",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.9.1",
+                    "cell_text": "Combination"
+                  },
+                  {
+                    "cell_id": "3.9.2",
+                    "cell_text": "MTT IC50"
+                  },
+                  {
+                    "cell_id": "3.9.3",
+                    "cell_text": "rs6719499"
+                  },
+                  {
+                    "cell_id": "3.9.4",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.9.5",
+                    "cell_text": 80193386.0
+                  },
+                  {
+                    "cell_id": "3.9.6",
+                    "cell_text": 6e-05
+                  },
+                  {
+                    "cell_id": "3.9.7",
+                    "cell_text": "−−"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.10.1",
+                    "cell_text": "Paclitaxel"
+                  },
+                  {
+                    "cell_id": "3.10.2",
+                    "cell_text": "MTT IC50"
+                  },
+                  {
+                    "cell_id": "3.10.3",
+                    "cell_text": "rs1525599"
+                  },
+                  {
+                    "cell_id": "3.10.4",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.10.5",
+                    "cell_text": 141778702.0
+                  },
+                  {
+                    "cell_id": "3.10.6",
+                    "cell_text": 8.6e-05
+                  },
+                  {
+                    "cell_id": "3.10.7",
+                    "cell_text": "++"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.11.1",
+                    "cell_text": "Combination"
+                  },
+                  {
+                    "cell_id": "3.11.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.11.3",
+                    "cell_text": "rs13020675"
+                  },
+                  {
+                    "cell_id": "3.11.4",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "3.11.5",
+                    "cell_text": 142212928.0
+                  },
+                  {
+                    "cell_id": "3.11.6",
+                    "cell_text": 6.2e-05
+                  },
+                  {
+                    "cell_id": "3.11.7",
+                    "cell_text": "−−"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "EYS",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.12.1",
+                    "cell_text": "Paclitaxel"
+                  },
+                  {
+                    "cell_id": "3.12.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.12.3",
+                    "cell_text": "rs201083182"
+                  },
+                  {
+                    "cell_id": "3.12.4",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "3.12.5",
+                    "cell_text": 65736914.0
+                  },
+                  {
+                    "cell_id": "3.12.6",
+                    "cell_text": 2.3e-06
+                  },
+                  {
+                    "cell_id": "3.12.7",
+                    "cell_text": "−−"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.13.1",
+                    "cell_text": "Combination"
+                  },
+                  {
+                    "cell_id": "3.13.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.13.3",
+                    "cell_text": "rs2064701"
+                  },
+                  {
+                    "cell_id": "3.13.4",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "3.13.5",
+                    "cell_text": 65676556.0
+                  },
+                  {
+                    "cell_id": "3.13.6",
+                    "cell_text": 3.6e-05
+                  },
+                  {
+                    "cell_id": "3.13.7",
+                    "cell_text": "++"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "TMEM132D",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.14.1",
+                    "cell_text": "Paclitaxel"
+                  },
+                  {
+                    "cell_id": "3.14.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.14.3",
+                    "cell_text": "rs550987"
+                  },
+                  {
+                    "cell_id": "3.14.4",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "3.14.5",
+                    "cell_text": 124905510.0
+                  },
+                  {
+                    "cell_id": "3.14.6",
+                    "cell_text": 4.1e-05
+                  },
+                  {
+                    "cell_id": "3.14.7",
+                    "cell_text": "−−"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "COL13A1",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.15.1",
+                    "cell_text": "Combination"
+                  },
+                  {
+                    "cell_id": "3.15.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.15.3",
+                    "cell_text": "rs670616"
+                  },
+                  {
+                    "cell_id": "3.15.4",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "3.15.5",
+                    "cell_text": 124885773.0
+                  },
+                  {
+                    "cell_id": "3.15.6",
+                    "cell_text": 7.8e-05
+                  },
+                  {
+                    "cell_id": "3.15.7",
+                    "cell_text": "++"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.16.1",
+                    "cell_text": "Carboplatin"
+                  },
+                  {
+                    "cell_id": "3.16.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.16.3",
+                    "cell_text": "rs10230114"
+                  },
+                  {
+                    "cell_id": "3.16.4",
+                    "cell_text": 7.0
+                  },
+                  {
+                    "cell_id": "3.16.5",
+                    "cell_text": 47705506.0
+                  },
+                  {
+                    "cell_id": "3.16.6",
+                    "cell_text": 2.4e-05
+                  },
+                  {
+                    "cell_id": "3.16.7",
+                    "cell_text": "++"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "MTCL1",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.17.1",
+                    "cell_text": "Combination"
+                  },
+                  {
+                    "cell_id": "3.17.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.17.3",
+                    "cell_text": "rs11771997"
+                  },
+                  {
+                    "cell_id": "3.17.4",
+                    "cell_text": 7.0
+                  },
+                  {
+                    "cell_id": "3.17.5",
+                    "cell_text": 47712495.0
+                  },
+                  {
+                    "cell_id": "3.17.6",
+                    "cell_text": 2.4e-05
+                  },
+                  {
+                    "cell_id": "3.17.7",
+                    "cell_text": "++"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.18.1",
+                    "cell_text": "Paclitaxel"
+                  },
+                  {
+                    "cell_id": "3.18.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.18.3",
+                    "cell_text": "rs12572446"
+                  },
+                  {
+                    "cell_id": "3.18.4",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "3.18.5",
+                    "cell_text": 47665906.0
+                  },
+                  {
+                    "cell_id": "3.18.6",
+                    "cell_text": 4.3e-05
+                  },
+                  {
+                    "cell_id": "3.18.7",
+                    "cell_text": "++"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.19.1",
+                    "cell_text": "Combination"
+                  },
+                  {
+                    "cell_id": "3.19.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.19.3",
+                    "cell_text": "rs10906942"
+                  },
+                  {
+                    "cell_id": "3.19.4",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "3.19.5",
+                    "cell_text": 47670851.0
+                  },
+                  {
+                    "cell_id": "3.19.6",
+                    "cell_text": 4.9e-05
+                  },
+                  {
+                    "cell_id": "3.19.7",
+                    "cell_text": "++"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.20.1",
+                    "cell_text": "Carboplatin"
+                  },
+                  {
+                    "cell_id": "3.20.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.20.3",
+                    "cell_text": "rs10999018"
+                  },
+                  {
+                    "cell_id": "3.20.4",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "3.20.5",
+                    "cell_text": 71654602.0
+                  },
+                  {
+                    "cell_id": "3.20.6",
+                    "cell_text": 2.4e-05
+                  },
+                  {
+                    "cell_id": "3.20.7",
+                    "cell_text": "++"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.21.1",
+                    "cell_text": "Combination"
+                  },
+                  {
+                    "cell_id": "3.21.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.21.3",
+                    "cell_text": "rs77535242"
+                  },
+                  {
+                    "cell_id": "3.21.4",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "3.21.5",
+                    "cell_text": 71652985.0
+                  },
+                  {
+                    "cell_id": "3.21.6",
+                    "cell_text": 3.5e-05
+                  },
+                  {
+                    "cell_id": "3.21.7",
+                    "cell_text": "++"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.22.1",
+                    "cell_text": "Paclitaxel"
+                  },
+                  {
+                    "cell_id": "3.22.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.22.3",
+                    "cell_text": "rs77438645"
+                  },
+                  {
+                    "cell_id": "3.22.4",
+                    "cell_text": 12.0
+                  },
+                  {
+                    "cell_id": "3.22.5",
+                    "cell_text": 130304313.0
+                  },
+                  {
+                    "cell_id": "3.22.6",
+                    "cell_text": "−−"
+                  },
+                  {
+                    "cell_id": "3.22.7",
+                    "cell_text": "−−"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.23.1",
+                    "cell_text": "Carboplatin"
+                  },
+                  {
+                    "cell_id": "3.23.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.23.3",
+                    "cell_text": "rs1451904"
+                  },
+                  {
+                    "cell_id": "3.23.4",
+                    "cell_text": 12.0
+                  },
+                  {
+                    "cell_id": "3.23.5",
+                    "cell_text": 130166947.0
+                  },
+                  {
+                    "cell_id": "3.23.6",
+                    "cell_text": 6.5e-05
+                  },
+                  {
+                    "cell_id": "3.23.7",
+                    "cell_text": "++"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.24.1",
+                    "cell_text": "Carboplatin"
+                  },
+                  {
+                    "cell_id": "3.24.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.24.3",
+                    "cell_text": "rs690089"
+                  },
+                  {
+                    "cell_id": "3.24.4",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "3.24.5",
+                    "cell_text": 8845223.0
+                  },
+                  {
+                    "cell_id": "3.24.6",
+                    "cell_text": 7.8e-05
+                  },
+                  {
+                    "cell_id": "3.24.7",
+                    "cell_text": "−−"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.25.1",
+                    "cell_text": "Combination"
+                  },
+                  {
+                    "cell_id": "3.25.2",
+                    "cell_text": "Caspase 3/7 EC50"
+                  },
+                  {
+                    "cell_id": "3.25.3",
+                    "cell_text": "rs35765215"
+                  },
+                  {
+                    "cell_id": "3.25.4",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "3.25.5",
+                    "cell_text": 8839469.0
+                  },
+                  {
+                    "cell_id": "3.25.6",
+                    "cell_text": 6e-05
+                  },
+                  {
+                    "cell_id": "3.25.7",
+                    "cell_text": "−−"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1460,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "*Presenting most significant SNP in the region for the giving drug/phenotype. SNP within ± 20 KB of the listed gene.†A negative estimate indicates that carriers of the minor/variant allele had, on average, lower IC50 or EC50 (“sensitive”) while a positive estimate indicates that carriers of the minor/variant allele had, on average, higher IC50 or EC50 (“resistant”).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

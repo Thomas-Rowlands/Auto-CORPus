@@ -1,0 +1,90 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "25009551.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "CHD",
+          "text_long": "coronary heart disease"
+        },
+        {
+          "text_short": "PAD",
+          "text_long": "peripheral arterial disease"
+        },
+        {
+          "text_short": "EMR",
+          "text_long": "electronic medical record"
+        },
+        {
+          "text_short": "ABI",
+          "text_long": "ankle brachial index"
+        },
+        {
+          "text_short": "QQ",
+          "text_long": "Quantile-quantile"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequency"
+        },
+        {
+          "text_short": "OR",
+          "text_long": "odds ratio"
+        },
+        {
+          "text_short": "NHGRI",
+          "text_long": "National Human Genome Research Institute"
+        },
+        {
+          "text_short": "NIGMS",
+          "text_long": "National Institute of General Medical Sciences"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "CHD",
+          "text_long": "coronary heart disease"
+        },
+        {
+          "text_short": "PAD",
+          "text_long": "peripheral arterial disease"
+        },
+        {
+          "text_short": "EMR",
+          "text_long": "electronic medical record"
+        },
+        {
+          "text_short": "ABI",
+          "text_long": "ankle brachial index"
+        },
+        {
+          "text_short": "QQ",
+          "text_long": "Quantile-quantile"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequency"
+        },
+        {
+          "text_short": "OR",
+          "text_long": "odds ratio"
+        },
+        {
+          "text_short": "NHGRI",
+          "text_long": "National Human Genome Research Institute"
+        },
+        {
+          "text_short": "NIGMS",
+          "text_long": "National Institute of General Medical Sciences"
+        }
+      ]
+    }
+  ]
+}

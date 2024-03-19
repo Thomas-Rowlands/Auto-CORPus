@@ -1,0 +1,162 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "27790247.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "DM",
+          "text_long": "diabetes mellitus"
+        },
+        {
+          "text_short": "CVDs",
+          "text_long": "cardiovascular diseases"
+        },
+        {
+          "text_short": "NDs",
+          "text_long": "neurodegenerative diseases"
+        },
+        {
+          "text_short": "AD",
+          "text_long": "Alzheimer's disease"
+        },
+        {
+          "text_short": "LDL",
+          "text_long": "low-density lipoprotein"
+        },
+        {
+          "text_short": "MI",
+          "text_long": "myocardial infarction"
+        },
+        {
+          "text_short": "NIH",
+          "text_long": "National Institutes of Health"
+        },
+        {
+          "text_short": "HWE",
+          "text_long": "Hardy-Weinberg equilibrium"
+        },
+        {
+          "text_short": "PH",
+          "text_long": "proportional hazards"
+        },
+        {
+          "text_short": "DF",
+          "text_long": "degree of freedom"
+        },
+        {
+          "text_short": "K-M",
+          "text_long": "Kaplan–Meier"
+        },
+        {
+          "text_short": "ER",
+          "text_long": "endoplasmic reticulum"
+        },
+        {
+          "text_short": "NIA",
+          "text_long": "National Institute on Aging"
+        },
+        {
+          "text_short": "ARIC",
+          "text_long": "Atherosclerosis Risk in Communities"
+        },
+        {
+          "text_short": "MESA",
+          "text_long": "Multi-Ethnic Study of Atherosclerosis"
+        },
+        {
+          "text_short": "CHS",
+          "text_long": "Cardiovascular Health Study"
+        },
+        {
+          "text_short": "GTEx",
+          "text_long": "Genotype-Tissue Expression"
+        },
+        {
+          "text_short": "HRS",
+          "text_long": "Health and Retirement Study"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "DM",
+          "text_long": "diabetes mellitus"
+        },
+        {
+          "text_short": "CVDs",
+          "text_long": "cardiovascular diseases"
+        },
+        {
+          "text_short": "NDs",
+          "text_long": "neurodegenerative diseases"
+        },
+        {
+          "text_short": "AD",
+          "text_long": "Alzheimer's disease"
+        },
+        {
+          "text_short": "LDL",
+          "text_long": "low-density lipoprotein"
+        },
+        {
+          "text_short": "MI",
+          "text_long": "myocardial infarction"
+        },
+        {
+          "text_short": "NIH",
+          "text_long": "National Institutes of Health"
+        },
+        {
+          "text_short": "HWE",
+          "text_long": "Hardy-Weinberg equilibrium"
+        },
+        {
+          "text_short": "PH",
+          "text_long": "proportional hazards"
+        },
+        {
+          "text_short": "DF",
+          "text_long": "degree of freedom"
+        },
+        {
+          "text_short": "K-M",
+          "text_long": "Kaplan–Meier"
+        },
+        {
+          "text_short": "ER",
+          "text_long": "endoplasmic reticulum"
+        },
+        {
+          "text_short": "NIA",
+          "text_long": "National Institute on Aging"
+        },
+        {
+          "text_short": "ARIC",
+          "text_long": "Atherosclerosis Risk in Communities"
+        },
+        {
+          "text_short": "MESA",
+          "text_long": "Multi-Ethnic Study of Atherosclerosis"
+        },
+        {
+          "text_short": "CHS",
+          "text_long": "Cardiovascular Health Study"
+        },
+        {
+          "text_short": "GTEx",
+          "text_long": "Genotype-Tissue Expression"
+        },
+        {
+          "text_short": "HRS",
+          "text_long": "Health and Retirement Study"
+        }
+      ]
+    }
+  ]
+}

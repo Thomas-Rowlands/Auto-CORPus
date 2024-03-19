@@ -1,0 +1,218 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "29628937.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "GDF-15",
+          "text_long": "growth differentiation factor-15"
+        },
+        {
+          "text_short": "MIC-1",
+          "text_long": "macrophage inhibitory cytokine-1"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "genome-wide association study"
+        },
+        {
+          "text_short": "COJO",
+          "text_long": "Conditional and joint"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequency"
+        },
+        {
+          "text_short": "GWAF",
+          "text_long": "genome-wide association analyses with family"
+        },
+        {
+          "text_short": "PCs",
+          "text_long": "principal components"
+        },
+        {
+          "text_short": "LD",
+          "text_long": "linkage disequilibrium"
+        },
+        {
+          "text_short": "PANTHER",
+          "text_long": "protein analysis through evolutionary relationships"
+        },
+        {
+          "text_short": "KEGG",
+          "text_long": "Kyoto Encyclopaedia of Genes and Genomes"
+        },
+        {
+          "text_short": "FDR",
+          "text_long": "false discovery rate"
+        },
+        {
+          "text_short": "UTR",
+          "text_long": "untranslated region"
+        },
+        {
+          "text_short": "LRRC25",
+          "text_long": "Leucine Rich Repeat Containing 25"
+        },
+        {
+          "text_short": "MIR3189",
+          "text_long": "microRNA 3189"
+        },
+        {
+          "text_short": "B3GALT6",
+          "text_long": "Beta-1,3-Galactosyltransferase 6"
+        },
+        {
+          "text_short": "SDF4",
+          "text_long": "Stromal Cell Derived Factor 4"
+        },
+        {
+          "text_short": "TNFRSF4",
+          "text_long": "TNF Receptor Superfamily Member 4"
+        },
+        {
+          "text_short": "NFATC1",
+          "text_long": "Nuclear Factor of Activated T-Cells 1"
+        },
+        {
+          "text_short": "STAT5A",
+          "text_long": "Signal Transducer and Activator of Transcription 5A"
+        },
+        {
+          "text_short": "ER",
+          "text_long": "endoplasmic reticulum"
+        },
+        {
+          "text_short": "miRNA",
+          "text_long": "micro RNA"
+        },
+        {
+          "text_short": "SciLifeLab",
+          "text_long": "Science for Life Laboratory"
+        },
+        {
+          "text_short": "NHMRC",
+          "text_long": "National Health and Medical Research Council"
+        },
+        {
+          "text_short": "PIVUS",
+          "text_long": "prospective investigation of the vasculature in uppsala Seniors"
+        },
+        {
+          "text_short": "MAS",
+          "text_long": "memory and ageing study"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "GDF-15",
+          "text_long": "growth differentiation factor-15"
+        },
+        {
+          "text_short": "MIC-1",
+          "text_long": "macrophage inhibitory cytokine-1"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "genome-wide association study"
+        },
+        {
+          "text_short": "COJO",
+          "text_long": "Conditional and joint"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequency"
+        },
+        {
+          "text_short": "GWAF",
+          "text_long": "genome-wide association analyses with family"
+        },
+        {
+          "text_short": "PCs",
+          "text_long": "principal components"
+        },
+        {
+          "text_short": "LD",
+          "text_long": "linkage disequilibrium"
+        },
+        {
+          "text_short": "PANTHER",
+          "text_long": "protein analysis through evolutionary relationships"
+        },
+        {
+          "text_short": "KEGG",
+          "text_long": "Kyoto Encyclopaedia of Genes and Genomes"
+        },
+        {
+          "text_short": "FDR",
+          "text_long": "false discovery rate"
+        },
+        {
+          "text_short": "UTR",
+          "text_long": "untranslated region"
+        },
+        {
+          "text_short": "LRRC25",
+          "text_long": "Leucine Rich Repeat Containing 25"
+        },
+        {
+          "text_short": "MIR3189",
+          "text_long": "microRNA 3189"
+        },
+        {
+          "text_short": "B3GALT6",
+          "text_long": "Beta-1,3-Galactosyltransferase 6"
+        },
+        {
+          "text_short": "SDF4",
+          "text_long": "Stromal Cell Derived Factor 4"
+        },
+        {
+          "text_short": "TNFRSF4",
+          "text_long": "TNF Receptor Superfamily Member 4"
+        },
+        {
+          "text_short": "NFATC1",
+          "text_long": "Nuclear Factor of Activated T-Cells 1"
+        },
+        {
+          "text_short": "STAT5A",
+          "text_long": "Signal Transducer and Activator of Transcription 5A"
+        },
+        {
+          "text_short": "ER",
+          "text_long": "endoplasmic reticulum"
+        },
+        {
+          "text_short": "miRNA",
+          "text_long": "micro RNA"
+        },
+        {
+          "text_short": "SciLifeLab",
+          "text_long": "Science for Life Laboratory"
+        },
+        {
+          "text_short": "NHMRC",
+          "text_long": "National Health and Medical Research Council"
+        },
+        {
+          "text_short": "PIVUS",
+          "text_long": "prospective investigation of the vasculature in uppsala Seniors"
+        },
+        {
+          "text_short": "MAS",
+          "text_long": "memory and ageing study"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1072 @@
+{
+  "source": "Auto-CORPus (full-text)",
+  "date": "20210927",
+  "key": "autocorpus_fulltext.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "23386860.html",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Exploring genome-wide – dietary heme iron intake interactions and the risk of type 2 diabetes",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 93,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "keywords section",
+                "iao_id": "IAO:0000630"
+              }
+            ],
+            "section_title_1": "keywords"
+          },
+          "text": "type 2 diabetes, gene environment interactions, dietary heme iron, pathway analysis",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 184,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Aims/hypothesis: Genome-wide association studies have identified over 50 new genetic loci for type 2 diabetes (T2D). Several studies conclude that higher dietary heme iron intake increases the risk of T2D. Therefore we assessed whether the relation between genetic loci and T2D is modified by dietary heme iron intake.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 510,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Methods: We used Affymetrix Genome-Wide Human 6.0 array data [681,770 single nucleotide polymorphisms (SNPs)] and dietary information collected in the Health Professionals Follow-up Study (n = 725 cases; n = 1,273 controls) and the Nurses’ Health Study (n = 1,081 cases; n = 1,692 controls). We assessed whether genome-wide SNPs or iron metabolism SNPs interacted with dietary heme iron intake in relation to T2D, testing for associations in each cohort separately and then meta-analyzing to pool the results. Finally, we created 1,000 synthetic pathways matched to an iron metabolism pathway on number of genes, and number of SNPs in each gene. We compared the iron metabolic pathway SNPs with these synthetic SNP assemblies in their relation to T2D to assess if the pathway as a whole interacts with dietary heme iron intake.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1337,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Results: Using a genomic approach, we found no significant gene–environment interactions with dietary heme iron intake in relation to T2D at a Bonferroni corrected genome-wide significance level of 7.33 ×10-8 (top SNP in pooled analysis: intergenic rs10980508; p = 1.03 × 10-6). Furthermore, no SNP in the iron metabolic pathway significantly interacted with dietary heme iron intake at a Bonferroni corrected significance level of 2.10 × 10-4 (top SNP in pooled analysis: rs1805313; p = 1.14 × 10-3). Finally, neither the main genetic effects (pooled empirical p by SNP = 0.41), nor gene – dietary heme–iron interactions (pooled empirical p-value for the interactions = 0.72) were significant for the iron metabolic pathway as a whole.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2073,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Conclusions: We found no significant interactions between dietary heme iron intake and common SNPs in relation to T2D.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2191,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "INTRODUCTION"
+          },
+          "text": "Type 2 diabetes (T2D) is a multifactorial condition whereby insulin resistance and beta-cell dysfunction produce glucose metabolism alterations, most notably hyperglycemia, resulting in microvascular and macrovascular complications. T2D affects over 25 million individuals (greater than 8% of the U.S. adult population; American Diabetes Association, 2011) Discovery of the combination of genetic and environmental factors contributing to T2D is essential so that more targeted preventive and management strategies can be devised.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2733,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "INTRODUCTION"
+          },
+          "text": "Dietary heme iron intake is the iron derived from hemoglobin, the protein in the red blood cells found in animal foods such as red meat, fish, and poultry. A recent meta-analysis demonstrated that non-heme iron intake (such as iron derived from vegetables), total iron (iron from heme and non-heme sources) or iron supplements were not associated with increased risk of T2D (Bao et al., 2012). However, epidemiologic studies indicate that increased total body iron stores are associated with an increased risk of T2D (Salonen et al., 1998; Jiang et al., 2004b). While the relation between dietary heme iron intake and obesity has not been well-studied, diets with higher heme iron intake have consistently been associated with increased risk of T2D (Jiang et al., 2004a; Lee et al., 2004; Song et al., 2004; Rajpathak et al., 2006). Iron is a catalyst in the formation of hydroxyl radicals, which are powerful pro-oxidants that attack cellular membrane lipids, proteins, and nucleic acids (Nelson, 1999). While heme iron intake is not directly linked to obesity, excess iron stores produced by dietary behaviors may render pancreatic beta cells particularly vulnerable to oxidative stress because they possess a weak antioxidative stress system (Tiedge et al., 1997).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4000,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "INTRODUCTION"
+          },
+          "text": "While dietary heme iron intake plays a role in T2D, genome-wide association studies have revealed approximately 50 genetic loci for T2D (Visscher et al., 2012), raising the question of whether gene environment interactions focused on dietary heme iron intake exist in T2D.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4272,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "INTRODUCTION"
+          },
+          "text": "In fact, a previous candidate gene association study demonstrated a significant interaction between dietary iron intake and the H63D or C282Y risk variants for HFE, the gene for hereditary hemochromatosis (HH), in relation to T2D risk (Qi et al., 2005). HH is a condition where secondary diabetes mellitus is a well-known complication that results from high iron stores in the pancreas (Utzschneider and Kowdley, 2010). In this work, we assessed whether the relation between dietary heme iron intake and T2D is modified by genome-wide single nucleotide polymorphisms (SNPs) or iron metabolic pathway SNPs.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4877,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "MATERIALS AND METHODS",
+            "section_title_2": "STUDY POPULATION"
+          },
+          "text": "This study included participants from two longitudinal cohort studies, the Nurses’ Health Study (NHS) and the Health Professionals Follow-up Study (HPFS; Barton et al., 1980; Rimm et al., 1990). The HPFS and the NHS are two populations of men and women, respectively, for whom stored blood, DNA samples, and dietary heme iron intake data are available. The NHS began in 1976 with 121,700 female registered nurses aged 30–55, and the HPFS started in 1986 with 51,529 male health professionals aged 40–75. Both cohorts have been followed-up biennially through mailed questionnaires that gather data on new diseases, diet, and other lifestyle factors.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 5562,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "MATERIALS AND METHODS",
+            "section_title_2": "ASCERTAINMENT OF TYPE 2 DIABETES:"
+          },
+          "text": "For participants with a self-report of diabetes on biennial questionnaires, we mailed supplemental questionnaires inquiring about the diagnosis and treatment of their condition, as well as a history of ketoacidosis to corroborate the self-report and to differentiate between type 1 diabetes mellitus and T2D. We applied criteria established by the National Diabetes Data Group until 1997(National Diabetes Data Group, 1979), and then used the revised criteria of the American Diabetes Association from 1998 onward to these supplemental questionnaires (Report of the expert committee on the diagnosis classification of diabetes mellitus, 1997). This approach was found to be valid for identifying T2D as medical record review confirmed 98% of cases in a subsample (Manson et al., 1991).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 6380,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "MATERIALS AND METHODS",
+            "section_title_2": "FORMATION OF DOMESTIC CASE–CONTROL GROUPS AND GENOTYPING"
+          },
+          "text": "We accrued 2,591 cases with T2D and 3,508 controls with completed high throughput genotyping from 1986 to 2006 in HPFS and 1980 to 2006 in NHS. From these cases we chose participants of European descent with dietary questionnaire responses prior to diagnosis of T2D. Controls were not strictly matched to cases because some subjects did not consent to have their genotyping data posted on dbGap. Thus we chose controls with complete dietary data that were age matched to cases. Ultimately, 1,806 cases and 2,965 controls were eligible for the study (see Table ​Table11). Informed consent was obtained from all participants in this study and the institutional review board at the Harvard School of Public Health approved the study.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7166,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "MATERIALS AND METHODS",
+            "section_title_2": "FORMATION OF DOMESTIC CASE–CONTROL GROUPS AND GENOTYPING"
+          },
+          "text": "We completed genotyping on the Affymetrix Genome-Wide Human 6.0 array at the Broad Institute (Cambridge, MA, USA). Details regarding the quality control measures employed in genotyping these samples have been previously published (Qi et al., 2010). After data cleaning, 706,034 SNPs remained for analysis on 725 cases and 1,273 controls in HPFS. In NHS, a total of 704,409 SNPs remained after data cleaning and were analyzed on 1,081 cases and 1,692 controls.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7625,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "MATERIALS AND METHODS",
+            "section_title_2": "DATA ANALYSIS"
+          },
+          "text": "To assess the interaction between dietary heme iron intake and gene variants in relation to T2D, we created the following logistic regression models:",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7787,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "MATERIALS AND METHODS",
+            "section_title_2": "DATA ANALYSIS"
+          },
+          "text": "T2D = β0 + β1 (age) + β2 (body mass index, BMI) + β3 (heme) – Environmental model",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7868,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "MATERIALS AND METHODS",
+            "section_title_2": "DATA ANALYSIS"
+          },
+          "text": "T2D = β0 + β1 (SNP) + β2 (age) + β3 (BMI) + β4(heme) – Genetic model",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7936,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "MATERIALS AND METHODS",
+            "section_title_2": "DATA ANALYSIS"
+          },
+          "text": "T2D = β0 + β1 (SNP) + β2 (age) + β3 (BMI) + β4 (heme) + β5 (SNP × heme) – one-degree of freedom gene–environment (GxE) interaction model",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 8072,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "MATERIALS AND METHODS",
+            "section_title_2": "DATA ANALYSIS"
+          },
+          "text": "Except for Model 1 (which we generated in SAS version 9.3, Cary, NC, USA), we formulated these models in each cohort separately using PLINK. Heme iron intake (mg/day), BMI (kg/m2, as of 1986 for HPFS and 1980 for NHS) and age (years, as of 1986 for HPFS and 1980 for NHS) were treated as continuous variables. We transformed heme to be centered on the mean value for each cohort. SNPs were coded as 0, 1, or 2 minor alleles. We controlled for the top three eigenvectors in NHS and the top four eigenvectors in HPFS. We also tested models that treated the dietary heme iron intake term as a dichotomous variable divided at the median value in controls.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 8723,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "MATERIALS AND METHODS",
+            "section_title_2": "DATA ANALYSIS"
+          },
+          "text": "To test for interactions between dietary heme intake and SNP genotypes in relation to T2D, we utilized a one degree of freedom (1-df) test, which is represented as β5 of Model 3. Models 1 and 2 tested the marginal effects of dietary heme iron intake and SNPs respectively, adjusting for age and BMI. We also performed a two degree of freedom joint test (2-df) by comparing the fit of the null model containing the environment exposure only (Model 1) to the model with gene and gene–environment covariates (Model 3) as an alternate test of the gene–environment interaction (Cornelis et al., 2011; Manning et al., 2011). After running these models separately in NHS and HPFS, we performed tests for heterogeneity of the cohort specific results to check for appropriateness of pooling the data. We conducted an inverse variance-weighted fixed-effects meta-analysis of estimates from the two cohorts using the METAL software.1 Only SNPs with genotypes available in both cohorts were included in the meta-analysis (N = 681,770).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9746,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "MATERIALS AND METHODS",
+            "section_title_2": "DATA ANALYSIS"
+          },
+          "text": "Next we limited our gene–environment interaction analyses to SNPs in the iron metabolic pathway created using the KEGG database 2 and other sources (Michal, 1999; Andrews and Schmidt, 2007; Andrews, 2008; Iron Health Alliance, 2009; William, 2009). We identified 237 SNPs in genes coding for enzymes in this pathway that were present on the Affymetrix 6.0 platform (Table ​Table22). We repeated the logistic regression analysis of Models 2 and 3 using the iron metabolic pathway SNPs. We used a Bonferroni correction based on the number of SNPs analyzed to establish statistical significance in genome-wide (p = 0.05/681,770 = 7.33 × 10-8) and pathway analyses (p = 0.05/237 = 2.10 × 10-4). These estimates of the correction for multiple comparisons are somewhat liberal in that they do not account for the secondary analyses we performed.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10585,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "MATERIALS AND METHODS",
+            "section_title_2": "DATA ANALYSIS"
+          },
+          "text": "To evaluate whether the iron metabolic pathway as a whole might interact with dietary heme intake, we assessed whether the iron metabolic pathway SNP panel was enriched with variants strongly associated with T2D. We compared the distribution of p-values in the SNPs from the iron metabolic pathway with the distribution of SNPs from 1,000 permuted “synthetic pathways” generated by randomly picking SNPs available on the platform that were not in the iron metabolic pathway. To ensure an adequate comparison, all synthetic pathways were constructed such that they had the same number of genes and the same number of SNPs per gene ±10% as the heme pathway. Enrichment of SNPs with low p-values was evaluated by comparing Cobs, the count of SNPs with a p-value below a given significance threshold T in the heme metabolic pathway, to Csyn, the corresponding count derived in the synthetic pathways. The empirical p-value (for both the main genetic effect and the gene–environment interaction term) related to enrichment for a given T was derived as the number of times Cobs was higher than Csyn divided by 1,000, the total number of synthetic pathways.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11735,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "RESULTS"
+          },
+          "text": "Type 2 diabetes cases were similar in age compared to controls in men (overall mean ± SD = 54.3 ± 8.4 years) and women (47.5 ± 6.8 years). As expected, cases had higher BMI and higher mean dietary heme iron intake than controls in men and women (Table ​Table11). Dietary heme iron intake was adversely associated with T2D [OR = 1.36 (1.17, 1.58); pooled p = 7.51 × 10-5; Model 1]. As expected, the top SNP associated with T2D was in TCF7L2 (rs7901695; pooled p-value =1.88 ××10-14) (Model 2).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12234,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "RESULTS"
+          },
+          "text": "Using the 1-df test (Model 3), no gene–environment interaction achieved genome-wide significance level. The most significant interaction with continuous dietary heme iron intake was rs10980508 (pooled p = 1.03 × 10-6; an intergenic SNP between muscle, skeletal, receptor tyrosine kinase (MUSK) and Sushi, von Willebrand factor type A, EGF, and pentraxin domains-containing 1 (SVEP1; Table ​Table33). The 2-df test revealed that SNPs in TCF7L2 had genome-wide margin association with T2D but did not reveal new marginal gene effects of genome-wide significance; nor was there significant interaction between TCF7L2 and dietary heme iron intake in T2D (data not shown). When we generated models substituting dietary heme intake with red meat, processed meat, and total meat, we found similar results with top marginal genetic effects in TCF7L2; yet, Model 3 did not yield significant gene–environment interactions (data not shown).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 13163,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "RESULTS"
+          },
+          "text": "No significant iron metabolism SNP – dietary heme iron intake interaction was detected with the 1-df test (Model 3) in relation to T2D (top SNP rs1805313; in ALAD (delta-aminolevulinate dehydratase); pooled p = 1.14 × 10-3; Bonferroni corrected significance level p = 2.10 × 10-4). The 2-df test of gene and gene–environment interactions also did not reveal any significant interactions between dietary heme iron intake and SNPs in the iron metabolic pathway SNP in pooled analyses (data not shown).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 13662,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "RESULTS"
+          },
+          "text": "Compared with synthetic pathways, the iron metabolic pathway was not associated with T2D when we performed the analyses by SNP (pooled empirical p by SNP = 0.41). Similar null results were obtained when interactions with dietary heme iron intake were considered (pooled empirical p-value for the interactions =0.72). Interactions between various forms of dietary meat intake and the iron metabolic pathway were also not significant.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 14094,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "DISCUSSION"
+          },
+          "text": "Neither the 1-df test nor the 2-df test revealed any genome-wide significant interactions between dietary heme iron intake and genomic SNPs in T2D. Furthermore, the relation between an iron metabolic pathway SNP panel and T2D was not modified by dietary heme iron intake. Finally the iron metabolic pathway was not enriched with SNPs related to T2D.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 14453,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "DISCUSSION"
+          },
+          "text": "There could be several possible reasons for the null results reported here. First, despite its large size (n = 4,771) our study could be underpowered to find modest interaction terms. In fact, only in a log additive model would we achieve 80% power to detect a genome-wide environmental interaction effect of 1.8 (assumes minor allele frequency = 0.4; genetic relative risk = 1.2, and relative risk of the highest tertile of dietary heme iron intake = 1.3). Nonetheless we had ~80% power to discover an interaction effect of 1.5 between iron metabolic SNPs and dietary heme iron intake in relation to T2D using similar assumptions in a dominant inheritance model. Second, power could be compromised due to inherent error in measuring dietary heme iron intake. Third, self-reported iron intake, while collected using a validated food frequency questionnaire, could be prone to recall bias. Finally, the reason why a higher dietary heme iron dietary intake increases the risk of T2D could be solely related to environmental influences (Lee et al., 2004).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 15505,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "DISCUSSION"
+          },
+          "text": "A prior study, using a candidate approach, did find a marginal interaction between HFE and dietary heme iron intake in T2D (p = 0.03; Qi et al., 2005). While we did not discover any new gene-dietary heme iron interactions, more studies using serum biomarkers as surrogates of dietary heme iron intake might point to new gene–iron intake interactions in T2D.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 15862,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "conflict of interest section",
+                "iao_id": "IAO:0000616"
+              }
+            ],
+            "section_title_1": "Conflict of Interest Statement:"
+          },
+          "text": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 16065,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "acknowledgements section",
+                "iao_id": "IAO:0000324"
+              }
+            ],
+            "section_title_1": "Acknowledgments"
+          },
+          "text": "This work was supported by grants CA87969, CA49449, CA055075, EY09611, EY015473, DK58845, UO1 HG004728 and U01HG004728-02S1 from the National Institutes of Health.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 16243,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "abbreviations section",
+                "iao_id": "IAO:0000606"
+              }
+            ],
+            "section_title_1": "Abbreviations"
+          },
+          "text": "{'1-df test': 'one degree of freedom gene–environment interaction test', '2-df test': 'two degree of freedom gene–environment interaction test', 'HH': 'hereditary hemochromatosis', 'HPFS': 'Health Professionals Follow-Up Study', 'NHS': 'Nurses’ Health Study', 'QC': 'quality control', 'SNP': 'single nucleotide polymorphism', 'T2D': 'type 2 diabetes.'}",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 16608,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Forging a field: the golden age of iron biology.",
+            "journal": "Blood",
+            "volume": "112",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Andrews N. C. (2008). Forging a field: the golden age of iron biology.\nBlood\n112\n219–230 [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 16751,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Iron homeostasis.",
+            "journal": "Annu. Rev. Physiol.",
+            "volume": "69",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Andrews N. C., Schmidt P. J. (2007). Iron homeostasis.\nAnnu. Rev. Physiol.\n69\n69–85 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 16860,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Diabetes Statistics.",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "American Diabetes Association. (2011). Diabetes Statistics.\nAvailable at:\nhttp://www.diabetes.org\naccessed November 26, 2012 [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 17001,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Dietary iron intake, body iron stores, and the risk of type 2 diabetes: a systemic review and meta-analysis.",
+            "journal": "BMC Med. 10:119.",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Bao W., Rong Y., Rong S., Liu L. (2012). Dietary iron intake, body iron stores, and the risk of type 2 diabetes: a systemic review and meta-analysis.\nBMC Med. 10:119.\n 10.1186/1741-7015-10-119 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 17249,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Characteristics of respondents and nonrespondents to a mailed questionnaire.",
+            "journal": "Am J. Public Health",
+            "volume": "70",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Barton J., Bain C., Hennekens C. H., Rosner B., Belanger C., Roth A., et al.  (1980). Characteristics of respondents and nonrespondents to a mailed questionnaire.\nAm J. Public Health\n70\n823–825 [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 17487,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Gene-environment interactions in genome-wide association studies: a comparative study of tests applied to empirical studies of type 2 diabetes.",
+            "journal": "Am. J. Epidemiol.",
+            "volume": "175",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Cornelis M. C., Tchetgen E. J., Liang L., Qi L., Chatterjee N., Hu F. B., et al.  (2011). Gene-environment interactions in genome-wide association studies: a comparative study of tests applied to empirical studies of type 2 diabetes.\nAm. J. Epidemiol.\n175\n191–202 [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 17795,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Iron Metabolism.",
+            "journal": "Excess Iron.",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Iron Health Alliance. (2009). Iron Metabolism.\nExcess Iron.\nAvailable at: http://www.excessiron.com/iron-metabolism.jsp\n(accessed September 23, 2009) [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 17961,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Dietary iron intake and blood donations in relation to risk of type 2 diabetes in men: a prospective cohort study.",
+            "journal": "Am. J. Clin. Nutr.",
+            "volume": "79",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Jiang R., Ma J., Ascherio A., Stampfer M. J., Willett W. C., Hu F. B. (2004a). Dietary iron intake and blood donations in relation to risk of type 2 diabetes in men: a prospective cohort study.\nAm. J. Clin. Nutr.\n79\n70–75 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 18208,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Body iron stores in relation to risk of type 2 diabetes in apparently healthy women.",
+            "journal": "JAMA",
+            "volume": "291",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Jiang R., Manson J. E., Meigs J. B., Ma J., Rifai N., Hu F. B. (2004b). Body iron stores in relation to risk of type 2 diabetes in apparently healthy women.\nJAMA\n291\n711–717 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 18407,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Dietary iron intake and Type 2 diabetes incidence in postmenopausal women: the Iowa Women’s Health Study",
+            "journal": "Diabetologia",
+            "volume": "47",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Lee D. H.,  Folsom A. R., Jacobs D. R., Jr. (2004).Dietary iron intake and Type 2 diabetes incidence in postmenopausal women: the Iowa Women’s Health Study. Diabetologia\n47\n185–194 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 18613,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Classification and diagnosis of diabetes mellitus and other categories of glucose intolerance.",
+            "journal": "Diabetes",
+            "volume": "28",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "National Diabetes Data Group. (1979). Classification and diagnosis of diabetes mellitus and other categories of glucose intolerance.\nDiabetes\n28\n1039–1057 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 18793,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Meta-analysis of gene-environment interaction: joint estimation of SNP and SNP x environment regression coefficients.",
+            "journal": "Genet. Epidemiol.",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Manning A. K.,  LaValley M.,  Liu C. T.,  Rice K., An P.,  Liu Y., et al.  (2011). Meta-analysis of gene-environment interaction: joint estimation of SNP and SNP x environment regression coefficients.\nGenet. Epidemiol.\n3511–3518 [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 19066,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Physical activity and incidence of non-insulin-dependent diabetes mellitus in women.",
+            "journal": "Lancet",
+            "volume": "338",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Manson J. E., Rimm E. B., Stampfer M. J., Colditz G. A., Willett W. C., Krolewski A.S., et al.  (1991). Physical activity and incidence of non-insulin-dependent diabetes mellitus in women.\nLancet\n338\n774–778 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 19299,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Biochemical Pathways: An Atlas of Biochemistry and Molecular Biology.",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Michal G. (1999). Biochemical Pathways: An Atlas of Biochemistry and Molecular Biology.\nNew York: John Wiley [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 19424,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Disorders of iron metabolism.",
+            "journal": "N. Engl. J. Med.",
+            "volume": "341",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Nelson N. C. (1999). Disorders of iron metabolism.\nN. Engl. J. Med.\n341\n1986–1995 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 19531,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetic variants at 2q24 are associated with susceptibility to type 2 diabetes.",
+            "journal": "Hum. Mol. Genet.",
+            "volume": "19",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Qi L., Cornelis M. C., Kraft P., Stanya K. J., Linda Kao W. H., Pankow J. S., et al.  (2010). Genetic variants at 2q24 are associated with susceptibility to type 2 diabetes.\nHum. Mol. Genet.\n19\n2706–2715 [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 19779,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "HFE genetic variability, body iron stores, and the risk of type 2 diabetes in U.S.",
+            "journal": "women. Diabetes.",
+            "volume": "54",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Qi L., Meigs J., Manson J. E., Ma J., Hunter D., Rifai N., et al.  (2005). HFE genetic variability, body iron stores, and the risk of type 2 diabetes in U.S.\nwomen. Diabetes.\n54\n3567–3572 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 19992,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Iron intake and the risk of type 2 diabetes in women: a prospective cohort study.",
+            "journal": "Diabetes Care",
+            "volume": "29",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Rajpathak S., Ma J., Manson J., Willett W. C., Hu F. B. (2006). Iron intake and the risk of type 2 diabetes in women: a prospective cohort study.\nDiabetes Care\n29\n1370–1376 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 20190,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus.",
+            "journal": "Diabetes Care",
+            "volume": "20",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "American Diabetes Association. (1997). Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus.\nDiabetes Care\n20\n1183–1197 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 20370,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Effectiveness of various mailing strategies among nonrespondents in a prospective cohort study.",
+            "journal": "Am. J. Epidemiol.",
+            "volume": "131",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Rimm E. B., Stampfer M. J., Colditz G. A., Giovannucci E., Willett W. C. (1990). Effectiveness of various mailing strategies among nonrespondents in a prospective cohort study.\nAm. J. Epidemiol.\n131\n1068–1071 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 20604,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Relation between iron stores and non-insulin dependent diabetes in men: case–control study.",
+            "journal": "BMJ",
+            "volume": "317",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Salonen J. T., Tuomainen T. P., Nyyssonen K., Lakka H. M., Punnonen K. (1998). Relation between iron stores and non-insulin dependent diabetes in men: case–control study.\nBMJ\n317\n727 [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 20831,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A prospective study of red meat consumption and type 2 diabetes in middle-aged and elderly women: the women’s health study.",
+            "journal": "Diabetes Care",
+            "volume": "27",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Song Y., Manson J. E., Buring J. E., Liu S. (2004). A prospective study of red meat consumption and type 2 diabetes in middle-aged and elderly women: the women’s health study.\nDiabetes Care\n27\n2108–2115 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 21059,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Relation between antioxidant enzyme gene expression and antioxidative defense status of insulin-producing cells.",
+            "journal": "Diabetes",
+            "volume": "46",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Tiedge M., Lortz S., Drinkgern J., Lenzen S. (1997). Relation between antioxidant enzyme gene expression and antioxidative defense status of insulin-producing cells.\nDiabetes\n46\n1733–1742 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 21272,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Hereditary hemochromatosis and diabetes mellitus: implications for clinical practice.",
+            "journal": "Nat. Rev. Endocrinol.",
+            "volume": "6",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Utzschneider K. M., Kowdley K. V. (2010). Hereditary hemochromatosis and diabetes mellitus: implications for clinical practice.\nNat. Rev. Endocrinol.\n6\n26–33 [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 21455,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Five years of GWAS discovery.",
+            "journal": "Am. J. Hum. Genet.",
+            "volume": "90",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "Visscher P. M., Brown M. A., McCarthy M. I., Yiang J. (2012). Five years of GWAS discovery.\nAm. J. Hum. Genet.\n90\n7–24 [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 21618,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Flow Chart of Intermediates in the Synthesis of Hemoglobin",
+            "section_title_1": "REFERENCES"
+          },
+          "text": "William W. (2009). Flow Chart of Intermediates in the Synthesis of Hemoglobin\n(accessed September 23, 2009) [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

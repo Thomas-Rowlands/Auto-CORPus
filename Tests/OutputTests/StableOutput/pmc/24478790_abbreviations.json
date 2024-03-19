@@ -1,0 +1,74 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "24478790.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "PC8",
+          "text_long": "principle component 8"
+        },
+        {
+          "text_short": "QC",
+          "text_long": "Quality control"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequency"
+        },
+        {
+          "text_short": "HWE",
+          "text_long": "Hardy-Weinberg equilibrium"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "genome wide association study"
+        },
+        {
+          "text_short": "IBD",
+          "text_long": "identity-by-descent"
+        },
+        {
+          "text_short": "D′",
+          "text_long": "disequilibrium"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "PC8",
+          "text_long": "principle component 8"
+        },
+        {
+          "text_short": "QC",
+          "text_long": "Quality control"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequency"
+        },
+        {
+          "text_short": "HWE",
+          "text_long": "Hardy-Weinberg equilibrium"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "genome wide association study"
+        },
+        {
+          "text_short": "IBD",
+          "text_long": "identity-by-descent"
+        },
+        {
+          "text_short": "D′",
+          "text_long": "disequilibrium"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1317 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "24379826.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Joint linkage-association analysis of serum uric acid (Empirical genome-wide significance: p < 1.3 × 10−7).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 114,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": "SNP a"
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": "Coordinates (bp)"
+            },
+            {
+              "cell_id": "1.1.3",
+              "cell_text": "MGA b  ( p -value)"
+            },
+            {
+              "cell_id": "1.1.4",
+              "cell_text": "JLA c  ( p -value)"
+            },
+            {
+              "cell_id": "1.1.5",
+              "cell_text": "Minor allele/frequency"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "SLC2A9 d",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": "rs6832439"
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": 9924319.0
+                  },
+                  {
+                    "cell_id": "1.2.3",
+                    "cell_text": "6.0 × 10 −9"
+                  },
+                  {
+                    "cell_id": "1.2.4",
+                    "cell_text": "2.7 × 10 −8"
+                  },
+                  {
+                    "cell_id": "1.2.5",
+                    "cell_text": "A/0.36"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "SLC2A9",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": "rs13131257"
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": 9981889.0
+                  },
+                  {
+                    "cell_id": "1.3.3",
+                    "cell_text": "2.0 × 10 −8"
+                  },
+                  {
+                    "cell_id": "1.3.4",
+                    "cell_text": "8.1 × 10 −8"
+                  },
+                  {
+                    "cell_id": "1.3.5",
+                    "cell_text": "T/0.36"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.4.1",
+                    "cell_text": "rs737267"
+                  },
+                  {
+                    "cell_id": "1.4.2",
+                    "cell_text": 9934744.0
+                  },
+                  {
+                    "cell_id": "1.4.3",
+                    "cell_text": "4.2 × 10 −8"
+                  },
+                  {
+                    "cell_id": "1.4.4",
+                    "cell_text": "1.7 × 10 −7"
+                  },
+                  {
+                    "cell_id": "1.4.5",
+                    "cell_text": "A/0.38"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "CNTN4 e",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.5.1",
+                    "cell_text": "rs6449213"
+                  },
+                  {
+                    "cell_id": "1.5.2",
+                    "cell_text": 9994215.0
+                  },
+                  {
+                    "cell_id": "1.5.3",
+                    "cell_text": "1.6 × 10 −6"
+                  },
+                  {
+                    "cell_id": "1.5.4",
+                    "cell_text": "5.7 × 10 −6"
+                  },
+                  {
+                    "cell_id": "1.5.5",
+                    "cell_text": "C/0.22"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "CNTN4",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.6.1",
+                    "cell_text": "rs7652782"
+                  },
+                  {
+                    "cell_id": "1.6.2",
+                    "cell_text": 2821616.0
+                  },
+                  {
+                    "cell_id": "1.6.3",
+                    "cell_text": "3.4 × 10 −4"
+                  },
+                  {
+                    "cell_id": "1.6.4",
+                    "cell_text": "7.1 × 10 −7"
+                  },
+                  {
+                    "cell_id": "1.6.5",
+                    "cell_text": "A/0.06"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.7.1",
+                    "cell_text": "rs6786387"
+                  },
+                  {
+                    "cell_id": "1.7.2",
+                    "cell_text": 2822150.0
+                  },
+                  {
+                    "cell_id": "1.7.3",
+                    "cell_text": "2.6 × 10 −4"
+                  },
+                  {
+                    "cell_id": "1.7.4",
+                    "cell_text": "7.6 × 10 −7"
+                  },
+                  {
+                    "cell_id": "1.7.5",
+                    "cell_text": "A/0.03"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.8.1",
+                    "cell_text": "rs6786174"
+                  },
+                  {
+                    "cell_id": "1.8.2",
+                    "cell_text": 2982630.0
+                  },
+                  {
+                    "cell_id": "1.8.3",
+                    "cell_text": "6.1 × 10 −4"
+                  },
+                  {
+                    "cell_id": "1.8.4",
+                    "cell_text": "1.2 × 10 −6"
+                  },
+                  {
+                    "cell_id": "1.8.5",
+                    "cell_text": "C/0.08"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.9.1",
+                    "cell_text": "rs17586876"
+                  },
+                  {
+                    "cell_id": "1.9.2",
+                    "cell_text": 2964182.0
+                  },
+                  {
+                    "cell_id": "1.9.3",
+                    "cell_text": "1.3 × 10 −3"
+                  },
+                  {
+                    "cell_id": "1.9.4",
+                    "cell_text": "2.0 × 10 −6"
+                  },
+                  {
+                    "cell_id": "1.9.5",
+                    "cell_text": "G/0.09"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 483,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aSNP, Single Nucleotide Polymorphism.bMGA, Measured Genotype Analysis.cJLA, Joint linkage association analysis.dSLC2A9: solute carrier protein 2 family, member 9.eCNTN4: Contactin 4.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "24379826.html",
+      "id": "2",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 2",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Association of the most significant SNPs in solute carrier protein 2 family, member 9 (SLC2A9) gene with serum uric acid (mg/dl).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 136,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "2.1.1",
+              "cell_text": "SNP"
+            },
+            {
+              "cell_id": "2.1.2",
+              "cell_text": "Mean effect size (%) a"
+            },
+            {
+              "cell_id": "2.1.3",
+              "cell_text": "11 b"
+            },
+            {
+              "cell_id": "2.1.4",
+              "cell_text": "12.0"
+            },
+            {
+              "cell_id": "2.1.5",
+              "cell_text": "22.0"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.2.1",
+                    "cell_text": "rs6832439"
+                  },
+                  {
+                    "cell_id": "2.2.2",
+                    "cell_text": 5.3
+                  },
+                  {
+                    "cell_id": "2.2.3",
+                    "cell_text": "5.6 (1.4) c"
+                  },
+                  {
+                    "cell_id": "2.2.4",
+                    "cell_text": "5.3 (1.4)"
+                  },
+                  {
+                    "cell_id": "2.2.5",
+                    "cell_text": "4.8 (1.3)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.3.1",
+                    "cell_text": "rs13131257"
+                  },
+                  {
+                    "cell_id": "2.3.2",
+                    "cell_text": 4.9
+                  },
+                  {
+                    "cell_id": "2.3.3",
+                    "cell_text": "5.6 (1.4)"
+                  },
+                  {
+                    "cell_id": "2.3.4",
+                    "cell_text": "5.3 (1.4)"
+                  },
+                  {
+                    "cell_id": "2.3.5",
+                    "cell_text": "4.8 (1.4)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.4.1",
+                    "cell_text": "rs737267"
+                  },
+                  {
+                    "cell_id": "2.4.2",
+                    "cell_text": 5.0
+                  },
+                  {
+                    "cell_id": "2.4.3",
+                    "cell_text": "5.6 (1.4)"
+                  },
+                  {
+                    "cell_id": "2.4.4",
+                    "cell_text": "5.3 (1.4)"
+                  },
+                  {
+                    "cell_id": "2.4.5",
+                    "cell_text": "4.8 (1.3)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.5.1",
+                    "cell_text": "rs6449213"
+                  },
+                  {
+                    "cell_id": "2.5.2",
+                    "cell_text": 4.5
+                  },
+                  {
+                    "cell_id": "2.5.3",
+                    "cell_text": "5.5 (1.4)"
+                  },
+                  {
+                    "cell_id": "2.5.4",
+                    "cell_text": "5.2 (1.4)"
+                  },
+                  {
+                    "cell_id": "2.5.5",
+                    "cell_text": "4.2 (1.2)"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 294,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aProportion of the residual phenotypic variance that is explained by the minor allele of the SNP.b1 – major allele; 2 – minor allele.cgenotype-specific mean (standard deviation) of serum uric acid levels (mg/dl).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "24379826.html",
+      "id": "3",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 3",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Solute carrier protein 2 family, member 9 (SLC2A9) SNPs (chromosome 4) associated with cardiovascular or renal disease risk factors.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 139,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "3.1.1",
+              "cell_text": "SNP b"
+            },
+            {
+              "cell_id": "3.1.2",
+              "cell_text": "MGA c  ( p -value)"
+            },
+            {
+              "cell_id": "3.1.3",
+              "cell_text": "SNP coordinates"
+            },
+            {
+              "cell_id": "3.1.4",
+              "cell_text": "Minor/major allele"
+            },
+            {
+              "cell_id": "3.1.5",
+              "cell_text": "Minor allele frequency"
+            },
+            {
+              "cell_id": "3.1.6",
+              "cell_text": "Effect size(%) d"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "Body weight",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.2.1",
+                    "cell_text": "rs938553"
+                  },
+                  {
+                    "cell_id": "3.2.2",
+                    "cell_text": "5.5 × 10 −6"
+                  },
+                  {
+                    "cell_id": "3.2.3",
+                    "cell_text": 9925526.0
+                  },
+                  {
+                    "cell_id": "3.2.4",
+                    "cell_text": "A/G"
+                  },
+                  {
+                    "cell_id": "3.2.5",
+                    "cell_text": 0.12
+                  },
+                  {
+                    "cell_id": "3.2.6",
+                    "cell_text": 2.8
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "BMI",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.3.1",
+                    "cell_text": "rs10003001"
+                  },
+                  {
+                    "cell_id": "3.3.2",
+                    "cell_text": "9.8 × 10 −4"
+                  },
+                  {
+                    "cell_id": "3.3.3",
+                    "cell_text": 9984475.0
+                  },
+                  {
+                    "cell_id": "3.3.4",
+                    "cell_text": "A/G"
+                  },
+                  {
+                    "cell_id": "3.3.5",
+                    "cell_text": 0.07
+                  },
+                  {
+                    "cell_id": "3.3.6",
+                    "cell_text": 2.1
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "Waist circumference",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.4.1",
+                    "cell_text": "rs10008035"
+                  },
+                  {
+                    "cell_id": "3.4.2",
+                    "cell_text": "9.1 × 10 −4"
+                  },
+                  {
+                    "cell_id": "3.4.3",
+                    "cell_text": 9999335.0
+                  },
+                  {
+                    "cell_id": "3.4.4",
+                    "cell_text": "A/C"
+                  },
+                  {
+                    "cell_id": "3.4.5",
+                    "cell_text": 0.13
+                  },
+                  {
+                    "cell_id": "3.4.6",
+                    "cell_text": 2.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.5.1",
+                    "cell_text": "rs938553"
+                  },
+                  {
+                    "cell_id": "3.5.2",
+                    "cell_text": "7.3 × 10 −4"
+                  },
+                  {
+                    "cell_id": "3.5.3",
+                    "cell_text": 9925526.0
+                  },
+                  {
+                    "cell_id": "3.5.4",
+                    "cell_text": "A/G"
+                  },
+                  {
+                    "cell_id": "3.5.5",
+                    "cell_text": 0.12
+                  },
+                  {
+                    "cell_id": "3.5.6",
+                    "cell_text": 2.3
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.6.1",
+                    "cell_text": "rs10003001"
+                  },
+                  {
+                    "cell_id": "3.6.2",
+                    "cell_text": "5.0 × 10 −4"
+                  },
+                  {
+                    "cell_id": "3.6.3",
+                    "cell_text": 9984475.0
+                  },
+                  {
+                    "cell_id": "3.6.4",
+                    "cell_text": "A/G"
+                  },
+                  {
+                    "cell_id": "3.6.5",
+                    "cell_text": 0.07
+                  },
+                  {
+                    "cell_id": "3.6.6",
+                    "cell_text": 2.2
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "Albumin/creatinine ratio",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.7.1",
+                    "cell_text": "rs10008035"
+                  },
+                  {
+                    "cell_id": "3.7.2",
+                    "cell_text": "8.0 × 10 −4"
+                  },
+                  {
+                    "cell_id": "3.7.3",
+                    "cell_text": 9999335.0
+                  },
+                  {
+                    "cell_id": "3.7.4",
+                    "cell_text": "A/C"
+                  },
+                  {
+                    "cell_id": "3.7.5",
+                    "cell_text": 0.13
+                  },
+                  {
+                    "cell_id": "3.7.6",
+                    "cell_text": 2.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.8.1",
+                    "cell_text": "rs938553"
+                  },
+                  {
+                    "cell_id": "3.8.2",
+                    "cell_text": "2.0 × 10 −4"
+                  },
+                  {
+                    "cell_id": "3.8.3",
+                    "cell_text": 9925526.0
+                  },
+                  {
+                    "cell_id": "3.8.4",
+                    "cell_text": "A/G"
+                  },
+                  {
+                    "cell_id": "3.8.5",
+                    "cell_text": 0.12
+                  },
+                  {
+                    "cell_id": "3.8.6",
+                    "cell_text": 2.6
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.9.1",
+                    "cell_text": "rs1014290"
+                  },
+                  {
+                    "cell_id": "3.9.2",
+                    "cell_text": "4.0 × 10 −4"
+                  },
+                  {
+                    "cell_id": "3.9.3",
+                    "cell_text": 10001861.0
+                  },
+                  {
+                    "cell_id": "3.9.4",
+                    "cell_text": "G/A"
+                  },
+                  {
+                    "cell_id": "3.9.5",
+                    "cell_text": 0.33
+                  },
+                  {
+                    "cell_id": "3.9.6",
+                    "cell_text": 2.1
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.10.1",
+                    "cell_text": "rs10805346"
+                  },
+                  {
+                    "cell_id": "3.10.2",
+                    "cell_text": "6.0 × 10 −4"
+                  },
+                  {
+                    "cell_id": "3.10.3",
+                    "cell_text": 9920347.0
+                  },
+                  {
+                    "cell_id": "3.10.4",
+                    "cell_text": "A/G"
+                  },
+                  {
+                    "cell_id": "3.10.5",
+                    "cell_text": 0.41
+                  },
+                  {
+                    "cell_id": "3.10.6",
+                    "cell_text": 2.0
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "Total antioxidant status",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.11.1",
+                    "cell_text": "rs13129697"
+                  },
+                  {
+                    "cell_id": "3.11.2",
+                    "cell_text": "3.0 × 10 −4"
+                  },
+                  {
+                    "cell_id": "3.11.3",
+                    "cell_text": 9926967.0
+                  },
+                  {
+                    "cell_id": "3.11.4",
+                    "cell_text": "C/A"
+                  },
+                  {
+                    "cell_id": "3.11.5",
+                    "cell_text": 0.48
+                  },
+                  {
+                    "cell_id": "3.11.6",
+                    "cell_text": 2.2
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.12.1",
+                    "cell_text": "rs7660895"
+                  },
+                  {
+                    "cell_id": "3.12.2",
+                    "cell_text": "6.0 × 10 −4"
+                  },
+                  {
+                    "cell_id": "3.12.3",
+                    "cell_text": 9985445.0
+                  },
+                  {
+                    "cell_id": "3.12.4",
+                    "cell_text": "A/G"
+                  },
+                  {
+                    "cell_id": "3.12.5",
+                    "cell_text": 0.46
+                  },
+                  {
+                    "cell_id": "3.12.6",
+                    "cell_text": 2.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.13.1",
+                    "cell_text": "rs6832439"
+                  },
+                  {
+                    "cell_id": "3.13.2",
+                    "cell_text": "1.4 × 10 −6"
+                  },
+                  {
+                    "cell_id": "3.13.3",
+                    "cell_text": 9924319.0
+                  },
+                  {
+                    "cell_id": "3.13.4",
+                    "cell_text": "A/G"
+                  },
+                  {
+                    "cell_id": "3.13.5",
+                    "cell_text": 0.36
+                  },
+                  {
+                    "cell_id": "3.13.6",
+                    "cell_text": 2.9
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.14.1",
+                    "cell_text": "rs737267"
+                  },
+                  {
+                    "cell_id": "3.14.2",
+                    "cell_text": "1.4 × 10 −6"
+                  },
+                  {
+                    "cell_id": "3.14.3",
+                    "cell_text": 9934744.0
+                  },
+                  {
+                    "cell_id": "3.14.4",
+                    "cell_text": "A/C"
+                  },
+                  {
+                    "cell_id": "3.14.5",
+                    "cell_text": 0.38
+                  },
+                  {
+                    "cell_id": "3.14.6",
+                    "cell_text": 2.9
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 649,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aEmpirical significance based on number of SNPs analyzed in SLC2A9 gene (p < 1.4 × 10−3).bSNP, Single Nucleotide Polymorphism.cMGA, Measured Genotype Analysis.dProportion of the residual phenotypic variance that is explained by the minor allele of the SNP.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "24379826.html",
+      "id": "4",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 4",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Previously reported association of serum uric acid levels with genes other than SLC2A9.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 94,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "4.1.1",
+              "cell_text": "SNP"
+            },
+            {
+              "cell_id": "4.1.2",
+              "cell_text": "Joint linkage/association (JLA) in our study ( p -value)"
+            },
+            {
+              "cell_id": "4.1.3",
+              "cell_text": "Gene name"
+            },
+            {
+              "cell_id": "4.1.4",
+              "cell_text": "Gene symbol"
+            },
+            {
+              "cell_id": "4.1.5",
+              "cell_text": "Population"
+            },
+            {
+              "cell_id": "4.1.6",
+              "cell_text": "References"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.2.1",
+                    "cell_text": "rs2231142"
+                  },
+                  {
+                    "cell_id": "4.2.2",
+                    "cell_text": "0.24 a"
+                  },
+                  {
+                    "cell_id": "4.2.3",
+                    "cell_text": "ATP-binding cassette family G, member 2"
+                  },
+                  {
+                    "cell_id": "4.2.4",
+                    "cell_text": "ABCG2"
+                  },
+                  {
+                    "cell_id": "4.2.5",
+                    "cell_text": "Mexican Americans, African Americans, European Americans, American Indians"
+                  },
+                  {
+                    "cell_id": "4.2.6",
+                    "cell_text": "Köttgen et al.,  2013 ; Zhang et al.,  2013"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.3.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.3.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.3.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.3.4",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.3.5",
+                    "cell_text": "European Americans"
+                  },
+                  {
+                    "cell_id": "4.3.6",
+                    "cell_text": "Kolz et al.,  2009"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.4.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.4.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.4.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.4.4",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.4.5",
+                    "cell_text": "Japanese"
+                  },
+                  {
+                    "cell_id": "4.4.6",
+                    "cell_text": "Tabara et al.,  2010"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.5.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.5.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.5.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.5.4",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.5.5",
+                    "cell_text": "Whites and Blacks"
+                  },
+                  {
+                    "cell_id": "4.5.6",
+                    "cell_text": "Dehghan et al.,  2008"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.6.1",
+                    "cell_text": "rs1471633"
+                  },
+                  {
+                    "cell_id": "4.6.2",
+                    "cell_text": "0.79 (rs1967017) b"
+                  },
+                  {
+                    "cell_id": "4.6.3",
+                    "cell_text": "PDZ domain containing 1"
+                  },
+                  {
+                    "cell_id": "4.6.4",
+                    "cell_text": "PDZK1"
+                  },
+                  {
+                    "cell_id": "4.6.5",
+                    "cell_text": "European Americans"
+                  },
+                  {
+                    "cell_id": "4.6.6",
+                    "cell_text": "Köttgen et al.,  2013"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.7.1",
+                    "cell_text": "rs12129861"
+                  },
+                  {
+                    "cell_id": "4.7.2",
+                    "cell_text": "0.17 (rs1298954) c"
+                  },
+                  {
+                    "cell_id": "4.7.3",
+                    "cell_text": "PDZ domain containing 1"
+                  },
+                  {
+                    "cell_id": "4.7.4",
+                    "cell_text": "PDZK1"
+                  },
+                  {
+                    "cell_id": "4.7.5",
+                    "cell_text": "European Americans"
+                  },
+                  {
+                    "cell_id": "4.7.6",
+                    "cell_text": "Kolz et al.,  2009"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.8.1",
+                    "cell_text": "rs1171614"
+                  },
+                  {
+                    "cell_id": "4.8.2",
+                    "cell_text": "0.11 (rs1171617) b"
+                  },
+                  {
+                    "cell_id": "4.8.3",
+                    "cell_text": "Solute carrier protein family 16A, member 9"
+                  },
+                  {
+                    "cell_id": "4.8.4",
+                    "cell_text": "SLC16A9"
+                  },
+                  {
+                    "cell_id": "4.8.5",
+                    "cell_text": "European Americans"
+                  },
+                  {
+                    "cell_id": "4.8.6",
+                    "cell_text": "Kolz et al.,  2009 ; Köttgen et al.,  2013"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.9.1",
+                    "cell_text": "rs12800450"
+                  },
+                  {
+                    "cell_id": "4.9.2",
+                    "cell_text": "0.05 (rs505802) c"
+                  },
+                  {
+                    "cell_id": "4.9.3",
+                    "cell_text": "Solute carrier protein family 22A, member 12"
+                  },
+                  {
+                    "cell_id": "4.9.4",
+                    "cell_text": "SLC22A12"
+                  },
+                  {
+                    "cell_id": "4.9.5",
+                    "cell_text": "African Americans"
+                  },
+                  {
+                    "cell_id": "4.9.6",
+                    "cell_text": "Tin et al.,  2011"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.10.1",
+                    "cell_text": "rs2078067"
+                  },
+                  {
+                    "cell_id": "4.10.2",
+                    "cell_text": "0.02 (rs10792438) c"
+                  },
+                  {
+                    "cell_id": "4.10.3",
+                    "cell_text": "Solute carrier protein family 22A, member 11"
+                  },
+                  {
+                    "cell_id": "4.10.4",
+                    "cell_text": "SLC22A11"
+                  },
+                  {
+                    "cell_id": "4.10.5",
+                    "cell_text": "European ancestry"
+                  },
+                  {
+                    "cell_id": "4.10.6",
+                    "cell_text": "Yang et al.,  2010"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.11.1",
+                    "cell_text": "rs1165205"
+                  },
+                  {
+                    "cell_id": "4.11.2",
+                    "cell_text": "0.92 (rs9393672) b"
+                  },
+                  {
+                    "cell_id": "4.11.3",
+                    "cell_text": "Solute carrier protein family 17A, member 3"
+                  },
+                  {
+                    "cell_id": "4.11.4",
+                    "cell_text": "SLC17A3"
+                  },
+                  {
+                    "cell_id": "4.11.5",
+                    "cell_text": "Whites and Blacks"
+                  },
+                  {
+                    "cell_id": "4.11.6",
+                    "cell_text": "Dehghan et al.,  2008"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1038,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aSNP typed on our array.bProxy SNP on our array.cNo proxy SNP available; strongest evidence of JLA in our study annotated to this gene.Proxy SNPs identified with SNAP (SNP Annotation and Proxy Search) Version 2.2: https://www.broadinstitute.org/mpg/snap/",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

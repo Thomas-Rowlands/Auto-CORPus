@@ -1,0 +1,5163 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "29535761.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Number of SNPs before and after pruning.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": "Criteria"
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": "Number"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": "Total no. of SNPs before pruning"
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": 569244.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": "Failed HWE test"
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": 173955.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.4.1",
+                    "cell_text": "Failed missingness test"
+                  },
+                  {
+                    "cell_id": "1.4.2",
+                    "cell_text": 1934.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.5.1",
+                    "cell_text": "Failed SNP frequency test"
+                  },
+                  {
+                    "cell_id": "1.5.2",
+                    "cell_text": 61167.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.6.1",
+                    "cell_text": "Mendelian errors detected"
+                  },
+                  {
+                    "cell_id": "1.6.2",
+                    "cell_text": 349.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.7.1",
+                    "cell_text": "Remaining SNPs after pruning a"
+                  },
+                  {
+                    "cell_id": "1.7.2",
+                    "cell_text": 341191.0
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 239,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aRemaining SNPs refer to those without deviations from Hardy-Weinberg equilibrium (HWE) (p < 0.001), and those having less than 5% missed calls, minor allele frequencies >5%, and Mendelian errors <1%. Note that because some SNPs may fail several criteria, the number of remaining SNPs is not equal to the total number of SNPs minus those removed in the pruning process.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "29535761.html",
+      "id": "2",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 2",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Triad completeness by ethnicitya.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "2.1.1",
+              "cell_text": "Ethnicity"
+            },
+            {
+              "cell_id": "2.1.2",
+              "cell_text": "Complete triads c<!>Individuals"
+            },
+            {
+              "cell_id": "2.1.3",
+              "cell_text": "Complete triads c<!>Families"
+            },
+            {
+              "cell_id": "2.1.4",
+              "cell_text": "Incomplete triads d<!>Individuals"
+            },
+            {
+              "cell_id": "2.1.5",
+              "cell_text": "Incomplete triads d<!>Families"
+            },
+            {
+              "cell_id": "2.1.6",
+              "cell_text": "Total<!>Individuals"
+            },
+            {
+              "cell_id": "2.1.7",
+              "cell_text": "Total<!>Families"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.2.1",
+                    "cell_text": "European"
+                  },
+                  {
+                    "cell_id": "2.2.2",
+                    "cell_text": 2024.0
+                  },
+                  {
+                    "cell_id": "2.2.3",
+                    "cell_text": 670.0
+                  },
+                  {
+                    "cell_id": "2.2.4",
+                    "cell_text": 310.0
+                  },
+                  {
+                    "cell_id": "2.2.5",
+                    "cell_text": 155.0
+                  },
+                  {
+                    "cell_id": "2.2.6",
+                    "cell_text": 2334.0
+                  },
+                  {
+                    "cell_id": "2.2.7",
+                    "cell_text": 825.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.3.1",
+                    "cell_text": "Asian"
+                  },
+                  {
+                    "cell_id": "2.3.2",
+                    "cell_text": 2670.0
+                  },
+                  {
+                    "cell_id": "2.3.3",
+                    "cell_text": 890.0
+                  },
+                  {
+                    "cell_id": "2.3.4",
+                    "cell_text": 268.0
+                  },
+                  {
+                    "cell_id": "2.3.5",
+                    "cell_text": 134.0
+                  },
+                  {
+                    "cell_id": "2.3.6",
+                    "cell_text": 2938.0
+                  },
+                  {
+                    "cell_id": "2.3.7",
+                    "cell_text": 1024.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.4.1",
+                    "cell_text": "Other b"
+                  },
+                  {
+                    "cell_id": "2.4.2",
+                    "cell_text": 102.0
+                  },
+                  {
+                    "cell_id": "2.4.3",
+                    "cell_text": 34.0
+                  },
+                  {
+                    "cell_id": "2.4.4",
+                    "cell_text": 50.0
+                  },
+                  {
+                    "cell_id": "2.4.5",
+                    "cell_text": 25.0
+                  },
+                  {
+                    "cell_id": "2.4.6",
+                    "cell_text": 152.0
+                  },
+                  {
+                    "cell_id": "2.4.7",
+                    "cell_text": 59.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.5.1",
+                    "cell_text": "Pooled"
+                  },
+                  {
+                    "cell_id": "2.5.2",
+                    "cell_text": 4796.0
+                  },
+                  {
+                    "cell_id": "2.5.3",
+                    "cell_text": 1594.0
+                  },
+                  {
+                    "cell_id": "2.5.4",
+                    "cell_text": 628.0
+                  },
+                  {
+                    "cell_id": "2.5.5",
+                    "cell_text": 314.0
+                  },
+                  {
+                    "cell_id": "2.5.6",
+                    "cell_text": 5424.0
+                  },
+                  {
+                    "cell_id": "2.5.7",
+                    "cell_text": 1908.0
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 191,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aIn total, 317 individuals had genotype call rates <10% and were removed from the analyses. Columns show the number of remaining families and individuals.bAnalyses were not conducted for this group because of small numbers.cSome families had more than one offspring.dThese are parent-offspring dyads.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "29535761.html",
+      "id": "3",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 3",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Relative risk ratio (RRR) and 95% confidence interval (CI) for the top 20 SNPs in the GxVitamin analyses.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 112,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "3.1.1",
+              "cell_text": "Top 20 SNPs a"
+            },
+            {
+              "cell_id": "3.1.2",
+              "cell_text": "Chromosomal band location b"
+            },
+            {
+              "cell_id": "3.1.3",
+              "cell_text": "Location of SNP in or near a given gene(s) b"
+            },
+            {
+              "cell_id": "3.1.4",
+              "cell_text": "p -value"
+            },
+            {
+              "cell_id": "3.1.5",
+              "cell_text": "q -value"
+            },
+            {
+              "cell_id": "3.1.6",
+              "cell_text": "RRR (95% CI)"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "Pooled",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.2.1",
+                    "cell_text": "rs1339221"
+                  },
+                  {
+                    "cell_id": "3.2.2",
+                    "cell_text": "1q41"
+                  },
+                  {
+                    "cell_id": "3.2.3",
+                    "cell_text": "In  ESRRG"
+                  },
+                  {
+                    "cell_id": "3.2.4",
+                    "cell_text": 5.9e-08
+                  },
+                  {
+                    "cell_id": "3.2.5",
+                    "cell_text": 0.011
+                  },
+                  {
+                    "cell_id": "3.2.6",
+                    "cell_text": "0.56 (0.45–0.69)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.3.1",
+                    "cell_text": "rs11117745"
+                  },
+                  {
+                    "cell_id": "3.3.2",
+                    "cell_text": "1q41"
+                  },
+                  {
+                    "cell_id": "3.3.3",
+                    "cell_text": "In  ESRRG"
+                  },
+                  {
+                    "cell_id": "3.3.4",
+                    "cell_text": 6.8e-08
+                  },
+                  {
+                    "cell_id": "3.3.5",
+                    "cell_text": 0.011
+                  },
+                  {
+                    "cell_id": "3.3.6",
+                    "cell_text": "0.57 (0.46–0.70)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.4.1",
+                    "cell_text": "rs13027140"
+                  },
+                  {
+                    "cell_id": "3.4.2",
+                    "cell_text": "2p16"
+                  },
+                  {
+                    "cell_id": "3.4.3",
+                    "cell_text": "Between  FLJ30838  and  LOC101927285"
+                  },
+                  {
+                    "cell_id": "3.4.4",
+                    "cell_text": 1e-06
+                  },
+                  {
+                    "cell_id": "3.4.5",
+                    "cell_text": 0.117
+                  },
+                  {
+                    "cell_id": "3.4.6",
+                    "cell_text": "1.70 (1.38–2.11)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.5.1",
+                    "cell_text": "rs4233974"
+                  },
+                  {
+                    "cell_id": "3.5.2",
+                    "cell_text": "2p16"
+                  },
+                  {
+                    "cell_id": "3.5.3",
+                    "cell_text": "Between  FLJ30838  and  LOC101927285"
+                  },
+                  {
+                    "cell_id": "3.5.4",
+                    "cell_text": 2.2e-06
+                  },
+                  {
+                    "cell_id": "3.5.5",
+                    "cell_text": 0.15
+                  },
+                  {
+                    "cell_id": "3.5.6",
+                    "cell_text": "1.67 (1.35–2.06)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.6.1",
+                    "cell_text": "rs1316471"
+                  },
+                  {
+                    "cell_id": "3.6.2",
+                    "cell_text": "7p12"
+                  },
+                  {
+                    "cell_id": "3.6.3",
+                    "cell_text": "Nearest gene is  COBL"
+                  },
+                  {
+                    "cell_id": "3.6.4",
+                    "cell_text": 2.2e-06
+                  },
+                  {
+                    "cell_id": "3.6.5",
+                    "cell_text": 0.15
+                  },
+                  {
+                    "cell_id": "3.6.6",
+                    "cell_text": "2.36 (1.66–3.38)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.7.1",
+                    "cell_text": "rs16970288"
+                  },
+                  {
+                    "cell_id": "3.7.2",
+                    "cell_text": "19q13.1"
+                  },
+                  {
+                    "cell_id": "3.7.3",
+                    "cell_text": "Between pseudogene  EEF1A1P7 a  and  LINC01531"
+                  },
+                  {
+                    "cell_id": "3.7.4",
+                    "cell_text": 6.2e-06
+                  },
+                  {
+                    "cell_id": "3.7.5",
+                    "cell_text": 0.337
+                  },
+                  {
+                    "cell_id": "3.7.6",
+                    "cell_text": "1.69 (1.35–2.13)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.8.1",
+                    "cell_text": "rs2099557"
+                  },
+                  {
+                    "cell_id": "3.8.2",
+                    "cell_text": "1q41"
+                  },
+                  {
+                    "cell_id": "3.8.3",
+                    "cell_text": "In  ESRRG"
+                  },
+                  {
+                    "cell_id": "3.8.4",
+                    "cell_text": 7e-06
+                  },
+                  {
+                    "cell_id": "3.8.5",
+                    "cell_text": 0.337
+                  },
+                  {
+                    "cell_id": "3.8.6",
+                    "cell_text": "0.62 (0.50–0.76)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.9.1",
+                    "cell_text": "rs13022580"
+                  },
+                  {
+                    "cell_id": "3.9.2",
+                    "cell_text": "2q21.1"
+                  },
+                  {
+                    "cell_id": "3.9.3",
+                    "cell_text": "Between pseudogenes  RPL19P4  and  TEKT4P3"
+                  },
+                  {
+                    "cell_id": "3.9.4",
+                    "cell_text": 8.4e-06
+                  },
+                  {
+                    "cell_id": "3.9.5",
+                    "cell_text": 0.337
+                  },
+                  {
+                    "cell_id": "3.9.6",
+                    "cell_text": "1.60 (1.30–1.96)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.10.1",
+                    "cell_text": "rs5762534"
+                  },
+                  {
+                    "cell_id": "3.10.2",
+                    "cell_text": "22q12.1"
+                  },
+                  {
+                    "cell_id": "3.10.3",
+                    "cell_text": "In  TTC28"
+                  },
+                  {
+                    "cell_id": "3.10.4",
+                    "cell_text": 9e-06
+                  },
+                  {
+                    "cell_id": "3.10.5",
+                    "cell_text": 0.337
+                  },
+                  {
+                    "cell_id": "3.10.6",
+                    "cell_text": "1.90 (1.43–2.51)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.11.1",
+                    "cell_text": "rs938868"
+                  },
+                  {
+                    "cell_id": "3.11.2",
+                    "cell_text": "2q21.1"
+                  },
+                  {
+                    "cell_id": "3.11.3",
+                    "cell_text": "Between pseudogenes  MTND5P29  and  RPL19P4"
+                  },
+                  {
+                    "cell_id": "3.11.4",
+                    "cell_text": 1.02e-05
+                  },
+                  {
+                    "cell_id": "3.11.5",
+                    "cell_text": 0.343
+                  },
+                  {
+                    "cell_id": "3.11.6",
+                    "cell_text": "1.59 (1.29–1.95)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.12.1",
+                    "cell_text": "rs10992247"
+                  },
+                  {
+                    "cell_id": "3.12.2",
+                    "cell_text": "9q22.2"
+                  },
+                  {
+                    "cell_id": "3.12.3",
+                    "cell_text": "Between pseudogenes  IL6RP1  and  OR7E31P"
+                  },
+                  {
+                    "cell_id": "3.12.4",
+                    "cell_text": 1.19e-05
+                  },
+                  {
+                    "cell_id": "3.12.5",
+                    "cell_text": 0.367
+                  },
+                  {
+                    "cell_id": "3.12.6",
+                    "cell_text": "0.42 (0.28–0.62)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.13.1",
+                    "cell_text": "rs130413"
+                  },
+                  {
+                    "cell_id": "3.13.2",
+                    "cell_text": "22q12.1"
+                  },
+                  {
+                    "cell_id": "3.13.3",
+                    "cell_text": "In  TTC28"
+                  },
+                  {
+                    "cell_id": "3.13.4",
+                    "cell_text": 1.61e-05
+                  },
+                  {
+                    "cell_id": "3.13.5",
+                    "cell_text": 0.453
+                  },
+                  {
+                    "cell_id": "3.13.6",
+                    "cell_text": "1.81 (1.38–2.37)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.14.1",
+                    "cell_text": "rs10072077"
+                  },
+                  {
+                    "cell_id": "3.14.2",
+                    "cell_text": "5q14"
+                  },
+                  {
+                    "cell_id": "3.14.3",
+                    "cell_text": "Near  LOC101929423"
+                  },
+                  {
+                    "cell_id": "3.14.4",
+                    "cell_text": 1.81e-05
+                  },
+                  {
+                    "cell_id": "3.14.5",
+                    "cell_text": 0.468
+                  },
+                  {
+                    "cell_id": "3.14.6",
+                    "cell_text": "2.35 (1.59–3.48)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.15.1",
+                    "cell_text": "rs949771"
+                  },
+                  {
+                    "cell_id": "3.15.2",
+                    "cell_text": "2q21.1"
+                  },
+                  {
+                    "cell_id": "3.15.3",
+                    "cell_text": "In pseudogene  MTND5P29"
+                  },
+                  {
+                    "cell_id": "3.15.4",
+                    "cell_text": 1.94e-05
+                  },
+                  {
+                    "cell_id": "3.15.5",
+                    "cell_text": 0.468
+                  },
+                  {
+                    "cell_id": "3.15.6",
+                    "cell_text": "1.56 (1.27–1.92)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.16.1",
+                    "cell_text": "rs6696232"
+                  },
+                  {
+                    "cell_id": "3.16.2",
+                    "cell_text": "1p22.2"
+                  },
+                  {
+                    "cell_id": "3.16.3",
+                    "cell_text": "Between  ZNF644  and  HFM1"
+                  },
+                  {
+                    "cell_id": "3.16.4",
+                    "cell_text": 2.12e-05
+                  },
+                  {
+                    "cell_id": "3.16.5",
+                    "cell_text": 0.477
+                  },
+                  {
+                    "cell_id": "3.16.6",
+                    "cell_text": "0.60 (0.47–0.76)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.17.1",
+                    "cell_text": "rs247405"
+                  },
+                  {
+                    "cell_id": "3.17.2",
+                    "cell_text": "16q23"
+                  },
+                  {
+                    "cell_id": "3.17.3",
+                    "cell_text": "Nearest gene is  HSBP1"
+                  },
+                  {
+                    "cell_id": "3.17.4",
+                    "cell_text": 2.59e-05
+                  },
+                  {
+                    "cell_id": "3.17.5",
+                    "cell_text": 0.5
+                  },
+                  {
+                    "cell_id": "3.17.6",
+                    "cell_text": "0.48 (0.34–0.67)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.18.1",
+                    "cell_text": "rs621188"
+                  },
+                  {
+                    "cell_id": "3.18.2",
+                    "cell_text": "11q23.3"
+                  },
+                  {
+                    "cell_id": "3.18.3",
+                    "cell_text": "In  DSCAML1"
+                  },
+                  {
+                    "cell_id": "3.18.4",
+                    "cell_text": 2.63e-05
+                  },
+                  {
+                    "cell_id": "3.18.5",
+                    "cell_text": 0.5
+                  },
+                  {
+                    "cell_id": "3.18.6",
+                    "cell_text": "1.59 (1.28–1.97)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.19.1",
+                    "cell_text": "rs6431784"
+                  },
+                  {
+                    "cell_id": "3.19.2",
+                    "cell_text": "2p25.3"
+                  },
+                  {
+                    "cell_id": "3.19.3",
+                    "cell_text": "Nearest gene is  SOX11"
+                  },
+                  {
+                    "cell_id": "3.19.4",
+                    "cell_text": 2.66e-05
+                  },
+                  {
+                    "cell_id": "3.19.5",
+                    "cell_text": 0.5
+                  },
+                  {
+                    "cell_id": "3.19.6",
+                    "cell_text": "1.74 (1.34–2.26)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.20.1",
+                    "cell_text": "rs2042743"
+                  },
+                  {
+                    "cell_id": "3.20.2",
+                    "cell_text": "18p11.2"
+                  },
+                  {
+                    "cell_id": "3.20.3",
+                    "cell_text": "In  LDLRAD4"
+                  },
+                  {
+                    "cell_id": "3.20.4",
+                    "cell_text": 3.04e-05
+                  },
+                  {
+                    "cell_id": "3.20.5",
+                    "cell_text": 0.539
+                  },
+                  {
+                    "cell_id": "3.20.6",
+                    "cell_text": "1.55 (1.26–1.91)"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "European",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.21.1",
+                    "cell_text": "rs11676593"
+                  },
+                  {
+                    "cell_id": "3.21.2",
+                    "cell_text": "2q21.1"
+                  },
+                  {
+                    "cell_id": "3.21.3",
+                    "cell_text": "Between pseudogenes  RPL19P4  and  TEKT4P3"
+                  },
+                  {
+                    "cell_id": "3.21.4",
+                    "cell_text": 3.18e-05
+                  },
+                  {
+                    "cell_id": "3.21.5",
+                    "cell_text": 0.539
+                  },
+                  {
+                    "cell_id": "3.21.6",
+                    "cell_text": "1.56 (1.26–1.92)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.22.1",
+                    "cell_text": "rs17734557"
+                  },
+                  {
+                    "cell_id": "3.22.2",
+                    "cell_text": "7p12"
+                  },
+                  {
+                    "cell_id": "3.22.3",
+                    "cell_text": "Nearest gene is  COBL"
+                  },
+                  {
+                    "cell_id": "3.22.4",
+                    "cell_text": 5e-07
+                  },
+                  {
+                    "cell_id": "3.22.5",
+                    "cell_text": 0.163
+                  },
+                  {
+                    "cell_id": "3.22.6",
+                    "cell_text": "3.22 (2.04–5.09)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.23.1",
+                    "cell_text": "rs1316471"
+                  },
+                  {
+                    "cell_id": "3.23.2",
+                    "cell_text": "7p12"
+                  },
+                  {
+                    "cell_id": "3.23.3",
+                    "cell_text": "Nearest gene is  COBL"
+                  },
+                  {
+                    "cell_id": "3.23.4",
+                    "cell_text": 1e-06
+                  },
+                  {
+                    "cell_id": "3.23.5",
+                    "cell_text": 0.168
+                  },
+                  {
+                    "cell_id": "3.23.6",
+                    "cell_text": "3.36 (2.07–5.46)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.24.1",
+                    "cell_text": "rs10875883"
+                  },
+                  {
+                    "cell_id": "3.24.2",
+                    "cell_text": "12q13.1"
+                  },
+                  {
+                    "cell_id": "3.24.3",
+                    "cell_text": "Nearest gene is  CCDC65"
+                  },
+                  {
+                    "cell_id": "3.24.4",
+                    "cell_text": 1.17e-05
+                  },
+                  {
+                    "cell_id": "3.24.5",
+                    "cell_text": 0.607
+                  },
+                  {
+                    "cell_id": "3.24.6",
+                    "cell_text": "0.49 (0.36–0.68)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.25.1",
+                    "cell_text": "rs2838965"
+                  },
+                  {
+                    "cell_id": "3.25.2",
+                    "cell_text": "21q22.3"
+                  },
+                  {
+                    "cell_id": "3.25.3",
+                    "cell_text": "Nearest gene is  SLC19A1"
+                  },
+                  {
+                    "cell_id": "3.25.4",
+                    "cell_text": 1.29e-05
+                  },
+                  {
+                    "cell_id": "3.25.5",
+                    "cell_text": 0.607
+                  },
+                  {
+                    "cell_id": "3.25.6",
+                    "cell_text": "0.49 (0.35–0.67)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.26.1",
+                    "cell_text": "rs7741153"
+                  },
+                  {
+                    "cell_id": "3.26.2",
+                    "cell_text": "6p23"
+                  },
+                  {
+                    "cell_id": "3.26.3",
+                    "cell_text": "Nearest gene is  JARID2"
+                  },
+                  {
+                    "cell_id": "3.26.4",
+                    "cell_text": 1.5e-05
+                  },
+                  {
+                    "cell_id": "3.26.5",
+                    "cell_text": 0.607
+                  },
+                  {
+                    "cell_id": "3.26.6",
+                    "cell_text": "0.45 (0.31–0.64)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.27.1",
+                    "cell_text": "rs247405"
+                  },
+                  {
+                    "cell_id": "3.27.2",
+                    "cell_text": "16q23"
+                  },
+                  {
+                    "cell_id": "3.27.3",
+                    "cell_text": "Nearest gene is  HSBP1"
+                  },
+                  {
+                    "cell_id": "3.27.4",
+                    "cell_text": 1.52e-05
+                  },
+                  {
+                    "cell_id": "3.27.5",
+                    "cell_text": 0.607
+                  },
+                  {
+                    "cell_id": "3.27.6",
+                    "cell_text": "0.23 (0.12–0.45)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.28.1",
+                    "cell_text": "rs9544295"
+                  },
+                  {
+                    "cell_id": "3.28.2",
+                    "cell_text": "13q22"
+                  },
+                  {
+                    "cell_id": "3.28.3",
+                    "cell_text": "Nearest gene is  KCTD12"
+                  },
+                  {
+                    "cell_id": "3.28.4",
+                    "cell_text": 1.63e-05
+                  },
+                  {
+                    "cell_id": "3.28.5",
+                    "cell_text": 0.607
+                  },
+                  {
+                    "cell_id": "3.28.6",
+                    "cell_text": "2.77 (1.74–4.41)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.29.1",
+                    "cell_text": "rs13027140"
+                  },
+                  {
+                    "cell_id": "3.29.2",
+                    "cell_text": "2p16"
+                  },
+                  {
+                    "cell_id": "3.29.3",
+                    "cell_text": "Between  FLJ30838  and  LOC101927285"
+                  },
+                  {
+                    "cell_id": "3.29.4",
+                    "cell_text": 1.83e-05
+                  },
+                  {
+                    "cell_id": "3.29.5",
+                    "cell_text": 0.607
+                  },
+                  {
+                    "cell_id": "3.29.6",
+                    "cell_text": "2.02 (1.46–2.78)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.30.1",
+                    "cell_text": "rs2159963"
+                  },
+                  {
+                    "cell_id": "3.30.2",
+                    "cell_text": "12p13.3"
+                  },
+                  {
+                    "cell_id": "3.30.3",
+                    "cell_text": "Between  A2ML1  and  PHC1"
+                  },
+                  {
+                    "cell_id": "3.30.4",
+                    "cell_text": 1.9e-05
+                  },
+                  {
+                    "cell_id": "3.30.5",
+                    "cell_text": 0.607
+                  },
+                  {
+                    "cell_id": "3.30.6",
+                    "cell_text": "2.35 (1.59–3.48)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.31.1",
+                    "cell_text": "rs10746803"
+                  },
+                  {
+                    "cell_id": "3.31.2",
+                    "cell_text": "9q21.3"
+                  },
+                  {
+                    "cell_id": "3.31.3",
+                    "cell_text": "Between  C9orf170  and  DAPK1"
+                  },
+                  {
+                    "cell_id": "3.31.4",
+                    "cell_text": 2.23e-05
+                  },
+                  {
+                    "cell_id": "3.31.5",
+                    "cell_text": 0.607
+                  },
+                  {
+                    "cell_id": "3.31.6",
+                    "cell_text": "0.34 (0.21–0.56)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.32.1",
+                    "cell_text": "rs2575625"
+                  },
+                  {
+                    "cell_id": "3.32.2",
+                    "cell_text": "4q25"
+                  },
+                  {
+                    "cell_id": "3.32.3",
+                    "cell_text": "Between  OSTC  and  ETNPPL"
+                  },
+                  {
+                    "cell_id": "3.32.4",
+                    "cell_text": 2.35e-05
+                  },
+                  {
+                    "cell_id": "3.32.5",
+                    "cell_text": 0.607
+                  },
+                  {
+                    "cell_id": "3.32.6",
+                    "cell_text": "1.96 (1.44–2.68)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.33.1",
+                    "cell_text": "rs3792390"
+                  },
+                  {
+                    "cell_id": "3.33.2",
+                    "cell_text": "3q21"
+                  },
+                  {
+                    "cell_id": "3.33.3",
+                    "cell_text": "In  PDIA5"
+                  },
+                  {
+                    "cell_id": "3.33.4",
+                    "cell_text": 2.46e-05
+                  },
+                  {
+                    "cell_id": "3.33.5",
+                    "cell_text": 0.607
+                  },
+                  {
+                    "cell_id": "3.33.6",
+                    "cell_text": "0.44 (0.30–0.65)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.34.1",
+                    "cell_text": "rs17651808"
+                  },
+                  {
+                    "cell_id": "3.34.2",
+                    "cell_text": "15q21.2"
+                  },
+                  {
+                    "cell_id": "3.34.3",
+                    "cell_text": "Between  ARPP19  and  FAM214A"
+                  },
+                  {
+                    "cell_id": "3.34.4",
+                    "cell_text": 2.49e-05
+                  },
+                  {
+                    "cell_id": "3.34.5",
+                    "cell_text": 0.607
+                  },
+                  {
+                    "cell_id": "3.34.6",
+                    "cell_text": "0.28 (0.15–0.50)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.35.1",
+                    "cell_text": "rs4932844"
+                  },
+                  {
+                    "cell_id": "3.35.2",
+                    "cell_text": "19p12"
+                  },
+                  {
+                    "cell_id": "3.35.3",
+                    "cell_text": "In pseudogene  ZNF724"
+                  },
+                  {
+                    "cell_id": "3.35.4",
+                    "cell_text": 2.53e-05
+                  },
+                  {
+                    "cell_id": "3.35.5",
+                    "cell_text": 0.607
+                  },
+                  {
+                    "cell_id": "3.35.6",
+                    "cell_text": "0.51 (0.37–0.70)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.36.1",
+                    "cell_text": "rs295367"
+                  },
+                  {
+                    "cell_id": "3.36.2",
+                    "cell_text": "19p12"
+                  },
+                  {
+                    "cell_id": "3.36.3",
+                    "cell_text": "In pseudogene  LOC100132815"
+                  },
+                  {
+                    "cell_id": "3.36.4",
+                    "cell_text": 3.21e-05
+                  },
+                  {
+                    "cell_id": "3.36.5",
+                    "cell_text": 0.719
+                  },
+                  {
+                    "cell_id": "3.36.6",
+                    "cell_text": "0.51 (0.38–0.70)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.37.1",
+                    "cell_text": "rs9821623"
+                  },
+                  {
+                    "cell_id": "3.37.2",
+                    "cell_text": "3p22"
+                  },
+                  {
+                    "cell_id": "3.37.3",
+                    "cell_text": "In  ULK4"
+                  },
+                  {
+                    "cell_id": "3.37.4",
+                    "cell_text": 3.66e-05
+                  },
+                  {
+                    "cell_id": "3.37.5",
+                    "cell_text": 0.768
+                  },
+                  {
+                    "cell_id": "3.37.6",
+                    "cell_text": "2.19 (1.51–3.18)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.38.1",
+                    "cell_text": "rs2362803"
+                  },
+                  {
+                    "cell_id": "3.38.2",
+                    "cell_text": "19p12"
+                  },
+                  {
+                    "cell_id": "3.38.3",
+                    "cell_text": "Nearest gene is  ZNF724P"
+                  },
+                  {
+                    "cell_id": "3.38.4",
+                    "cell_text": 4.16e-05
+                  },
+                  {
+                    "cell_id": "3.38.5",
+                    "cell_text": 0.783
+                  },
+                  {
+                    "cell_id": "3.38.6",
+                    "cell_text": "0.52 (0.38–0.71)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.39.1",
+                    "cell_text": "rs260818"
+                  },
+                  {
+                    "cell_id": "3.39.2",
+                    "cell_text": "11q22.3"
+                  },
+                  {
+                    "cell_id": "3.39.3",
+                    "cell_text": "In  PDGFD"
+                  },
+                  {
+                    "cell_id": "3.39.4",
+                    "cell_text": 4.2e-05
+                  },
+                  {
+                    "cell_id": "3.39.5",
+                    "cell_text": 0.783
+                  },
+                  {
+                    "cell_id": "3.39.6",
+                    "cell_text": "1.94 (1.41–2.67)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.40.1",
+                    "cell_text": "rs10743549"
+                  },
+                  {
+                    "cell_id": "3.40.2",
+                    "cell_text": "12p13.3"
+                  },
+                  {
+                    "cell_id": "3.40.3",
+                    "cell_text": "Between  A2ML1  and  PHC1"
+                  },
+                  {
+                    "cell_id": "3.40.4",
+                    "cell_text": 4.45e-05
+                  },
+                  {
+                    "cell_id": "3.40.5",
+                    "cell_text": 0.786
+                  },
+                  {
+                    "cell_id": "3.40.6",
+                    "cell_text": "2.33 (1.55–3.51)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.41.1",
+                    "cell_text": "rs642307"
+                  },
+                  {
+                    "cell_id": "3.41.2",
+                    "cell_text": "1p32.1"
+                  },
+                  {
+                    "cell_id": "3.41.3",
+                    "cell_text": "In  C1orf87"
+                  },
+                  {
+                    "cell_id": "3.41.4",
+                    "cell_text": 6.4e-05
+                  },
+                  {
+                    "cell_id": "3.41.5",
+                    "cell_text": 0.905
+                  },
+                  {
+                    "cell_id": "3.41.6",
+                    "cell_text": "1.89 (1.38–2.59)"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "Asian",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.42.1",
+                    "cell_text": "rs13261120"
+                  },
+                  {
+                    "cell_id": "3.42.2",
+                    "cell_text": "8p22"
+                  },
+                  {
+                    "cell_id": "3.42.3",
+                    "cell_text": "In  SGCZ"
+                  },
+                  {
+                    "cell_id": "3.42.4",
+                    "cell_text": 3.4e-06
+                  },
+                  {
+                    "cell_id": "3.42.5",
+                    "cell_text": 0.73
+                  },
+                  {
+                    "cell_id": "3.42.6",
+                    "cell_text": "2.45 (1.68–3.57)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.43.1",
+                    "cell_text": "rs8055365"
+                  },
+                  {
+                    "cell_id": "3.43.2",
+                    "cell_text": "16q24"
+                  },
+                  {
+                    "cell_id": "3.43.3",
+                    "cell_text": "Between  TLDC1  and  COTL1"
+                  },
+                  {
+                    "cell_id": "3.43.4",
+                    "cell_text": 6.2e-06
+                  },
+                  {
+                    "cell_id": "3.43.5",
+                    "cell_text": 0.73
+                  },
+                  {
+                    "cell_id": "3.43.6",
+                    "cell_text": "0.39 (0.26–0.59)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.44.1",
+                    "cell_text": "rs12546303"
+                  },
+                  {
+                    "cell_id": "3.44.2",
+                    "cell_text": "8p22"
+                  },
+                  {
+                    "cell_id": "3.44.3",
+                    "cell_text": "In  SGCZ"
+                  },
+                  {
+                    "cell_id": "3.44.4",
+                    "cell_text": 8.4e-06
+                  },
+                  {
+                    "cell_id": "3.44.5",
+                    "cell_text": 0.73
+                  },
+                  {
+                    "cell_id": "3.44.6",
+                    "cell_text": "2.35 (1.62–3.43)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.45.1",
+                    "cell_text": "rs4773818"
+                  },
+                  {
+                    "cell_id": "3.45.2",
+                    "cell_text": "13q32"
+                  },
+                  {
+                    "cell_id": "3.45.3",
+                    "cell_text": "In  LOC101927284"
+                  },
+                  {
+                    "cell_id": "3.45.4",
+                    "cell_text": 9.9e-06
+                  },
+                  {
+                    "cell_id": "3.45.5",
+                    "cell_text": 0.73
+                  },
+                  {
+                    "cell_id": "3.45.6",
+                    "cell_text": "3.16 (1.90–5.25)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.46.1",
+                    "cell_text": "rs247832"
+                  },
+                  {
+                    "cell_id": "3.46.2",
+                    "cell_text": "16q24"
+                  },
+                  {
+                    "cell_id": "3.46.3",
+                    "cell_text": "Between  TLDC1  and  COTL1"
+                  },
+                  {
+                    "cell_id": "3.46.4",
+                    "cell_text": 1.29e-05
+                  },
+                  {
+                    "cell_id": "3.46.5",
+                    "cell_text": 0.73
+                  },
+                  {
+                    "cell_id": "3.46.6",
+                    "cell_text": "0.42 (0.29–0.62)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.47.1",
+                    "cell_text": "rs792306"
+                  },
+                  {
+                    "cell_id": "3.47.2",
+                    "cell_text": "13q32"
+                  },
+                  {
+                    "cell_id": "3.47.3",
+                    "cell_text": "In  LOC101927284"
+                  },
+                  {
+                    "cell_id": "3.47.4",
+                    "cell_text": 1.33e-05
+                  },
+                  {
+                    "cell_id": "3.47.5",
+                    "cell_text": 0.73
+                  },
+                  {
+                    "cell_id": "3.47.6",
+                    "cell_text": "3.10 (1.86–5.17)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.48.1",
+                    "cell_text": "rs12374531"
+                  },
+                  {
+                    "cell_id": "3.48.2",
+                    "cell_text": "5q32"
+                  },
+                  {
+                    "cell_id": "3.48.3",
+                    "cell_text": "Between  PPP2R2B  and  STK32A"
+                  },
+                  {
+                    "cell_id": "3.48.4",
+                    "cell_text": 1.53e-05
+                  },
+                  {
+                    "cell_id": "3.48.5",
+                    "cell_text": 0.73
+                  },
+                  {
+                    "cell_id": "3.48.6",
+                    "cell_text": "3.22 (1.90–5.47)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.49.1",
+                    "cell_text": "rs4695853"
+                  },
+                  {
+                    "cell_id": "3.49.2",
+                    "cell_text": "4q34"
+                  },
+                  {
+                    "cell_id": "3.49.3",
+                    "cell_text": "Nearest gene is  HAND2-AS1"
+                  },
+                  {
+                    "cell_id": "3.49.4",
+                    "cell_text": 2.34e-05
+                  },
+                  {
+                    "cell_id": "3.49.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.49.6",
+                    "cell_text": "3.12 (1.84–5.29)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.50.1",
+                    "cell_text": "rs6860289"
+                  },
+                  {
+                    "cell_id": "3.50.2",
+                    "cell_text": "5p15.3"
+                  },
+                  {
+                    "cell_id": "3.50.3",
+                    "cell_text": "Nearest gene is  MTRR"
+                  },
+                  {
+                    "cell_id": "3.50.4",
+                    "cell_text": 2.65e-05
+                  },
+                  {
+                    "cell_id": "3.50.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.50.6",
+                    "cell_text": "2.35 (1.58–3.50)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.51.1",
+                    "cell_text": "rs1615355"
+                  },
+                  {
+                    "cell_id": "3.51.2",
+                    "cell_text": "12q24.33"
+                  },
+                  {
+                    "cell_id": "3.51.3",
+                    "cell_text": "In  LOC100190940"
+                  },
+                  {
+                    "cell_id": "3.51.4",
+                    "cell_text": 2.98e-05
+                  },
+                  {
+                    "cell_id": "3.51.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.51.6",
+                    "cell_text": "2.29 (1.55–3.38)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.52.1",
+                    "cell_text": "rs13418410"
+                  },
+                  {
+                    "cell_id": "3.52.2",
+                    "cell_text": "2p22"
+                  },
+                  {
+                    "cell_id": "3.52.3",
+                    "cell_text": "Between  RASGRP3  and  FAM98A"
+                  },
+                  {
+                    "cell_id": "3.52.4",
+                    "cell_text": 3.24e-05
+                  },
+                  {
+                    "cell_id": "3.52.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.52.6",
+                    "cell_text": "2.35 (1.57–3.52)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.53.1",
+                    "cell_text": "rs423909"
+                  },
+                  {
+                    "cell_id": "3.53.2",
+                    "cell_text": "1p36.2"
+                  },
+                  {
+                    "cell_id": "3.53.3",
+                    "cell_text": "Nearest gene is  SLC45A1"
+                  },
+                  {
+                    "cell_id": "3.53.4",
+                    "cell_text": 3.52e-05
+                  },
+                  {
+                    "cell_id": "3.53.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.53.6",
+                    "cell_text": "2.18 (1.51–3.16)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.54.1",
+                    "cell_text": "rs4670209"
+                  },
+                  {
+                    "cell_id": "3.54.2",
+                    "cell_text": "2p22"
+                  },
+                  {
+                    "cell_id": "3.54.3",
+                    "cell_text": "Between  RASGRP3  and  FAM98A"
+                  },
+                  {
+                    "cell_id": "3.54.4",
+                    "cell_text": 3.59e-05
+                  },
+                  {
+                    "cell_id": "3.54.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.54.6",
+                    "cell_text": "2.25 (1.53–3.31)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.55.1",
+                    "cell_text": "rs1448561"
+                  },
+                  {
+                    "cell_id": "3.55.2",
+                    "cell_text": "2p22"
+                  },
+                  {
+                    "cell_id": "3.55.3",
+                    "cell_text": "Nearest gene is  FAM98A"
+                  },
+                  {
+                    "cell_id": "3.55.4",
+                    "cell_text": 4.12e-05
+                  },
+                  {
+                    "cell_id": "3.55.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.55.6",
+                    "cell_text": "2.32 (1.55–3.46)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.56.1",
+                    "cell_text": "rs9286945"
+                  },
+                  {
+                    "cell_id": "3.56.2",
+                    "cell_text": "1p35"
+                  },
+                  {
+                    "cell_id": "3.56.3",
+                    "cell_text": "Nearest gene is  PTPRU"
+                  },
+                  {
+                    "cell_id": "3.56.4",
+                    "cell_text": 4.49e-05
+                  },
+                  {
+                    "cell_id": "3.56.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.56.6",
+                    "cell_text": "0.45 (0.30–0.66)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.57.1",
+                    "cell_text": "rs2002022"
+                  },
+                  {
+                    "cell_id": "3.57.2",
+                    "cell_text": "13q21.3"
+                  },
+                  {
+                    "cell_id": "3.57.3",
+                    "cell_text": "Between pseudogenes  NPM1P22  and  OR7E111P"
+                  },
+                  {
+                    "cell_id": "3.57.4",
+                    "cell_text": 4.6e-05
+                  },
+                  {
+                    "cell_id": "3.57.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.57.6",
+                    "cell_text": "2.35 (1.56–3.54)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.58.1",
+                    "cell_text": "rs17138910"
+                  },
+                  {
+                    "cell_id": "3.58.2",
+                    "cell_text": "10p13"
+                  },
+                  {
+                    "cell_id": "3.58.3",
+                    "cell_text": "In  RSU1"
+                  },
+                  {
+                    "cell_id": "3.58.4",
+                    "cell_text": 5.05e-05
+                  },
+                  {
+                    "cell_id": "3.58.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.58.6",
+                    "cell_text": "2.22 (1.51–3.26)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.59.1",
+                    "cell_text": "rs4290780"
+                  },
+                  {
+                    "cell_id": "3.59.2",
+                    "cell_text": "3q13.2"
+                  },
+                  {
+                    "cell_id": "3.59.3",
+                    "cell_text": "In  CCDC80"
+                  },
+                  {
+                    "cell_id": "3.59.4",
+                    "cell_text": 5.19e-05
+                  },
+                  {
+                    "cell_id": "3.59.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.59.6",
+                    "cell_text": "3.85 (2.01–7.41)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.60.1",
+                    "cell_text": "rs10503525"
+                  },
+                  {
+                    "cell_id": "3.60.2",
+                    "cell_text": "8p22"
+                  },
+                  {
+                    "cell_id": "3.60.3",
+                    "cell_text": "In  SGCZ"
+                  },
+                  {
+                    "cell_id": "3.60.4",
+                    "cell_text": 5.96e-05
+                  },
+                  {
+                    "cell_id": "3.60.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.60.6",
+                    "cell_text": "2.39 (1.56–3.65)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.61.1",
+                    "cell_text": "rs13388224"
+                  },
+                  {
+                    "cell_id": "3.61.2",
+                    "cell_text": "2p22"
+                  },
+                  {
+                    "cell_id": "3.61.3",
+                    "cell_text": "Between  RASGRP3  and  FAM98A"
+                  },
+                  {
+                    "cell_id": "3.61.4",
+                    "cell_text": 6.04e-05
+                  },
+                  {
+                    "cell_id": "3.61.5",
+                    "cell_text": 0.897
+                  },
+                  {
+                    "cell_id": "3.61.6",
+                    "cell_text": "2.27 (1.52–3.39)"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4008,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aSNPs with q-values <0.2 are shown in bold.bLocation of SNP was determined using the 1,000 Genomes browser at https://www.ncbi.nlm.nih.gov/variation/tools/1000genomes/.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "29535761.html",
+      "id": "4",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 5",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Relative risk ratio (RRR) and 95% confidence interval (CI) for the top 20 SNPs in the GxAlcohol analyses.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 112,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "4.1.1",
+              "cell_text": "Top 20 SNPs b"
+            },
+            {
+              "cell_id": "4.1.2",
+              "cell_text": "Chromosomal band location c"
+            },
+            {
+              "cell_id": "4.1.3",
+              "cell_text": "Location of SNP in or near a given gene(s) c"
+            },
+            {
+              "cell_id": "4.1.4",
+              "cell_text": "p -value"
+            },
+            {
+              "cell_id": "4.1.5",
+              "cell_text": "q -value"
+            },
+            {
+              "cell_id": "4.1.6",
+              "cell_text": "RRR (95% CI)"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "Pooled",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.2.1",
+                    "cell_text": "rs17023089"
+                  },
+                  {
+                    "cell_id": "4.2.2",
+                    "cell_text": "3p24.1"
+                  },
+                  {
+                    "cell_id": "4.2.3",
+                    "cell_text": "Nearest gene is  RBMS3"
+                  },
+                  {
+                    "cell_id": "4.2.4",
+                    "cell_text": 7.4e-06
+                  },
+                  {
+                    "cell_id": "4.2.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.2.6",
+                    "cell_text": "0.32 (0.19–0.53)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.3.1",
+                    "cell_text": "rs7164773"
+                  },
+                  {
+                    "cell_id": "4.3.2",
+                    "cell_text": "15q22.2"
+                  },
+                  {
+                    "cell_id": "4.3.3",
+                    "cell_text": "In  RORA"
+                  },
+                  {
+                    "cell_id": "4.3.4",
+                    "cell_text": 9.8e-06
+                  },
+                  {
+                    "cell_id": "4.3.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.3.6",
+                    "cell_text": "1.73 (1.35–2.20)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.4.1",
+                    "cell_text": "rs6748903"
+                  },
+                  {
+                    "cell_id": "4.4.2",
+                    "cell_text": "2q14.3"
+                  },
+                  {
+                    "cell_id": "4.4.3",
+                    "cell_text": "Near  LOC101927881"
+                  },
+                  {
+                    "cell_id": "4.4.4",
+                    "cell_text": 1.65e-05
+                  },
+                  {
+                    "cell_id": "4.4.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.4.6",
+                    "cell_text": "0.51 (0.38–0.69)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.5.1",
+                    "cell_text": "rs11691558"
+                  },
+                  {
+                    "cell_id": "4.5.2",
+                    "cell_text": "2q21.1"
+                  },
+                  {
+                    "cell_id": "4.5.3",
+                    "cell_text": "In  LOC101927881"
+                  },
+                  {
+                    "cell_id": "4.5.4",
+                    "cell_text": 1.72e-05
+                  },
+                  {
+                    "cell_id": "4.5.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.5.6",
+                    "cell_text": "0.51 (0.38–0.69)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.6.1",
+                    "cell_text": "rs4132008"
+                  },
+                  {
+                    "cell_id": "4.6.2",
+                    "cell_text": "1q32.1"
+                  },
+                  {
+                    "cell_id": "4.6.3",
+                    "cell_text": "In  PLEKHA6"
+                  },
+                  {
+                    "cell_id": "4.6.4",
+                    "cell_text": 1.94e-05
+                  },
+                  {
+                    "cell_id": "4.6.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.6.6",
+                    "cell_text": "1.75 (1.35–2.27)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.7.1",
+                    "cell_text": "rs2118769"
+                  },
+                  {
+                    "cell_id": "4.7.2",
+                    "cell_text": "2q22.3"
+                  },
+                  {
+                    "cell_id": "4.7.3",
+                    "cell_text": "Nearest gene is  ACVR2A"
+                  },
+                  {
+                    "cell_id": "4.7.4",
+                    "cell_text": 2.04e-05
+                  },
+                  {
+                    "cell_id": "4.7.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.7.6",
+                    "cell_text": "0.58 (0.46–0.75)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.8.1",
+                    "cell_text": "rs1335594"
+                  },
+                  {
+                    "cell_id": "4.8.2",
+                    "cell_text": "13q33"
+                  },
+                  {
+                    "cell_id": "4.8.3",
+                    "cell_text": "In  ITGBL1"
+                  },
+                  {
+                    "cell_id": "4.8.4",
+                    "cell_text": 2.3e-05
+                  },
+                  {
+                    "cell_id": "4.8.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.8.6",
+                    "cell_text": "1.74 (1.35–2.25)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.9.1",
+                    "cell_text": "rs3805025"
+                  },
+                  {
+                    "cell_id": "4.9.2",
+                    "cell_text": "3p26"
+                  },
+                  {
+                    "cell_id": "4.9.3",
+                    "cell_text": "In  ITPR1"
+                  },
+                  {
+                    "cell_id": "4.9.4",
+                    "cell_text": 2.77e-05
+                  },
+                  {
+                    "cell_id": "4.9.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.9.6",
+                    "cell_text": "1.96 (1.43–2.69)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.10.1",
+                    "cell_text": "rs30306"
+                  },
+                  {
+                    "cell_id": "4.10.2",
+                    "cell_text": "5q32"
+                  },
+                  {
+                    "cell_id": "4.10.3",
+                    "cell_text": "Nearest gene is  ADBR2"
+                  },
+                  {
+                    "cell_id": "4.10.4",
+                    "cell_text": 3.58e-05
+                  },
+                  {
+                    "cell_id": "4.10.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.10.6",
+                    "cell_text": "1.66 (1.30–2.11)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.11.1",
+                    "cell_text": "rs6685648"
+                  },
+                  {
+                    "cell_id": "4.11.2",
+                    "cell_text": "1p36.2"
+                  },
+                  {
+                    "cell_id": "4.11.3",
+                    "cell_text": "In  CASP9"
+                  },
+                  {
+                    "cell_id": "4.11.4",
+                    "cell_text": 3.89e-05
+                  },
+                  {
+                    "cell_id": "4.11.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.11.6",
+                    "cell_text": "0.59 (0.46–0.76)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.12.1",
+                    "cell_text": "rs2064317"
+                  },
+                  {
+                    "cell_id": "4.12.2",
+                    "cell_text": "6p21.3"
+                  },
+                  {
+                    "cell_id": "4.12.3",
+                    "cell_text": "In  TULP1"
+                  },
+                  {
+                    "cell_id": "4.12.4",
+                    "cell_text": 4.45e-05
+                  },
+                  {
+                    "cell_id": "4.12.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.12.6",
+                    "cell_text": "1.65 (1.30–2.11)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.13.1",
+                    "cell_text": "rs686805"
+                  },
+                  {
+                    "cell_id": "4.13.2",
+                    "cell_text": "11q13.4"
+                  },
+                  {
+                    "cell_id": "4.13.3",
+                    "cell_text": "In  SHANK2"
+                  },
+                  {
+                    "cell_id": "4.13.4",
+                    "cell_text": 4.66e-05
+                  },
+                  {
+                    "cell_id": "4.13.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.13.6",
+                    "cell_text": "2.24 (1.52–3.30)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.14.1",
+                    "cell_text": "rs9653456"
+                  },
+                  {
+                    "cell_id": "4.14.2",
+                    "cell_text": "2q12"
+                  },
+                  {
+                    "cell_id": "4.14.3",
+                    "cell_text": "Nearest gene is  EDAR"
+                  },
+                  {
+                    "cell_id": "4.14.4",
+                    "cell_text": 4.76e-05
+                  },
+                  {
+                    "cell_id": "4.14.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.14.6",
+                    "cell_text": "1.85 (1.37–2.49)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.15.1",
+                    "cell_text": "rs2163752"
+                  },
+                  {
+                    "cell_id": "4.15.2",
+                    "cell_text": "5q32"
+                  },
+                  {
+                    "cell_id": "4.15.3",
+                    "cell_text": "Between  HTR4  and  ADRB2"
+                  },
+                  {
+                    "cell_id": "4.15.4",
+                    "cell_text": 4.77e-05
+                  },
+                  {
+                    "cell_id": "4.15.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.15.6",
+                    "cell_text": "1.64 (1.29–2.09)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.16.1",
+                    "cell_text": "rs13086826"
+                  },
+                  {
+                    "cell_id": "4.16.2",
+                    "cell_text": "3q22"
+                  },
+                  {
+                    "cell_id": "4.16.3",
+                    "cell_text": "In  CPNE4"
+                  },
+                  {
+                    "cell_id": "4.16.4",
+                    "cell_text": 4.94e-05
+                  },
+                  {
+                    "cell_id": "4.16.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.16.6",
+                    "cell_text": "0.59 (0.45–0.76)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.17.1",
+                    "cell_text": "rs4810165"
+                  },
+                  {
+                    "cell_id": "4.17.2",
+                    "cell_text": "20q13.3"
+                  },
+                  {
+                    "cell_id": "4.17.3",
+                    "cell_text": "Between  EDN3  and peudogene  PIEZO1P1"
+                  },
+                  {
+                    "cell_id": "4.17.4",
+                    "cell_text": 5.01e-05
+                  },
+                  {
+                    "cell_id": "4.17.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.17.6",
+                    "cell_text": "1.75 (1.34–2.30)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.18.1",
+                    "cell_text": "rs4859190"
+                  },
+                  {
+                    "cell_id": "4.18.2",
+                    "cell_text": "3q27"
+                  },
+                  {
+                    "cell_id": "4.18.3",
+                    "cell_text": "Nearest gene is  MCF2L2"
+                  },
+                  {
+                    "cell_id": "4.18.4",
+                    "cell_text": 5.12e-05
+                  },
+                  {
+                    "cell_id": "4.18.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.18.6",
+                    "cell_text": "0.58 (0.45–0.76)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.19.1",
+                    "cell_text": "rs2740882"
+                  },
+                  {
+                    "cell_id": "4.19.2",
+                    "cell_text": "8p23.3"
+                  },
+                  {
+                    "cell_id": "4.19.3",
+                    "cell_text": "In  CSMD1"
+                  },
+                  {
+                    "cell_id": "4.19.4",
+                    "cell_text": 5.15e-05
+                  },
+                  {
+                    "cell_id": "4.19.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.19.6",
+                    "cell_text": "0.48 (0.33–0.68)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.20.1",
+                    "cell_text": "rs13077768"
+                  },
+                  {
+                    "cell_id": "4.20.2",
+                    "cell_text": "3q22"
+                  },
+                  {
+                    "cell_id": "4.20.3",
+                    "cell_text": "In  CPNE4"
+                  },
+                  {
+                    "cell_id": "4.20.4",
+                    "cell_text": 5.29e-05
+                  },
+                  {
+                    "cell_id": "4.20.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.20.6",
+                    "cell_text": "0.59 (0.45–0.76)"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "European",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.21.1",
+                    "cell_text": "rs11076508"
+                  },
+                  {
+                    "cell_id": "4.21.2",
+                    "cell_text": "16q12.1"
+                  },
+                  {
+                    "cell_id": "4.21.3",
+                    "cell_text": "Between  ZNF423  and pseudogene  RPL34P29"
+                  },
+                  {
+                    "cell_id": "4.21.4",
+                    "cell_text": 5.56e-05
+                  },
+                  {
+                    "cell_id": "4.21.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "4.21.6",
+                    "cell_text": "0.61 (0.48–0.78)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.22.1",
+                    "cell_text": "rs9653456"
+                  },
+                  {
+                    "cell_id": "4.22.2",
+                    "cell_text": "2q12"
+                  },
+                  {
+                    "cell_id": "4.22.3",
+                    "cell_text": "Between  EDAR  and  SH3RF3"
+                  },
+                  {
+                    "cell_id": "4.22.4",
+                    "cell_text": 4e-07
+                  },
+                  {
+                    "cell_id": "4.22.5",
+                    "cell_text": 0.148
+                  },
+                  {
+                    "cell_id": "4.22.6",
+                    "cell_text": "2.40 (1.71–3.37)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.23.1",
+                    "cell_text": "rs921876"
+                  },
+                  {
+                    "cell_id": "4.23.2",
+                    "cell_text": "2q12"
+                  },
+                  {
+                    "cell_id": "4.23.3",
+                    "cell_text": "Nearest gene is  EDAR"
+                  },
+                  {
+                    "cell_id": "4.23.4",
+                    "cell_text": 9e-07
+                  },
+                  {
+                    "cell_id": "4.23.5",
+                    "cell_text": 0.153
+                  },
+                  {
+                    "cell_id": "4.23.6",
+                    "cell_text": "2.09 (1.56–2.81)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.24.1",
+                    "cell_text": "rs11076508"
+                  },
+                  {
+                    "cell_id": "4.24.2",
+                    "cell_text": "16q12.1"
+                  },
+                  {
+                    "cell_id": "4.24.3",
+                    "cell_text": "Between  ZNF423  and pseudogene  RPL34P29"
+                  },
+                  {
+                    "cell_id": "4.24.4",
+                    "cell_text": 2.25e-05
+                  },
+                  {
+                    "cell_id": "4.24.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.24.6",
+                    "cell_text": "0.54 (0.40–0.72)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.25.1",
+                    "cell_text": "rs7713774"
+                  },
+                  {
+                    "cell_id": "4.25.2",
+                    "cell_text": "5q14"
+                  },
+                  {
+                    "cell_id": "4.25.3",
+                    "cell_text": "In  ACOT12"
+                  },
+                  {
+                    "cell_id": "4.25.4",
+                    "cell_text": 3.05e-05
+                  },
+                  {
+                    "cell_id": "4.25.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.25.6",
+                    "cell_text": "0.51 (0.37–0.70)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.26.1",
+                    "cell_text": "rs10784765"
+                  },
+                  {
+                    "cell_id": "4.26.2",
+                    "cell_text": "12q15"
+                  },
+                  {
+                    "cell_id": "4.26.3",
+                    "cell_text": "Between  CPM  and  CPSF6"
+                  },
+                  {
+                    "cell_id": "4.26.4",
+                    "cell_text": 4.76e-05
+                  },
+                  {
+                    "cell_id": "4.26.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.26.6",
+                    "cell_text": "0.41 (0.27–0.63)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.27.1",
+                    "cell_text": "rs893912"
+                  },
+                  {
+                    "cell_id": "4.27.2",
+                    "cell_text": "15q22.3"
+                  },
+                  {
+                    "cell_id": "4.27.3",
+                    "cell_text": "Between  LCTL  and  SMAD6"
+                  },
+                  {
+                    "cell_id": "4.27.4",
+                    "cell_text": 5.04e-05
+                  },
+                  {
+                    "cell_id": "4.27.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.27.6",
+                    "cell_text": "2.28 (1.53–3.39)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.28.1",
+                    "cell_text": "rs17199679"
+                  },
+                  {
+                    "cell_id": "4.28.2",
+                    "cell_text": "9q31"
+                  },
+                  {
+                    "cell_id": "4.28.3",
+                    "cell_text": "Between pseudogene  RPL36AP35  and  ACTL7B"
+                  },
+                  {
+                    "cell_id": "4.28.4",
+                    "cell_text": 5.1e-05
+                  },
+                  {
+                    "cell_id": "4.28.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.28.6",
+                    "cell_text": "2.86 (1.72–4.76)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.29.1",
+                    "cell_text": "rs3020054"
+                  },
+                  {
+                    "cell_id": "4.29.2",
+                    "cell_text": "11q21"
+                  },
+                  {
+                    "cell_id": "4.29.3",
+                    "cell_text": "Nearest gene is  CCDC67"
+                  },
+                  {
+                    "cell_id": "4.29.4",
+                    "cell_text": 6.7e-05
+                  },
+                  {
+                    "cell_id": "4.29.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.29.6",
+                    "cell_text": "0.52 (0.38–0.72)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.30.1",
+                    "cell_text": "rs2192926"
+                  },
+                  {
+                    "cell_id": "4.30.2",
+                    "cell_text": "2p12"
+                  },
+                  {
+                    "cell_id": "4.30.3",
+                    "cell_text": "Nearest gene is  TACR1"
+                  },
+                  {
+                    "cell_id": "4.30.4",
+                    "cell_text": 7.24e-05
+                  },
+                  {
+                    "cell_id": "4.30.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.30.6",
+                    "cell_text": "0.50 (0.36–0.71)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.31.1",
+                    "cell_text": "rs7862797"
+                  },
+                  {
+                    "cell_id": "4.31.2",
+                    "cell_text": "9q31"
+                  },
+                  {
+                    "cell_id": "4.31.3",
+                    "cell_text": "Between pseudogene  RPL36AP35  and  ACTL7B"
+                  },
+                  {
+                    "cell_id": "4.31.4",
+                    "cell_text": 7.49e-05
+                  },
+                  {
+                    "cell_id": "4.31.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.31.6",
+                    "cell_text": "2.77 (1.67–4.58)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.32.1",
+                    "cell_text": "rs851674"
+                  },
+                  {
+                    "cell_id": "4.32.2",
+                    "cell_text": "7q35"
+                  },
+                  {
+                    "cell_id": "4.32.3",
+                    "cell_text": "In  CNTNAP2"
+                  },
+                  {
+                    "cell_id": "4.32.4",
+                    "cell_text": 7.85e-05
+                  },
+                  {
+                    "cell_id": "4.32.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.32.6",
+                    "cell_text": "1.87 (1.37–2.56)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.33.1",
+                    "cell_text": "rs6581864"
+                  },
+                  {
+                    "cell_id": "4.33.2",
+                    "cell_text": "12q15"
+                  },
+                  {
+                    "cell_id": "4.33.3",
+                    "cell_text": "Between  CPM  and  CPSF6"
+                  },
+                  {
+                    "cell_id": "4.33.4",
+                    "cell_text": 8.72e-05
+                  },
+                  {
+                    "cell_id": "4.33.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.33.6",
+                    "cell_text": "1.81 (1.34–2.43)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.34.1",
+                    "cell_text": "rs6495940"
+                  },
+                  {
+                    "cell_id": "4.34.2",
+                    "cell_text": "15q14"
+                  },
+                  {
+                    "cell_id": "4.34.3",
+                    "cell_text": "Between  TMCO5A  and  SPRED1"
+                  },
+                  {
+                    "cell_id": "4.34.4",
+                    "cell_text": 8.82e-05
+                  },
+                  {
+                    "cell_id": "4.34.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.34.6",
+                    "cell_text": "0.41 (0.26–0.64)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.35.1",
+                    "cell_text": "rs6822683"
+                  },
+                  {
+                    "cell_id": "4.35.2",
+                    "cell_text": "4q34"
+                  },
+                  {
+                    "cell_id": "4.35.3",
+                    "cell_text": "Nearest gene is  GALNT7"
+                  },
+                  {
+                    "cell_id": "4.35.4",
+                    "cell_text": 9.58e-05
+                  },
+                  {
+                    "cell_id": "4.35.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.35.6",
+                    "cell_text": "1.82 (1.35–2.46)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.36.1",
+                    "cell_text": "rs2276049"
+                  },
+                  {
+                    "cell_id": "4.36.2",
+                    "cell_text": "11q24"
+                  },
+                  {
+                    "cell_id": "4.36.3",
+                    "cell_text": "In  VWA5A"
+                  },
+                  {
+                    "cell_id": "4.36.4",
+                    "cell_text": 9.78e-05
+                  },
+                  {
+                    "cell_id": "4.36.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.36.6",
+                    "cell_text": "0.48 (0.33–0.69)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.37.1",
+                    "cell_text": "rs2417976"
+                  },
+                  {
+                    "cell_id": "4.37.2",
+                    "cell_text": "9q31"
+                  },
+                  {
+                    "cell_id": "4.37.3",
+                    "cell_text": "Between  TMEM245  and  FRRS1L"
+                  },
+                  {
+                    "cell_id": "4.37.4",
+                    "cell_text": 9.82e-05
+                  },
+                  {
+                    "cell_id": "4.37.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.37.6",
+                    "cell_text": "2.04 (1.42–2.91)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.38.1",
+                    "cell_text": "rs10759878"
+                  },
+                  {
+                    "cell_id": "4.38.2",
+                    "cell_text": "9q33"
+                  },
+                  {
+                    "cell_id": "4.38.3",
+                    "cell_text": "In  ASTN2"
+                  },
+                  {
+                    "cell_id": "4.38.4",
+                    "cell_text": 9.89e-05
+                  },
+                  {
+                    "cell_id": "4.38.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.38.6",
+                    "cell_text": "1.93 (1.39–2.69)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.39.1",
+                    "cell_text": "rs4778036"
+                  },
+                  {
+                    "cell_id": "4.39.2",
+                    "cell_text": "15q26.1"
+                  },
+                  {
+                    "cell_id": "4.39.3",
+                    "cell_text": "Between  SLCO3A1  and pseudogene  DUXAP6"
+                  },
+                  {
+                    "cell_id": "4.39.4",
+                    "cell_text": 0.0001033
+                  },
+                  {
+                    "cell_id": "4.39.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.39.6",
+                    "cell_text": "1.80 (1.34–2.43)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.40.1",
+                    "cell_text": "rs17104078"
+                  },
+                  {
+                    "cell_id": "4.40.2",
+                    "cell_text": "10q23.1"
+                  },
+                  {
+                    "cell_id": "4.40.3",
+                    "cell_text": "Nearest gene is  CCSER2"
+                  },
+                  {
+                    "cell_id": "4.40.4",
+                    "cell_text": 0.0001042
+                  },
+                  {
+                    "cell_id": "4.40.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.40.6",
+                    "cell_text": "2.48 (1.57–3.93)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.41.1",
+                    "cell_text": "rs12540601"
+                  },
+                  {
+                    "cell_id": "4.41.2",
+                    "cell_text": "7p15.3"
+                  },
+                  {
+                    "cell_id": "4.41.3",
+                    "cell_text": "Between  TRA2A  and pseudogene  LOC442517"
+                  },
+                  {
+                    "cell_id": "4.41.4",
+                    "cell_text": 0.0001044
+                  },
+                  {
+                    "cell_id": "4.41.5",
+                    "cell_text": 0.892
+                  },
+                  {
+                    "cell_id": "4.41.6",
+                    "cell_text": "0.56 (0.42–0.75)"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2692,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aWe were unable to assess GxAlcohol effects in the Asian sample because very few of the mothers reported drinking alcohol in the periconceptional period.bSNPs with q-values <0.2 are shown in bold.cLocation of SNP was determined using the 1,000 Genomes browser at https://www.ncbi.nlm.nih.gov/variation/tools/1000genomes/.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "29535761.html",
+      "id": "5",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 4",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Relative risk ratio (RRR) and 95% confidence interval (CI) for the top 20 SNPs in the GxSmoke analyses.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 110,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "5.1.1",
+              "cell_text": "Top 20 SNPs"
+            },
+            {
+              "cell_id": "5.1.2",
+              "cell_text": "Chromosomal band location b"
+            },
+            {
+              "cell_id": "5.1.3",
+              "cell_text": "Location of SNP in or near a given gene(s) b"
+            },
+            {
+              "cell_id": "5.1.4",
+              "cell_text": "p -value"
+            },
+            {
+              "cell_id": "5.1.5",
+              "cell_text": "q -value"
+            },
+            {
+              "cell_id": "5.1.6",
+              "cell_text": "RRR (95% CI)"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "Pooled",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "5.2.1",
+                    "cell_text": "rs820930"
+                  },
+                  {
+                    "cell_id": "5.2.2",
+                    "cell_text": "7q31.1"
+                  },
+                  {
+                    "cell_id": "5.2.3",
+                    "cell_text": "Nearest locus is  C7orf66"
+                  },
+                  {
+                    "cell_id": "5.2.4",
+                    "cell_text": 1.06e-05
+                  },
+                  {
+                    "cell_id": "5.2.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.2.6",
+                    "cell_text": "1.93 (1.44–2.58)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.3.1",
+                    "cell_text": "rs210625"
+                  },
+                  {
+                    "cell_id": "5.3.2",
+                    "cell_text": "6q22.2"
+                  },
+                  {
+                    "cell_id": "5.3.3",
+                    "cell_text": "In  DCBLD1"
+                  },
+                  {
+                    "cell_id": "5.3.4",
+                    "cell_text": 1.36e-05
+                  },
+                  {
+                    "cell_id": "5.3.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.3.6",
+                    "cell_text": "1.79 (1.38–2.33)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.4.1",
+                    "cell_text": "rs7258736"
+                  },
+                  {
+                    "cell_id": "5.4.2",
+                    "cell_text": "19q12"
+                  },
+                  {
+                    "cell_id": "5.4.3",
+                    "cell_text": "In  LOC101927210"
+                  },
+                  {
+                    "cell_id": "5.4.4",
+                    "cell_text": 1.56e-05
+                  },
+                  {
+                    "cell_id": "5.4.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.4.6",
+                    "cell_text": "2.99 (1.82–4.91)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.5.1",
+                    "cell_text": "rs7247342"
+                  },
+                  {
+                    "cell_id": "5.5.2",
+                    "cell_text": "19q12"
+                  },
+                  {
+                    "cell_id": "5.5.3",
+                    "cell_text": "In  LOC101927210"
+                  },
+                  {
+                    "cell_id": "5.5.4",
+                    "cell_text": 2.59e-05
+                  },
+                  {
+                    "cell_id": "5.5.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.5.6",
+                    "cell_text": "2.89 (1.76–4.73)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.6.1",
+                    "cell_text": "rs2024140"
+                  },
+                  {
+                    "cell_id": "5.6.2",
+                    "cell_text": "19q12"
+                  },
+                  {
+                    "cell_id": "5.6.3",
+                    "cell_text": "In  LOC101927210"
+                  },
+                  {
+                    "cell_id": "5.6.4",
+                    "cell_text": 2.91e-05
+                  },
+                  {
+                    "cell_id": "5.6.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.6.6",
+                    "cell_text": "2.97 (1.78–4.94)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.7.1",
+                    "cell_text": "rs6810129"
+                  },
+                  {
+                    "cell_id": "5.7.2",
+                    "cell_text": "3q26.1"
+                  },
+                  {
+                    "cell_id": "5.7.3",
+                    "cell_text": "Nearest gene is  CT64"
+                  },
+                  {
+                    "cell_id": "5.7.4",
+                    "cell_text": 2.94e-05
+                  },
+                  {
+                    "cell_id": "5.7.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.7.6",
+                    "cell_text": "0.57 (0.44–0.74)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.8.1",
+                    "cell_text": "rs1182865"
+                  },
+                  {
+                    "cell_id": "5.8.2",
+                    "cell_text": "6p21.2"
+                  },
+                  {
+                    "cell_id": "5.8.3",
+                    "cell_text": "Between  KCNK5  and  KCNK17"
+                  },
+                  {
+                    "cell_id": "5.8.4",
+                    "cell_text": 3.43e-05
+                  },
+                  {
+                    "cell_id": "5.8.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.8.6",
+                    "cell_text": "0.51 (0.37–0.70)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.9.1",
+                    "cell_text": "rs1013592"
+                  },
+                  {
+                    "cell_id": "5.9.2",
+                    "cell_text": "19q12"
+                  },
+                  {
+                    "cell_id": "5.9.3",
+                    "cell_text": "In  LOC101927210"
+                  },
+                  {
+                    "cell_id": "5.9.4",
+                    "cell_text": 3.47e-05
+                  },
+                  {
+                    "cell_id": "5.9.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.9.6",
+                    "cell_text": "2.81 (1.72–4.57)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.10.1",
+                    "cell_text": "rs10085496"
+                  },
+                  {
+                    "cell_id": "5.10.2",
+                    "cell_text": "7p21"
+                  },
+                  {
+                    "cell_id": "5.10.3",
+                    "cell_text": "Between pseudogenes  GAPDHP68  and  PER4"
+                  },
+                  {
+                    "cell_id": "5.10.4",
+                    "cell_text": 3.85e-05
+                  },
+                  {
+                    "cell_id": "5.10.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.10.6",
+                    "cell_text": "0.58 (0.45–0.75)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.11.1",
+                    "cell_text": "rs4805661"
+                  },
+                  {
+                    "cell_id": "5.11.2",
+                    "cell_text": "19q12"
+                  },
+                  {
+                    "cell_id": "5.11.3",
+                    "cell_text": "Nearest gene is  TSHZ3"
+                  },
+                  {
+                    "cell_id": "5.11.4",
+                    "cell_text": 4.05e-05
+                  },
+                  {
+                    "cell_id": "5.11.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.11.6",
+                    "cell_text": "0.57 (0.43–0.74)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.12.1",
+                    "cell_text": "rs2543146"
+                  },
+                  {
+                    "cell_id": "5.12.2",
+                    "cell_text": "8p22"
+                  },
+                  {
+                    "cell_id": "5.12.3",
+                    "cell_text": "In  TUSC3"
+                  },
+                  {
+                    "cell_id": "5.12.4",
+                    "cell_text": 4.19e-05
+                  },
+                  {
+                    "cell_id": "5.12.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.12.6",
+                    "cell_text": "1.73 (1.33–2.24)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.13.1",
+                    "cell_text": "rs4804843"
+                  },
+                  {
+                    "cell_id": "5.13.2",
+                    "cell_text": "19q12"
+                  },
+                  {
+                    "cell_id": "5.13.3",
+                    "cell_text": "In  LOC101927210"
+                  },
+                  {
+                    "cell_id": "5.13.4",
+                    "cell_text": 4.41e-05
+                  },
+                  {
+                    "cell_id": "5.13.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.13.6",
+                    "cell_text": "2.86 (1.73–4.73)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.14.1",
+                    "cell_text": "rs10417454"
+                  },
+                  {
+                    "cell_id": "5.14.2",
+                    "cell_text": "19q12"
+                  },
+                  {
+                    "cell_id": "5.14.3",
+                    "cell_text": "In  LOC101927210"
+                  },
+                  {
+                    "cell_id": "5.14.4",
+                    "cell_text": 4.63e-05
+                  },
+                  {
+                    "cell_id": "5.14.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.14.6",
+                    "cell_text": "2.84 (1.72–4.69)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.15.1",
+                    "cell_text": "rs244226"
+                  },
+                  {
+                    "cell_id": "5.15.2",
+                    "cell_text": "21q21"
+                  },
+                  {
+                    "cell_id": "5.15.3",
+                    "cell_text": "Between pseudogenes  MAPK6PS2  and  ZNF299P"
+                  },
+                  {
+                    "cell_id": "5.15.4",
+                    "cell_text": 4.88e-05
+                  },
+                  {
+                    "cell_id": "5.15.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.15.6",
+                    "cell_text": "1.72 (1.32–2.23)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.16.1",
+                    "cell_text": "rs352806"
+                  },
+                  {
+                    "cell_id": "5.16.2",
+                    "cell_text": "8p22"
+                  },
+                  {
+                    "cell_id": "5.16.3",
+                    "cell_text": "In  TUSC3"
+                  },
+                  {
+                    "cell_id": "5.16.4",
+                    "cell_text": 5.21e-05
+                  },
+                  {
+                    "cell_id": "5.16.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.16.6",
+                    "cell_text": "0.53 (0.38–0.72)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.17.1",
+                    "cell_text": "rs2191018"
+                  },
+                  {
+                    "cell_id": "5.17.2",
+                    "cell_text": "19q12"
+                  },
+                  {
+                    "cell_id": "5.17.3",
+                    "cell_text": "In  LOC101927210"
+                  },
+                  {
+                    "cell_id": "5.17.4",
+                    "cell_text": 5.4e-05
+                  },
+                  {
+                    "cell_id": "5.17.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.17.6",
+                    "cell_text": "2.82 (1.71–4.67)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.18.1",
+                    "cell_text": "rs6806286"
+                  },
+                  {
+                    "cell_id": "5.18.2",
+                    "cell_text": "3q22"
+                  },
+                  {
+                    "cell_id": "5.18.3",
+                    "cell_text": "In  CPNE4"
+                  },
+                  {
+                    "cell_id": "5.18.4",
+                    "cell_text": 6.37e-05
+                  },
+                  {
+                    "cell_id": "5.18.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.18.6",
+                    "cell_text": "1.72 (1.32–2.25)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.19.1",
+                    "cell_text": "rs2834061"
+                  },
+                  {
+                    "cell_id": "5.19.2",
+                    "cell_text": "21q22.1"
+                  },
+                  {
+                    "cell_id": "5.19.3",
+                    "cell_text": "Nearest gene is  OLIG2"
+                  },
+                  {
+                    "cell_id": "5.19.4",
+                    "cell_text": 6.37e-05
+                  },
+                  {
+                    "cell_id": "5.19.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.19.6",
+                    "cell_text": "1.80 (1.35–2.41)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.20.1",
+                    "cell_text": "rs12204228"
+                  },
+                  {
+                    "cell_id": "5.20.2",
+                    "cell_text": "6q22.1"
+                  },
+                  {
+                    "cell_id": "5.20.3",
+                    "cell_text": "Between  RFX6  and  VGLL2"
+                  },
+                  {
+                    "cell_id": "5.20.4",
+                    "cell_text": 6.44e-05
+                  },
+                  {
+                    "cell_id": "5.20.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.20.6",
+                    "cell_text": "0.40 (0.25–0.63)"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "European",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "5.21.1",
+                    "cell_text": "rs11014205"
+                  },
+                  {
+                    "cell_id": "5.21.2",
+                    "cell_text": "10p12.2"
+                  },
+                  {
+                    "cell_id": "5.21.3",
+                    "cell_text": "In  ARHGAP21"
+                  },
+                  {
+                    "cell_id": "5.21.4",
+                    "cell_text": 8.06e-05
+                  },
+                  {
+                    "cell_id": "5.21.5",
+                    "cell_text": 0.994
+                  },
+                  {
+                    "cell_id": "5.21.6",
+                    "cell_text": "0.55 (0.41–0.74)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.22.1",
+                    "cell_text": "rs10106898"
+                  },
+                  {
+                    "cell_id": "5.22.2",
+                    "cell_text": "8q22.1"
+                  },
+                  {
+                    "cell_id": "5.22.3",
+                    "cell_text": "Between pseudogenes  GAPDHP30  and  TUBBP7"
+                  },
+                  {
+                    "cell_id": "5.22.4",
+                    "cell_text": 4.1e-06
+                  },
+                  {
+                    "cell_id": "5.22.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.22.6",
+                    "cell_text": "0.29 (0.18–0.50)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.23.1",
+                    "cell_text": "rs10095562"
+                  },
+                  {
+                    "cell_id": "5.23.2",
+                    "cell_text": "8q22.1"
+                  },
+                  {
+                    "cell_id": "5.23.3",
+                    "cell_text": "Between pseudogenes  GAPDHP30  and  TUBBP7"
+                  },
+                  {
+                    "cell_id": "5.23.4",
+                    "cell_text": 1.4e-05
+                  },
+                  {
+                    "cell_id": "5.23.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.23.6",
+                    "cell_text": "0.30 (0.17–0.52)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.24.1",
+                    "cell_text": "rs10282921"
+                  },
+                  {
+                    "cell_id": "5.24.2",
+                    "cell_text": "8q22.1"
+                  },
+                  {
+                    "cell_id": "5.24.3",
+                    "cell_text": "Between pseudogenes  GAPDHP30  and  TUBBP7"
+                  },
+                  {
+                    "cell_id": "5.24.4",
+                    "cell_text": 1.43e-05
+                  },
+                  {
+                    "cell_id": "5.24.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.24.6",
+                    "cell_text": "0.30 (0.18–0.52)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.25.1",
+                    "cell_text": "rs820930"
+                  },
+                  {
+                    "cell_id": "5.25.2",
+                    "cell_text": "7q31.1"
+                  },
+                  {
+                    "cell_id": "5.25.3",
+                    "cell_text": "Between  LOC646614  and  LOC100421901"
+                  },
+                  {
+                    "cell_id": "5.25.4",
+                    "cell_text": 1.45e-05
+                  },
+                  {
+                    "cell_id": "5.25.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.25.6",
+                    "cell_text": "2.11 (1.51–2.97)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.26.1",
+                    "cell_text": "rs266642"
+                  },
+                  {
+                    "cell_id": "5.26.2",
+                    "cell_text": "5q23.2"
+                  },
+                  {
+                    "cell_id": "5.26.3",
+                    "cell_text": "Nearest gene is  GRAMD3"
+                  },
+                  {
+                    "cell_id": "5.26.4",
+                    "cell_text": 1.55e-05
+                  },
+                  {
+                    "cell_id": "5.26.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.26.6",
+                    "cell_text": "2.69 (1.72–4.22)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.27.1",
+                    "cell_text": "rs601904"
+                  },
+                  {
+                    "cell_id": "5.27.2",
+                    "cell_text": "11q13.4"
+                  },
+                  {
+                    "cell_id": "5.27.3",
+                    "cell_text": "Between peudogene  CYCSP27  and  LIPT2"
+                  },
+                  {
+                    "cell_id": "5.27.4",
+                    "cell_text": 1.59e-05
+                  },
+                  {
+                    "cell_id": "5.27.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.27.6",
+                    "cell_text": "0.49 (0.35–0.68)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.28.1",
+                    "cell_text": "rs17608059"
+                  },
+                  {
+                    "cell_id": "5.28.2",
+                    "cell_text": "17p12"
+                  },
+                  {
+                    "cell_id": "5.28.3",
+                    "cell_text": "Nearest gene is  COX10-AS1"
+                  },
+                  {
+                    "cell_id": "5.28.4",
+                    "cell_text": 1.68e-05
+                  },
+                  {
+                    "cell_id": "5.28.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.28.6",
+                    "cell_text": "1.97 (1.44–2.67)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.29.1",
+                    "cell_text": "rs657339"
+                  },
+                  {
+                    "cell_id": "5.29.2",
+                    "cell_text": "11q13.4"
+                  },
+                  {
+                    "cell_id": "5.29.3",
+                    "cell_text": "In  LOC100287896"
+                  },
+                  {
+                    "cell_id": "5.29.4",
+                    "cell_text": 1.85e-05
+                  },
+                  {
+                    "cell_id": "5.29.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.29.6",
+                    "cell_text": "0.49 (0.35–0.68)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.30.1",
+                    "cell_text": "rs617989"
+                  },
+                  {
+                    "cell_id": "5.30.2",
+                    "cell_text": "11q13.4"
+                  },
+                  {
+                    "cell_id": "5.30.3",
+                    "cell_text": "In  LIPT2"
+                  },
+                  {
+                    "cell_id": "5.30.4",
+                    "cell_text": 1.9e-05
+                  },
+                  {
+                    "cell_id": "5.30.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.30.6",
+                    "cell_text": "0.49 (0.36–0.68)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.31.1",
+                    "cell_text": "rs649460"
+                  },
+                  {
+                    "cell_id": "5.31.2",
+                    "cell_text": "11q13.4"
+                  },
+                  {
+                    "cell_id": "5.31.3",
+                    "cell_text": "Nearest gene is  LIPT2"
+                  },
+                  {
+                    "cell_id": "5.31.4",
+                    "cell_text": 2.28e-05
+                  },
+                  {
+                    "cell_id": "5.31.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.31.6",
+                    "cell_text": "0.49 (0.36–0.68)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.32.1",
+                    "cell_text": "rs2509563"
+                  },
+                  {
+                    "cell_id": "5.32.2",
+                    "cell_text": "11q13.4"
+                  },
+                  {
+                    "cell_id": "5.32.3",
+                    "cell_text": "Nearest gene is  LIPT2"
+                  },
+                  {
+                    "cell_id": "5.32.4",
+                    "cell_text": 2.29e-05
+                  },
+                  {
+                    "cell_id": "5.32.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.32.6",
+                    "cell_text": "0.50 (0.36–0.69)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.33.1",
+                    "cell_text": "rs1013592"
+                  },
+                  {
+                    "cell_id": "5.33.2",
+                    "cell_text": "19q12"
+                  },
+                  {
+                    "cell_id": "5.33.3",
+                    "cell_text": "In  LOC101927210"
+                  },
+                  {
+                    "cell_id": "5.33.4",
+                    "cell_text": 2.45e-05
+                  },
+                  {
+                    "cell_id": "5.33.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.33.6",
+                    "cell_text": "3.84 (2.05–7.17)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.34.1",
+                    "cell_text": "rs1783196"
+                  },
+                  {
+                    "cell_id": "5.34.2",
+                    "cell_text": "11q13.4"
+                  },
+                  {
+                    "cell_id": "5.34.3",
+                    "cell_text": "Nearest gene is  LIPT2"
+                  },
+                  {
+                    "cell_id": "5.34.4",
+                    "cell_text": 2.85e-05
+                  },
+                  {
+                    "cell_id": "5.34.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.34.6",
+                    "cell_text": "0.50 (0.36–0.69)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.35.1",
+                    "cell_text": "rs648677"
+                  },
+                  {
+                    "cell_id": "5.35.2",
+                    "cell_text": "11q13.4"
+                  },
+                  {
+                    "cell_id": "5.35.3",
+                    "cell_text": "Between  LIPT2 and POLD3"
+                  },
+                  {
+                    "cell_id": "5.35.4",
+                    "cell_text": 2.85e-05
+                  },
+                  {
+                    "cell_id": "5.35.5",
+                    "cell_text": 0.684
+                  },
+                  {
+                    "cell_id": "5.35.6",
+                    "cell_text": "0.50 (0.36–0.69)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.36.1",
+                    "cell_text": "rs10028174"
+                  },
+                  {
+                    "cell_id": "5.36.2",
+                    "cell_text": "4q22"
+                  },
+                  {
+                    "cell_id": "5.36.3",
+                    "cell_text": "In  CCSER1"
+                  },
+                  {
+                    "cell_id": "5.36.4",
+                    "cell_text": 3.65e-05
+                  },
+                  {
+                    "cell_id": "5.36.5",
+                    "cell_text": 0.796
+                  },
+                  {
+                    "cell_id": "5.36.6",
+                    "cell_text": "0.40 (0.26–0.62)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.37.1",
+                    "cell_text": "rs1655475"
+                  },
+                  {
+                    "cell_id": "5.37.2",
+                    "cell_text": "11q13.4"
+                  },
+                  {
+                    "cell_id": "5.37.3",
+                    "cell_text": "Between  LIPT2 and POLD3"
+                  },
+                  {
+                    "cell_id": "5.37.4",
+                    "cell_text": 3.79e-05
+                  },
+                  {
+                    "cell_id": "5.37.5",
+                    "cell_text": 0.796
+                  },
+                  {
+                    "cell_id": "5.37.6",
+                    "cell_text": "0.51 (0.37–0.70)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.38.1",
+                    "cell_text": "rs2089253"
+                  },
+                  {
+                    "cell_id": "5.38.2",
+                    "cell_text": "4q21.1"
+                  },
+                  {
+                    "cell_id": "5.38.3",
+                    "cell_text": "In  USO1"
+                  },
+                  {
+                    "cell_id": "5.38.4",
+                    "cell_text": 4.34e-05
+                  },
+                  {
+                    "cell_id": "5.38.5",
+                    "cell_text": 0.858
+                  },
+                  {
+                    "cell_id": "5.38.6",
+                    "cell_text": "0.28 (0.16–0.52)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.39.1",
+                    "cell_text": "rs3317"
+                  },
+                  {
+                    "cell_id": "5.39.2",
+                    "cell_text": "5q22"
+                  },
+                  {
+                    "cell_id": "5.39.3",
+                    "cell_text": "In  REEP5  and  SRP19"
+                  },
+                  {
+                    "cell_id": "5.39.4",
+                    "cell_text": 5.55e-05
+                  },
+                  {
+                    "cell_id": "5.39.5",
+                    "cell_text": 0.89
+                  },
+                  {
+                    "cell_id": "5.39.6",
+                    "cell_text": "0.53 (0.39–0.72)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.40.1",
+                    "cell_text": "rs11692230"
+                  },
+                  {
+                    "cell_id": "5.40.2",
+                    "cell_text": "2q12"
+                  },
+                  {
+                    "cell_id": "5.40.3",
+                    "cell_text": "In  IL1RL2"
+                  },
+                  {
+                    "cell_id": "5.40.4",
+                    "cell_text": 5.67e-05
+                  },
+                  {
+                    "cell_id": "5.40.5",
+                    "cell_text": 0.89
+                  },
+                  {
+                    "cell_id": "5.40.6",
+                    "cell_text": "1.89 (1.39–2.58)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.41.1",
+                    "cell_text": "rs4805661"
+                  },
+                  {
+                    "cell_id": "5.41.2",
+                    "cell_text": "19q12"
+                  },
+                  {
+                    "cell_id": "5.41.3",
+                    "cell_text": "Nearest gene is  TSHZ3"
+                  },
+                  {
+                    "cell_id": "5.41.4",
+                    "cell_text": 6.19e-05
+                  },
+                  {
+                    "cell_id": "5.41.5",
+                    "cell_text": 0.89
+                  },
+                  {
+                    "cell_id": "5.41.6",
+                    "cell_text": "0.53 (0.38–0.72)"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2705,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aWe were unable to assess GxSmoke effects in the Asian sample because very few of the mothers reported smoking cigarettes in the periconceptional period.bLocation of SNP was determined using the 1,000 Genomes browser at https://www.ncbi.nlm.nih.gov/variation/tools/1000genomes/.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "29535761.html",
+      "id": "6",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 6",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Stratified analyses of the top three SNPs in ESRRG.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 58,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "6.1.1",
+              "cell_text": "Stratum"
+            },
+            {
+              "cell_id": "6.1.2",
+              "cell_text": "RR (95% CI) b"
+            },
+            {
+              "cell_id": "6.1.3",
+              "cell_text": "p -value"
+            },
+            {
+              "cell_id": "6.1.4",
+              "cell_text": "Frequency"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "rs1339221",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "6.2.1",
+                    "cell_text": "All (child effect)"
+                  },
+                  {
+                    "cell_id": "6.2.2",
+                    "cell_text": "0.94 (0.84–1.04)"
+                  },
+                  {
+                    "cell_id": "6.2.3",
+                    "cell_text": 0.22
+                  },
+                  {
+                    "cell_id": "6.2.4",
+                    "cell_text": 0.4
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "6.3.1",
+                    "cell_text": "No vitamin use"
+                  },
+                  {
+                    "cell_id": "6.3.2",
+                    "cell_text": "1.17 (1.03–1.33)"
+                  },
+                  {
+                    "cell_id": "6.3.3",
+                    "cell_text": 0.016
+                  },
+                  {
+                    "cell_id": "6.3.4",
+                    "cell_text": 0.38
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "6.4.1",
+                    "cell_text": "Vitamin use"
+                  },
+                  {
+                    "cell_id": "6.4.2",
+                    "cell_text": "0.66 (0.56–0.78)"
+                  },
+                  {
+                    "cell_id": "6.4.3",
+                    "cell_text": "5 × 10 −7"
+                  },
+                  {
+                    "cell_id": "6.4.4",
+                    "cell_text": 0.43
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "6.5.1",
+                    "cell_text": "Across strata"
+                  },
+                  {
+                    "cell_id": "6.5.2",
+                    "cell_text": "0.56 (0.45–0.69)"
+                  },
+                  {
+                    "cell_id": "6.5.3",
+                    "cell_text": "6 × 10 −8"
+                  },
+                  {
+                    "cell_id": "6.5.4",
+                    "cell_text": "–"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs11117745",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "6.6.1",
+                    "cell_text": "All (child effect)"
+                  },
+                  {
+                    "cell_id": "6.6.2",
+                    "cell_text": "0.96 (0.87–1.06)"
+                  },
+                  {
+                    "cell_id": "6.6.3",
+                    "cell_text": 0.41
+                  },
+                  {
+                    "cell_id": "6.6.4",
+                    "cell_text": 0.46
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "6.7.1",
+                    "cell_text": "No vitamin use"
+                  },
+                  {
+                    "cell_id": "6.7.2",
+                    "cell_text": "1.19 (1.05–1.35)"
+                  },
+                  {
+                    "cell_id": "6.7.3",
+                    "cell_text": 0.0064
+                  },
+                  {
+                    "cell_id": "6.7.4",
+                    "cell_text": 0.46
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "6.8.1",
+                    "cell_text": "Vitamin use"
+                  },
+                  {
+                    "cell_id": "6.8.2",
+                    "cell_text": "0.68 (0.58–0.80)"
+                  },
+                  {
+                    "cell_id": "6.8.3",
+                    "cell_text": "2 × 10 −6"
+                  },
+                  {
+                    "cell_id": "6.8.4",
+                    "cell_text": 0.46
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "6.9.1",
+                    "cell_text": "Across strata"
+                  },
+                  {
+                    "cell_id": "6.9.2",
+                    "cell_text": "0.57 (0.46–0.70)"
+                  },
+                  {
+                    "cell_id": "6.9.3",
+                    "cell_text": "7 × 10 −8"
+                  },
+                  {
+                    "cell_id": "6.9.4",
+                    "cell_text": "–"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs2099557",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "6.10.1",
+                    "cell_text": "All (child effect)"
+                  },
+                  {
+                    "cell_id": "6.10.2",
+                    "cell_text": "0.96 (0.87–1.06)"
+                  },
+                  {
+                    "cell_id": "6.10.3",
+                    "cell_text": 0.4
+                  },
+                  {
+                    "cell_id": "6.10.4",
+                    "cell_text": 0.4
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "6.11.1",
+                    "cell_text": "No vitamin use"
+                  },
+                  {
+                    "cell_id": "6.11.2",
+                    "cell_text": "1.15 (1.01–1.31)"
+                  },
+                  {
+                    "cell_id": "6.11.3",
+                    "cell_text": 0.031
+                  },
+                  {
+                    "cell_id": "6.11.4",
+                    "cell_text": 0.37
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "6.12.1",
+                    "cell_text": "Vitamin use"
+                  },
+                  {
+                    "cell_id": "6.12.2",
+                    "cell_text": "0.71 (0.61–0.84)"
+                  },
+                  {
+                    "cell_id": "6.12.3",
+                    "cell_text": "5 × 10 −5"
+                  },
+                  {
+                    "cell_id": "6.12.4",
+                    "cell_text": 0.44
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "6.13.1",
+                    "cell_text": "Across strata"
+                  },
+                  {
+                    "cell_id": "6.13.2",
+                    "cell_text": "0.62 (0.50–0.76)"
+                  },
+                  {
+                    "cell_id": "6.13.3",
+                    "cell_text": "5 × 10 −6"
+                  },
+                  {
+                    "cell_id": "6.13.4",
+                    "cell_text": "–"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 536,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aAll three SNPs are located within chromosomal region 1q41 according to the 1000 Genomes browser (https://www.ncbi.nlm.nih.gov/variation/tools/1000genomes/).bRelative risk (RR) for the overall child effect, and effects within each stratum of vitamin use. Across strata, an effect is measured as the ratio of the RRs (i.e., RRR) for vitamin use and no vitamin use.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "29535761.html",
+      "id": "7",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 7",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Haplotype analysis for the top three SNPs in ESRRG.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 58,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "7.1.1",
+              "cell_text": "Haplotype"
+            },
+            {
+              "cell_id": "7.1.2",
+              "cell_text": "Top b"
+            },
+            {
+              "cell_id": "7.1.3",
+              "cell_text": "Ref. c"
+            },
+            {
+              "cell_id": "7.1.4",
+              "cell_text": "Frequency (top vs. ref)"
+            },
+            {
+              "cell_id": "7.1.5",
+              "cell_text": "Stratum"
+            },
+            {
+              "cell_id": "7.1.6",
+              "cell_text": "RR (95% CI) d"
+            },
+            {
+              "cell_id": "7.1.7",
+              "cell_text": "p -value"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "rs2099557-rs1339221",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "7.2.1",
+                    "cell_text": "t/C × t/C"
+                  },
+                  {
+                    "cell_id": "7.2.2",
+                    "cell_text": "t-t"
+                  },
+                  {
+                    "cell_id": "7.2.3",
+                    "cell_text": "C-C"
+                  },
+                  {
+                    "cell_id": "7.2.4",
+                    "cell_text": "0.30 vs. 0.50"
+                  },
+                  {
+                    "cell_id": "7.2.5",
+                    "cell_text": "All (child effect)"
+                  },
+                  {
+                    "cell_id": "7.2.6",
+                    "cell_text": "0.93 (0.83–1.04)"
+                  },
+                  {
+                    "cell_id": "7.2.7",
+                    "cell_text": 0.2
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "7.3.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.3.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.3.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.3.4",
+                    "cell_text": "0.27 vs. 0.51"
+                  },
+                  {
+                    "cell_id": "7.3.5",
+                    "cell_text": "No vitamin use"
+                  },
+                  {
+                    "cell_id": "7.3.6",
+                    "cell_text": "1.21 (1.04–1.40)"
+                  },
+                  {
+                    "cell_id": "7.3.7",
+                    "cell_text": 0.013
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "7.4.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.4.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.4.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.4.4",
+                    "cell_text": "0.35 vs. 0.48"
+                  },
+                  {
+                    "cell_id": "7.4.5",
+                    "cell_text": "Vitamin use"
+                  },
+                  {
+                    "cell_id": "7.4.6",
+                    "cell_text": "0.63 (0.53–0.75)"
+                  },
+                  {
+                    "cell_id": "7.4.7",
+                    "cell_text": "6 × 10 −7"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "7.5.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.5.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.5.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.5.4",
+                    "cell_text": "–"
+                  },
+                  {
+                    "cell_id": "7.5.5",
+                    "cell_text": "Across strata"
+                  },
+                  {
+                    "cell_id": "7.5.6",
+                    "cell_text": "0.52 (0.41–0.66)"
+                  },
+                  {
+                    "cell_id": "7.5.7",
+                    "cell_text": "6 × 10 −8"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs1339221-rs11117745",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "7.6.1",
+                    "cell_text": "t/C × t/G"
+                  },
+                  {
+                    "cell_id": "7.6.2",
+                    "cell_text": "t-t"
+                  },
+                  {
+                    "cell_id": "7.6.3",
+                    "cell_text": "C-G"
+                  },
+                  {
+                    "cell_id": "7.6.4",
+                    "cell_text": "0.40 vs. 0.54"
+                  },
+                  {
+                    "cell_id": "7.6.5",
+                    "cell_text": "All (child effect)"
+                  },
+                  {
+                    "cell_id": "7.6.6",
+                    "cell_text": "0.94 (0.85–1.04)"
+                  },
+                  {
+                    "cell_id": "7.6.7",
+                    "cell_text": 0.25
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "7.7.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.7.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.7.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.7.4",
+                    "cell_text": "0.39 vs. 0.54"
+                  },
+                  {
+                    "cell_id": "7.7.5",
+                    "cell_text": "No vitamin use"
+                  },
+                  {
+                    "cell_id": "7.7.6",
+                    "cell_text": "1.19 (1.04–1.36)"
+                  },
+                  {
+                    "cell_id": "7.7.7",
+                    "cell_text": 0.0091
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "7.8.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.8.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.8.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.8.4",
+                    "cell_text": "0.43 vs. 0.54"
+                  },
+                  {
+                    "cell_id": "7.8.5",
+                    "cell_text": "Vitamin use"
+                  },
+                  {
+                    "cell_id": "7.8.6",
+                    "cell_text": "0.65 (0.55–0.77)"
+                  },
+                  {
+                    "cell_id": "7.8.7",
+                    "cell_text": "6 × 10 −7"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "7.9.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.9.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.9.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.9.4",
+                    "cell_text": "–"
+                  },
+                  {
+                    "cell_id": "7.9.5",
+                    "cell_text": "Across strata"
+                  },
+                  {
+                    "cell_id": "7.9.6",
+                    "cell_text": "0.55 (0.44–0.68)"
+                  },
+                  {
+                    "cell_id": "7.9.7",
+                    "cell_text": "4 × 10 −8"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs2099557-rs1339221-rs11117745",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "7.10.1",
+                    "cell_text": "t/C × t/C × t/G"
+                  },
+                  {
+                    "cell_id": "7.10.2",
+                    "cell_text": "t-t-t"
+                  },
+                  {
+                    "cell_id": "7.10.3",
+                    "cell_text": "C-C-G"
+                  },
+                  {
+                    "cell_id": "7.10.4",
+                    "cell_text": "0.30 vs. 0.46"
+                  },
+                  {
+                    "cell_id": "7.10.5",
+                    "cell_text": "All (child effect)"
+                  },
+                  {
+                    "cell_id": "7.10.6",
+                    "cell_text": "0.94 (0.83–1.05)"
+                  },
+                  {
+                    "cell_id": "7.10.7",
+                    "cell_text": 0.27
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "7.11.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.11.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.11.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.11.4",
+                    "cell_text": "0.27 vs. 0.45"
+                  },
+                  {
+                    "cell_id": "7.11.5",
+                    "cell_text": "No vitamin use"
+                  },
+                  {
+                    "cell_id": "7.11.6",
+                    "cell_text": "1.24 (1.07–1.45)"
+                  },
+                  {
+                    "cell_id": "7.11.7",
+                    "cell_text": 0.0061
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "7.12.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.12.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.12.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.12.4",
+                    "cell_text": "0.35 vs. 0.46"
+                  },
+                  {
+                    "cell_id": "7.12.5",
+                    "cell_text": "Vitamin use"
+                  },
+                  {
+                    "cell_id": "7.12.6",
+                    "cell_text": "0.63 (0.52–0.75)"
+                  },
+                  {
+                    "cell_id": "7.12.7",
+                    "cell_text": "7 × 10 −7"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "7.13.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.13.2",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.13.3",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "7.13.4",
+                    "cell_text": "–"
+                  },
+                  {
+                    "cell_id": "7.13.5",
+                    "cell_text": "Across strata"
+                  },
+                  {
+                    "cell_id": "7.13.6",
+                    "cell_text": "0.50 (0.40–0.64)"
+                  },
+                  {
+                    "cell_id": "7.13.7",
+                    "cell_text": "2 × 10 −8"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 675,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aAll three SNPs are located within the chromosomal band 1q41 according to the 1,000 Genomes browser (https://www.ncbi.nlm.nih.gov/variation/tools/1000genomes/).b“Top” refers to the haplotype with the lowest p-value in the analysis.cThe most frequent haplotype was used as reference.dRelative risk (RR) for the overall child effect, and effects within each stratum of vitamin use. Across strata, an effect is measured as the ratio of the RRs (i.e., RRR) for vitamin use and no vitamin use.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

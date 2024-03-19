@@ -1,0 +1,1076 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "23386860.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Characteristics of Health Professionals Follow-up Study (HPFS) and Nurses’ Health Study (NHS) cohorts.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 109,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": "Cohort"
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": "N"
+            },
+            {
+              "cell_id": "1.1.3",
+              "cell_text": "Mean heme, SD (mg/day)"
+            },
+            {
+              "cell_id": "1.1.4",
+              "cell_text": "Mean body mass index, SD (kg/m 2 )"
+            },
+            {
+              "cell_id": "1.1.5",
+              "cell_text": "Mean age at baseline, SD (years)"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": "HPFS Cases Controls"
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": "1998 725 1273"
+                  },
+                  {
+                    "cell_id": "1.2.3",
+                    "cell_text": "1.29 (0.43) 1.39 (0.43) 1.23 (0.42)"
+                  },
+                  {
+                    "cell_id": "1.2.4",
+                    "cell_text": "25.05 (3.46) 27.87 (3.82) 25.01 (2.74)"
+                  },
+                  {
+                    "cell_id": "1.2.5",
+                    "cell_text": "54.19 (8.36) 52.93 (8.16) 54.91 (8.39)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": "NHS Cases Controls"
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": "2773 1081 1692"
+                  },
+                  {
+                    "cell_id": "1.3.3",
+                    "cell_text": "1.36 (0.45) 1.41 (0.44) 1.33 (0.45)"
+                  },
+                  {
+                    "cell_id": "1.3.4",
+                    "cell_text": "26.08 (5.00) 28.66 (4.95) 24.43 (4.29)"
+                  },
+                  {
+                    "cell_id": "1.3.5",
+                    "cell_text": "47.47 (6.76) 47.31 (6.73) 47.57 (6.78)"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 395,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "SD, standard deviation.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "23386860.html",
+      "id": "2",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 2",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Genes and single nucleotide polymorphisms (SNPs) in the heme iron metabolic pathway on the Affymetrix 6.0 array that passed quality control.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 147,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "2.1.1",
+              "cell_text": "Gene"
+            },
+            {
+              "cell_id": "2.1.2",
+              "cell_text": "Chromosome"
+            },
+            {
+              "cell_id": "2.1.3",
+              "cell_text": "SNPs"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.2.1",
+                    "cell_text": "ACO1"
+                  },
+                  {
+                    "cell_id": "2.2.2",
+                    "cell_text": 24.0
+                  },
+                  {
+                    "cell_id": "2.2.3",
+                    "cell_text": "rs1028932, rs10435797, rs10813816, rs13293491, rs10813818, rs2026739, rs7032871, rs10738885, rs16918276, rs3780473, rs3780474, rs4495514, rs13302577, rs7866419, rs7022554, rs4879583, rs10970961, rs7033149, rs10970972, rs10970974, rs7019520, rs13292540, rs13293491, rs3780474"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.3.1",
+                    "cell_text": "ALAD"
+                  },
+                  {
+                    "cell_id": "2.3.2",
+                    "cell_text": 7.0
+                  },
+                  {
+                    "cell_id": "2.3.3",
+                    "cell_text": "rs8177800, rs8177804, rs818684, rs2761016, rs8177812, rs1805313, rs1805316"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.4.1",
+                    "cell_text": "ALAS1"
+                  },
+                  {
+                    "cell_id": "2.4.2",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "2.4.3",
+                    "cell_text": "rs352166, rs352167, rs352169, rs11712164, rs352170, rs9813468"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.5.1",
+                    "cell_text": "BLVRA"
+                  },
+                  {
+                    "cell_id": "2.5.2",
+                    "cell_text": 8.0
+                  },
+                  {
+                    "cell_id": "2.5.3",
+                    "cell_text": "rs10234057, rs849161, rs699510, rs849162, rs849165, rs10233867, rs10268054, rs1317916"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.6.1",
+                    "cell_text": "BLVRB"
+                  },
+                  {
+                    "cell_id": "2.6.2",
+                    "cell_text": 1.0
+                  },
+                  {
+                    "cell_id": "2.6.3",
+                    "cell_text": "rs2613843"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.7.1",
+                    "cell_text": "CP"
+                  },
+                  {
+                    "cell_id": "2.7.2",
+                    "cell_text": 17.0
+                  },
+                  {
+                    "cell_id": "2.7.3",
+                    "cell_text": "rs17787768, rs3816893, rs772908, rs16861598, rs16861634, rs16861590, rs4974389, rs701755, rs7652826, rs13072552, rs16861577, rs13075921, rs9853335, rs1879169, rs773050, rs16861579, rs11924961"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.8.1",
+                    "cell_text": "CPOX"
+                  },
+                  {
+                    "cell_id": "2.8.2",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "2.8.3",
+                    "cell_text": "rs3804622, rs1675534"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.9.1",
+                    "cell_text": "FECH"
+                  },
+                  {
+                    "cell_id": "2.9.2",
+                    "cell_text": 20.0
+                  },
+                  {
+                    "cell_id": "2.9.3",
+                    "cell_text": "rs1788002, rs1790619, rs492274, rs317806, rs8094527, rs533952, rs12969847, rs1041951, rs7243988, rs317807, rs12454808, rs2269221, rs2269222, rs8099511, rs1736439, rs8092783, rs2272783, rs8095390, rs12968109, rs7242288"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.10.1",
+                    "cell_text": "FTH1"
+                  },
+                  {
+                    "cell_id": "2.10.2",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "2.10.3",
+                    "cell_text": "rs5904861, rs195154"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.11.1",
+                    "cell_text": "HAMP"
+                  },
+                  {
+                    "cell_id": "2.11.2",
+                    "cell_text": 1.0
+                  },
+                  {
+                    "cell_id": "2.11.3",
+                    "cell_text": "rs8101606"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.12.1",
+                    "cell_text": "HFE"
+                  },
+                  {
+                    "cell_id": "2.12.2",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "2.12.3",
+                    "cell_text": "rs1800562, rs2071303, rs2858996"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.13.1",
+                    "cell_text": "HFE2"
+                  },
+                  {
+                    "cell_id": "2.13.2",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "2.13.3",
+                    "cell_text": "rs10218795, rs7540883"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.14.1",
+                    "cell_text": "HMBS"
+                  },
+                  {
+                    "cell_id": "2.14.2",
+                    "cell_text": 7.0
+                  },
+                  {
+                    "cell_id": "2.14.3",
+                    "cell_text": "rs1799993, rs1784304, rs1006195, rs494048, rs1144041, rs17075, rs549893"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.15.1",
+                    "cell_text": "HMOX1"
+                  },
+                  {
+                    "cell_id": "2.15.2",
+                    "cell_text": 7.0
+                  },
+                  {
+                    "cell_id": "2.15.3",
+                    "cell_text": "rs9306300, rs8140669, rs2071749, rs8140370, rs2285112, rs5995097, rs2269533"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.16.1",
+                    "cell_text": "HMOX2"
+                  },
+                  {
+                    "cell_id": "2.16.2",
+                    "cell_text": 16.0
+                  },
+                  {
+                    "cell_id": "2.16.3",
+                    "cell_text": "rs4786500, rs2160567, rs1362626, rs9302781, rs11076834, rs3789038, rs4786501, rs2270366, rs10500325, rs8063084, rs4785969, rs9929475, rs7192051, rs9936357, rs8048958, rs8055559"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.17.1",
+                    "cell_text": "IL6"
+                  },
+                  {
+                    "cell_id": "2.17.2",
+                    "cell_text": 7.0
+                  },
+                  {
+                    "cell_id": "2.17.3",
+                    "cell_text": "rs2069837, rs2066992, rs2069835, rs1548216, rs2069842, rs2069840, rs1474347"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.18.1",
+                    "cell_text": "IL6R"
+                  },
+                  {
+                    "cell_id": "2.18.2",
+                    "cell_text": 16.0
+                  },
+                  {
+                    "cell_id": "2.18.3",
+                    "cell_text": "rs11265618, rs4845626, rs4537545, rs10752641, rs4240872, rs11265610, rs6694817, rs6427658, rs4845618, rs10159236, rs6689393, rs12060250, rs4129267, rs8192282, rs4537545, rs10752641"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.19.1",
+                    "cell_text": "IREB2"
+                  },
+                  {
+                    "cell_id": "2.19.2",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "2.19.3",
+                    "cell_text": "rs13180, rs2568491, rs9920411, rs924840, rs17483929, rs16969899, rs2656071, rs16969858, rs17483721, rs905742, rs8043227, rs10519198, rs7181486, rs2568483, rs2656073, rs8041628, rs11636431, rs2568492"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.20.1",
+                    "cell_text": "SLC11A2"
+                  },
+                  {
+                    "cell_id": "2.20.2",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "2.20.3",
+                    "cell_text": "rs17125212, rs2269683, rs224572, rs224573, rs224568, rs224589"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.21.1",
+                    "cell_text": "SLC25A37"
+                  },
+                  {
+                    "cell_id": "2.21.2",
+                    "cell_text": 33.0
+                  },
+                  {
+                    "cell_id": "2.21.3",
+                    "cell_text": "rs7826247, rs2872716, rs17089392, rs2942194, rs17089394, rs7833754, rs7834536, rs17089335, rs11778179, rs2928672, rs752778, rs7846025, rs3736032, rs7834883, rs7830129, rs2928665, rs7816824, rs10503725, rs17698981, rs2942204, rs2978471, rs2978475, rs17089332, rs11781222, rs7015818, rs12548753, rs7829094, rs13266950, rs17089358, rs2004644, rs4871881, rs4871880, rs7834536"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.22.1",
+                    "cell_text": "SLC40A1"
+                  },
+                  {
+                    "cell_id": "2.22.2",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "2.22.3",
+                    "cell_text": "rs4667287, rs2304704, rs1439816, rs930373, rs1123110, rs3792079, rs11568350, rs13431938, rs1123109, rs13404407"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.23.1",
+                    "cell_text": "SMAD4"
+                  },
+                  {
+                    "cell_id": "2.23.2",
+                    "cell_text": 5.0
+                  },
+                  {
+                    "cell_id": "2.23.3",
+                    "cell_text": "rs3764465, rs10502913, rs16952790, rs12457540, rs948588"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.24.1",
+                    "cell_text": "STAT3"
+                  },
+                  {
+                    "cell_id": "2.24.2",
+                    "cell_text": 16.0
+                  },
+                  {
+                    "cell_id": "2.24.3",
+                    "cell_text": "rs3809758, rs2306580, rs4796646, rs17880900, rs8069645, rs3785898, rs7215104, rs744166, rs4796644, rs8078731, rs8074524, rs6503698, rs1026916, rs7211777, rs3816769, rs9912773"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.25.1",
+                    "cell_text": "STEAP3"
+                  },
+                  {
+                    "cell_id": "2.25.2",
+                    "cell_text": 30.0
+                  },
+                  {
+                    "cell_id": "2.25.3",
+                    "cell_text": "rs838075, rs708675, rs3769659, rs838074, rs12711924, rs41527945, rs7596511, rs838083, rs708672, rs838072, rs708670, rs865688, rs838095, rs12465926, rs11888609, rs838103, rs12990907, rs10182241, rs838090, rs1867856, rs10188946, rs838092, rs4592854, rs12104548, rs838079, rs6542517, rs838102, rs1867749, rs13401854, rs6720040"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.26.1",
+                    "cell_text": "TF"
+                  },
+                  {
+                    "cell_id": "2.26.2",
+                    "cell_text": 37.0
+                  },
+                  {
+                    "cell_id": "2.26.3",
+                    "cell_text": "rs4854759, rs8177201, rs1358022, rs8177203, rs8177306, rs1049296, rs2715627, rs1799852, rs7638018, rs4241357, rs7633232, rs6778321, rs1800277, rs8177241, rs8177232, rs2715631, rs8177277, rs8177235, rs8177220, rs8177238, rs8177233, rs2715632, rs8177272, rs12493168, rs2718796, rs1115219, rs8177253, rs8177318, rs8177224, rs7628133, rs8177248, rs1525892, rs8177262, rs7645538, rs8177191, rs8177215, rs3811657"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.27.1",
+                    "cell_text": "TFR2"
+                  },
+                  {
+                    "cell_id": "2.27.2",
+                    "cell_text": 1.0
+                  },
+                  {
+                    "cell_id": "2.27.3",
+                    "cell_text": "rs4521695"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.28.1",
+                    "cell_text": "TFRC"
+                  },
+                  {
+                    "cell_id": "2.28.2",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "2.28.3",
+                    "cell_text": "rs3933, rs3804141, rs3804142, rs4927866, rs480760, rs12330245"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.29.1",
+                    "cell_text": "UROD"
+                  },
+                  {
+                    "cell_id": "2.29.2",
+                    "cell_text": 1.0
+                  },
+                  {
+                    "cell_id": "2.29.3",
+                    "cell_text": "rs13948"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.30.1",
+                    "cell_text": "UROS"
+                  },
+                  {
+                    "cell_id": "2.30.2",
+                    "cell_text": 12.0
+                  },
+                  {
+                    "cell_id": "2.30.3",
+                    "cell_text": "rs10510149, rs1571278, rs2281956, rs10794025, rs3814624, rs11244653, rs10901450, rs2027515, rs3740179, rs10751533, rs2149019, rs12251135"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 3875,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "23386860.html",
+      "id": "3",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 3",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Top 10 p-values from genome-wide SNP–heme interactions predicting type 2 diabetes adjusting for age, body mass index, dietary heme iron intake, and eigenvectors using a one degree of freedom test from meta-analysis of the Health Professionals Follow-up Study and Nurses’ Health Study.a",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 292,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "3.1.1",
+              "cell_text": "SNP"
+            },
+            {
+              "cell_id": "3.1.2",
+              "cell_text": "Beta, HPFS b"
+            },
+            {
+              "cell_id": "3.1.3",
+              "cell_text": "Beta, NHS b"
+            },
+            {
+              "cell_id": "3.1.4",
+              "cell_text": "p -Value, HPFS b"
+            },
+            {
+              "cell_id": "3.1.5",
+              "cell_text": "p -Value, NHS b"
+            },
+            {
+              "cell_id": "3.1.6",
+              "cell_text": "p -Value, pooled b , c"
+            },
+            {
+              "cell_id": "3.1.7",
+              "cell_text": "Associated gene"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": 9.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.2.1",
+                    "cell_text": "rs10980508"
+                  },
+                  {
+                    "cell_id": "3.2.2",
+                    "cell_text": 0.96
+                  },
+                  {
+                    "cell_id": "3.2.3",
+                    "cell_text": 0.64
+                  },
+                  {
+                    "cell_id": "3.2.4",
+                    "cell_text": "1.81 × 10 -4"
+                  },
+                  {
+                    "cell_id": "3.2.5",
+                    "cell_text": "1.23 × 10 -3"
+                  },
+                  {
+                    "cell_id": "3.2.6",
+                    "cell_text": "1.03 × 10 -6"
+                  },
+                  {
+                    "cell_id": "3.2.7",
+                    "cell_text": "Upstream of  MUSK , downstream of  SVEP1"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.3.1",
+                    "cell_text": "rs12378245"
+                  },
+                  {
+                    "cell_id": "3.3.2",
+                    "cell_text": 0.96
+                  },
+                  {
+                    "cell_id": "3.3.3",
+                    "cell_text": 0.61
+                  },
+                  {
+                    "cell_id": "3.3.4",
+                    "cell_text": "1.77 × 10 -4"
+                  },
+                  {
+                    "cell_id": "3.3.5",
+                    "cell_text": "1.76 × 10 -3"
+                  },
+                  {
+                    "cell_id": "3.3.6",
+                    "cell_text": "1.51 × 10 -6"
+                  },
+                  {
+                    "cell_id": "3.3.7",
+                    "cell_text": "Upstream of  MUSK , downstream of  SVEP1"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.4.1",
+                    "cell_text": "rs10817049"
+                  },
+                  {
+                    "cell_id": "3.4.2",
+                    "cell_text": 0.92
+                  },
+                  {
+                    "cell_id": "3.4.3",
+                    "cell_text": 0.61
+                  },
+                  {
+                    "cell_id": "3.4.4",
+                    "cell_text": "3.09 × 10 -4"
+                  },
+                  {
+                    "cell_id": "3.4.5",
+                    "cell_text": "1.61 × 10 -3"
+                  },
+                  {
+                    "cell_id": "3.4.6",
+                    "cell_text": "2.16 × 10 -6"
+                  },
+                  {
+                    "cell_id": "3.4.7",
+                    "cell_text": "Upstream of  MUSK , downstream of  SVEP1"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.5.1",
+                    "cell_text": "rs7048110"
+                  },
+                  {
+                    "cell_id": "3.5.2",
+                    "cell_text": 0.96
+                  },
+                  {
+                    "cell_id": "3.5.3",
+                    "cell_text": 0.58
+                  },
+                  {
+                    "cell_id": "3.5.4",
+                    "cell_text": "1.80 × 10 -4"
+                  },
+                  {
+                    "cell_id": "3.5.5",
+                    "cell_text": "2.75 × 10 -3"
+                  },
+                  {
+                    "cell_id": "3.5.6",
+                    "cell_text": "2.53 × 10 -6"
+                  },
+                  {
+                    "cell_id": "3.5.7",
+                    "cell_text": "Upstream of  MUSK , downstream of  SVEP1"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 16.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.6.1",
+                    "cell_text": "rs10817052"
+                  },
+                  {
+                    "cell_id": "3.6.2",
+                    "cell_text": 0.9
+                  },
+                  {
+                    "cell_id": "3.6.3",
+                    "cell_text": 0.6
+                  },
+                  {
+                    "cell_id": "3.6.4",
+                    "cell_text": "4.43 × 10 -4"
+                  },
+                  {
+                    "cell_id": "3.6.5",
+                    "cell_text": "1.93 × 10 -3"
+                  },
+                  {
+                    "cell_id": "3.6.6",
+                    "cell_text": "3.53 × 10 -6"
+                  },
+                  {
+                    "cell_id": "3.6.7",
+                    "cell_text": "Upstream of  MUSK , downstream of  SVEP1"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.7.1",
+                    "cell_text": "rs17177078"
+                  },
+                  {
+                    "cell_id": "3.7.2",
+                    "cell_text": 1.48
+                  },
+                  {
+                    "cell_id": "3.7.3",
+                    "cell_text": 0.83
+                  },
+                  {
+                    "cell_id": "3.7.4",
+                    "cell_text": "1.50 × 10 -4"
+                  },
+                  {
+                    "cell_id": "3.7.5",
+                    "cell_text": "5.66 × 10 -3"
+                  },
+                  {
+                    "cell_id": "3.7.6",
+                    "cell_text": "5.06 × 10 -6"
+                  },
+                  {
+                    "cell_id": "3.7.7",
+                    "cell_text": "Intron in  TNRC6A"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.8.1",
+                    "cell_text": "rs10980495"
+                  },
+                  {
+                    "cell_id": "3.8.2",
+                    "cell_text": 0.91
+                  },
+                  {
+                    "cell_id": "3.8.3",
+                    "cell_text": 0.57
+                  },
+                  {
+                    "cell_id": "3.8.4",
+                    "cell_text": "3.60 × 10 -4"
+                  },
+                  {
+                    "cell_id": "3.8.5",
+                    "cell_text": "3.33 × 10 -3"
+                  },
+                  {
+                    "cell_id": "3.8.6",
+                    "cell_text": "5.49 × 10 -6"
+                  },
+                  {
+                    "cell_id": "3.8.7",
+                    "cell_text": "Upstream of  MUSK , downstream of  SVEP1"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 7.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.9.1",
+                    "cell_text": "rs1525739"
+                  },
+                  {
+                    "cell_id": "3.9.2",
+                    "cell_text": -0.58
+                  },
+                  {
+                    "cell_id": "3.9.3",
+                    "cell_text": -0.44
+                  },
+                  {
+                    "cell_id": "3.9.4",
+                    "cell_text": "7.85 × 10 -4"
+                  },
+                  {
+                    "cell_id": "3.9.5",
+                    "cell_text": "2.11 × 10 -3"
+                  },
+                  {
+                    "cell_id": "3.9.6",
+                    "cell_text": "6.26 × 10 -6"
+                  },
+                  {
+                    "cell_id": "3.9.7",
+                    "cell_text": "Downstream of  AGR3 , upstream of  AGR2"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.10.1",
+                    "cell_text": "rs10448267"
+                  },
+                  {
+                    "cell_id": "3.10.2",
+                    "cell_text": 0.94
+                  },
+                  {
+                    "cell_id": "3.10.3",
+                    "cell_text": 0.54
+                  },
+                  {
+                    "cell_id": "3.10.4",
+                    "cell_text": "2.58 × 10 -4"
+                  },
+                  {
+                    "cell_id": "3.10.5",
+                    "cell_text": "4.95 × 10 -3"
+                  },
+                  {
+                    "cell_id": "3.10.6",
+                    "cell_text": "6.58 × 10 -6"
+                  },
+                  {
+                    "cell_id": "3.10.7",
+                    "cell_text": "Upstream of  MUSK , downstream of  SVEP1"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 22.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.11.1",
+                    "cell_text": "rs470089"
+                  },
+                  {
+                    "cell_id": "3.11.2",
+                    "cell_text": -0.59
+                  },
+                  {
+                    "cell_id": "3.11.3",
+                    "cell_text": -0.55
+                  },
+                  {
+                    "cell_id": "3.11.4",
+                    "cell_text": "2.90 × 10 -3"
+                  },
+                  {
+                    "cell_id": "3.11.5",
+                    "cell_text": "9.43 × 10 -4"
+                  },
+                  {
+                    "cell_id": "3.11.6",
+                    "cell_text": "8.64 × 10 -6"
+                  },
+                  {
+                    "cell_id": "3.11.7",
+                    "cell_text": "Intron in  SULT4A1"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1184,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aModel controls for BMI (kg/m2) and age (years), both as continuous variables, continuous mg dietary heme intake per day, centered on the mean heme value for each cohort and eigenvectors 1–3 for NHS or eigenvectors 1–4 for HPFS. SNPs are coded as 0, 1, or 2 minor alleles.bBetas and p-values are from the β5 (gene variant × dietary heme iron intake) term in Model 3: T2D = β1 (BMI) + β2 (age) + β3 (dietary heme iron intake) + β4 (gene variant) + β5 (gene variant × dietary heme iron intake) + eigenvectors.cP for heterogeneity is >0.05 (lowest p-value is 0.4).HPFS, Health Professionals Follow-up Study; NHS, Nurses’ Health Study; MUSK, muscle, skeletal, receptor tyrosine kinase; SVEP1, Sushi, von Willebrand factor type A, EGF, and pentraxin domains-containing 1; TNRC6A, trinucleotide repeat-containing gene 6A; AGR3, anterior gradient 3; AGR2, anterior gradient 2; SULT4A1, sulfotransferase family 4A, member 1.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

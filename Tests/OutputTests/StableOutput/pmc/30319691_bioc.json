@@ -1,0 +1,1047 @@
+{
+  "source": "Auto-CORPus (full-text)",
+  "date": "20210927",
+  "key": "autocorpus_fulltext.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "30319691.html",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Genome-Wide Association and Mechanistic Studies Indicate That Immune Response Contributes to Alzheimer’s Disease Development",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 124,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "keywords section",
+                "iao_id": "IAO:0000630"
+              }
+            ],
+            "section_title_1": "keywords"
+          },
+          "text": "Alzheimer’s disease, GWAS, SNP, mechanism, transcription factor, binding affinity, regulation, immune disorders",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 243,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "NCBI GEO: archive for functional genomics data sets—update.",
+            "journal": "Nucleic Acids Res.",
+            "volume": "41",
+            "section_title_1": "References"
+          },
+          "text": "Barrett T., Wilhite S. E., Ledoux P., Evangelista C., Kim I. F., Tomashevsky M., et al.  (2012). NCBI GEO: archive for functional genomics data sets—update.\nNucleic Acids Res.\n41\nD991–D995. 10.1093/nar/gks1193\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 519,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The genetics of Alzheimer Disease: back to the future.",
+            "journal": "Neuron",
+            "volume": "68",
+            "section_title_1": "References"
+          },
+          "text": "Bertram L., Lill C. M., Tanzi R. E. (2010). The genetics of Alzheimer Disease: back to the future.\nNeuron\n68\n270–281. 10.1016/j.neuron.2010.10.013\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 703,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Microarray analyses of laser-captured hippocampus reveal distinct gray and white matter signatures associated with incipient Alzheimer’s disease.",
+            "journal": "J. Chem. Neuroanat.",
+            "volume": "42",
+            "section_title_1": "References"
+          },
+          "text": "Blalock E. M., Buechel H. M., Popovic J., Geddes J. W., Landfield P. W. (2011). Microarray analyses of laser-captured hippocampus reveal distinct gray and white matter signatures associated with incipient Alzheimer’s disease.\nJ. Chem. Neuroanat.\n42\n118–126. 10.1016/j.jchemneu.2011.06.007\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1048,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "CSF phosphorylated tau protein correlates with neocortical neurofibrillary pathology in Alzheimer’s disease.",
+            "journal": "Brain",
+            "volume": "129",
+            "section_title_1": "References"
+          },
+          "text": "Buerger K., Ewers M., Pirttila T., Zinkowski R., Alafuzoff I., Teipel S. J., et al.  (2006). CSF phosphorylated tau protein correlates with neocortical neurofibrillary pathology in Alzheimer’s disease.\nBrain\n129\n3035–3041. 10.1093/brain/awl269\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1329,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "journal": "snpStats: SnpMatrix and XSnpMatrix classes and methods. R Package.",
+            "section_title_1": "References"
+          },
+          "text": "Clayton D. (2012). snpStats: SnpMatrix and XSnpMatrix classes and methods. R Package. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1431,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The Catenin p120 ctn Interacts with Kaiso, a novel BTB/POZ domain zinc finger transcription factor.",
+            "journal": "Mol. Cell. Biol.",
+            "volume": "19",
+            "section_title_1": "References"
+          },
+          "text": "Daniel J. M., Reynolds A. B. (1999). The Catenin p120 ctn Interacts with Kaiso, a novel BTB/POZ domain zinc finger transcription factor.\nMol. Cell. Biol.\n19\n3614–3623. 10.1128/MCB.19.5.3614\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1677,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Effects of age, sex, and ethnicity on the association between apolipoprotein e genotype and Alzheimer disease: a meta-analysis.",
+            "journal": "JAMA",
+            "volume": "278",
+            "section_title_1": "References"
+          },
+          "text": "Farrer L. A. (1997). Effects of age, sex, and ethnicity on the association between apolipoprotein e genotype and Alzheimer disease: a meta-analysis.\nJAMA\n278\n1349–1356. 10.1001/jama.1997.03550160069041\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1916,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The Alzheimer’s Disease Assessment Scale-Cognitive subscale: normative data for older adult controls.",
+            "journal": "Alzheimer Dis. Assoc. Disord.",
+            "volume": "18",
+            "section_title_1": "References"
+          },
+          "text": "Graham D. P., Cully J. A., Snow A. L., Massman P., Doody R. (2004). The Alzheimer’s Disease Assessment Scale-Cognitive subscale: normative data for older adult controls.\nAlzheimer Dis. Assoc. Disord.\n18\n236–240. [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2153,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Total and phosphorylated tau protein as biological markers of Alzheimer’s disease.",
+            "journal": "Exp. Gerontol.",
+            "volume": "45",
+            "section_title_1": "References"
+          },
+          "text": "Hampel H., Blennow K., Shaw L. M., Hoessler Y. C., Zetterberg H., Trojanowski J. Q. (2010). Total and phosphorylated tau protein as biological markers of Alzheimer’s disease.\nExp. Gerontol.\n45\n30–40. 10.1016/j.exger.2009.10.010\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2437,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimer’s disease.",
+            "journal": "Nat. Genet.",
+            "volume": "41",
+            "section_title_1": "References"
+          },
+          "text": "Harold D., Abraham R., Hollingworth P., Sims R., Gerrish A., Hamshere M. L., et al.  (2009). Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimer’s disease.\nNat. Genet.\n41\n1088–1093. 10.1038/ng.440\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2732,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Transient increase in total tau but not phospho-tau in human cerebrospinal fluid after acute stroke.",
+            "journal": "Neurosci. Lett.",
+            "volume": "297",
+            "section_title_1": "References"
+          },
+          "text": "Hesse C., Rosengren L., Andreasen N., Davidsson P., Vanderstichele H., Vanmechelen E., et al.  (2001). Transient increase in total tau but not phospho-tau in human cerebrospinal fluid after acute stroke.\nNeurosci. Lett.\n297\n187–190. 10.1016/S0304-3940(00)01697-9 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 3031,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Post-mortem correlates of in vivo PiB-PET amyloid imaging in a typical case of Alzheimer’s disease.",
+            "journal": "Brain",
+            "volume": "131",
+            "section_title_1": "References"
+          },
+          "text": "Ikonomovic M. D., Klunk W. E., Abrahamson E. E., Mathis C. A., Price J. C., Tsopelas N. D., et al.  (2008). Post-mortem correlates of in vivo PiB-PET amyloid imaging in a typical case of Alzheimer’s disease.\nBrain\n131\n1630–1645. 10.1093/brain/awn016\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 3337,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Herpes simplex virus type 1 in Alzheimer’s Disease: the enemy within.",
+            "journal": "J. Alzheimers Dis.",
+            "volume": "13",
+            "section_title_1": "References"
+          },
+          "text": "Itzhaki R. F., Wozniak M. A. (2008). Herpes simplex virus type 1 in Alzheimer’s Disease: the enemy within.\nJ. Alzheimers Dis.\n13\n393–405. 10.3233/JAD-2008-13405 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 3534,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Integrating genomics and proteomics data to predict drug effects using binary linear programming.",
+            "journal": "PLoS One",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "Ji Z., Su J., Liu C., Wang H., Huang D., Zhou X. (2014). Integrating genomics and proteomics data to predict drug effects using binary linear programming.\nPLoS One\n9:e102798. 10.1371/journal.pone.0102798\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 3794,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The human genome browser at UCSC.",
+            "journal": "Genome Res.",
+            "volume": "12",
+            "section_title_1": "References"
+          },
+          "text": "Kent W. J., Sugnet C. W., Furey T. S., Roskin K. M., Pringle T. H., Zahler A. M., et al.  (2002). The human genome browser at UCSC.\nGenome Res.\n12\n996–1006. 10.1101/gr.229102\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4025,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A unique microglia type associated with restricting development of Alzheimer’s Disease.",
+            "journal": "Cell",
+            "volume": "169",
+            "section_title_1": "References"
+          },
+          "text": "Keren-Shaul H., Spinrad A., Weiner A., Matcovitch-Natan O., Dvir-Szternfeld R., Ulland T. K., et al.  (2017). A unique microglia type associated with restricting development of Alzheimer’s Disease.\nCell\n169\n1276.e17–1290.e17. 10.1016/j.cell.2017.05.018\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4315,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "JASPAR 2018: update of the open-access database of transcription factor binding profiles and its web framework.",
+            "journal": "Nucleic Acids Res.",
+            "volume": "46",
+            "section_title_1": "References"
+          },
+          "text": "Khan A., Fornes O., Stigliani A., Gheorghe M., Castro-Mondragon J. A., van der Lee R., et al.  (2018). JASPAR 2018: update of the open-access database of transcription factor binding profiles and its web framework.\nNucleic Acids Res.\n46\nD260–D266. 10.1093/nar/gkx1126\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4639,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Systematic discovery and characterization of regulatory motifs in ENCODE TF binding experiments.",
+            "journal": "Nucleic Acids Res.",
+            "volume": "42",
+            "section_title_1": "References"
+          },
+          "text": "Kheradpour P., Kellis M. (2014). Systematic discovery and characterization of regulatory motifs in ENCODE TF binding experiments.\nNucleic Acids Res.\n42\n2976–2987. 10.1093/nar/gkt1249\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4878,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "TREM2-ligand interactions in health and disease.",
+            "journal": "J. Mol. Biol.",
+            "volume": "429",
+            "section_title_1": "References"
+          },
+          "text": "Kober D. L., Brett T. J. (2017). TREM2-ligand interactions in health and disease.\nJ. Mol. Biol.\n429\n1607–1629. 10.1016/j.jmb.2017.04.004\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 5071,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Amyloid-β peptide protects against microbial infection in mouse and worm models of Alzheimer’s disease.",
+            "journal": "Sci. Transl. Med.",
+            "volume": "8",
+            "section_title_1": "References"
+          },
+          "text": "Kumar D. K. V., Choi S. H., Washicosky K. J., Eimer W. A., Tucker S., Ghofrani J., et al.  (2016). Amyloid-β peptide protects against microbial infection in mouse and worm models of Alzheimer’s disease.\nSci. Transl. Med.\n8:340ra72. 10.1126/scitranslmed.aaf1059\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 5388,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Candidate single-nucleotide polymorphisms from a genomewide association study of Alzheimer Disease.",
+            "journal": "Arch. Neurol.",
+            "volume": "65",
+            "section_title_1": "References"
+          },
+          "text": "Li H., Wetten S., Li L., St. Jean P. L., Upmanyu R., Surh L., et al.  (2008). Candidate single-nucleotide polymorphisms from a genomewide association study of Alzheimer Disease.\nArch. Neurol.\n65\n45–53. 10.1001/archneurol.2007.3\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 5653,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide association and interaction studies of CSF T-tau/Aβ 42 ratio in ADNI cohort.",
+            "journal": "Neurobiol. Aging",
+            "volume": "57",
+            "section_title_1": "References"
+          },
+          "text": "Li J., Zhang Q., Chen F., Meng X., Liu W., Chen D., et al.  (2017). Genome-wide association and interaction studies of CSF T-tau/Aβ 42 ratio in ADNI cohort.\nNeurobiol. Aging\n57\n247.e1–247.e8. 10.1016/j.neurobiolaging.2017.05.007\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 5938,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Apolipoprotein E and Alzheimer disease: risk, mechanisms and therapy.",
+            "journal": "Nat. Rev. Neurol.",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "Liu C.-C., Kanekiyo T., Xu H., Bu G. (2013). Apolipoprotein E and Alzheimer disease: risk, mechanisms and therapy.\nNat. Rev. Neurol.\n9\n106–118. 10.1038/nrneurol.2012.263\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 6164,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The human poliovirus receptor related 2 protein is a new hematopoietic/endothelial homophilic adhesion molecule.",
+            "journal": "Blood",
+            "volume": "92",
+            "section_title_1": "References"
+          },
+          "text": "Lopez M., Aoubala M., Jordier F., Isnardon D., Gomez S., Dubreuil P. (1998). The human poliovirus receptor related 2 protein is a new hematopoietic/endothelial homophilic adhesion molecule.\nBlood\n92\n4602–4611.  [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 6400,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Regulation of cell adhesion and collective cell migration by hindsight and its human homolog RREB1.",
+            "journal": "Curr. Biol.",
+            "volume": "18",
+            "section_title_1": "References"
+          },
+          "text": "Melani M., Simpson K. J., Brugge J. S., Montell D. (2008). Regulation of cell adhesion and collective cell migration by hindsight and its human homolog RREB1.\nCurr. Biol.\n18\n532–537. 10.1016/j.cub.2008.03.024\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 6646,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "APOE ε4: the most prevalent yet understudied risk factor for Alzheimer’s disease.",
+            "journal": "Alzheimers Dement.",
+            "volume": "10",
+            "section_title_1": "References"
+          },
+          "text": "Michaelson D. M. (2014). APOE ε4: the most prevalent yet understudied risk factor for Alzheimer’s disease.\nAlzheimers Dement.\n10\n861–868. 10.1016/j.jalz.2014.06.015\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 6848,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Tau Proteins in the temporal and frontal cortices in patients with vascular dementia.",
+            "journal": "J. Neuropathol. Exp. Neurol.",
+            "volume": "74",
+            "section_title_1": "References"
+          },
+          "text": "Mukaetova-Ladinska E. B., Abdel-All Z., Mugica E. S., Li M., Craggs L. J. L., Oakley A. E., et al.  (2015). Tau Proteins in the temporal and frontal cortices in patients with vascular dementia.\nJ. Neuropathol. Exp. Neurol.\n74\n148–157. 10.1097/NEN.0000000000000157\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7149,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Decreased β-amyloid peptide42 in cerebrospinal fluid of patients with progressive supranuclear palsy and corticobasal degeneration.",
+            "journal": "J. Neurol. Sci.",
+            "volume": "237",
+            "section_title_1": "References"
+          },
+          "text": "Noguchi M., Yoshita M., Matsumoto Y., Ono K., Iwasa K., Yamada M. (2005). Decreased β-amyloid peptide42 in cerebrospinal fluid of patients with progressive supranuclear palsy and corticobasal degeneration.\nJ. Neurol. Sci.\n237\n61–65. 10.1016/j.jns.2005.05.015\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7445,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Initial CSF total tau correlates with 1-year outcome in patients with traumatic brain injury.",
+            "journal": "Neurology",
+            "volume": "67",
+            "section_title_1": "References"
+          },
+          "text": "Ost M., Nylen K., Csajbok L., Ohrfelt A. O., Tullberg M., Wikkelso C., et al.  (2006). Initial CSF total tau correlates with 1-year outcome in patients with traumatic brain injury.\nNeurology\n67\n1600–1604. 10.1212/01.wnl.0000242732.06714.0f\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7722,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "SwissRegulon, a database of genome-wide annotations of regulatory sites: recent updates.",
+            "journal": "Nucleic Acids Res.",
+            "volume": "41",
+            "section_title_1": "References"
+          },
+          "text": "Pachkov M., Balwierz P. J., Arnold P., Ozonov E., van Nimwegen E. (2012). SwissRegulon, a database of genome-wide annotations of regulatory sites: recent updates.\nNucleic Acids Res.\n41\nD214–D220. 10.1093/nar/gks1145\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7994,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "HSV-1 promotes Ca2 + -mediated APP phosphorylation and Aβ accumulation in rat cortical neurons.",
+            "journal": "Neurobiol. Aging",
+            "volume": "32",
+            "section_title_1": "References"
+          },
+          "text": "Piacentini R., Civitelli L., Ripoli C., Marcocci M. E., De Chiara G., Garaci E., et al.  (2011). HSV-1 promotes Ca2 + -mediated APP phosphorylation and Aβ accumulation in rat cortical neurons.\nNeurobiol. Aging\n32\n2323.e13–2323.e26. 10.1016/j.neurobiolaging.2010.06.009\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 8300,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Alzheimer’s Disease assessment scale–cognitive subscale variants in mild cognitive impairment and mild Alzheimer’s disease: change over time and the effect of enrichment strategies.",
+            "journal": "Alzheimers Res. Ther.",
+            "volume": "8",
+            "section_title_1": "References"
+          },
+          "text": "Podhorna J., Krahnke T., Shear M., Harrison J. E.\nfor the Alzheimer’s Disease Neuroimaging Initiative (2016). Alzheimer’s Disease assessment scale–cognitive subscale variants in mild cognitive impairment and mild Alzheimer’s disease: change over time and the effect of enrichment strategies.\nAlzheimers Res. Ther.\n8:8. 10.1186/s13195-016-0170-5\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 8701,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Alzheimer’s disease gene signature says: beware of brain viral infections.",
+            "journal": "Immun. Ageing",
+            "volume": "7",
+            "section_title_1": "References"
+          },
+          "text": "Porcellini E., Carbone I., Ianni M., Licastro F. (2010). Alzheimer’s disease gene signature says: beware of brain viral infections.\nImmun. Ageing\n7:16. 10.1186/1742-4933-7-16\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 8932,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Mutant genes in familial Alzheimer’s disease and transgenic models.",
+            "journal": "Annu. Rev. Neurosci.",
+            "volume": "21",
+            "section_title_1": "References"
+          },
+          "text": "Price D. L., Sisodia S. S. (1998). Mutant genes in familial Alzheimer’s disease and transgenic models.\nAnnu. Rev. Neurosci.\n21\n479–505. [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9093,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Tangles and plaques in nondemented aging and “preclinical” Alzheimer’s disease.",
+            "journal": "Ann. Neurol.",
+            "volume": "45",
+            "section_title_1": "References"
+          },
+          "text": "Price J. L., Morris J. C. (1999). Tangles and plaques in nondemented aging and “preclinical” Alzheimer’s disease.\nAnn. Neurol.\n45\n358–368. [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9257,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "journal": "R: A Language and Environment for Statistical Computing.",
+            "section_title_1": "References"
+          },
+          "text": "R Core Team (2013). R: A Language and Environment for Statistical Computing.\nVienna: R Core Team. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9371,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Multiscale analysis of independent Alzheimer’s cohorts finds disruption of molecular, genetic, and clinical networks by human herpesvirus.",
+            "journal": "Neuron",
+            "volume": "99",
+            "section_title_1": "References"
+          },
+          "text": "Readhead B., Haure-Mirande J.-V., Funk C. C., Richards M. A., Shannon P., Haroutunian V., et al.  (2018). Multiscale analysis of independent Alzheimer’s cohorts finds disruption of molecular, genetic, and clinical networks by human herpesvirus.\nNeuron\n99\n64.e7–82.e7. 10.1016/j.neuron.2018.05.023\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9724,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "limma powers differential expression analyses for RNA-sequencing and microarray studies.",
+            "journal": "Nucleic Acids Res.",
+            "volume": "43",
+            "section_title_1": "References"
+          },
+          "text": "Ritchie M. E., Phipson B., Wu D., Hu Y., Law C. W., Shi W., et al.  (2015). limma powers differential expression analyses for RNA-sequencing and microarray studies.\nNucleic Acids Res.\n43:e47. 10.1093/nar/gkv007\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9991,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Alzheimer’s Disease Neuroimaging Initiative biomarkers as quantitative phenotypes: genetics core aims, progress, and plans.",
+            "journal": "Alzheimers Dement.",
+            "volume": "6",
+            "section_title_1": "References"
+          },
+          "text": "Saykin A. J., Shen L., Foroud T. M., Potkin S. G., Swaminathan S., Kim S., et al.  (2010). Alzheimer’s Disease Neuroimaging Initiative biomarkers as quantitative phenotypes: genetics core aims, progress, and plans.\nAlzheimers Dement.\n6\n265–273. 10.1016/j.jalz.2010.03.013\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10319,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "AMYLOID-PET concordance of Elecsys® CSF biomarker immunoassays for Alzheimer’s Disease.",
+            "journal": "Alzheimers Dement.",
+            "volume": "13",
+            "section_title_1": "References"
+          },
+          "text": "Seibyl J., Shaw L. M., Blennow K., Widmann M., Corradini V., Wahl S., et al.  (2017). AMYLOID-PET concordance of Elecsys® CSF biomarker immunoassays for Alzheimer’s Disease.\nAlzheimers Dement.\n13\n199–200. 10.1016/j.jalz.2017.07.062\n [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10579,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Matrix eQTL: ultra fast eQTL analysis via large matrix operations.",
+            "journal": "Bioinformatics",
+            "volume": "28",
+            "section_title_1": "References"
+          },
+          "text": "Shabalin A. A. (2012). Matrix eQTL: ultra fast eQTL analysis via large matrix operations.\nBioinformatics\n28\n1353–1358. 10.1093/bioinformatics/bts163\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10784,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "journal": "MotifDb: An annotated collection of protein-DNA binding sequence motifs. R Package Version 1.",
+            "section_title_1": "References"
+          },
+          "text": "Shannon P. (2014). MotifDb: An annotated collection of protein-DNA binding sequence motifs. R Package Version 1. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10913,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Cerebrospinal fluid biomarker signature in Alzheimer’s disease neuroimaging initiative subjects.",
+            "journal": "Ann. Neurol.",
+            "volume": "65",
+            "section_title_1": "References"
+          },
+          "text": "Shaw L. M., Vanderstichele H., Knapik-Czajka M., Clark C. M., Aisen P. S., Petersen R. C., et al.  (2009). Cerebrospinal fluid biomarker signature in Alzheimer’s disease neuroimaging initiative subjects.\nAnn. Neurol.\n65\n403–413. 10.1002/ana.21610\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11216,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "LDheatmap: an R function for graphical display of pairwise linkage disequilibria between single nucleotide polymorphisms.",
+            "journal": "J. Stat. Softw.",
+            "volume": "16",
+            "section_title_1": "References"
+          },
+          "text": "Shin J.-H., Blay S., Graham J., McNeney B. (2006). LDheatmap: an R function for graphical display of pairwise linkage disequilibria between single nucleotide polymorphisms.\nJ. Stat. Softw.\n16\n1–9. 10.18637/jss.v016.c03 [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11462,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Herpes simplex virus: receptors and ligands for cell entry.",
+            "journal": "Cell. Microbiol.",
+            "volume": "6",
+            "section_title_1": "References"
+          },
+          "text": "Spear P. G. (2004). Herpes simplex virus: receptors and ligands for cell entry.\nCell. Microbiol.\n6\n401–410. 10.1111/j.1462-5822.2004.00389.x\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11640,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Nectin and afadin: novel organizers of intercellular junctions.",
+            "journal": "J. Cell Sci.",
+            "volume": "116",
+            "section_title_1": "References"
+          },
+          "text": "Takai Y. (2003). Nectin and afadin: novel organizers of intercellular junctions.\nJ. Cell Sci.\n116\n17–27. 10.1242/jcs.00167\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11800,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "New scoring methodology improves the sensitivity of the Alzheimer’s Disease Assessment Scale-Cognitive subscale (ADAS-Cog) in clinical trials.",
+            "journal": "Alzheimers Res. Ther.",
+            "volume": "7",
+            "section_title_1": "References"
+          },
+          "text": "The Alzheimer’s Disease Neuroimaging Initiative\nVerma N., Beretvas S. N., Pascual B., Masdeu J. C., Markey M. K. (2015). New scoring methodology improves the sensitivity of the Alzheimer’s Disease Assessment Scale-Cognitive subscale (ADAS-Cog) in clinical trials.\nAlzheimers Res. Ther.\n7\n49–52. 10.1186/s13195-015-0151-0\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12177,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "qqman: an R package for visualizing GWAS results using Q-Q and manhattan plots.",
+            "journal": "bioRxiv",
+            "section_title_1": "References"
+          },
+          "text": "Turner S. D. (2014). qqman: an R package for visualizing GWAS results using Q-Q and manhattan plots.\nbioRxiv\n[Preprint]\n10.1101/005165 [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12339,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "PLAG1, the prototype of the PLAG gene family: versatility in tumour development (Review).",
+            "journal": "Int. J. Oncol.",
+            "volume": "30",
+            "section_title_1": "References"
+          },
+          "text": "Van Dyck F., Declercq J., Braem C., Van de Ven W. (2007). PLAG1, the prototype of the PLAG gene family: versatility in tumour development (Review).\nInt. J. Oncol.\n30\n765–774. 10.3892/ijo.30.4.765\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12572,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Gender-Specific gene expression in post-mortem human brain: localization to sex chromosomes.",
+            "journal": "Neuropsychopharmacology",
+            "volume": "29",
+            "section_title_1": "References"
+          },
+          "text": "Vawter M. P., Evans S., Choudary P., Tomita H., Meador-Woodruff J., Molnar M., et al.  (2004). Gender-Specific gene expression in post-mortem human brain: localization to sex chromosomes.\nNeuropsychopharmacology\n29\n373–384. 10.1038/sj.npp.1300337\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12875,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "HaploReg: a resource for exploring chromatin states, conservation, and regulatory motif alterations within sets of genetically linked variants.",
+            "journal": "Nucleic Acids Res.",
+            "volume": "40",
+            "section_title_1": "References"
+          },
+          "text": "Ward L. D., Kellis M. (2012). HaploReg: a resource for exploring chromatin states, conservation, and regulatory motif alterations within sets of genetically linked variants.\nNucleic Acids Res.\n40\nD930–D934. 10.1093/nar/gkr917\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 13157,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A cell surface protein with herpesvirus entry activity (HveB) confers susceptibility to infection by mutants of herpes simplex Virus Type 1, herpes simplex virus type 2, and pseudorabies virus.",
+            "journal": "Virology",
+            "volume": "246",
+            "section_title_1": "References"
+          },
+          "text": "Warner M. S., Geraghty R. J., Martinez W. M., Montgomery R. I., Whitbeck J. C., Xu R., et al.  (1998). A cell surface protein with herpesvirus entry activity (HveB) confers susceptibility to infection by mutants of herpes simplex Virus Type 1, herpes simplex virus type 2, and pseudorabies virus.\nVirology\n246\n179–189. 10.1006/viro.1998.9218\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 13536,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Herpes simplex virus infection causes cellular β-amyloid accumulation and secretase upregulation.",
+            "journal": "Neurosci. Lett.",
+            "volume": "429",
+            "section_title_1": "References"
+          },
+          "text": "Wozniak M. A., Itzhaki R. F., Shipley S. J., Dobson C. B. (2007). Herpes simplex virus infection causes cellular β-amyloid accumulation and secretase upregulation.\nNeurosci. Lett.\n429\n95–100. 10.1016/j.neulet.2007.09.077\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

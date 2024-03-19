@@ -1,0 +1,122 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "30693016.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "SBERIA",
+          "text_long": "Set-Based gene-EnviRonment InterAction test”"
+        },
+        {
+          "text_short": "GESAT",
+          "text_long": "gene-environment set association test”"
+        },
+        {
+          "text_short": "SNP",
+          "text_long": "Single-nucleotide polymorphism"
+        },
+        {
+          "text_short": "TWB",
+          "text_long": "Taiwan Biobank"
+        },
+        {
+          "text_short": "DBP",
+          "text_long": "diastolic blood pressure"
+        },
+        {
+          "text_short": "SBP",
+          "text_long": "systolic blood pressure"
+        },
+        {
+          "text_short": "GLM",
+          "text_long": "generalized linear model"
+        },
+        {
+          "text_short": "MLE",
+          "text_long": "maximum likelihood estimate"
+        },
+        {
+          "text_short": "BF",
+          "text_long": "Bayes factor"
+        },
+        {
+          "text_short": "LD",
+          "text_long": "linkage disequilibrium"
+        },
+        {
+          "text_short": "IBD",
+          "text_long": "identity by descent"
+        },
+        {
+          "text_short": "PCs",
+          "text_long": "principal components"
+        },
+        {
+          "text_short": "BMI",
+          "text_long": "body mass index"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "SBERIA",
+          "text_long": "Set-Based gene-EnviRonment InterAction test”"
+        },
+        {
+          "text_short": "GESAT",
+          "text_long": "gene-environment set association test”"
+        },
+        {
+          "text_short": "SNP",
+          "text_long": "Single-nucleotide polymorphism"
+        },
+        {
+          "text_short": "TWB",
+          "text_long": "Taiwan Biobank"
+        },
+        {
+          "text_short": "DBP",
+          "text_long": "diastolic blood pressure"
+        },
+        {
+          "text_short": "SBP",
+          "text_long": "systolic blood pressure"
+        },
+        {
+          "text_short": "GLM",
+          "text_long": "generalized linear model"
+        },
+        {
+          "text_short": "MLE",
+          "text_long": "maximum likelihood estimate"
+        },
+        {
+          "text_short": "BF",
+          "text_long": "Bayes factor"
+        },
+        {
+          "text_short": "LD",
+          "text_long": "linkage disequilibrium"
+        },
+        {
+          "text_short": "IBD",
+          "text_long": "identity by descent"
+        },
+        {
+          "text_short": "PCs",
+          "text_long": "principal components"
+        },
+        {
+          "text_short": "BMI",
+          "text_long": "body mass index"
+        }
+      ]
+    }
+  ]
+}

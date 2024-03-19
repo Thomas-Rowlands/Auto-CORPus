@@ -1,0 +1,50 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "27047539.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "EOC",
+          "text_long": "epithelial ovarian cancer"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "genome-wide association scans"
+        },
+        {
+          "text_short": "EBV",
+          "text_long": "Epstein Barr Virus"
+        },
+        {
+          "text_short": "LRP1B",
+          "text_long": "lipoprotein receptor-related protein 1B"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "EOC",
+          "text_long": "epithelial ovarian cancer"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "genome-wide association scans"
+        },
+        {
+          "text_short": "EBV",
+          "text_long": "Epstein Barr Virus"
+        },
+        {
+          "text_short": "LRP1B",
+          "text_long": "lipoprotein receptor-related protein 1B"
+        }
+      ]
+    }
+  ]
+}

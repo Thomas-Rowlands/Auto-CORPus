@@ -1,0 +1,95 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "23386860.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "abbreviations_section",
+      "passages": [
+        {
+          "text_short": "1-df test",
+          "text_long": "one degree of freedom gene–environment interaction test"
+        },
+        {
+          "text_short": "2-df test",
+          "text_long": "two degree of freedom gene–environment interaction test"
+        },
+        {
+          "text_short": "HH",
+          "text_long": "hereditary hemochromatosis"
+        },
+        {
+          "text_short": "HPFS",
+          "text_long": "Health Professionals Follow-Up Study"
+        },
+        {
+          "text_short": "NHS",
+          "text_long": "Nurses’ Health Study"
+        },
+        {
+          "text_short": "QC",
+          "text_long": "quality control"
+        },
+        {
+          "text_short": "SNP",
+          "text_long": "single nucleotide polymorphism"
+        },
+        {
+          "text_short": "T2D",
+          "text_long": "type 2 diabetes."
+        }
+      ]
+    },
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "MUSK",
+          "text_long": "muscle, skeletal, receptor tyrosine kinase"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "T2D",
+          "text_long": "type 2 diabetes."
+        },
+        {
+          "text_short": "MUSK",
+          "text_long": "muscle, skeletal, receptor tyrosine kinase"
+        },
+        {
+          "text_short": "1-df test",
+          "text_long": "one degree of freedom gene–environment interaction test"
+        },
+        {
+          "text_short": "2-df test",
+          "text_long": "two degree of freedom gene–environment interaction test"
+        },
+        {
+          "text_short": "HH",
+          "text_long": "hereditary hemochromatosis"
+        },
+        {
+          "text_short": "HPFS",
+          "text_long": "Health Professionals Follow-Up Study"
+        },
+        {
+          "text_short": "NHS",
+          "text_long": "Nurses’ Health Study"
+        },
+        {
+          "text_short": "QC",
+          "text_long": "quality control"
+        },
+        {
+          "text_short": "SNP",
+          "text_long": "single nucleotide polymorphism"
+        }
+      ]
+    }
+  ]
+}

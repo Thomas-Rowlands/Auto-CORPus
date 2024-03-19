@@ -1,0 +1,1598 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "29628937.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Sample characteristics.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 30,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": ""
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": ""
+            },
+            {
+              "cell_id": "1.1.3",
+              "cell_text": "Framingham Offspring Cohort"
+            },
+            {
+              "cell_id": "1.1.4",
+              "cell_text": "PIVUS"
+            },
+            {
+              "cell_id": "1.1.5",
+              "cell_text": "NSPHS"
+            },
+            {
+              "cell_id": "1.1.6",
+              "cell_text": "Sydney MAS"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": "Sample size a  (Model 1/Model 2)"
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": "Sample size a  (Model 1/Model 2)"
+                  },
+                  {
+                    "cell_id": "1.2.3",
+                    "cell_text": "2796/2791"
+                  },
+                  {
+                    "cell_id": "1.2.4",
+                    "cell_text": "898/898"
+                  },
+                  {
+                    "cell_id": "1.2.5",
+                    "cell_text": "939/939"
+                  },
+                  {
+                    "cell_id": "1.2.6",
+                    "cell_text": "807/807"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": "Age (years; mean ± SD, range)"
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": "Age (years; mean ± SD, range)"
+                  },
+                  {
+                    "cell_id": "1.3.3",
+                    "cell_text": "59 ± 10, 30–79"
+                  },
+                  {
+                    "cell_id": "1.3.4",
+                    "cell_text": "70 ± 0.2, 69–72"
+                  },
+                  {
+                    "cell_id": "1.3.5",
+                    "cell_text": "50.4 ± 20.0, 14–94"
+                  },
+                  {
+                    "cell_id": "1.3.6",
+                    "cell_text": "78 ± 4.7, 70–91"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.4.1",
+                    "cell_text": "%Female"
+                  },
+                  {
+                    "cell_id": "1.4.2",
+                    "cell_text": "%Female"
+                  },
+                  {
+                    "cell_id": "1.4.3",
+                    "cell_text": 56.0
+                  },
+                  {
+                    "cell_id": "1.4.4",
+                    "cell_text": 50.7
+                  },
+                  {
+                    "cell_id": "1.4.5",
+                    "cell_text": 47.0
+                  },
+                  {
+                    "cell_id": "1.4.6",
+                    "cell_text": 53.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.5.1",
+                    "cell_text": "Systolic blood pressure (mm Hg; mean ± SD)"
+                  },
+                  {
+                    "cell_id": "1.5.2",
+                    "cell_text": "Systolic blood pressure (mm Hg; mean ± SD)"
+                  },
+                  {
+                    "cell_id": "1.5.3",
+                    "cell_text": "128.32 ± 18.68"
+                  },
+                  {
+                    "cell_id": "1.5.4",
+                    "cell_text": "149.55 ± 22.51"
+                  },
+                  {
+                    "cell_id": "1.5.5",
+                    "cell_text": "125.14 ± 18.15"
+                  },
+                  {
+                    "cell_id": "1.5.6",
+                    "cell_text": "146.08 ± 22.03"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.6.1",
+                    "cell_text": "Use of antihypertensives (%)"
+                  },
+                  {
+                    "cell_id": "1.6.2",
+                    "cell_text": "Use of antihypertensives (%)"
+                  },
+                  {
+                    "cell_id": "1.6.3",
+                    "cell_text": 25.7
+                  },
+                  {
+                    "cell_id": "1.6.4",
+                    "cell_text": 29.5
+                  },
+                  {
+                    "cell_id": "1.6.5",
+                    "cell_text": 5.74
+                  },
+                  {
+                    "cell_id": "1.6.6",
+                    "cell_text": 49.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.7.1",
+                    "cell_text": "Diabetes mellitus (%)"
+                  },
+                  {
+                    "cell_id": "1.7.2",
+                    "cell_text": "Diabetes mellitus (%)"
+                  },
+                  {
+                    "cell_id": "1.7.3",
+                    "cell_text": 9.9
+                  },
+                  {
+                    "cell_id": "1.7.4",
+                    "cell_text": 10.5
+                  },
+                  {
+                    "cell_id": "1.7.5",
+                    "cell_text": 1.2
+                  },
+                  {
+                    "cell_id": "1.7.6",
+                    "cell_text": 14.5
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.8.1",
+                    "cell_text": "Current smoking (%)"
+                  },
+                  {
+                    "cell_id": "1.8.2",
+                    "cell_text": "Current smoking (%)"
+                  },
+                  {
+                    "cell_id": "1.8.3",
+                    "cell_text": 15.6
+                  },
+                  {
+                    "cell_id": "1.8.4",
+                    "cell_text": 12.0
+                  },
+                  {
+                    "cell_id": "1.8.5",
+                    "cell_text": 14.46
+                  },
+                  {
+                    "cell_id": "1.8.6",
+                    "cell_text": 13.9
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.9.1",
+                    "cell_text": "BMI (kg/m 2 )"
+                  },
+                  {
+                    "cell_id": "1.9.2",
+                    "cell_text": "BMI (kg/m 2 )"
+                  },
+                  {
+                    "cell_id": "1.9.3",
+                    "cell_text": "27.4 ± 5.0"
+                  },
+                  {
+                    "cell_id": "1.9.4",
+                    "cell_text": "27.0 ± 4.5"
+                  },
+                  {
+                    "cell_id": "1.9.5",
+                    "cell_text": "26.7 ± 4.8"
+                  },
+                  {
+                    "cell_id": "1.9.6",
+                    "cell_text": "27.1 ± 4.5"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.10.1",
+                    "cell_text": "MIC-1/GDF15"
+                  },
+                  {
+                    "cell_id": "1.10.2",
+                    "cell_text": "Overall"
+                  },
+                  {
+                    "cell_id": "1.10.3",
+                    "cell_text": "1165 ± 625"
+                  },
+                  {
+                    "cell_id": "1.10.4",
+                    "cell_text": "1212 ± 410"
+                  },
+                  {
+                    "cell_id": "1.10.5",
+                    "cell_text": "3.64 ± 1.15 b"
+                  },
+                  {
+                    "cell_id": "1.10.6",
+                    "cell_text": "1295.68 ± 661.90"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.11.1",
+                    "cell_text": "blood concentration (ng/L)"
+                  },
+                  {
+                    "cell_id": "1.11.2",
+                    "cell_text": "Male"
+                  },
+                  {
+                    "cell_id": "1.11.3",
+                    "cell_text": "1180 ± 637 ( n  = 1316)"
+                  },
+                  {
+                    "cell_id": "1.11.4",
+                    "cell_text": "1257 ± 421 ( n  = 437)"
+                  },
+                  {
+                    "cell_id": "1.11.5",
+                    "cell_text": "3.62 ± 0.97 ( n  = 498) b"
+                  },
+                  {
+                    "cell_id": "1.11.6",
+                    "cell_text": "1431.55 ± 771.16 ( n  = 416)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.12.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "1.12.2",
+                    "cell_text": "Female"
+                  },
+                  {
+                    "cell_id": "1.12.3",
+                    "cell_text": "1153 ± 615 ( n  = 1675)"
+                  },
+                  {
+                    "cell_id": "1.12.4",
+                    "cell_text": "1162 ± 390 ( n  = 450)"
+                  },
+                  {
+                    "cell_id": "1.12.5",
+                    "cell_text": "3.67 ± 1.42 ( n  = 441) b"
+                  },
+                  {
+                    "cell_id": "1.12.6",
+                    "cell_text": "1175.93 ± 520.01 ( n  = 472)"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 962,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aNumber of GWAS participants. bNSPHS – Real-time polymerase chain reaction (PCR) results were used to measure MIC-1/GDF15 blood concentration.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "29628937.html",
+      "id": "2",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 2",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Genome-wide significant GWAS meta-analysis and replication results (Model 1).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 84,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "2.1.1",
+              "cell_text": "rsSNP ID"
+            },
+            {
+              "cell_id": "2.1.2",
+              "cell_text": "Base position (NCBI 37)"
+            },
+            {
+              "cell_id": "2.1.3",
+              "cell_text": "Nearest gene"
+            },
+            {
+              "cell_id": "2.1.4",
+              "cell_text": "Location relative to the nearest gene"
+            },
+            {
+              "cell_id": "2.1.5",
+              "cell_text": "Major/minor allele a"
+            },
+            {
+              "cell_id": "2.1.6",
+              "cell_text": "Discovery meta-analysis  p -value"
+            },
+            {
+              "cell_id": "2.1.7",
+              "cell_text": "Replication  p -value"
+            },
+            {
+              "cell_id": "2.1.8",
+              "cell_text": "All Cohorts combined meta-analysis  p -value"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": 19.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.2.1",
+                    "cell_text": "rs888663"
+                  },
+                  {
+                    "cell_id": "2.2.2",
+                    "cell_text": 18484922.0
+                  },
+                  {
+                    "cell_id": "2.2.3",
+                    "cell_text": "PGPEP1"
+                  },
+                  {
+                    "cell_id": "2.2.4",
+                    "cell_text": "Downstream"
+                  },
+                  {
+                    "cell_id": "2.2.5",
+                    "cell_text": "T/G"
+                  },
+                  {
+                    "cell_id": "2.2.6",
+                    "cell_text": 1.69e-35
+                  },
+                  {
+                    "cell_id": "2.2.7",
+                    "cell_text": 0.191
+                  },
+                  {
+                    "cell_id": "2.2.8",
+                    "cell_text": 2.644e-35
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.3.1",
+                    "cell_text": "rs3746181"
+                  },
+                  {
+                    "cell_id": "2.3.2",
+                    "cell_text": 18477017.0
+                  },
+                  {
+                    "cell_id": "2.3.3",
+                    "cell_text": "PGPEP1"
+                  },
+                  {
+                    "cell_id": "2.3.4",
+                    "cell_text": "3′ UTR"
+                  },
+                  {
+                    "cell_id": "2.3.5",
+                    "cell_text": "G/A"
+                  },
+                  {
+                    "cell_id": "2.3.6",
+                    "cell_text": 2.783e-35
+                  },
+                  {
+                    "cell_id": "2.3.7",
+                    "cell_text": 0.425
+                  },
+                  {
+                    "cell_id": "2.3.8",
+                    "cell_text": 1.839e-34
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.4.1",
+                    "cell_text": "rs1363120"
+                  },
+                  {
+                    "cell_id": "2.4.2",
+                    "cell_text": 18482304.0
+                  },
+                  {
+                    "cell_id": "2.4.3",
+                    "cell_text": "PGPEP1"
+                  },
+                  {
+                    "cell_id": "2.4.4",
+                    "cell_text": "Downstream"
+                  },
+                  {
+                    "cell_id": "2.4.5",
+                    "cell_text": "G/C"
+                  },
+                  {
+                    "cell_id": "2.4.6",
+                    "cell_text": 6.626e-35
+                  },
+                  {
+                    "cell_id": "2.4.7",
+                    "cell_text": 0.389
+                  },
+                  {
+                    "cell_id": "2.4.8",
+                    "cell_text": 3.737e-34
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.5.1",
+                    "cell_text": "rs749451"
+                  },
+                  {
+                    "cell_id": "2.5.2",
+                    "cell_text": 18479647.0
+                  },
+                  {
+                    "cell_id": "2.5.3",
+                    "cell_text": "PGPEP1"
+                  },
+                  {
+                    "cell_id": "2.5.4",
+                    "cell_text": "3′ UTR"
+                  },
+                  {
+                    "cell_id": "2.5.5",
+                    "cell_text": "C/T"
+                  },
+                  {
+                    "cell_id": "2.5.6",
+                    "cell_text": 2.105e-31
+                  },
+                  {
+                    "cell_id": "2.5.7",
+                    "cell_text": 0.154
+                  },
+                  {
+                    "cell_id": "2.5.8",
+                    "cell_text": 2.539e-31
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.6.1",
+                    "cell_text": "rs1054564"
+                  },
+                  {
+                    "cell_id": "2.6.2",
+                    "cell_text": 18499815.0
+                  },
+                  {
+                    "cell_id": "2.6.3",
+                    "cell_text": "GDF15"
+                  },
+                  {
+                    "cell_id": "2.6.4",
+                    "cell_text": "3′ UTR"
+                  },
+                  {
+                    "cell_id": "2.6.5",
+                    "cell_text": "G/C"
+                  },
+                  {
+                    "cell_id": "2.6.6",
+                    "cell_text": 6.242e-31
+                  },
+                  {
+                    "cell_id": "2.6.7",
+                    "cell_text": 0.001
+                  },
+                  {
+                    "cell_id": "2.6.8",
+                    "cell_text": 3.448e-33
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.7.1",
+                    "cell_text": "rs1227731"
+                  },
+                  {
+                    "cell_id": "2.7.2",
+                    "cell_text": 18497903.0
+                  },
+                  {
+                    "cell_id": "2.7.3",
+                    "cell_text": "GDF15"
+                  },
+                  {
+                    "cell_id": "2.7.4",
+                    "cell_text": "Intronic"
+                  },
+                  {
+                    "cell_id": "2.7.5",
+                    "cell_text": "G/A"
+                  },
+                  {
+                    "cell_id": "2.7.6",
+                    "cell_text": 6.277e-31
+                  },
+                  {
+                    "cell_id": "2.7.7",
+                    "cell_text": 0.001
+                  },
+                  {
+                    "cell_id": "2.7.8",
+                    "cell_text": 3.369e-33
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.8.1",
+                    "cell_text": "rs3195944"
+                  },
+                  {
+                    "cell_id": "2.8.2",
+                    "cell_text": 18476711.0
+                  },
+                  {
+                    "cell_id": "2.8.3",
+                    "cell_text": "PGPEP1"
+                  },
+                  {
+                    "cell_id": "2.8.4",
+                    "cell_text": "3′ UTR"
+                  },
+                  {
+                    "cell_id": "2.8.5",
+                    "cell_text": "A/G"
+                  },
+                  {
+                    "cell_id": "2.8.6",
+                    "cell_text": 2.143e-27
+                  },
+                  {
+                    "cell_id": "2.8.7",
+                    "cell_text": 0.0001736
+                  },
+                  {
+                    "cell_id": "2.8.8",
+                    "cell_text": 2.388e-30
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.9.1",
+                    "cell_text": "rs17725099"
+                  },
+                  {
+                    "cell_id": "2.9.2",
+                    "cell_text": 18482358.0
+                  },
+                  {
+                    "cell_id": "2.9.3",
+                    "cell_text": "PGPEP1"
+                  },
+                  {
+                    "cell_id": "2.9.4",
+                    "cell_text": "Downstream"
+                  },
+                  {
+                    "cell_id": "2.9.5",
+                    "cell_text": "G/A"
+                  },
+                  {
+                    "cell_id": "2.9.6",
+                    "cell_text": 5.35e-10
+                  },
+                  {
+                    "cell_id": "2.9.7",
+                    "cell_text": 0.836
+                  },
+                  {
+                    "cell_id": "2.9.8",
+                    "cell_text": 4.13e-08
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.10.1",
+                    "cell_text": "rs16982345"
+                  },
+                  {
+                    "cell_id": "2.10.2",
+                    "cell_text": 18500722.0
+                  },
+                  {
+                    "cell_id": "2.10.3",
+                    "cell_text": "GDF15"
+                  },
+                  {
+                    "cell_id": "2.10.4",
+                    "cell_text": "Downstream"
+                  },
+                  {
+                    "cell_id": "2.10.5",
+                    "cell_text": "G/A"
+                  },
+                  {
+                    "cell_id": "2.10.6",
+                    "cell_text": 2.415e-09
+                  },
+                  {
+                    "cell_id": "2.10.7",
+                    "cell_text": 0.915
+                  },
+                  {
+                    "cell_id": "2.10.8",
+                    "cell_text": 2.75e-07
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 612,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aMinor allele is the coded allele. Discovery p-values are from the GWAS meta-analysis of Framingham Offspring Cohort, PIVUS, and NSPHS. Replication p-values are from Sydney MAS. All cohorts combined meta-analysis p-values are from the meta-analysis combining discovery and replication analyses. p-values < 5 × 10-8 are in bold.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "29628937.html",
+      "id": "3",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 3",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Gene expression influenced by the top SNPs (eQTLs).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 58,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "3.1.1",
+              "cell_text": "Associated gene"
+            },
+            {
+              "cell_id": "3.1.2",
+              "cell_text": "Tissue"
+            },
+            {
+              "cell_id": "3.1.3",
+              "cell_text": "p -value"
+            },
+            {
+              "cell_id": "3.1.4",
+              "cell_text": "Source"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "rs888663",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.2.1",
+                    "cell_text": "ELL"
+                  },
+                  {
+                    "cell_id": "3.2.2",
+                    "cell_text": "Blood"
+                  },
+                  {
+                    "cell_id": "3.2.3",
+                    "cell_text": 1.7e-05
+                  },
+                  {
+                    "cell_id": "3.2.4",
+                    "cell_text": "SNIPA ( Westra et al., 2013 )"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.3.1",
+                    "cell_text": "TMEM59L"
+                  },
+                  {
+                    "cell_id": "3.3.2",
+                    "cell_text": "B-cell"
+                  },
+                  {
+                    "cell_id": "3.3.3",
+                    "cell_text": 0.00032
+                  },
+                  {
+                    "cell_id": "3.3.4",
+                    "cell_text": "SNIPA ( Fairfax et al., 2012 )"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs3746181",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.4.1",
+                    "cell_text": "SUGP2"
+                  },
+                  {
+                    "cell_id": "3.4.2",
+                    "cell_text": "Monocyte"
+                  },
+                  {
+                    "cell_id": "3.4.3",
+                    "cell_text": 0.00061
+                  },
+                  {
+                    "cell_id": "3.4.4",
+                    "cell_text": "SNIPA ( Fairfax et al., 2012 )"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs1363120",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.5.1",
+                    "cell_text": "ELL"
+                  },
+                  {
+                    "cell_id": "3.5.2",
+                    "cell_text": "Blood"
+                  },
+                  {
+                    "cell_id": "3.5.3",
+                    "cell_text": 4.6e-05
+                  },
+                  {
+                    "cell_id": "3.5.4",
+                    "cell_text": "SNIPA ( Westra et al., 2013 )"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.6.1",
+                    "cell_text": "TMEM59L"
+                  },
+                  {
+                    "cell_id": "3.6.2",
+                    "cell_text": "B-cell"
+                  },
+                  {
+                    "cell_id": "3.6.3",
+                    "cell_text": 0.00032
+                  },
+                  {
+                    "cell_id": "3.6.4",
+                    "cell_text": "SNIPA ( Fairfax et al., 2012 )"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.7.1",
+                    "cell_text": "ELL"
+                  },
+                  {
+                    "cell_id": "3.7.2",
+                    "cell_text": "Blood"
+                  },
+                  {
+                    "cell_id": "3.7.3",
+                    "cell_text": 3.5e-05
+                  },
+                  {
+                    "cell_id": "3.7.4",
+                    "cell_text": "SNIPA ( Westra et al., 2013 )"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs1227731",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.8.1",
+                    "cell_text": "PGPEP1"
+                  },
+                  {
+                    "cell_id": "3.8.2",
+                    "cell_text": "Adipose - Subcutaneous"
+                  },
+                  {
+                    "cell_id": "3.8.3",
+                    "cell_text": 4e-05
+                  },
+                  {
+                    "cell_id": "3.8.4",
+                    "cell_text": "GTEx"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.9.1",
+                    "cell_text": "LSM4"
+                  },
+                  {
+                    "cell_id": "3.9.2",
+                    "cell_text": "Adipocyte"
+                  },
+                  {
+                    "cell_id": "3.9.3",
+                    "cell_text": 1.1e-06
+                  },
+                  {
+                    "cell_id": "3.9.4",
+                    "cell_text": "SNIPA ( Grundberg et al., 2012 )"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.10.1",
+                    "cell_text": "LRRC25"
+                  },
+                  {
+                    "cell_id": "3.10.2",
+                    "cell_text": "Monocyte"
+                  },
+                  {
+                    "cell_id": "3.10.3",
+                    "cell_text": 2.8e-72
+                  },
+                  {
+                    "cell_id": "3.10.4",
+                    "cell_text": "SNIPA ( Zeller et al., 2010 )"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs16982345",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.11.1",
+                    "cell_text": "PGPEP1"
+                  },
+                  {
+                    "cell_id": "3.11.2",
+                    "cell_text": "Adipose – Subcutaneous"
+                  },
+                  {
+                    "cell_id": "3.11.3",
+                    "cell_text": 4e-05
+                  },
+                  {
+                    "cell_id": "3.11.4",
+                    "cell_text": "GTEx"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs3195944",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.12.1",
+                    "cell_text": "LSM4"
+                  },
+                  {
+                    "cell_id": "3.12.2",
+                    "cell_text": "Adipocyte"
+                  },
+                  {
+                    "cell_id": "3.12.3",
+                    "cell_text": 1e-06
+                  },
+                  {
+                    "cell_id": "3.12.4",
+                    "cell_text": "SNIPA ( Grundberg et al., 2012 )"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.13.1",
+                    "cell_text": "PGPEP1"
+                  },
+                  {
+                    "cell_id": "3.13.2",
+                    "cell_text": "Adipose – Subcutaneous"
+                  },
+                  {
+                    "cell_id": "3.13.3",
+                    "cell_text": 3e-05
+                  },
+                  {
+                    "cell_id": "3.13.4",
+                    "cell_text": "GTEx"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.14.1",
+                    "cell_text": "KCNN1"
+                  },
+                  {
+                    "cell_id": "3.14.2",
+                    "cell_text": "Esophagus – Mucosa"
+                  },
+                  {
+                    "cell_id": "3.14.3",
+                    "cell_text": 9.9e-06
+                  },
+                  {
+                    "cell_id": "3.14.4",
+                    "cell_text": "GTEx"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.15.1",
+                    "cell_text": "LRRC25"
+                  },
+                  {
+                    "cell_id": "3.15.2",
+                    "cell_text": "Blood"
+                  },
+                  {
+                    "cell_id": "3.15.3",
+                    "cell_text": 5e-05
+                  },
+                  {
+                    "cell_id": "3.15.4",
+                    "cell_text": "SNIPA ( Westra et al., 2013 )"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.16.1",
+                    "cell_text": "LRRC25"
+                  },
+                  {
+                    "cell_id": "3.16.2",
+                    "cell_text": "Monocyte"
+                  },
+                  {
+                    "cell_id": "3.16.3",
+                    "cell_text": 2.9e-53
+                  },
+                  {
+                    "cell_id": "3.16.4",
+                    "cell_text": "SNIPA ( Zeller et al., 2010 )"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 732,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "ELL, RNA polymerase II elongation factor; TMEM59L, Transmembrane Protein 59 Like; SUGP2, SURP and G-Patch Domain Containing 2; PGPEP1, Pyroglutamyl-Peptidase I; KCNN1, Potassium Calcium-Activated Channel Subfamily N Member 1; LRRC25, Leucine Rich Repeat Containing 25.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "29628937.html",
+      "id": "4",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 4",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Gene-based association analyses.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "4.1.1",
+              "cell_text": ""
+            },
+            {
+              "cell_id": "4.1.2",
+              "cell_text": ""
+            },
+            {
+              "cell_id": "4.1.3",
+              "cell_text": "Start"
+            },
+            {
+              "cell_id": "4.1.4",
+              "cell_text": "Stop"
+            },
+            {
+              "cell_id": "4.1.5",
+              "cell_text": "Test"
+            },
+            {
+              "cell_id": "4.1.6",
+              "cell_text": "p -value"
+            },
+            {
+              "cell_id": "4.1.7",
+              "cell_text": "Top 10%  p -value a"
+            },
+            {
+              "cell_id": "4.1.8",
+              "cell_text": "SNP ID"
+            },
+            {
+              "cell_id": "4.1.9",
+              "cell_text": "p -value"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": 19.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.2.1",
+                    "cell_text": "GDF15"
+                  },
+                  {
+                    "cell_id": "4.2.2",
+                    "cell_text": 15.0
+                  },
+                  {
+                    "cell_id": "4.2.3",
+                    "cell_text": 18486967.0
+                  },
+                  {
+                    "cell_id": "4.2.4",
+                    "cell_text": 18509986.0
+                  },
+                  {
+                    "cell_id": "4.2.5",
+                    "cell_text": 133.736
+                  },
+                  {
+                    "cell_id": "4.2.6",
+                    "cell_text": "<1.00E-07"
+                  },
+                  {
+                    "cell_id": "4.2.7",
+                    "cell_text": "<1.00E-07"
+                  },
+                  {
+                    "cell_id": "4.2.8",
+                    "cell_text": "rs1054564"
+                  },
+                  {
+                    "cell_id": "4.2.9",
+                    "cell_text": 6.24e-31
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.3.1",
+                    "cell_text": "LRRC25"
+                  },
+                  {
+                    "cell_id": "4.3.2",
+                    "cell_text": 17.0
+                  },
+                  {
+                    "cell_id": "4.3.3",
+                    "cell_text": 18491953.0
+                  },
+                  {
+                    "cell_id": "4.3.4",
+                    "cell_text": 18518415.0
+                  },
+                  {
+                    "cell_id": "4.3.5",
+                    "cell_text": 133.736
+                  },
+                  {
+                    "cell_id": "4.3.6",
+                    "cell_text": "<1.00E-07"
+                  },
+                  {
+                    "cell_id": "4.3.7",
+                    "cell_text": "<1.00E-07"
+                  },
+                  {
+                    "cell_id": "4.3.8",
+                    "cell_text": "rs1054564"
+                  },
+                  {
+                    "cell_id": "4.3.9",
+                    "cell_text": 6.24e-31
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.4.1",
+                    "cell_text": "MIR3189"
+                  },
+                  {
+                    "cell_id": "4.4.2",
+                    "cell_text": 15.0
+                  },
+                  {
+                    "cell_id": "4.4.3",
+                    "cell_text": 18487371.0
+                  },
+                  {
+                    "cell_id": "4.4.4",
+                    "cell_text": 18507444.0
+                  },
+                  {
+                    "cell_id": "4.4.5",
+                    "cell_text": 133.736
+                  },
+                  {
+                    "cell_id": "4.4.6",
+                    "cell_text": "<1.00E-07"
+                  },
+                  {
+                    "cell_id": "4.4.7",
+                    "cell_text": "<1.00E-07"
+                  },
+                  {
+                    "cell_id": "4.4.8",
+                    "cell_text": "rs1054564"
+                  },
+                  {
+                    "cell_id": "4.4.9",
+                    "cell_text": 6.24e-31
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.5.1",
+                    "cell_text": "PGPEP1"
+                  },
+                  {
+                    "cell_id": "4.5.2",
+                    "cell_text": 25.0
+                  },
+                  {
+                    "cell_id": "4.5.3",
+                    "cell_text": 18441407.0
+                  },
+                  {
+                    "cell_id": "4.5.4",
+                    "cell_text": 18490763.0
+                  },
+                  {
+                    "cell_id": "4.5.5",
+                    "cell_text": 308.261
+                  },
+                  {
+                    "cell_id": "4.5.6",
+                    "cell_text": "<1.00E-07"
+                  },
+                  {
+                    "cell_id": "4.5.7",
+                    "cell_text": "<1.00E-07"
+                  },
+                  {
+                    "cell_id": "4.5.8",
+                    "cell_text": "rs888663"
+                  },
+                  {
+                    "cell_id": "4.5.9",
+                    "cell_text": 1.69e-35
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 1.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.6.1",
+                    "cell_text": "B3GALT6"
+                  },
+                  {
+                    "cell_id": "4.6.2",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "4.6.3",
+                    "cell_text": 1157628.0
+                  },
+                  {
+                    "cell_id": "4.6.4",
+                    "cell_text": 1180420.0
+                  },
+                  {
+                    "cell_id": "4.6.5",
+                    "cell_text": 22.55
+                  },
+                  {
+                    "cell_id": "4.6.6",
+                    "cell_text": 5.2e-06
+                  },
+                  {
+                    "cell_id": "4.6.7",
+                    "cell_text": 4.9e-06
+                  },
+                  {
+                    "cell_id": "4.6.8",
+                    "cell_text": "rs3813199"
+                  },
+                  {
+                    "cell_id": "4.6.9",
+                    "cell_text": 2.05e-06
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.7.1",
+                    "cell_text": "SDF4"
+                  },
+                  {
+                    "cell_id": "4.7.2",
+                    "cell_text": 11.0
+                  },
+                  {
+                    "cell_id": "4.7.3",
+                    "cell_text": 1142287.0
+                  },
+                  {
+                    "cell_id": "4.7.4",
+                    "cell_text": 1177447.0
+                  },
+                  {
+                    "cell_id": "4.7.5",
+                    "cell_text": 22.55
+                  },
+                  {
+                    "cell_id": "4.7.6",
+                    "cell_text": 1e-05
+                  },
+                  {
+                    "cell_id": "4.7.7",
+                    "cell_text": "N.S. 2"
+                  },
+                  {
+                    "cell_id": "4.7.8",
+                    "cell_text": "rs3813199"
+                  },
+                  {
+                    "cell_id": "4.7.9",
+                    "cell_text": 2.05e-06
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.8.1",
+                    "cell_text": "TNFRSF4"
+                  },
+                  {
+                    "cell_id": "4.8.2",
+                    "cell_text": 9.0
+                  },
+                  {
+                    "cell_id": "4.8.3",
+                    "cell_text": 1136705.0
+                  },
+                  {
+                    "cell_id": "4.8.4",
+                    "cell_text": 1159548.0
+                  },
+                  {
+                    "cell_id": "4.8.5",
+                    "cell_text": 22.55
+                  },
+                  {
+                    "cell_id": "4.8.6",
+                    "cell_text": 8.2e-06
+                  },
+                  {
+                    "cell_id": "4.8.7",
+                    "cell_text": 9.5e-06
+                  },
+                  {
+                    "cell_id": "4.8.8",
+                    "cell_text": "rs3813199"
+                  },
+                  {
+                    "cell_id": "4.8.9",
+                    "cell_text": 2.05e-06
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 513,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Genes with p-value ≤ 1 × 10-5 were listed in the table, 1 × 107 iterations were conducted. ap-values for the gene-based test with the top 10% of top SNPs included. 2Not significant at level of p ≤ 1 × 10-5 (p = 1.02 × 10-5).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

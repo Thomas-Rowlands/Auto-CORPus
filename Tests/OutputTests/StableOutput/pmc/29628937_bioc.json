@@ -1,0 +1,2147 @@
+{
+  "source": "Auto-CORPus (full-text)",
+  "date": "20210927",
+  "key": "autocorpus_fulltext.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "29628937.html",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "A Meta-Analysis of Genome-Wide Association Studies of Growth Differentiation Factor-15 Concentration in Blood",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 109,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "keywords section",
+                "iao_id": "IAO:0000630"
+              }
+            ],
+            "section_title_1": "keywords"
+          },
+          "text": "genome-wide association study, growth differentiation factor-15, macrophage inhibitory cytokine-1, community-based individuals, chromosome 19",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 258,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Blood levels of growth differentiation factor-15 (GDF-15), also known as macrophage inhibitory cytokine-1 (MIC-1), have been associated with various pathological processes and diseases, including cardiovascular disease and cancer. Prior studies suggest genetic factors play a role in regulating blood MIC-1/GDF-15 concentration. In the current study, we conducted the largest genome-wide association study (GWAS) to date using a sample of ∼5,400 community-based Caucasian participants, to determine the genetic variants associated with MIC-1/GDF-15 blood concentration. Conditional and joint (COJO), gene-based association, and gene-set enrichment analyses were also carried out to identify novel loci, genes, and pathways. Consistent with prior results, a locus on chromosome 19, which includes nine single nucleotide polymorphisms (SNPs) (top SNP, rs888663, p = 1.690 × 10-35), was significantly associated with blood MIC-1/GDF-15 concentration, and explained 21.47% of its variance. COJO analysis showed evidence for two independent signals within this locus. Gene-based analysis confirmed the chromosome 19 locus association and in addition, a putative locus on chromosome 1. Gene-set enrichment analyses showed that the“COPI-mediated anterograde transport” gene-set was associated with MIC-1/GDF15 blood concentration with marginal significance after FDR correction (p = 0.067). In conclusion, a locus on chromosome 19 was associated with MIC-1/GDF-15 blood concentration with genome-wide significance, with evidence for a new locus (chromosome 1). Future studies using independent cohorts are needed to confirm the observed associations especially for the chromosomes 1 locus, and to further investigate and identify the causal SNPs that contribute to MIC-1/GDF-15 levels.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2044,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "Growth differentiation factor-15 (GDF-15), also known as macrophage inhibitory cytokine-1 (MIC-1), is a stress response cytokine and a divergent member of the transforming growth factor-β (TGF-β) superfamily (Bootcov et al., 1997; Breit et al., 2011; Tsai et al., 2016). Studies have shown that the expression of MIC-1/GDF-15 in both humans and animals is restricted under resting conditions but can be induced in most cells or tissues by oxidative and nitrosative stress (Unsicker et al., 2013; Wallentin et al., 2014). Animal studies suggest that MIC-1/GDF-15 is anti-inflammatory (Breit et al., 2011) and neuroprotective (Strelau et al., 2000), promotes longevity (Wang et al., 2014a) and neurogenesis (Kim et al., 2015), and inhibits atherosclerosis development (Johnen et al., 2012). In humans, MIC-1/GDF-15 circulates in the blood of all individuals with levels of about 200-1200 pg/ml, with the concentration increasing with age (Wiklund et al., 2010). Higher MIC-1/GDF-15 blood levels have been associated with a variety of diseases and conditions including inflammation (Brown et al., 2007), cardiovascular disease (Brown et al., 2002), various types of cancer [e.g., prostate (Brown et al., 2009), colon (Wallin et al., 2011), melanoma (Boyle et al., 2009), pancreas (Wang et al., 2014b)] neurodegeneration and cognitive decline (Jiang et al., 2016), and all-cause mortality (Wiklund et al., 2010).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 3464,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "Genetics plays a role in determining MIC-1/GDF-15 blood concentration as indicated by its moderate heritability (0.38 – 0.48) estimated from family based (Ho et al., 2012) and twin-based (Wiklund et al., 2010) samples. However, so far, there has only been one meta-analysis of genome-wide association studies (GWASs) of blood MIC-1/GDF-15 concentration in community-based adults (2 cohorts, total N = 3,694; Ho et al., 2012), in which Ho et al. (2012) identified an association with eight SNPs located in a region on chromosome 19 that includes the MIC-1/GDF15 locus itself. The MIC-1/GDF15 gene is located at chromosome 19p12-13.1, and comprises two exons (309 and 891 bp in length) and one 2.9 kb intron (Unsicker et al., 2013).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4194,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "To better understand the genetic factors regulating blood concentration of MIC-1/GDF-15, we have undertaken a GWAS using a large combined sample of over 5,400 participants. In the only available GWAS investigating the genetic variants of MIC-1/GDF15 blood concentration in population-based samples (Ho et al., 2012), the authors conducted a GWAS using two samples that were also included in the current study, the Framingham Offspring Study (N = 2796) and the PIVUS (Prospective Investigation of the Vasculature in Uppsala Seniors, N = 898). In addition to these two cohorts, the current study included two additional samples, NSPHS (The Northern Sweden Population Health Study, N = 939) and the Sydney MAS (Sydney Memory and Aging Study, N = 807). Conditional and joint (COJO), gene-based, and gene-set enrichment analyses were also carried out aiming to uncover any new loci associated with MIC-1/GDF-15 blood levels, and to elucidate the functional relevance of the genetic variants associated with MIC-1/GDF-15 blood concentration.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 5229,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Framingham Offspring Cohort "
+          },
+          "text": "The children and their spouses of the original Framingham Heart Study participants, known as the Framingham Offspring Cohort (Kannel et al., 1979), were included in the current study. From the 3,532 eligible participants, those with missing MIC-1/GDF-15 measurements (n = 82), genotyping data (n = 254), or covariates (n = 60), as well as individuals with heart failure (n = 38) and left ventricular (LV) systolic dysfunction as revealed by echocardiography (n = 302), were excluded (see Ho et al., 2012 for details). Finally, 2796 participants who had both genetic and MIC-1/GDF-15 data were included in the current study (Table ​Table11). In the Framingham Offspring Cohort, diabetes mellitus (DM) was defined as a fasting glucose concentration ≥ 126 mg/dL (≥7.0 mmol/L) or the use of insulin or oral hypoglycemic medications. Written informed consent was provided by all participants, and the study was approved by the Institutional Review Board, Boston University Medical Center. All analyses described in the current study were conducted in accordance with the approved guidelines and regulations.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 6380,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Prospective Investigation of the Vasculature in Uppsala Seniors (PIVUS) Study "
+          },
+          "text": "PIVUS is a randomly recruited community-based cohort (mean age, 70 years; N = 1,016) living in Uppsala, Sweden (Lind et al., 2009). Participants without genotyping data (N = 67), MIC-1/GDF-15 measurement (N = 4) or covariates (N = 14), and those with prevalent heart failure (n = 32) and LV systolic dysfunction (N = 1), were excluded from the current study, leaving 898 participants for the GWAS analyses (Table ​Table11). DM was defined as a self-reported history of diabetes or a fasting blood glucose ≥ 112 mg/dL (6.22 mmol/L). All participants provided written informed consent, and the study was approved by the University of Uppsala Ethics Committee. All analyses were undertaken in accordance with the approved guidelines and regulations.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7204,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "The Northern Sweden Population Health Study (NSPHS) "
+          },
+          "text": "NSPHS is another Swedish community-based cohort with randomly recruited participants from the parishes of Karesuando and Soppero, County of Norrbotten (median age, 50 years; N = 1,037; Enroth et al., 2014; Ek et al., 2016). Sixty-one participants missing MIC-1/GDF-15 data or covariates, 26 individuals with previous heart failure, and 11 pregnant women were excluded from the current study, leaving a total of 939 individuals being included in this study (Table ​Table11). DM was defined as a self-reported history of diabetes. NSPHS was approved by the local ethics committee at the University of Uppsala in compliance with the Declaration of Helsinki. All participants gave their written informed consent. Parental consent is obtained for all participants under the age of 16. All analyses in the current study were conducted in accordance with the approved guidelines and regulations.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 8144,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Sydney Memory and Aging Study (Sydney MAS) "
+          },
+          "text": "Sydney MAS is a community-based longitudinal study of older adults aged 70–90 years living in Sydney, NSW, Australia (Sachdev et al., 2010). Briefly, 1037 non-demented community-dwelling participants were randomly recruited from the compulsory electoral rolls of two regions in Sydney, NSW, Australia. Serum MIC-1/GDF-15 measurement was undertaken in 888 individuals. After excluding individuals without genotyping data (n = 53) and covariates (n = 28), 807 were included in the GWAS analyses (Table ​Table11). DM in Sydney MAS was defined as a self-reported history of diabetes, current usage of diabetes medication or a fasting blood glucose ≥ 126 mg/dL (7.0 mmol/L). Sydney MAS was approved by the Human Research Ethics Committees of the University of New South Wales and the South Eastern Sydney Local Health District. All participants gave written informed consent. All analyses in the current study were performed in accordance with the approved guidelines and regulations.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9166,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "MIC-1/GDF-15 Measurement"
+          },
+          "text": "Framingham Offspring Cohort blood samples were collected after an overnight fast, and centrifuged immediately. Citrate-treated plasma samples were then stored at -80°C until MIC-1/GDF-15 measurement, which was undertaken using an electrochemiluminescence MIC-1/GDF-15 immunoassay on a Cobas e 411 analyzer (Roche Diagnostics). Further details of the assay have been described previously (Kempf et al., 2007; Ho et al., 2012).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9615,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "MIC-1/GDF-15 Measurement"
+          },
+          "text": "In PIVUS, MIC-1/GDF-15 levels were determined with an immunoradiometric assay from stored frozen (-70°C), fasting EDTA-plasma samples. Details of MIC-1/GDF15 measurements in PIVUS have been reported previously (Kempf et al., 2007; Maggio et al., 2014).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9867,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "MIC-1/GDF-15 Measurement"
+          },
+          "text": "In NSPHS, MIC-1/GDF-15 concentrations were quantified in non-fasting plasma samples as part of the Proseek® Multiplex immunoassay ONC1v1 panel as described previously (Assarsson et al., 2014; Enroth et al., 2014). NSPHS MIC-1/GDF-15 measurements were not converted into actual concentrations due to the assay method but should be comparable to the MIC-1/GDF-15 levels used in other cohorts after inverse normal transformation.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10293,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "MIC-1/GDF-15 Measurement"
+          },
+          "text": "In Sydney MAS, the MIC-1/GDF-15 serum levels were determined in fasting serum samples using an enzyme-linked immunosorbent assay (ELISA), which is established using the mouse monoclonal antibody 13C4H3 for antigen capture, and the sheep polyclonal antibody 233B3-P for detection as described in detail previously (Jiang et al., 2015).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 10627,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Genotyping and Imputation"
+          },
+          "text": "Genotyping of Framingham Offspring Cohort was performed using the Affymetrix 500K mapping and the 50K gene-focused MIP arrays (CA, United States) (Ho et al., 2012). Imputation of genotypes to the HapMap2 reference panel (2.5 million SNPs, CEU population, release 22, build 36) was implemented in MACH1 (version 1.0.15, Li and Abecasis, 2006) as described in Ho et al. (2012). Imputed/assayed genotypes were produced for 2,540,223 HapMap2 SNPs.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11095,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Genotyping and Imputation"
+          },
+          "text": "In PIVUS, genome-wide genotyping was undertaken using the Illumina OmniExpress Bead array and the CardioMetabochip (San Diego, CA, USA). Imputation of genotypes to the same HapMap2 reference panel as Framingham was undertaken using IMPUTE (version 2.2.2), resulting in 2,592,180 imputed/assayed SNPs. Further details can be found in (Ho et al., 2012).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11446,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Genotyping and Imputation"
+          },
+          "text": "DNA samples from NSPHS were genotyped on Illumina Infinium HumanHap300v2 or HumanCNV370v1 SNP bead microarrays. Imputation was performed using IMPUTE (version 2.2.2) based on the 1000 Genome Project Phase 3 reference panel, resulting in 8.89 million assayed/imputed SNPs.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11717,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Genotyping and Imputation"
+          },
+          "text": "In Sydney MAS, genotyping was undertaken using the Affymetrix Genome-wide Human SNP Array 6.0 at the Ramaciotti Centre, UNSW Australia. Imputation was implemented in MACH (Li et al., 2009, 2010) using the HapMap2 reference data (release 22, build 36). Detailed genotyping and imputation procedures have been described previously (Mather et al., 2016). A total of 2,543,888 SNPs were assayed/imputed.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12116,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "GWAS, Replication, and Meta-Analysis"
+          },
+          "text": "A normal distribution of MIC-1/GDF-15 blood concentration was achieved through applying an inverse normal transformation to all cohorts. SNPs with imputation quality > 0.8 and minor allele frequency (MAF) > 0.05 (HapMap 2) were used for the current study. GWAS and meta-analyses were carried out using two Models. In Model 1, age, sex, systolic blood pressure, antihypertensive medication use, diabetes mellitus, and smoking status were used as covariates. NSPHS also included a dummy variable indicating the year of data collection (2006 or 2009). For Model 2, body mass index (BMI) was also included in addition to Model 1 covariates, because BMI has been associated with MIC-1/GDF-15 concentrations in prior studies (Tsai et al., 2015).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 12891,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "GWAS, Replication, and Meta-Analysis"
+          },
+          "text": "For the GWAS, Framingham used a linear mixed model to accommodate the relatedness among the participants as implemented in the R program package, genome-wide association analyses with family (GWAF). PIVUS, NSPHS and Sydney MAS applied a linear model for the GWAS analyses using SNPTEST (Marchini et al., 2007), ProbABEL (Aulchenko et al., 2010), and mach2qtl (Li et al., 2010) software respectively. PIVUS adjusted for 2 principal components (PCs) to account for population stratification. Population stratification in NSPHS was adjusted for using the kinship matrix. Sydney MAS PCs were not used as covariates as ethnic outliers had already been removed and there was no evidence of population stratification based on multidimensional scaling (MDS) plots (Mather et al., 2016).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 13669,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "GWAS, Replication, and Meta-Analysis"
+          },
+          "text": "The meta-analyses were undertaken in the discovery cohorts (Framingham Offspring Cohort, PIVUS, and NSPHS) using the fixed effects inverse variance weighted method implemented in the package METAL, based on the GWAS SNPs summary statistics beta and its standard errors. Sydney MAS was used as a replication cohort because MIC-1/GDF-15 was measured in serum (rather than plasma), and also the Sydney MAS participants were older than the other three cohorts. All results are reported using the 1000 Genome reference panel (NCBI Build 37) coordinates for consistency. The GWAS summary statistics are available at https://www.cheba.unsw.edu.au/group/genetics-genomics, or from the corresponding author, Karen A. Mather, on request.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 14396,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Functional Annotation"
+          },
+          "text": "The functional significance of the top SNPs from the meta-analysis were explored in silico using public databases/browsers, including GTEx2, RegulomeDB (Boyle et al., 2012), and SNiPA3. The search in RegulomeDB was performed using a 20 k base pair window around the top SNPs. GeneCards4 was used to reveal gene functions. In addition, any previously associated phenotypes of the top SNPs were identified using the GWAS Central database5.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 14854,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Conditional and Joint (COJO) Analysis"
+          },
+          "text": "We performed two types of conditional analyses to explore secondary signals from other loci. First, we conditioned the genome-wide discovery meta-analysis results with the top SNP from the meta-analysis using the program, Genome-wide Complex Trait Analysis (GCTA) (Yang et al., 2011).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 15175,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Conditional and Joint (COJO) Analysis"
+          },
+          "text": "Further, to test the joint association of multiple SNPs around the top hits, we used the COJO analysis implemented in GCTA. The COJO analysis uses a reference panel to calculate linkage disequilibrium (LD) between SNPs. As we do not have access to the genotyping data of the discovery cohorts, we used the 1000 Genome phase 3 European reference panel for this analysis. We performed COJO for each chromosome separately with a liberal GWAS threshold of p0 = 10-5. The COJO analysis starts with the top SNP (smallest p < p0) in the meta-analysis. For the next iteration, p-values of the rest of the SNPs are calculated by conditioning on the top selected SNPs. To avoid multicollinearity, SNPs in high LD (r2 > 0.9) with the selected top SNP are not considered for COJO analyses. After that, a new top SNP is selected based on the conditional analysis of all the SNPs already selected, and then a joint association of all the selected SNPs is finished. The iteration continues until no new SNP can be selected or removed from the joint analysis.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 16218,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Gene-Based Association Analysis"
+          },
+          "text": "Gene-based association analysis was conducted in a hypothesis-free manner through applying the Versatile Gene-based Association Study (VEGAS) algorithm (Liu et al., 2010) to the genome-wide meta-analysis results of the discovery cohorts. SNPs within ± 10 kb of a gene were used in this analysis, and the results of the p-values within the corresponding gene were calculated using (i) the top 10% or (ii) all SNPs. We used 1000 genomes CEU phase 1 data as the reference panel for this analysis.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 16742,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Gene-Set Enrichment Analysis"
+          },
+          "text": "The genome-wide meta-analysis results from the discovery samples were tested for enrichment of genetic associations with pre-specified functionally related gene-sets and biological processes using the program, meta-analysis gene-set enrichment of variant associations (MAGENTA, Ver. 2.4, Segre et al., 2010). The MAGENTA analysis was run in a hypothesis-free way, and 6 public databases were combined and included in the analysis, namely GO Terms, the protein analysis through evolutionary relationships (PANTHER), Ingenuity, the Kyoto Encyclopaedia of Genes and Genomes (KEGG), Biocarta, and Reactome. SNPs that are located 100 KB upstream of the start and 100 KB downstream of the end of a gene were considered to contribute to the effect of the gene.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 17523,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and Methods",
+            "section_title_2": "Gene-Set Enrichment Analysis"
+          },
+          "text": "Generally, associations with p-values less than 5 × 10-8 were regarded as genome-wide significant. A liberal threshold of ≤1 × 10-5 was applied to discover any suggestive SNPs. For the replication GWAS in Sydney MAS, a p-value less than 0.05 was considered as statistical significant. In gene-set enrichment analyses, after false discovery rate (FDR) correction, associations with p < 0.05 were regarded as statistical significant, and those with uncorrected p-values between 0.05 and 0.1 were deemed marginal associations.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 18046,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Sample Characteristics"
+          },
+          "text": "The sample characteristics are summarized in Table ​Table11. The discovery sample was comprised of 4,633 individuals (Framingham Offspring Cohort, PIVUS, NSPHS), and 807 participants from Sydney MAS were used for replication. NSPHS had the widest age span (14–94 years) of the four cohorts, whereas Sydney MAS participants were the most elderly (mean age, 78 years). In all participating cohorts, there were approximately equal numbers of females and males (range 47.0–56.0%).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 18551,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "GWAS Meta-Analysis in Discovery Samples"
+          },
+          "text": "GWAS were undertaken in each participating cohort, and the Manhattan and QQ plots are shown in Supplementary Figures 1–4.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 18711,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "GWAS Meta-Analysis in Discovery Samples"
+          },
+          "text": "The results of the GWAS meta-analysis in the discovery cohorts (Model 1) showed a clear genome-wide significant peak on chromosome 19 (Figure ​Figure1A1A). The QQ plot for the meta-analysis did not show any inflation of the test statistics (lambda gc = 1.004, Figure ​Figure1B1B). There were nine genome-wide significant SNPs on chromosome 19 (Table ​Table22 and Supplementary Table 1). Of the nine SNPs, three were located in the 3′ untranslated region (UTR) of the pyroglutamyl-peptidase I (PGPEP1) gene, three in the downstream region of the PGPEP1 gene, one in the intron of the MIC-1/GDF15 gene, one in the 3′ UTR of the MIC-1/GDF15 gene, and one in the downstream of the MIC-1/GDF15 gene. A regional association plot around the MIC-1/GDF15 gene, showing the top SNP, rs888663, and the genes in this region is shown in Figure ​Figure22. The top three SNPs (rs888663, rs3746181, rs1363120) are in high linkage disequilibrium (LD; r2 > 0.95, Supplementary Figure 5). Results were similar for the meta-analysis using Model 2 (see Supplementary Table 2), and hence all following analyses are based on Model 1. The Manhattan and QQ plots of the meta-analysis using Model 2 are shown in Supplementary Figures 6, 7, respectively.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 19938,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Replication in Sydney MAS"
+          },
+          "text": "Among the nine genome-wide significant SNPs in the discovery meta-analysis, only three replicated with significance (p < 0.05) in the replication cohort (i.e., Sydney MAS), namely rs1054564, rs1227731, and rs3195944 (Table ​Table22 and Supplementary Table 3).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 20222,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Replication in Sydney MAS"
+          },
+          "text": "In a meta-analysis of all cohorts (i.e., both discovery and replication samples), eight of the nine top SNPs remained genome-wide significant in Model 1 (Supplementary Table 4).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 20399,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Functional Annotation"
+          },
+          "text": "Using public databases (see Materials and Methods), seven out of the nine significant SNPs were identified as expression quantitative loci (eQTLs) as they were associated with gene expression in the chromosome 19 locus region in blood, B-cells, monocyte, adipocyte, and esophagus mucosa (see Table ​Table33 for the full list of associated genes).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 20745,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Functional Annotation"
+          },
+          "text": "Analysis of the top SNPs using RegulomeDB is summarized in Supplementary Table 5. Two SNPs, rs1054564 and rs16982345, are likely to affect protein binding (i.e., high degree evidence of regulatory function) and expression of a gene target (i.e., 1f category). The SNP rs3746181 may also affect binding (2b category). It is noteworthy that rs1054564 is located in the 3′ UTR of the MIC-1/GDF15 gene and the 5′ UTR of the Leucine Rich Repeat Containing 25 (LRRC25) genes, suggesting that this variant may be a functional SNP. The SNP rs3746181 is located in the binding motif for transcription factor PU.1.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 21349,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Conditional and Joint (COJO) Analysis"
+          },
+          "text": "After conditioning on the top SNP of the meta-analysis (rs888663), the SNPs, rs7226, rs12459566, rs4808793, rs8101804, rs12459782, rs1059519, rs1059369, rs1804826, rs6512265, and rs1043063, reached genome-wide significance (Supplementary Table 6). The LD between these SNPs is shown in Supplementary Figure 5. Among these SNPs, rs12459566, rs4808793, rs8101804, rs12459782, rs1059519, and rs6512265 are in high LD (r2 > 0.97). Another group of SNPs with high LD includes rs7226, rs1059369, and rs1804826 (r2 > 0.86). However, these SNPs are all within or near the block containing the significant SNPs from the genome-wide meta-analysis.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 21986,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Conditional and Joint (COJO) Analysis"
+          },
+          "text": "Supplementary Table 7 shows the results from the COJO analysis. Using a liberal p-value threshold of 1 × 10-5, the COJO analysis did not identify any additional significant hits. However, the region of association in chromosome 19 had two independent signals, rs888663 and rs6512265 (r2 = 0.48) reaching genome-wide significance (p < 5 × 10-8), explaining 2.98% of the variance in MIC-1/GDF-15 blood concentration. The SNP rs6512265 is located in the exon (2/2) of the LRRC25 gene and is an eQTL of the PGPEP1 gene in whole blood, and the solute carrier family 25, member 42 (SLC25A42) gene in lung tissue.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 22592,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Gene-Based Association Analysis"
+          },
+          "text": "Using a p-value cut-off of 1 × 10-5, gene-based association analysis showed that four genes on chromosome 19 [MIC-1/GDF15, LRRC25, microRNA 3189 (MIR3189), PGPEP1] and three genes on chromosome 1 [Beta-1,3-Galactosyltransferase 6 (B3GALT6), Stromal Cell Derived Factor 4 (SDF4), TNF Receptor Superfamily Member 4 (TNFRSF4)] were associated with MIC-1/GDF-15 blood concentration (Table ​Table44). The SNPs, rs1054564 and rs888663, are primarily driving the observed associations between the genes on chromosome 19 and MIC-1/GDF-15 blood concentration, whereas the associations between chromosome 1 genes and MIC-1/GDF-15 blood concentration are mainly due to the signal from rs3813199, which is an eQTL for B3GALT6 and TNFRSF18 in blood, and likely to affect binding of transcription factors GATA1, POLR2A, Nuclear Factor of Activated T-Cells 1 (NFATC1), Signal Transducer and Activator of Transcription 5A (STAT5A), and SUZ12 Polycomb Repressive Complex 2 Subunit (SUZ12) proteins (RegulomeDB 1f category).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 23598,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Enrichment Analyses"
+          },
+          "text": "Hypothesis-free MAGENTA analyses were performed to investigate gene-sets enriched among the variants with the lowest p-values (Supplementary Table 8). The “COPI-mediated anterograde transport” gene-set from the REACTOME database was the only gene-set with a marginally significant FDR-corrected p-value of 0.067. This gene-set is associated with protein secretion from endoplasmic reticulum (ER) to the Golgi complex.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 24034,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Using data from a combined sample of community-based individuals, we identified genetic variants associated with MIC-1/GDF-15 blood concentration using a meta-analysis of GWAS results. The findings replicated the prior GWAS on MIC-1/GDF-15 levels in community-based cohorts by showing that a locus on chromosome 19 containing the PGPEP1 and MIC-1/GDF15 genes contributes to the regulation of MIC-1/GDF-15 blood concentration. No other genome-wide significant loci were identified from the current study, but we observed suggestive evidence for a locus on chromosome 1. In addition to the PGPEP1, MIC-1/GDF15 and LRRC25 genes identified in the previous GWAS (Ho et al., 2012), the current study suggested variants from several other genes that may potentially contribute to the regulation of the blood concentration of MIC-1/GDF-15, including MIR3189 (chr 19), B3GALT6 (chr 1), SDF4 (chr 1), and TNFRSF4 (chr 1) genes.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 24961,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "In the discovery sample, nine SNPs located in a region on chromosome 19 were genome-wide significantly associated with MIC-1/GDF-15 blood concentration. This is in line with the previous GWAS on MIC-1/GDF-15 blood levels (Ho et al., 2012) with a new SNP rs16982345 (9th ranked SNP) identified. However, when examined at the individual cohort level, this new SNP was only significant in the Framingham Offspring Cohort. It is also noted that the genome-wide significance for rs17725099 (8th ranked SNP) is likely to be primarily driven by the associations in Framingham Offspring Cohort, given the notably smaller β and greater p values in PIVUS and NSPHS. Interestingly, on inspection of the GWAS Central catalog, many of the top SNPs have been nominally associated with various phenotypes, including pulmonary function, proinsulin levels, fibrinogen, fasting insulin, inflammatory bowel disease, breast cancer, and BMI (Supplementary Table 9). Previous studies have also found associations between MIC-1/GDF-15 blood concentration and these traits (Li et al., 2000; Vila et al., 2011; Brown et al., 2012; Rossaint et al., 2013; Mehta et al., 2014; Tiwari et al., 2015), which may be partly driven by the SNPs identified in the current study. However, in Sydney MAS, the top SNPs were not associated with history of stroke, cancer, or depression. Their associations with Framingham cardiovascular risk scores were also not statistically significant (data not shown).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 26427,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Notably, only three out of the nine SNPs were replicated in an independent cohort (i.e., Sydney MAS) and in the same effect direction as the discovery meta-analysis (rs1054564, rs1227731, rs3195944). A few factors may contribute to the lack of replication of all of the findings. The participants of the replication cohort, Sydney MAS, are the most elderly of the four participating cohorts, and MIC-1/GDF-15 blood concentration has been shown to increase steadily with age (Wiklund et al., 2010), possibly because of aging-related chronic, low-grade inflammation (Franceschi and Campisi, 2014). This may have weakened the contribution of genetic factors in determining MIC-1/GDF-15 blood concentration in this aged cohort. It is noteworthy that the three replicated SNPs are the only SNPs that reached genome-wide significance in PIVUS, which shares a similar age range (but still ∼8 years younger in average age) with Sydney MAS. In addition, the fact that Sydney MAS acquired MIC-1/GDF-15 concentration in serum, whereas the other three cohorts used plasma, may have also introduced measurement differences.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 27537,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "The majority of the top SNPs (7 out of 9) were identified as eQTLs, but not specifically for MIC-1/GDF-15, although all of the target genes were located in the same genomic region. Of interest, in blood, the SNPs rs888663, rs3746181, and rs1363120, are eQTLs of ELL, which regulates cell proliferation and survival (Johnstone et al., 2001). This is in line with previous findings on the role of MIC-1/GDF-15 in cell proliferation (Duong Van Huyen et al., 2008) and neurogenesis (Kim et al., 2015). In addition, the SNP rs16982345 is an eQTL for LRRC25 in blood, which is involved in the innate immune response (Ng et al., 2011). According to GTEx, both ELL and LRRC25 are highly expressed in the blood.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 28239,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Gene-based association analyses identified four chromosome 19 and three chromosome 1 genes associated with MIC-1/GDF-15 blood levels. Of the four chromosome 19 genes, PGPEP1 is a cytosolic cysteine peptidase that is involved in neurophysiological processes in the synaptosomal and myelinic fractions of human and rat brains (Larrinaga et al., 2005). LRRC25 contributes to the detection of pathogen-associated molecular patterns during innate immune sensing (Ng et al., 2011). Consistent with the current findings, variation in the PGPEP1 and LRRC25 genes has been associated with MIC-1/GDF-15 blood levels in the previous MIC-1/GDF-15 GWAS (Ho et al., 2012). MIR3189 is a novel, p53-regulated micro RNA (miRNA) located in the intron of MIC-1/GDF15, which is also targeted by p53. It inhibits the expression of cell-cycle-control- and cell-survival-related genes, as well as many p53 inhibitors leading to upregulated MIC-1/GDF15 gene expression (Jones et al., 2015). Moreover, in p53-deficient cells, MIR3189 overexpression also elevates MIC-1/GDF15 gene expression. In addition to the chromosome 19 genes, gene-based association analyses also revealed that a locus on chromosome 1 showed a suggestive association with MIC-1/GDF-15 blood concentration, which is mainly due to the SNP rs3813199. This variant is located in the intron of the SDF4 gene, which encodes a stromal cell derived factor belonging to the CREC family (Scherer et al., 1996), with involvement in regulating calcium-dependent cell activities (Chen et al., 2016). The SNP, rs3813199, is also an eQTL for B3GALT6, whose protein modulates heparin sulfate, which binds to unprocessed MIC-1/GDF-15 in the extracellular matrix (Bauskin et al., 2005), and therefore may affect MIC-1/GDF-15 deposition and processing in local tissues, and its blood levels. In addition, B3GALT6 is associated with progeria, which is consistent with the previously observed association between MIC-1/GDF-15 and longevity (Wang et al., 2014a).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 30226,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "The current study suggested an association between MIC-1/GDF-15 blood concentration and the COPI-mediated anterograde transport pathway, which involves ER-to-Golgi transport, and is known as the secretion pathway of cytokines from macrophages (Murray and Stow, 2014). The current finding therefore suggests that ER-to-Golgi pathway may potentially play an important role in determining MIC-1/GDF-15 blood concentration (Bootcov et al., 1997).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 30668,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "A high priority target for future studies attempting to identify the causative SNP/s for MIC-1/GDF-15 levels includes examining the SNP rs1054564 (3′ UTR [GDF15]/5′UTR [LRRC25]), which from in silico analysis suggests it has a likely regulatory role and is an eQTL for LRRC25. MIR3189 (chr19) is also an interesting candidate gene, which is located within the MIC-1/GDF-15 gene, given the evidence discussed above. The tentative chromosome 1 locus also deserves more investigation, with the intronic SDF4 SNP, rs3813199, an attractive candidate as it may affect the binding of several transcription factors and is an eQTL in blood for B3GALT6 and TNFRSF18, which have been implicated in MIC-1/GDF-15 protein binding and immune function respectively. The question also arises as to whether the products of the identified genes, such as LRRC25, are involved in the regulation of MIC-1/GDF-15 protein levels. Indeed, LRRC25 has recently been described as a negative regulator of the NF-κB signaling pathway that regulates gene expression, including inflammation and immunity (Feng et al., 2017). It is also noteworthy to mention that eQTLs for MIC-1/GDF-15 in blood have been identified (GTEx) but were not significant in the current study. There may be different explanations for this discrepancy, including that other factors play important roles in the regulation of MIC-1/GDF-15 protein blood levels such as the protein turnover rate.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 32103,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "The current study has some limitations. First, MIC-1/GDF-15 measurement protocols are not identical across all participating cohorts (e.g., different MIC-1/GDF-15 assays), which may introduce additional variation in MIC-1/GDF-15 blood levels. For example, plasma samples acquired from NSPHS participants were non-fasting, which may introduce fluctuations in MIC-1/GDF-15 measurement as it varies in a diurnal pattern (Tsai et al., 2015), and therefore may have added heterogeneity to the analyses. Second, the participating cohorts are of different age ranges. Since older age is a potent risk factor for elevated MIC-1/GDF-15 blood levels, a comparable age range across all participating cohorts will minimize the age effect. Third, the definition of DM was not identical across all participating cohorts, which may introduce biases to the results. Fourth, the LD of the European reference panel used for COJO analyses may not perfectly match the study samples, which may therefore introduce potential biases to COJO analyses results. Fifth, diseases known to elevate MIC-1/GDF-15 blood levels, such as renal disease and rheumatoid arthritis, are not comprehensively documented throughout all participating cohorts. Therefore, although our community-dwelling cohorts are generally healthy, we could not exclude the possibility that up-regulation of blood MIC-1/GDF-15 levels due to these diseases may influence the observed associations. Sixth, a larger sample size would enable relatively weaker associations to be observed. Finally, the HapMap2 reference panel does not include the most up-to-date set of genetic variants. Future use of more up-to-date panels such as the 1000 Genome reference panel for imputation, will facilitate a more comprehensive set of variants to be examined.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 33890,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "conclusion section",
+                "iao_id": "IAO:0000615"
+              }
+            ],
+            "section_title_1": "Conclusion"
+          },
+          "text": "In a GWAS of approximately 5,400 community-based participants, we identified a locus on chromosome 19 containing the PGPEP1 and MIC-1/GDF15 genes that was associated with MIC-1/GDF-15 blood concentration. The findings also suggest that a few additional genes on chromosome 19 and 1, and the COPI-mediated anterograde transport pathway, may be involved in regulating MIC-1/GDF-15 blood levels. This work suggests that the regulation of blood MIC-1/GDF-15 levels is complex with genetic variation playing a significant role. Our results warrant further independent studies to confirm the observed relationships, and to investigate the biological mechanisms underlying the findings, given the negative health outcomes linked to MIC-1/GDF-15 blood levels in humans.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34661,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "ethical approval section",
+                "iao_id": "IAO:0000620"
+              }
+            ],
+            "section_title_1": "Ethics Statement"
+          },
+          "text": "Framingham – Written informed consent was provided by all participants, and the study was approved by the Institutional Review Board, Boston University Medical Center. All analyses described in the current study were conducted in accordance with the approved guidelines and regulations.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 34963,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "ethical approval section",
+                "iao_id": "IAO:0000620"
+              }
+            ],
+            "section_title_1": "Ethics Statement"
+          },
+          "text": "PIVUS – All participants provided informed consent, and the study was approved by the University of Uppsala Ethics Committee. All analyses were undertaken in accordance with the approved guidelines and regulations.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35177,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "ethical approval section",
+                "iao_id": "IAO:0000620"
+              }
+            ],
+            "section_title_1": "Ethics Statement"
+          },
+          "text": "NSPHS – NSPHS was approved by the local ethics committee at the University of Uppsala in compliance with the Declaration of Helsinki. All participants gave their written informed consent. All analyses in the current study were conducted in accordance with the approved guidelines and regulations.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35473,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "ethical approval section",
+                "iao_id": "IAO:0000620"
+              }
+            ],
+            "section_title_1": "Ethics Statement"
+          },
+          "text": "Sydney MAS – Sydney MAS was approved by the Human Research Ethics Committees of the University of New South Wales and the South Eastern Sydney Local Health District. All participants gave written informed consent. All analyses in the current study were performed in accordance with the approved guidelines and regulations.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35795,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "author contributions section",
+                "iao_id": "IAO:0000323"
+              }
+            ],
+            "section_title_1": "Author Contributions"
+          },
+          "text": "JJ: design, analysis, interpretation of results, and wrote the manuscript. AT: design, analysis, interpretation of results, and revision of the manuscript. JH: design, Framingham GWAS, interpretation of results, and revision of the manuscript. AM: imputation in PIVUS, PIVUS GWAS, and revision of the manuscript. WE: design, NSPHS GWAS, and revision of the manuscript. DB and SB: measurement of MIC-1/GDF15 blood levels in Sydney MAS participants and revision of the manuscript. TW: design, Framingham GWAS, interpretation of Framingham results, and revision of the manuscript. UG: NSPHS data acquisition and revision of the manuscript. M-C and JLJ: Framingham GWAS analysis and revision of the manuscript. SE: design, NSPHS GWAS, and revision of the manuscript. LL: PIVUS primary investigator, PIVUS data acquisition, and revision of the manuscript. NA, JK, and PRS: genotyping and imputation for Sydney MAS and revision of the manuscript. JT and WW: design the analyses, interpretation results, and revision of the manuscript. ÅJ: design, NSPHS GWAS, and revision of the manuscript. APM: genotyping and supervision of analyses for PIVUS and revision of the manuscript. RV: design Framingham GWAS, Framingham data acquisition, interpretation of Framingham results, and revision of the manuscript. PSS and KM: design the analysis, supervision of analyses, interpretation of results, and revision of manuscript.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 37225,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "conflict of interest section",
+                "iao_id": "IAO:0000616"
+              }
+            ],
+            "section_title_1": "Conflict of Interest Statement"
+          },
+          "text": "JLJ reports the following disclosures: (1) Roche Diagnostics: research grants, consultancy; (2) Siemens Diagnostics: research grants; (3) Prevencio: research grants; (4) Singulex: research grants; (5) Critical Diagnostics: consultancy; (6) Philips: consultancy; (7) Novartis: clinical endpoints committee, consultancy; (8) Boeringer-Ingelheim: clinical endpoints committee, consultancy; (9) Amgen: data monitoring committee. DB and SB are inventors on patents relating to MIC-1/GDF-15, held by St. Vincent’s Hospital, Australia. The other authors declare that they have no affiliations with or involvement in any organization or entity with any financial interest (such as honoraria; educational grants; participation in speakers’ bureaus; membership, employment, consultancies, stock ownership, or other equity interest; and expert testimony or patent-licensing arrangements), or non-financial interest (such as personal or professional relationships, affiliations, knowledge or beliefs) in the subject matter or materials discussed in this manuscript. The handling Editor declared a shared affiliation, though no other collaboration, with one of the authors TW.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38418,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "acknowledgements section",
+                "iao_id": "IAO:0000324"
+              }
+            ],
+            "section_title_1": "Acknowledgments"
+          },
+          "text": "We would like to gratefully acknowledge and thank the participants of all participating studies and the research teams.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38552,
+          "infons": {
+            "section_type": [
+              {
+                "IAO_term": "acknowledgements section",
+                "IAO_id": "IAO:0000324"
+              }
+            ]
+          },
+          "text": "Funding. JJ is a John Holden Family Foundation Postdoctoral Research Fellow. JH is supported by NIH Grant K23-HL116780. APM is a Wellcome Trust Senior Fellow in Basic Biomedical Science under award WT098017. Framingham – This work was partially supported by the National Heart, Lung and Blood Institute’s Framingham Heart Study (Contracts N01-HC-25195 and HHSN268201500001I). PIVUS – PIVUS was supported by Knut and Alice Wallenberg Foundation (Wallenberg Academy Fellow), European Research Council (ERC Starting Grant), Swedish Diabetes Foundation (2013-024), Swedish Research Council (2012-1397, 2012-1727, and 2012-2215), Marianne and Marcus Wallenberg Foundation, County Council of Dalarna, Dalarna University, and Swedish Heart-Lung Foundation (20120197). The computations were performed on resources provided by SNIC through Uppsala Multidisciplinary Center for Advanced Computational Science (UPPMAX) under Project b2011036. Genotyping was funded by the Wellcome Trust under awards WT064890 and WT086596. Analysis of genetic data was funded by the Wellcome Trust under awards WT098017 and WT090532. NSPHS – Illumina genotyping, and DNA methylation analyses was performed by the SNP&SEQ Technology Platform in Uppsala, which is supported by Uppsala University, Uppsala University Hospital, Science for Life Laboratory (SciLifeLab) – Uppsala and the Swedish Research Council (Contracts 80576801 and 70374401). MIC-1/GDF-15 measurements in the NSPHS were performed by the Science for life Laboratory Clinical Biomarker facility in Uppsala, Sweden. The computations were performed on resources provided by SNIC through Uppsala Multidisciplinary Center for Advanced Computational Science (UPPMAX) under projects b2011203, p2012153 and b2013110. The NSPHS study was funded by the Swedish Medical Research Council (Project Number K2007-66X-20270-01-3) and the Foundation for Strategic Research (SSF). NSPHS as part of EUROSPAN (European Special Populations Research Network) was also supported by European Commission FP6 STRP grant number 01947 (LSHG-CT-2006-01947). This work has also been supported by the Swedish Society for Medical Research (SSMF), Swedish Medical Research Council, the Göran Gustafssons Foundation, the Kjell och Märta Beijers Foundation, the Marcus Borgström Foundation, the Åke Wiberg foundation and the Vleugels Foundation. Sydney MAS – Sydney MAS is supported by a National Health and Medical Research Council (NHMRC)/Australian Research Council Strategic Award (Grant 401162), NHMRC Program grants (350833 and 568969) and a Project grant (1045325). This research was also supported by NHMRC Project grants (510175 and 510124), and the Australian Research Council (DP0774213, DP0773584, and LP0669645).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41280,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary Material"
+          },
+          "text": "The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fgene.2018.00097/full#supplementary-material",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41459,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Homogenous 96-plex PEA immunoassay exhibiting high sensitivity, specificity, and excellent scalability.",
+            "journal": "PLoS One",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "Assarsson E., Lundberg M., Holmquist G., Bjorkesten J., Thorsen S. B., Ekman D., et al.  (2014). Homogenous 96-plex PEA immunoassay exhibiting high sensitivity, specificity, and excellent scalability.\nPLoS One\n9:e95192. 10.1371/journal.pone.0095192\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41774,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "ProbABEL package for genome-wide association analysis of imputed data.",
+            "journal": "BMC Bioinformatics",
+            "volume": "11",
+            "section_title_1": "References"
+          },
+          "text": "Aulchenko Y. S., Struchalin M. V., Van Duijn C. M. (2010). ProbABEL package for genome-wide association analysis of imputed data.\nBMC Bioinformatics\n11:134. 10.1186/1471-2105-11-134\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42012,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The propeptide mediates formation of stromal stores of PROMIC-1: role in determining prostate cancer outcome.",
+            "journal": "Cancer Res.",
+            "volume": "65",
+            "section_title_1": "References"
+          },
+          "text": "Bauskin A. R., Brown D. A., Junankar S., Rasiah K. K., Eggleton S., Hunter M., et al.  (2005). The propeptide mediates formation of stromal stores of PROMIC-1: role in determining prostate cancer outcome.\nCancer Res.\n65\n2330–2336. 10.1158/0008-5472.CAN-04-3827\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42310,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "MIC-1, a novel macrophage inhibitory cytokine, is a divergent member of the TGF-β superfamily.",
+            "journal": "Proc. Natl. Acad. Sci. U.S.A.",
+            "volume": "94",
+            "section_title_1": "References"
+          },
+          "text": "Bootcov M. R., Bauskin A. R., Valenzuela S. M., Moore A. G., Bansal M., He X. Y., et al.  (1997). MIC-1, a novel macrophage inhibitory cytokine, is a divergent member of the TGF-β superfamily.\nProc. Natl. Acad. Sci. U.S.A.\n94\n11514–11519. 10.1073/pnas.94.21.11514 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42629,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Annotation of functional variation in personal genomes using RegulomeDB.",
+            "journal": "Genome Res.",
+            "volume": "22",
+            "section_title_1": "References"
+          },
+          "text": "Boyle A. P., Hong E. L., Hariharan M., Cheng Y., Schaub M. A., Kasowski M., et al.  (2012). Annotation of functional variation in personal genomes using RegulomeDB.\nGenome Res.\n22\n1790–1797. 10.1101/gr.137323.112\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42898,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Macrophage inhibitory cytokine-1 is overexpressed in malignant melanoma and is associated with tumorigenicity.",
+            "journal": "J. Invest. Dermatol.",
+            "volume": "129",
+            "section_title_1": "References"
+          },
+          "text": "Boyle G. M., Pedley J., Martyn A. C., Banducci K. J., Strutton G. M., Brown D. A., et al.  (2009). Macrophage inhibitory cytokine-1 is overexpressed in malignant melanoma and is associated with tumorigenicity.\nJ. Invest. Dermatol.\n129\n383–391. 10.1038/jid.2008.270\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43200,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The TGF-β superfamily cytokine, MIC-1/GDF15: a pleotrophic cytokine with roles in inflammation, cancer and metabolism.",
+            "journal": "Growth Factors",
+            "volume": "29",
+            "section_title_1": "References"
+          },
+          "text": "Breit S. N., Johnen H., Cook A. D., Tsai V. W., Mohammad M. G., Kuffner T., et al.  (2011). The TGF-β superfamily cytokine, MIC-1/GDF15: a pleotrophic cytokine with roles in inflammation, cancer and metabolism.\nGrowth Factors\n29\n187–195. 10.3109/08977194.2011.607137\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43504,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Concentration in plasma of macrophage inhibitory cytokine-1 and risk of cardiovascular events in women: a nested case-control study.",
+            "journal": "Lancet",
+            "volume": "359",
+            "section_title_1": "References"
+          },
+          "text": "Brown D. A., Breit S. N., Buring J., Fairlie W. D., Bauskin A. R., Liu T., et al.  (2002). Concentration in plasma of macrophage inhibitory cytokine-1 and risk of cardiovascular events in women: a nested case-control study.\nLancet\n359\n2159–2163. 10.1016/S0140-6736(02)09093-1\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43817,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Serum macrophage inhibitory cytokine-1 (MIC-1/GDF15): a potential screening tool for the prevention of colon cancer?",
+            "journal": "Cancer Epidemiol. Biomark. Prev.",
+            "volume": "21",
+            "section_title_1": "References"
+          },
+          "text": "Brown D. A., Hance K. W., Rogers C. J., Sansbury L. B., Albert P. S., Murphy G., et al.  (2012). Serum macrophage inhibitory cytokine-1 (MIC-1/GDF15): a potential screening tool for the prevention of colon cancer?\nCancer Epidemiol. Biomark. Prev.\n21\n337–346. 10.1158/1055-9965.EPI-11-0786\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44162,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Macrophage inhibitory cytokine 1: a new prognostic marker in prostate cancer.",
+            "journal": "Clin. Cancer Res.",
+            "volume": "15",
+            "section_title_1": "References"
+          },
+          "text": "Brown D. A., Lindmark F., Stattin P., Balter K., Adami H. O., Zheng S. L., et al.  (2009). Macrophage inhibitory cytokine 1: a new prognostic marker in prostate cancer.\nClin. Cancer Res.\n15\n6658–6664. 10.1158/1078-0432.CCR-08-3126\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44449,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Serum macrophage inhibitory cytokine 1 in rheumatoid arthritis: a potential marker of erosive joint destruction.",
+            "journal": "Arthritis Rheum.",
+            "volume": "56",
+            "section_title_1": "References"
+          },
+          "text": "Brown D. A., Moore J., Johnen H., Smeets T. J., Bauskin A. R., Kuffner T., et al.  (2007). Serum macrophage inhibitory cytokine 1 in rheumatoid arthritis: a potential marker of erosive joint destruction.\nArthritis Rheum.\n56\n753–764. 10.1002/art.22410\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44737,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Cab45S promotes cell proliferation through SERCA2b inhibition and Ca2+ signaling.",
+            "journal": "Oncogene",
+            "volume": "35",
+            "section_title_1": "References"
+          },
+          "text": "Chen L., Xu S., Xu Y., Lu W., Liu L., Yue D., et al.  (2016). Cab45S promotes cell proliferation through SERCA2b inhibition and Ca2+ signaling.\nOncogene\n35\n35–46. 10.1038/onc.2015.56\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44957,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "GDF15 triggers homeostatic proliferation of acid-secreting collecting duct cells.",
+            "journal": "J. Am. Soc. Nephrol.",
+            "volume": "19",
+            "section_title_1": "References"
+          },
+          "text": "Duong Van Huyen J. P., Cheval L., Bloch-Faure M., Belair M. F., Heudes D., Bruneval P., et al.  (2008). GDF15 triggers homeostatic proliferation of acid-secreting collecting duct cells.\nJ. Am. Soc. Nephrol.\n19\n1965–1974. 10.1681/ASN.2007070781\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45257,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide DNA methylation study identifies genes associated with the cardiovascular biomarker GDF-15.",
+            "journal": "Hum. Mol. Genet.",
+            "volume": "25",
+            "section_title_1": "References"
+          },
+          "text": "Ek W. E., Hedman A. K., Enroth S., Morris A. P., Lindgren C. M., Mahajan A., et al.  (2016). Genome-wide DNA methylation study identifies genes associated with the cardiovascular biomarker GDF-15.\nHum. Mol. Genet.\n25\n817–827. 10.1093/hmg/ddv511\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45558,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Strong effects of genetic and lifestyle factors on biomarker variation and use of personalized cutoffs.",
+            "journal": "Nat. Commun.",
+            "volume": "5",
+            "section_title_1": "References"
+          },
+          "text": "Enroth S., Johansson A., Enroth S. B., Gyllensten U. (2014). Strong effects of genetic and lifestyle factors on biomarker variation and use of personalized cutoffs.\nNat. Commun.\n5\n4684. 10.1038/ncomms5684\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 45819,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetics of gene expression in primary immune cells identifies cell type-specific master regulators and roles of HLA alleles.",
+            "journal": "Nat. Genet.",
+            "volume": "44",
+            "section_title_1": "References"
+          },
+          "text": "Fairfax B. P., Makino S., Radhakrishnan J., Plant K., Leslie S., Dilthey A., et al.  (2012). Genetics of gene expression in primary immune cells identifies cell type-specific master regulators and roles of HLA alleles.\nNat. Genet.\n44\n502–510. 10.1038/ng.2205\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46134,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "LRRC25 functions as an inhibitor of NF-κB signaling pathway by promoting p65/RelA for autophagic degradation.",
+            "journal": "Sci. Rep.",
+            "volume": "7",
+            "section_title_1": "References"
+          },
+          "text": "Feng Y., Duan T., Du Y., Jin S., Wang M., Cui J., et al.  (2017). LRRC25 functions as an inhibitor of NF-κB signaling pathway by promoting p65/RelA for autophagic degradation.\nSci. Rep.\n7:13448. 10.1038/s41598-017-12573-3\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46412,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Chronic inflammation (inflammaging) and its potential contribution to age-associated diseases.",
+            "journal": "J. Gerontol. A Biol. Sci. Med. Sci.",
+            "volume": "69(Suppl. 1)",
+            "section_title_1": "References"
+          },
+          "text": "Franceschi C., Campisi J. (2014). Chronic inflammation (inflammaging) and its potential contribution to age-associated diseases.\nJ. Gerontol. A Biol. Sci. Med. Sci.\n69(Suppl. 1), S4–S9. 10.1093/gerona/glu057\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46657,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Mapping cis- and trans-regulatory effects across multiple tissues in twins.",
+            "journal": "Nat. Genet.",
+            "volume": "44",
+            "section_title_1": "References"
+          },
+          "text": "Grundberg E., Small K. S., Hedman A. K., Nica A. C., Buil A., Keildson S., et al.  (2012). Mapping cis- and trans-regulatory effects across multiple tissues in twins.\nNat. Genet.\n44\n1084–1089. 10.1038/ng.2394\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46922,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Clinical and genetic correlates of growth differentiation factor 15 in the community.",
+            "journal": "Clin. Chem.",
+            "volume": "58",
+            "section_title_1": "References"
+          },
+          "text": "Ho J. E., Mahajan A., Chen M. H., Larson M. G., Mccabe E. L., Ghorbani A., et al.  (2012). Clinical and genetic correlates of growth differentiation factor 15 in the community.\nClin. Chem.\n58\n1582–1591. 10.1373/clinchem.2012.190322\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47210,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The relationship of serum macrophage inhibitory cytokine-1 levels with gray matter volumes in community-dwelling older individuals.",
+            "journal": "PLoS One",
+            "volume": "10",
+            "section_title_1": "References"
+          },
+          "text": "Jiang J., Wen W., Brown D. A., Crawford J., Thalamuthu A., Smith E., et al.  (2015). The relationship of serum macrophage inhibitory cytokine-1 levels with gray matter volumes in community-dwelling older individuals.\nPLoS One\n10:e0123399. 10.1371/journal.pone.0123399\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47534,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Macrophage inhibitory cytokine-1/growth differentiation factor 15 as a marker of cognitive ageing and dementia.",
+            "journal": "Curr. Opin. Psychiatry",
+            "volume": "29",
+            "section_title_1": "References"
+          },
+          "text": "Jiang J., Wen W., Sachdev P. S. (2016). Macrophage inhibitory cytokine-1/growth differentiation factor 15 as a marker of cognitive ageing and dementia.\nCurr. Opin. Psychiatry\n29\n181–186. 10.1097/YCO.0000000000000225\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47787,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Increased expression of the TGF-b superfamily cytokine MIC-1/GDF15 protects ApoE-/- mice from the development of atherosclerosis.",
+            "journal": "Cardiovasc. Pathol.",
+            "volume": "21",
+            "section_title_1": "References"
+          },
+          "text": "Johnen H., Kuffner T., Brown D. A., Wu B. J., Stocker R., Breit S. N. (2012). Increased expression of the TGF-b superfamily cytokine MIC-1/GDF15 protects ApoE-/- mice from the development of atherosclerosis.\nCardiovasc. Pathol.\n21\n499–505. 10.1016/j.carpath.2012.02.003\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48094,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Functional analysis of the leukemia protein ELL: evidence for a role in the regulation of cell growth and survival.",
+            "journal": "Mol. Cell. Biol.",
+            "volume": "21",
+            "section_title_1": "References"
+          },
+          "text": "Johnstone R. W., Gerber M., Landewe T., Tollefson A., Wold W. S., Shilatifard A. (2001). Functional analysis of the leukemia protein ELL: evidence for a role in the regulation of cell growth and survival.\nMol. Cell. Biol.\n21\n1672–1681. 10.1128/MCB.21.5.1672-1681.2001\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48418,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Growth differentiation factor-15 encodes a novel microRNA 3189 that functions as a potent regulator of cell death.",
+            "journal": "Cell Death Differ.",
+            "volume": "22",
+            "section_title_1": "References"
+          },
+          "text": "Jones M. F., Li X. L., Subramanian M., Shabalina S. A., Hara T., Zhu Y., et al.  (2015). Growth differentiation factor-15 encodes a novel microRNA 3189 that functions as a potent regulator of cell death.\nCell Death Differ.\n22\n1641–1653. 10.1038/cdd.2015.9\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48730,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "An investigation of coronary heart disease in families. The Framingham offspring study.",
+            "journal": "Am. J. Epidemiol.",
+            "volume": "110",
+            "section_title_1": "References"
+          },
+          "text": "Kannel W. B., Feinleib M., Mcnamara P. M., Garrison R. J., Castelli W. P. (1979). An investigation of coronary heart disease in families. The Framingham offspring study.\nAm. J. Epidemiol.\n110\n281–290. 10.1093/oxfordjournals.aje.a112813 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49002,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Circulating concentrations of growth-differentiation factor 15 in apparently healthy elderly individuals and patients with chronic heart failure as assessed by a new immunoradiometric sandwich assay.",
+            "journal": "Clin. Chem.",
+            "volume": "53",
+            "section_title_1": "References"
+          },
+          "text": "Kempf T., Horn-Wichmann R., Brabant G., Peter T., Allhoff T., Klein G., et al.  (2007). Circulating concentrations of growth-differentiation factor 15 in apparently healthy elderly individuals and patients with chronic heart failure as assessed by a new immunoradiometric sandwich assay.\nClin. Chem.\n53\n284–291. 10.1373/clinchem.2006.076828\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49380,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "GDF-15 secreted from human umbilical cord blood mesenchymal stem cells delivered through the cerebrospinal fluid promotes hippocampal neurogenesis and synaptic activity in an Alzheimer’s disease model.",
+            "journal": "Stem Cells Dev.",
+            "volume": "24",
+            "section_title_1": "References"
+          },
+          "text": "Kim D. H., Lee D., Chang E. H., Kim J. H., Hwang J. W., Kim J. Y., et al.  (2015). GDF-15 secreted from human umbilical cord blood mesenchymal stem cells delivered through the cerebrospinal fluid promotes hippocampal neurogenesis and synaptic activity in an Alzheimer’s disease model.\nStem Cells Dev.\n24\n2378–2390. 10.1089/scd.2014.0487\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 49773,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Subcellular distribution of membrane-bound aminopeptidases in the human and rat brain.",
+            "journal": "Neurosci. Lett.",
+            "volume": "383",
+            "section_title_1": "References"
+          },
+          "text": "Larrinaga G., Callado L. F., Agirregoitia N., Varona A., Gil J. (2005). Subcellular distribution of membrane-bound aminopeptidases in the human and rat brain.\nNeurosci. Lett.\n383\n136–140. 10.1016/j.neulet.2005.03.061\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50027,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Placental transforming growth factor-β is a downstream mediator of the growth arrest and apoptotic response of tumor cells to DNA damage and p53 overexpression.",
+            "journal": "J. Biol. Chem.",
+            "volume": "275",
+            "section_title_1": "References"
+          },
+          "text": "Li P. X., Wong J., Ayed A., Ngo D., Brade A. M., Arrowsmith C., et al.  (2000). Placental transforming growth factor-β is a downstream mediator of the growth arrest and apoptotic response of tumor cells to DNA damage and p53 overexpression.\nJ. Biol. Chem.\n275\n20127–20135. 10.1074/jbc.M909580199\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50360,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Mach 1.0: rapid haplotype reconstruction and missing genotype inference.",
+            "journal": "Am. J. Hum. Genet.",
+            "volume": "79",
+            "section_title_1": "References"
+          },
+          "text": "Li Y., Abecasis G. R. (2006). Mach 1.0: rapid haplotype reconstruction and missing genotype inference.\nAm. J. Hum. Genet.\n79:S2290. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50508,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genotype imputation.",
+            "journal": "Annu. Rev. Genomics Hum. Genet.",
+            "volume": "10",
+            "section_title_1": "References"
+          },
+          "text": "Li Y., Willer C., Sanna S., Abecasis G. (2009). Genotype imputation.\nAnnu. Rev. Genomics Hum. Genet.\n10\n387–406. 10.1146/annurev.genom.9.081307.164242 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50714,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "MaCH: using sequence and genotype data to estimate haplotypes and unobserved genotypes.",
+            "journal": "Genet. Epidemiol.",
+            "volume": "34",
+            "section_title_1": "References"
+          },
+          "text": "Li Y., Willer C. J., Ding J., Scheet P., Abecasis G. R. (2010). MaCH: using sequence and genotype data to estimate haplotypes and unobserved genotypes.\nGenet. Epidemiol.\n34\n816–834. 10.1002/gepi.20533\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50971,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Growth-differentiation factor-15 is an independent marker of cardiovascular dysfunction and disease in the elderly: results from the prospective investigation of the vasculature in uppsala Seniors (PIVUS) Study.",
+            "journal": "Eur. Heart J.",
+            "volume": "30",
+            "section_title_1": "References"
+          },
+          "text": "Lind L., Wallentin L., Kempf T., Tapken H., Quint A., Lindahl B., et al.  (2009). Growth-differentiation factor-15 is an independent marker of cardiovascular dysfunction and disease in the elderly: results from the prospective investigation of the vasculature in uppsala Seniors (PIVUS) Study.\nEur. Heart J.\n30\n2346–2353. 10.1093/eurheartj/ehp261\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 51355,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A versatile gene-based test for genome-wide association studies.",
+            "journal": "Am. J. Hum. Genet.",
+            "volume": "87",
+            "section_title_1": "References"
+          },
+          "text": "Liu J. Z., Mcrae A. F., Nyholt D. R., Medland S. E., Wray N. R., Brown K. M., et al.  (2010). A versatile gene-based test for genome-wide association studies.\nAm. J. Hum. Genet.\n87\n139–145. 10.1016/j.ajhg.2010.06.009\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 51628,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Vitamin D and endothelial vasodilation in older individuals: data from the PIVUS study.",
+            "journal": "J. Clin. Endocrinol. Metab.",
+            "volume": "99",
+            "section_title_1": "References"
+          },
+          "text": "Maggio M., De Vita F., Lauretani F., Ceda G. P., Volpi E., Giallauria F., et al.  (2014). Vitamin D and endothelial vasodilation in older individuals: data from the PIVUS study.\nJ. Clin. Endocrinol. Metab.\n99\n3382–3389. 10.1210/jc.2014-1536\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 51925,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A new multipoint method for genome-wide association studies by imputation of genotypes.",
+            "journal": "Nat. Genet.",
+            "volume": "39",
+            "section_title_1": "References"
+          },
+          "text": "Marchini J., Howie B., Myers S., Mcvean G., Donnelly P. (2007). A new multipoint method for genome-wide association studies by imputation of genotypes.\nNat. Genet.\n39\n906–913. 10.1038/ng2088\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 52153,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide significant results identified for plasma apolipoprotein H levels in middle-aged and older adults.",
+            "journal": "Sci. Rep.",
+            "volume": "6",
+            "section_title_1": "References"
+          },
+          "text": "Mather K. A., Thalamuthu A., Oldmeadow C., Song F., Armstrong N. J., Poljak A., et al.  (2016). Genome-wide significant results identified for plasma apolipoprotein H levels in middle-aged and older adults.\nSci. Rep.\n6:23675. 10.1038/srep23675\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 52453,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A prospective study of macrophage inhibitory cytokine-1 (MIC-1/GDF15) and risk of colorectal cancer.",
+            "journal": "J. Natl. Cancer Inst.",
+            "volume": "106",
+            "section_title_1": "References"
+          },
+          "text": "Mehta R. S., Song M., Bezawada N., Wu K., Garcia-Albeniz X., Morikawa T., et al.  (2014). A prospective study of macrophage inhibitory cytokine-1 (MIC-1/GDF15) and risk of colorectal cancer.\nJ. Natl. Cancer Inst.\n106:dju016. 10.1093/jnci/dju016\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 52754,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Cytokine secretion in macrophages: SNAREs, rabs, and membrane trafficking.",
+            "journal": "Front. Immunol.",
+            "volume": "5",
+            "section_title_1": "References"
+          },
+          "text": "Murray R. Z., Stow J. L. (2014). Cytokine secretion in macrophages: SNAREs, rabs, and membrane trafficking.\nFront. Immunol.\n5:538. 10.3389/fimmu.2014.00538\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 52966,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Human leucine-rich repeat proteins: a genome-wide bioinformatic categorization and functional analysis in innate immunity.",
+            "journal": "Proc. Natl. Acad. Sci. U.S.A.",
+            "volume": "108(Suppl. 1)",
+            "section_title_1": "References"
+          },
+          "text": "Ng A. C., Eisenberg J. M., Heath R. J., Huett A., Robinson C. M., Nau G. J., et al.  (2011). Human leucine-rich repeat proteins: a genome-wide bioinformatic categorization and functional analysis in innate immunity.\nProc. Natl. Acad. Sci. U.S.A.\n108(Suppl. 1), 4631–4638. 10.1073/pnas.1000093107\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 53318,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "GDF-15 prevents platelet integrin activation and thrombus formation.",
+            "journal": "J. Thromb. Haemost.",
+            "volume": "11",
+            "section_title_1": "References"
+          },
+          "text": "Rossaint J., Vestweber D., Zarbock A. (2013). GDF-15 prevents platelet integrin activation and thrombus formation.\nJ. Thromb. Haemost.\n11\n335–344. 10.1111/jth.12100\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 53520,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The Sydney memory and ageing study (MAS): methodology and baseline medical and neuropsychiatric characteristics of an elderly epidemiological non-demented cohort of Australians aged 70-90 years.",
+            "journal": "Int. Psychogeriatr.",
+            "volume": "22",
+            "section_title_1": "References"
+          },
+          "text": "Sachdev P. S., Brodaty H., Reppermund S., Kochan N. A., Trollor J. N., Draper B., et al.  (2010). The Sydney memory and ageing study (MAS): methodology and baseline medical and neuropsychiatric characteristics of an elderly epidemiological non-demented cohort of Australians aged 70-90 years.\nInt. Psychogeriatr.\n22\n1248–1264. 10.1017/S1041610210001067\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 53910,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Cab45, a novel (Ca2+)-binding protein localized to the Golgi lumen.",
+            "journal": "J. Cell Biol.",
+            "volume": "133",
+            "section_title_1": "References"
+          },
+          "text": "Scherer P. E., Lederkremer G. Z., Williams S., Fogliano M., Baldini G., Lodish H. F. (1996). Cab45, a novel (Ca2+)-binding protein localized to the Golgi lumen.\nJ. Cell Biol.\n133\n257–268. 10.1083/jcb.133.2.257\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 54176,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Common inherited variation in mitochondrial genes is not enriched for associations with type 2 diabetes or related glycemic traits.",
+            "journal": "PLoS Genet.",
+            "volume": "6",
+            "section_title_1": "References"
+          },
+          "text": "Segre A. V., Groop L., Mootha V. K., Daly M. J., Altshuler D. (2010). Common inherited variation in mitochondrial genes is not enriched for associations with type 2 diabetes or related glycemic traits.\nPLoS Genet.\n6:e1001058. 10.1371/journal.pgen.1001058\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 54487,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Growth/differentiation factor-15/macrophage inhibitory cytokine-1 is a novel trophic factor for midbrain dopaminergic neurons in vivo.",
+            "journal": "J. Neurosci.",
+            "volume": "20",
+            "section_title_1": "References"
+          },
+          "text": "Strelau J., Sullivan A., Bottner M., Lingor P., Falkenstein E., Suter-Crazzolara C., et al.  (2000). Growth/differentiation factor-15/macrophage inhibitory cytokine-1 is a novel trophic factor for midbrain dopaminergic neurons in vivo.\nJ. Neurosci.\n20\n8597–8603.  [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 54795,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Role of GDF15 (growth and differentiation factor 15) in pulmonary oxygen toxicity.",
+            "journal": "Toxicol. In Vitro",
+            "volume": "29",
+            "section_title_1": "References"
+          },
+          "text": "Tiwari K.K., Moorthy B., Lingappan K. (2015). Role of GDF15 (growth and differentiation factor 15) in pulmonary oxygen toxicity.\nToxicol. In Vitro\n29\n1369–1376. 10.1016/j.tiv.2015.05.008\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 55038,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Anorexia-cachexia and obesity treatment may be two sides of the same coin: role of the TGF-b superfamily cytokine MIC-1/GDF15.",
+            "journal": "Int. J. Obes.",
+            "volume": "40",
+            "section_title_1": "References"
+          },
+          "text": "Tsai V. W., Lin S., Brown D. A., Salis A., Breit S. N. (2016). Anorexia-cachexia and obesity treatment may be two sides of the same coin: role of the TGF-b superfamily cytokine MIC-1/GDF15.\nInt. J. Obes.\n40\n193–197. 10.1038/ijo.2015.242\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 55312,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Serum levels of human MIC-1/GDF15 vary in a diurnal pattern, do not display a profile suggestive of a satiety factor and are related to BMI.",
+            "journal": "PLoS One",
+            "volume": "10",
+            "section_title_1": "References"
+          },
+          "text": "Tsai V. W., Macia L., Feinle-Bisset C., Manandhar R., Astrup A., Raben A., et al.  (2015). Serum levels of human MIC-1/GDF15 vary in a diurnal pattern, do not display a profile suggestive of a satiety factor and are related to BMI.\nPLoS One\n10:e0133362. 10.1371/journal.pone.0133362\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 55651,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The multiple facets of the TGF-β family cytokine growth/differentiation factor-15/macrophage inhibitory cytokine-1.",
+            "journal": "Cytokine Growth Factor Rev.",
+            "volume": "24",
+            "section_title_1": "References"
+          },
+          "text": "Unsicker K., Spittau B., Krieglstein K. (2013). The multiple facets of the TGF-β family cytokine growth/differentiation factor-15/macrophage inhibitory cytokine-1.\nCytokine Growth Factor Rev.\n24\n373–384. 10.1016/j.cytogfr.2013.05.003\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 55922,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The relationship between insulin resistance and the cardiovascular biomarker growth differentiation factor-15 in obese patients.",
+            "journal": "Clin. Chem.",
+            "volume": "57",
+            "section_title_1": "References"
+          },
+          "text": "Vila G., Riedl M., Anderwald C., Resl M., Handisurya A., Clodi M., et al.  (2011). The relationship between insulin resistance and the cardiovascular biomarker growth differentiation factor-15 in obese patients.\nClin. Chem.\n57\n309–316. 10.1373/clinchem.2010.153726\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 56224,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Growth differentiation factor 15, a marker of oxidative stress and inflammation, for risk assessment in patients with atrial fibrillation: insights from the Apixaban for reduction in stroke and other Thromboembolic events in Atrial fibrillation (ARISTOTLE) trial.",
+            "journal": "Circulation",
+            "volume": "130",
+            "section_title_1": "References"
+          },
+          "text": "Wallentin L., Hijazi Z., Andersson U., Alexander J. H., De Caterina R., Hanna M., et al.  (2014). Growth differentiation factor 15, a marker of oxidative stress and inflammation, for risk assessment in patients with atrial fibrillation: insights from the Apixaban for reduction in stroke and other Thromboembolic events in Atrial fibrillation (ARISTOTLE) trial.\nCirculation\n130\n1847–1858. 10.1161/CIRCULATIONAHA.114.011204\n [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 56684,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Growth differentiation factor 15: a prognostic marker for recurrence in colorectal cancer.",
+            "journal": "Br. J. Cancer",
+            "volume": "104",
+            "section_title_1": "References"
+          },
+          "text": "Wallin U., Glimelius B., Jirstrom K., Darmanis S., Nong R. Y., Ponten F., et al.  (2011). Growth differentiation factor 15: a prognostic marker for recurrence in colorectal cancer.\nBr. J. Cancer\n104\n1619–1627. 10.1038/bjc.2011.112\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 56971,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "hNAG-1 increases lifespan by regulating energy metabolism and insulin/IGF-1/mTOR signaling.",
+            "journal": "Aging",
+            "volume": "6",
+            "section_title_1": "References"
+          },
+          "text": "Wang X., Chrysovergis K., Kosak J., Kissling G., Streicker M., Moser G., et al.  (2014a). hNAG-1 increases lifespan by regulating energy metabolism and insulin/IGF-1/mTOR signaling.\nAging\n6\n690–704. 10.18632/aging.100687\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 57248,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Macrophage inhibitory cytokine 1 (MIC-1/GDF15) as a novel diagnostic serum biomarker in pancreatic ductal adenocarcinoma.",
+            "journal": "BMC Cancer",
+            "volume": "14",
+            "section_title_1": "References"
+          },
+          "text": "Wang X., Li Y. F., Tian H. M., Qi J., Li M., Fu C., et al.  (2014b). Macrophage inhibitory cytokine 1 (MIC-1/GDF15) as a novel diagnostic serum biomarker in pancreatic ductal adenocarcinoma.\nBMC Cancer\n14:578. 10.1186/1471-2407-14-578\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 57539,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Systematic identification of trans eQTLs as putative drivers of known disease associations.",
+            "journal": "Nat. Genet.",
+            "volume": "45",
+            "section_title_1": "References"
+          },
+          "text": "Westra H. J., Peters M. J., Esko T., Yaghootkar H., Schurmann C., Kettunen J., et al.  (2013). Systematic identification of trans eQTLs as putative drivers of known disease associations.\nNat. Genet.\n45\n1238–1243. 10.1038/ng.2756\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 57824,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Macrophage inhibitory cytokine-1 (MIC-1/GDF15): a new marker of all-cause mortality.",
+            "journal": "Aging Cell",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "Wiklund F. E., Bennet A. M., Magnusson P. K., Eriksson U. K., Lindmark F., Wu L., et al.  (2010). Macrophage inhibitory cytokine-1 (MIC-1/GDF15): a new marker of all-cause mortality.\nAging Cell\n9\n1057–1064. 10.1111/j.1474-9726.2010.00629.x\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 58120,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "GCTA: a tool for genome-wide complex trait analysis.",
+            "journal": "Am. J. Hum. Genet.",
+            "volume": "88",
+            "section_title_1": "References"
+          },
+          "text": "Yang J., Lee S. H., Goddard M. E., Visscher P. M. (2011). GCTA: a tool for genome-wide complex trait analysis.\nAm. J. Hum. Genet.\n88\n76–82. 10.1016/j.ajhg.2010.11.011\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 58343,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetics and beyond–The transcriptome of human monocytes and disease susceptibility.",
+            "journal": "PLoS One",
+            "volume": "5",
+            "section_title_1": "References"
+          },
+          "text": "Zeller T., Wild P., Szymczak S., Rotival M., Schillert A., Castagne R., et al.  (2010). Genetics and beyond–The transcriptome of human monocytes and disease susceptibility.\nPLoS One\n5:e10693. 10.1371/journal.pone.0010693\n [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

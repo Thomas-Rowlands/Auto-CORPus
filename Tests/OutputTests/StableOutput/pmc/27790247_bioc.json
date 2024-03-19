@@ -1,0 +1,2979 @@
+{
+  "source": "Auto-CORPus (full-text)",
+  "date": "20210927",
+  "key": "autocorpus_fulltext.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "27790247.html",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Pleiotropic Meta-Analyses of Longitudinal Studies Discover Novel Genetic Variants Associated with Age-Related Diseases",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 118,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "keywords section",
+                "iao_id": "IAO:0000630"
+              }
+            ],
+            "section_title_1": "keywords"
+          },
+          "text": "pleiotropic analysis, age-related traits, CVDs, genetic association study, mediation analysis, age-dependent effects",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 242,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "textual abstract section",
+                "iao_id": "IAO:0000315"
+              }
+            ],
+            "section_title_1": "Abstract"
+          },
+          "text": "Age-related diseases may result from shared biological mechanisms in intrinsic processes of aging. Genetic effects on age-related diseases are often modulated by environmental factors due to their little contribution to fitness or are mediated through certain endophenotypes. Identification of genetic variants with pleiotropic effects on both common complex diseases and endophenotypes may reveal potential conflicting evolutionary pressures and deliver new insights into shared genetic contribution to healthspan and lifespan. Here, we performed pleiotropic meta-analyses of genetic variants using five NIH-funded datasets by integrating univariate summary statistics for age-related diseases and endophenotypes. We investigated three groups of traits: (1) endophenotypes such as blood glucose, blood pressure, lipids, hematocrit, and body mass index, (2) time-to-event outcomes such as the age-at-onset of diabetes mellitus (DM), cancer, cardiovascular diseases (CVDs) and neurodegenerative diseases (NDs), and (3) both combined. In addition to replicating previous findings, we identify seven novel genome-wide significant loci (< 5e-08), out of which five are low-frequency variants. Specifically, from Group 2, we find rs7632505 on 3q21.1 in SEMA5B, rs460976 on 21q22.3 (1 kb from TMPRSS2) and rs12420422 on 11q24.1 predominantly associated with a variety of CVDs, rs4905014 in ITPK1 associated with stroke and heart failure, rs7081476 on 10p12.1 in ANKRD26 associated with multiple diseases including DM, CVDs, and NDs. From Group 3, we find rs8082812 on 18p11.22 and rs1869717 on 4q31.3 associated with both endophenotypes and CVDs. Our follow-up analyses show that rs7632505, rs4905014, and rs8082812 have age-dependent effects on coronary heart disease or stroke. Functional annotation suggests that most of these SNPs are within regulatory regions or DNase clusters and in linkage disequilibrium with expression quantitative trait loci, implying their potential regulatory influence on the expression of nearby genes. Our mediation analyses suggest that the effects of some SNPs are mediated by specific endophenotypes. In conclusion, these findings indicate that loci with pleiotropic effects on age-related disorders tend to be enriched in genes involved in underlying mechanisms potentially related to nervous, cardiovascular and immune system functions, stress resistance, inflammation, ion channels and hematopoiesis, supporting the hypothesis of shared pathological role of infection, and inflammation in chronic age-related diseases.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 2801,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "Common age-related diseases including cancer, cardiovascular diseases (CVDs), diabetes mellitus (DM), and neurodegenerative diseases (NDs) such as Alzheimer's disease (AD) and dementia are major contributors to morbidity and mortality at old age. The underlying hypothesis in gerontology posits that these devastating diseases share some common mechanisms in intrinsic processes of aging that remain to be determined (Kaeberlein et al., 2015). Identifying genetic variants associated with multiple age-related diseases (i.e., pleiotropic effects) is a fundamental step toward understanding the genetic contribution to age-related processes. Numerous loci have been identified to show association across distinct diseases such as immune-related disorders, cancer and NDs, highlighting the common underlying biological pathways in the etiology of these complex diseases (Sivakumaran et al., 2011). For example, variants in APOE significantly associated with longevity and lifespan also confer risk of CVDs, AD and cancer (Ewbank, 2002; Christensen et al., 2006; Brooks-Wilson, 2013; Kulminski et al., 2014, 2015a). A putative loss of function variant in PTPN22 has been found to reduce the risk of Crohn's disease but to increase the risk of rheumatoid arthritis and DM (Plenge et al., 2005; Todd et al., 2007; Barrett et al., 2008). On the other hand, evidence suggests that many age-related diseases are associated with a variety of intermediate phenotypes (also called endophenotypes, i.e., a hereditary characteristic that normally relates to some condition but is not a direct symptom per se) such as body mass index (BMI), lipids, etc. It has been noted from previous genome-wide association studies (GWAS) that different diseases and endophenotypes can be linked by shared genetic variants (Li et al., 2014). These observations demonstrate the clinical benefits from characterization of shared genetic causes that have pleiotropic effects on different phenotypes related to aging. Thus, there has been an increasing interest in jointly interrogating the cross-phenotype association of genetic variants.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 4920,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "Pleiotropic analysis generally provide more information on the common underlying biological mechanism and guidance of further functional studies (Solovieff et al., 2013; Price et al., 2015). In many cases, considering multiple phenotypes together boosts statistical power by aggregating marginal effects on individual phenotypes. Single nucleotide polymorphisms (SNPs) with moderate causal effects on each phenotype may happen not to reach significance when interrogating them separately. Multi-trait analysis has been demonstrated to yield enhanced statistical power for detecting the quantitative trait loci (QTL) that are associated with multiple traits (Korol et al., 2001). Moreover, once genetic pleiotropy is identified, it is of interest to further discriminate between a biological and mediated pleiotropy (Solovieff et al., 2013). The former refers to a direct independent biological effect of a variant on more than one phenotype, while the latter refers to a situation in which the effect on one phenotype is mediated by another phenotype so that the variant is indirectly associated with the second. Given the identified genetic variant having pleiotropic effect on a pair of phenotypes, causal inference under certain specific assumptions can provide insights into potential causal pathways and contribute to characterizing the underlying biological mechanisms. For example, given the causal relationship between low-density lipoprotein (LDL) and myocardial infarction (MI), conducting mediation analysis on a variant associated with both can provide evidence of which pathological pathway the variant is probably involved in. Finally, it should be noted that although previous GWAS following the traditional biomedical strategy have attempted to discover genes conferring risks of age-related diseases, the SNPs associated with them in general are not subject to direct evolutionary selection as these diseases occur during the post-reproductive period so that these SNPs hardly contribute to fitness (Nesse et al., 2012). Therefore, any effect of such SNPs on the diseases is probably mediated through their effects on certain endophenotypes or is modulated by environmental factors (e.g., the grandmother effect; Lahdenperä et al., 2004). Consequently, effects of relevant variants are often found to be environment-specific and to have different temporal patterns (De Benedictis and Franceschi, 2006; Kulminski, 2013; Yashin et al., 2015). In this case, pleiotropic analysis combined with follow-up mediation analysis and annotation with various expression and regulatory database resources can serve as a substantive tool to elucidate the potential mediator and causality behind the association between SNPs and age-related diseases, which may explain inconsistent genetic effects in different populations even in case of populations of the same ancestry and perfectly harmonized phenotypes (Kulminski, 2013; Yashin et al., 2015).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7869,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "Over the past decade, GWAS have seen unprecedented success; however, most studies focused on individual phenotypes. While approximately >10,000 genome-wide significant SNPs have been identified to be associated with various phenotypes, studies for identifying genetic pleiotropy of age-related diseases and endophenotypes still lag behind. In recent years, a handful of statistical frameworks based on multivariate or univariate approaches have been proposed (Solovieff et al., 2013). Multivariate models are one of the extensively adopted approaches that have been proposed to deal with multiple phenotypes in a unified framework (O'Reilly et al., 2012; Shriner, 2012). Multivariate approaches take into account phenotypic correlation but often have some limitations in the context of meta-analysis and drawbacks of being incapable of handling phenotypes of different types. For example, it may suffer from reduced statistical power due to removal of subjects with missing values in any phenotype. When searching for the pleiotropy between age-related diseases and endophenotypes, we often face the problem of combining time-to-event outcomes and quantitative or binary traits. In this situation, univariate approaches based on p-values (Fisher, 1925; van der Sluis et al., 2013) or summary statistics (Xu et al., 2003; Zhu et al., 2015) exhibit unique advantages in terms of both statistical power and flexibility. In particular, pleiotropic analysis by systematically combining summary statistics based on existing GWAS results that also takes into account phenotype correlation can be a fast and simple solution to this issue (Zhu et al., 2015).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 9518,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "introduction section",
+                "iao_id": "IAO:0000316"
+              }
+            ],
+            "section_title_1": "Introduction"
+          },
+          "text": "In this study, we aim at identifying SNPs that exhibit effects on multiple endophenotypes and age-related diseases including CVDs, cancer, DM and NDs by performing a pleiotropic meta-analysis based on five National Institutes of Health (NIH)-funded large-scale longitudinal datasets. We use a slightly modified strategy based on (Zhu et al., 2015) to combine summary statistics from univariate association studies that takes into account the correlation between the statistics for the endophenotypes and diseases. For each newly identified variant that passes a pre-specified significance threshold, we explore its biological implication and regulatory role by performing follow-up functional annotation and examining Encyclopedia of DNA Elements (ENCODE) (The ENCODE Project Consortium, 2012) and Genotype-Tissue Expression project (GTEx) (Lonsdale et al., 2013) databases. This helps detect spurious pleiotropy that may result from linkage disequilibrium (LD) with two causal variants in different genes affecting different endophenotypes or diseases (Solovieff et al., 2013). We further conduct age-dependent time-to-event analyses to investigate temporal patterns of the effects. To distinguish two different types of pleiotropy, we perform a follow-up mediation analysis using a marginal structural model. In particular, to provide more insight into the plausible causal pathways, we focus on studying whether or how much the effect of an identified SNP on an associated disease is mediated through a specific endophenotype.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 11047,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Study cohorts"
+          },
+          "text": "The phenotypic and genotypic data used in this study were collected from the Atherosclerosis Risk in Communities study (ARIC) (http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000090.v1.p1), the Framingham Heart Study (FHS) (http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000007.v28.p10), the Multi-Ethnic Study of Atherosclerosis (MESA) (http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000209.v2.p1), the Cardiovascular Health Study (CHS) (http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000287.v3.p1), and the Health and Retirement Study (HRS) (http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000428.v1.p1;\nhttp://hrsonline.isr.umich.edu/). For FHS, we included the datasets of the FHS Original cohort (FHS cohort 1) and the FHS Offspring cohort (FHS cohort 2). Details of the study design, collection of samples, measurement of phenotypes and genotyping have been described in previous publications [ARIC: (The ARIC investigators, 1989; Sharrett, 1992), FHS: (Splansky et al., 2007; Govindaraju et al., 2008; Cupples et al., 2009), MESA: (Bild et al., 2002), CHS: (Gottdiener et al., 2000), HRS: (Sonnega et al., 2014)]. In each study, we only included non-Hispanic Caucasian subjects. Table ​Table11 summarizes the basic characteristics of the samples and provides a list of the phenotypes we investigated. We included all longitudinal observations of these phenotypes available throughout the follow-up in these studies except HRS in which only one observation was available from the examinations in 2006–2008. The binary outcomes were adopted for the diseases in HRS of which the age-at-onset outcomes were not available. Specifically, we included phenotype measurements from 4 visits in ARIC, 28 visits in the FHS cohort 1, 8 visits in the FHS cohort 2, 5 visits in MESA, and 22 examinations in CHS. For FHS, we performed the analyses for the two cohorts separately to account for potential generation confounders.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 13117,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Accession numbers"
+          },
+          "text": "This manuscript was prepared using a limited access dataset obtained though dbGaP (accession numbers phs000007.v22.p8, phs000280.v2.p1, phs000209.v12.p3, phs000287.v3.p1).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 13305,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Genotyping, imputation, and quality control"
+          },
+          "text": "Genotyping of 12,771 ARIC participants (N = 9633 whites, N = 9618 included) and 8224 MESA participants (N = 2686 whites, N = 2455 included) was conducted using an Affymetrix 6.0 array (1000 K SNPs). Genotyping of 9167 participants (N = 4594 whites included) in FHS was conducted using an Affymetrix 500 K array. Genotyping of 3043 participants in CHS was done using a HumanOmni1-Quad Illumina array. In HRS, ~2.5 M SNPs for 12,507 subjects (N = 9736 whites, N = 9704 included) were genotyped using an Illumina HumanOmni 2.5 Quad chip. All genotyped SNPs were further filtered for the analysis according to the exclusion criteria of the Hardy-Weinberg equilibrium (HWE) test (p < 1e-05) and missing rate (>5%). For the SNPs that were selected as candidates from ARIC (described in the following subsection) and were missing in the other studies, we imputed the genotypes with IMPUTE2 (Howie et al., 2009) according to a 1000 Genomes Project Phase I reference panel. Within each study, those SNPs with an imputation information score < 0.8 were excluded from the analyses.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 14418,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Selection of candidate SNPs"
+          },
+          "text": "To narrow down the candidates and pre-select promising SNPs, we focused on one of the largest studies ARIC, which shared the same genotyping platform with MESA, and reported a wide spectrum of measured relevant phenotypes and diseases. Accordingly, we expected larger enrichment of significant SNPs associated with various age-related diseases and related traits in this study compared to the others. SNPs pre-selected in ARIC have been considered as a starting point for the follow-up meta-analyses to replicate their effects in other studies. We first conducted univariate GWAS of the SNPs with minor allele frequency (MAF)>2% in ARIC for the endophenotypes [ventricular rate (VR), blood glucose (BG), BMI, systolic blood pressure (SBP), diastolic blood pressure (DBP), high-density lipoprotein cholesterol (HDLC), total cholesterol (TC), triglycerides (TG), hematocrit (HC)], the diseases [atrial fibrillation (AF), cancer, coronary heart disease (CHD), DM, heart failure (HF), stroke] and mortality using PLINK software (Purcell et al., 2007). An additive genetic coding model was adopted in all the studies performed at the current and following stages. We computed combined p-values across the endophenotypes and diseases using Fisher's method which did not take into account phenotype correlation and thus at this stage produced less stringent results in most cases. The SNPs with a p-value exceeding the genome-wide significance threshold (5e-08) were chosen as candidates for the downstream pleiotropic meta-analysis.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 15971,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Univariate association analysis"
+          },
+          "text": "For the selected SNPs, we conducted univariate association analyses separately in each study to obtain summary statistics. The phenotypes and diseases under investigation in each study are listed in Table ​Table1.1. We adopted a (generalized) linear mixed-effects model with both individual- and family-level random effects to control for family structure and longitudinal observation correlation in ARIC, FHS, and MESA, and with only an individual-level random effect in CHS which consisted of only independent individuals. We adopted a linear regression model for HRS as we only selected cross-sectional measurements and more than 99% of the samples were independent. We adopted marginal Cox proportional hazards (PH) models to analyze the time-to-event phenotypes with robust estimates of variance (Lin and Wei, 1989) for correcting for family structure. We included age and sex as covariates in the analysis of each study. In addition, we included study center as a covariate in ARIC, MESA and CHS, cohort in HRS, and genotyping phase in FHS. We utilized the lmer and lm functions in the lme4 R package (Bates et al., 2014) for the quantitative analyses, glm for the logistic regression (only for HRS) and the coxph function in the survival R package (Therneau and Lumley, 2015) for the time-to-event analyses. Log-transformation was performed to correct the skewness of the distribution for certain quantitative phenotypes (Table ​(Table11).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 17448,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Pleiotropic meta-analysis"
+          },
+          "text": "The overall framework of the entire meta-analysis is depicted in the flowchart (Figure ​(Figure1).1). Given that Fisher's method does not account for the correlation between the statistics, inflated p-values were expected in the pre-selection stage as most of our phenotypes were weakly to modestly correlated (Figures S1–S6). Therefore, we adopted a two-step strategy to compute more accurate meta-analysis combined p-values for the selected SNPs. More specifically, suppose that for a certain SNP we observe an estimated effect size β^ij together with its standard error σ^ij for the phenotype i (i∈{1, …, Kj}) in the study j (j∈{1, 2, 3, 4, 5, 6}), where Kj is the number of phenotypes in the study j. In the first step, following the similar spirit of (Xu et al., 2003; Bolormaa et al., 2014; Zhu et al., 2015), we constructed a general omnibus test statistic z^j′Σj-1z^j that took into account the correlation of effect sizes between the phenotypes, where z^j=β^j/σ^j (β^j =(β^1j,…,β^Kjj)′ and σ^j=(σ^1j,…,σ^Kjj)′) and Σj is the correlation matrix to be estimated. Thus, under the null hypothesis (βj = 0) and the assumption of a large sample size, the test statistic approximately follows a chi-square distribution with a degree of freedom (DF) of Kj",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 18729,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Pleiotropic meta-analysis"
+          },
+          "text": "from which we obtained a combined p-value pj in the study j. As independent SNPs are recommended for estimating Σj (Zhu et al., 2015), we simulated 1000 independent SNPs under HWE based on MAF and estimated the correlation matrix Σj for each study j based on the summary statistics of the simulated SNPs. We checked the multivariate normality assumption for these summary statistics under the null hypothesis using the Henze-Zirkler test (Henze and Zirkler, 1990), and found no evidence of violation of the assumption. The endophenotypes included in the pleiotropic analysis are purported to affect the onset of the complex diseases to some extent. We observed that the majority of the pairwise correlations of the summary statistics from the univariate analysis were lower than 0.3. As combining evidence from highly correlated phenotypes is less informative, within each study, we selected a group of phenotypes (Table ​(Table1)1) to ensure that the correlation between any pair of z-scores was less than 0.7 (The correlation matrices of the statistics in the five datasets are depicted in Figures S1–S6). A p-value (e.g., pj) that was smaller than a pre-specified threshold led to the rejection of the null hypothesis, indicating that the SNP was associated with at least one of the phenotypes in the study j (i.e., ∃i, βij\n≠\n0). Then, we computed a p-value for the meta-analysis using the Fisher's method in which the samples from the six cohorts were treated as independent (we did not observe evident correlation between the summary statistics under the null hypothesis from the two generations in FHS). Thus, under the null hypothesis (i.e., the SNP was not associated with any phenotype in any study), the test statistic for the meta-analysis followed a chi-square distribution with a DF of 12.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 20531,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Pleiotropic meta-analysis"
+          },
+          "text": "From which we obtained a meta-analysis p-value pM. We adopted the broadly recognized genome-wide significance pM < 5e−08 as a threshold to declare the significant SNPs.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 20699,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Functional annotation"
+          },
+          "text": "We first pruned the identified SNPs from the pleiotropic meta-analysis to select independent SNPs to represent adjacent loci in high LD for the follow-up studies. LD information for each pair of SNPs was acquired using SNAP (Johnson et al., 2008) and the identified SNPs on each chromosome were aggregated into groups based on pairwise correlation coefficients of LD (i.e., r2). More specifically, a SNP was merged into a group if it was in high LD (r2 > 0.5) with any SNP in the group. We selected the SNP with the most significant p-value within each group as the proxy. To highlight novel SNPs for the downstream analyses, we examined the identified proxy loci in the Ensembl database and employed GRASP (Leslie et al., 2014) to search GWAS catalog data for previously reported associations. Functional consequences of these identified proxy SNPs were annotated using the Ensembl Variant Effect Predictor (McLaren et al., 2010). To check whether these SNPs had a plausible role in gene expression, we examined whether they were eQTLs or in LD with eQTLs of associated genes. We retrieved information on eQTLs in the gene which the SNP is located in or is flanked by from the GTEx database (Lonsdale et al., 2013) for all available tissues and acquired pairwise LD information using SNAP (Johnson et al., 2008). We examined various regulatory features such as DNase clusters, chromatin interactions, DNA methylation, histone modification from the ENCODE database (The ENCODE Project Consortium, 2012) through the UCSC genome browser. We examined variants in high LD (r2 > 0.8) with the identified SNPs in non-coding regions for their functional annotation and the presence of chromatin histone marks, hypersensitive DNase elements and protein binding sites from the ENCODE and Roadmap databases by using the HaploReg v3 software (Ward and Kellis, 2012).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 22575,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Analysis of age-dependent effects"
+          },
+          "text": "In order to ensure that the SNPs identified from the time-to-event analysis satisfied the PH assumption and explore their potential age-dependent effects, we checked the model fitting based on the correlation coefficient between transformed survival time and the scaled Schoenfeld residuals (Grambsch and Therneau, 1994). We declared the violation if the p-value from the cox.zph function in the survival R package was < 0.05. Any violation of the PH assumption indicated the existence of age-dependent effects, and for such SNPs we acquired an overall picture of its dynamics of the age-dependent effect by utilizing the timecox function in the timereg R package (Martinussen and Scheike, 2007), in which we assumed that the counting process started at the age of 40 as data is modeled by a counting process representation in this method. Other covariates such as sex that did not violate the PH assumption were treated as constants and a cluster-based resampling method was used to correct for the family structure. Based on the produced temporal pattern of the dynamic effects, we further performed stratification analyses to investigate the specific effects in each age group.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 23788,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "materials section",
+                "iao_id": "IAO:0000633"
+              },
+              {
+                "iao_name": "methods section",
+                "iao_id": "IAO:0000317"
+              }
+            ],
+            "section_title_1": "Materials and methods",
+            "section_title_2": "Mediation analysis"
+          },
+          "text": "For the SNPs identified to be associated with both the endophenotypes and complex diseases, we performed mediation analysis to investigate whether the pleiotropic effect is mediated by the endophenotypes (natural indirect effect) or through other unspecified mechanisms (natural direct effect). The rationale of the mediation analysis is illustrated in the causal graph (Figure ​(Figure2).2). In the longitudinal data, we chose the measurement at the baseline of an endophenotype as a mediator, which ruled out the possibility of reverse causality for most diseases (except cancer) as the measurements occurred well before the onset of diseases. Due to the Mendelian randomization, in general there should be no confounder other than population stratification between the SNPs and the mediators or diseases. We included age and sex as covariates and further assumed that there were no other unmeasured confounders between the assignment of a mediator at the baseline and a disease. We followed a unified approach proposed by Lange et al. (2012) based on marginal structural models (MSMs) (Robins et al., 2000) to estimate the natural direct and indirect effects. We adopted linear regression for the mediator model, and the Cox PH model for the outcome model. Robust standard errors were obtained using a cluster-based non-parametric bootstrap method, as suggested by Rochon et al. (2014), with 500 replicates to control for the family structure.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 25252,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Pleiotropic meta-analysis identifies seven novel loci"
+          },
+          "text": "The pre-selection GWAS highlighted 343 SNPs from ARIC that were included in the pleiotropic meta-analysis. If a SNP was not genotyped in the other studies, the imputed genotypes were used if passing the quality control (the detailed information on each of the SNPs is listed in Table S1). The effect sizes and HRs (or ORs) from the association tests in each study are presented in Table S2. Based on the summary statistics, we performed three pleiotropic meta-analyses for: (A) the endophenotypes, (B) the diseases, (C) both. Consequently, out of the 343 SNPs, 148, 11, and 147 SNPs had a p-value surpassing the genome-wide significance threshold (5e-08) in each analysis, respectively (Table S1). Four SNPs (rs4506565, rs7901695, rs4132670, and rs8082812) showed significant association in all three analyses, in which the first three are located in TCF7L2. After pruning the SNPs based on LD and p-values, we ended up with 28, 9, and 28 independent proxy SNPs. After functional annotation and examining the GWAS catalog, we identified three novel SNPs from the analysis of (B) alone: rs7081476 on 10p12.1 located in an intron of ANKRD26 (p = 2.47e-08), rs12420422 on 11q24.1 flanked by BSX (~20 kb) and HSPA8 (~40 kb) (p = 5.21e-10) and rs460976 in TMPRSS2 on 21q22.3 (p = 1.37e-08), one novel SNP rs1869717 on 4q31.3 in an intron of MAML3 from the analysis of (C) alone (p = 4.82e-08), two novel SNPs from both analyses of (B) and (C): rs7632505 on 3q21.1 located in an intron of SEMA5B (p = 8.04e-22 and 7.26e-19), rs4905014 on 14q32.12 located in an intron of ITPK1 (p = 4.93e-16 and 8.85e-15), and rs8082812 on 18p11.22 from all three analyses (p = 4.44e-08, 5.71e-64, and 5.01e-67). No novel SNPs were identified from the analysis of (A) alone. Five out of the seven highlighted SNPs are low-frequency variants (1% < MAF < 5%) (The detailed information is given in Table ​Table22).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 27200,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Mediated pleiotropic effects of rs7081476 on diseases through endophenotypes"
+          },
+          "text": "The univariate association tests show that rs7081476 was at least nominally (p < 0.05) associated with a variety of endophenotypes and diseases across multiple studies, including BMI (p = 2.82e-03 in ARIC), SBP (p = 1.51e-02 in ARIC), HDLC (p = 6.64e-03 in ARIC), TG (p = 3.24e-02 in ARIC), BG (p = 1.95e-02 in MESA), hemoglobin A1c (HbA1c) (p = 3.44e-03 in MESA), AF (p = 2.88e-03 in ARIC), HF (p = 8.32e-03 in ARIC), CHD (p = 5.50e-10 in ARIC), DM (p = 4.89e-02 in ARIC, p = 4.78e-04 in MESA), ND (p = 9.18e-03 in FHS cohort 2), and stroke (p = 7.62e-03 in ARIC, p = 2.48e-02 in HRS) (Table ​(Table3).3). The minor allele of this low-frequency variant was associated with elevated BMI, SBP, TG, BG, HbA1c, and reduced HDLC levels. It was associated with increased hazards of AF, HF, CHD, stroke, DM, and reduced hazard of ND consistently across the studies. Based on the GTEx database, rs7081476 is an eQTL of the gene MASTL (p = 9.2e-06). Furthermore, rs7081476 is in modest LD (the LD structure of CEU estimated from the 1000 Genomes pilot 1) with rs12573313 (r2 = 0.248) and rs7069690 (r2 = 0.263), which are eQTLs affecting the expression of multiple genes including MASTL, LINC00202-1, etc, in numerous tissues (Table S4). Rs7081476 and multiple variants in high LD (r2 > 0.8) located in ANKRD26 were found in strong enhancers in the B-lymphoblastoid cell lines (Table S5). We observed indirect effects, albeit small (< 10% of the total effects), of rs7081476 on stroke, HF and CHD that were partly mediated through BMI, SBP, TG, and HDLC. The mediation analyses also suggest that the effect of rs7081476 on DM was partly mediated through BMI and HDLC in ARIC and predominantly through HbA1c in MESA (Table S3).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 28994,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Rs12420422 and rs460976 are associated with heart related diseases"
+          },
+          "text": "Rs12420422 was nominally associated with the hazards of AF (p = 1.96e-02), HF (p = 3.18e-03), CHD (p = 5.20e-17), and death (p = 1.65e-02) in ARIC. A missense variant rs2276348 located in CLMP was found to be in high LD (r2 = 0.91) with rs12420422 (Table S5). Multiple variants in high LD (r2 > 0.8) with rs12420422 were found within strong enhancers in multiple cell lines (Table S5). The minor allele of rs12420422 increased the hazards of AF, HF, CHD, and death. Rs460976, a downstream gene variant of TMPRSS2 located in a copy number variation (CNV) (esv3647063), was associated with HF (p = 2.99e-04) and CHD (p = 1.13e-16) in ARIC (Table ​(Table3).3). Rs460976 is in modest LD with rs7280422 (r2 = 0.124), which is an eQTL associated with the expression of MX1 in transformed fibroblasts, testis and tibial artery tissues, and rs11910387 (r2 = 0.141), which is an eQTL associated with the expression of MX2 in adipose-subcutaneous and skin (Table S4).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 30017,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Rs7632505 is associated with BG and TG, and has an age-dependent effect on CHD"
+          },
+          "text": "The univariate association tests indicate that rs7632505, a non-sense-mediated mRNA decay transcript variant, was nominally associated with BG (p = 4.83e-03), TG (p = 2.61e-02), HF (p = 7.30e-08), and stroke (p = 2.14e-02) in ARIC, BMI (p = 2.17e-02), TC (p = 4.00e-02), and VR (p = 2.78e-02) in FHS, CHD in ARIC and MESA (p = 2.75e-28 and 2.87e-02) and DM in HRS (p = 1.27e-02) (Table ​(Table2).2). Rs7632505 is in modest LD with rs72974405 (r2 = 0.342) and rs9829771 (r2 = 0.283), which are eQTLs associated with the expression of PDIA5 in tibial artery tissues (Table S4). The test of the PH assumption suggests that the effect on the hazard of CHD was far from proportional (p = 1.5e-05 from cox.zph) (Table ​(Table3).3). The age-dependent analysis using the timecox function shows that the effect on the hazard of CHD dropped dramatically after the age of ~70 (Figure ​(Figure3A).3A). The survival curves from the Kaplan–Meier (K-M) estimator were consistent (Figure S7). The stratified analysis suggests that the minor allele increased the hazard of CHD before the age of ~74 (Age 45–74: HR = 1.498, p = 2.92e-27) while decreases it after that (Age 75–85: HR = 0.769, p = 0.101). No mediation effects through BG or TG were observed on CHD, HF, or stroke (Table S3).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 31366,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Rs4905014 has an age-dependent effect on stroke"
+          },
+          "text": "Nominally significant association of rs4905014 was observed with HC (p = 9.78e-04) and stroke (p = 3.75e-21) in ARIC, and with DBP (p = 2.55e-02), HbA1c (p = 1.44e-02), and HF (p = 2.58e-02) in MESA (Table ​(Table3).3). The minor allele of this low-frequency variant was associated with elevated HC, HbA1c levels, increased hazards of stroke and HF, and decreased DBP levels. The PH test suggests that the hazards of CHD were not proportional with respect to the SNP (p = 6.8e-03 from cox.zph). The time-dependent analysis using the timecox function shows that the effect on stroke was age-dependent (Figure ​(Figure3B),3B), and the detrimental effect on the hazard of stroke remained almost imperceptible until age 62 but accelerated substantially after the age of ~70. The survival curves from the K-M estimator were consistent (Figure S7). The stratified analysis shows that the HRs before and after age 62 were 1.8408 (p = 0.077) and 3.748 (p = 2.38e-25), respectively. The annotation using the Ensembl Variant Effect Predictor shows that rs4905014 is located in a promoter flanking region of a transcript of ITPK1 in multiple cell types (ENSR00001854796). Rs4905014 is within a DNase hypersensitive site in the neuroblastoma cell line (SK-N-SH_RA) and multiple variants in high LD (r2 > 0.8) were found in strong enhancers in multiple cell lines from the ENCODE database (Table S5). The mediation analysis suggests that no mediation effect through HC was observed on the hazard of stroke (Table S3).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 32917,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "results section",
+                "iao_id": "IAO:0000318"
+              }
+            ],
+            "section_title_1": "Results",
+            "section_title_2": "Rs8082812 and rs1869717 are associated with both endophenotypes and diseases"
+          },
+          "text": "Rs8082812 was found to be at least nominally associated with BG (p = 2.63e-07), DBP (1.07e-02), HDLC (p = 8.12e-03), TC (4.64e-05), the hazards of death (p = 1.46e-03), AF (p = 5.99e-03), HF (p = 1.66e-07), CHD (p = 3.37e-37), and stroke (p = 3.40e-41) in ARIC and BMI (p = 3.83e-02) in MESA (Table ​(Table2).2). The minor allele of this SNP was associated with elevated BG and TC levels, increased hazards of AF, CHD, stroke, HF and death, and decreased DBP and HDLC levels. The test of the PH assumption suggests that the effect of the SNP on the hazard of stroke was not proportional (p = 2.91e-03 from cox.zph) and the time-dependent analysis shows that the effects on the hazards of CHD and stroke were age-dependent and exhibited different temporal patterns (Figures 3C,D). The survival curves from the K-M estimator were consistent (Figure S7). The effect on CHD remained modest before age 60, increased dramatically between ages 60–70 and leveled off subsequently. The stratified analysis shows that the effect on stroke was much larger and more significant before age 73 than after that (HR = 8.23, p = 3.47e-54 vs. HR = 1.78, p = 0.229). We further noticed that one copy of minor allele had an HR of 7.27 (p = 1.01e-51) while two copies had no significant effect (HR = 2.39, p = 5.82e-02) on stroke. Functional annotation suggests that rs8082812 is located in a DNase hypersensitive site in the fibroblasts and urothelial cell lines (Table S5) and close to a copy number variation (~1.4 kb) (Ensembl ID: esv3641717). The mediation analysis suggests that the effect of rs8082812 on the hazard of HF was partly mediated through HDLC, while the effect on CHD was partly mediated through BG and TC (Table S3). Rs1869717, located in MAML3 and an enhancer region (ENSR00002016330), was at least nominally associated with DBP (p = 1.83e-02), TC (p = 6.01e-03), HF (p = 1.74e-02), CHD (p = 7.20e-10) and stroke (1.19e-02) in ARIC, stroke (p = 1.01e-02) and death (p = 2.59e-04) in FHS cohort 1, BMI (p = 3.42e-02), SBP (p = 7.35e-04), HDLC (p = 4.70e-03), and FEV1 (p = 9.45e-03) in CHS, BG (p = 2.39e-03) and DM (4.33e-02) in HRS, and TG in FHS cohort 1 and CHS (p = 2.05e-02 and p = 9.66e-03) (Table ​(Table3).3). The minor allele of this SNP increased the hazards of HF, CHD, stroke, DM and death, but exhibited heterogeneous effects on the endophenotypes. No indirect effects were observed on any of the diseases in ARIC (Table S3).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 35431,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "With the recent discovery of a large number of genes and variants influencing endophenotypes and diseases simultaneously (Sivakumaran et al., 2011), pleiotropy has been attracting a lot of interest. A fundamental hypothesis in gerontology is that delaying biological aging process, which is assumed to lead to physical dysfunction and to be implicated in multiple age-related diseases through common underlying mechanisms (i.e., pleiotropic effects), would simultaneously delay the onset and progression of these diseases (Kaeberlein et al., 2015). For example, chronic diseases of aging including CVDs, cancer and ND share pathological links through infection and inflammation (Franceschi, 2007; Larbi et al., 2008; Finch, 2010, 2012). Searching for pleiotropic genetic variants helps validate these substantive hypotheses and pinpoints mechanisms that could be biologically plausible for the most basic processes associated with aging in human. By performing phenome-wide (more than 20 phenotypes or age-related diseases) association analyses followed by pleiotropic meta-analyses with five large-scale longitudinal cohorts, we identified seven novel SNPs that affect multiple endophenotypes and age-related diseases simultaneously. Five out of the seven SNPs are low-frequency variants which might be the reason why they were overlooked in the previous GWAS. It is worth pointing out that almost all these low-frequency variants show detrimental effects, the excess of which may suggest the polygenic inheritance in these diseases (Chan et al., 2014).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 36995,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Our results suggest that the genome-wide significance of rs7081476 is achieved by aggregating its association with a wide spectrum of diseases across different cohorts. Rs7081476 is located in an intron of ANKRD26, which is involved in hematopoiesis, glucose homeostasis, fat cell differentiation, fatty acid and lipid metabolism, among the other processes (Fei et al., 2011; Raciti et al., 2011; Cesar et al., 2015). Mutations in ANKRD26 or the promoter region have been reported to cause autosomal dominant non-syndromic thrombocytopenia-2 (THC2) (low platelet count) (Noris et al., 2011; Pippucci et al., 2011; Al Daama et al., 2013). Platelets represent an important connection between inflammation and development of CVDs (Willoughby et al., 2002; Wagner and Burger, 2003), which may justify the association with a variety of CVDs in our findings. A mouse model also confirmed that partial inactivation of the ANKRD26 gene caused the development of extreme obesity, insulin resistance and gigantism (Bera et al., 2008), which is in line with our findings of DM and BMI. We further show that the effects of rs7081476 on stroke, HF, CHD, and DM were mediated through several endophenotypes among which BMI had the most significant indirect effect. It has been pointed out that controlling the expression of ANKRD26 would affect megakaryopoiesis and platelet production, perhaps by inducing apoptosis (Pippucci et al., 2011) or MAPK pathway hyperactivation (Bluteau et al., 2014). Interestingly, elevated platelet count may correlate with obesity (Samocha-Bonet et al., 2008). On the other hand, the neighboring MASTL kinase, of which rs7081476 is a direct eQTL, is important for cell cycle regulation and is implicated in normal thrombopoiesis and association with THC2 (Di Paola and Johnson, 2011). This evidence indicates that rs7081476 may be involved in regulatory activity of the genes in THC2 locus functionally related to the hematopoiesis.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 38945,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Rs12420422 is an intergenic variant flanked by the genes BSX (~28 kb) (encoding a brain-specific homeobox protein) and HSPA8 (~48 kb) (encoding a heat shock protein) with an average MAF of ~2% estimated from the five cohorts. While associated with the CVDs (most significantly with CHD) and mortality, no association was detected with any of the endophenotypes, which may suggest that the effects on the CVDs are irrelevant of the pathway related to the endophenotypes under investigation. Members of the stress-inducible heat-shock protein family, including HSPA8, are associated with the development of atherosclerosis and CHD/coronary artery disease (CAD) (Latchman, 2001; Mehta et al., 2005; He et al., 2010; Zhang et al., 2014). HSPA8 is also involved in immune response, the regulation of hematopoiesis and autophagy among the other processes (Zou et al., 2011; Stricher et al., 2013).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 39836,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Rs460976 associated with HF and CHD is a low-frequency downstream gene variant located in an intergenic region flanked by TMPRSS2 and MX1. Similar to rs12420422, no association was detected with the selected endophenotypes, suggesting that the effects on HF and CHD are probably through other mechanisms. One potential mechanism is through immunological effects. Indeed, TMPRSS2 has an important role in influenza virus and other viral respiratory infections whereas MX1 participates in the cellular antiviral response. CVDs can be associated with influenza-like illness (Kwok et al., 2015) probably through immune mechanisms of atherosclerosis (Frostegård, 2013).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 40500,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Rs7632505 has recently been reported to be associated with thromboangiitis obliterans (OR = 29.47, p < 1e-04), a chronic peripheral vascular occlusive disease in a Xinjiang Uyghur Population (Shi et al., 2016). The dynamic effect of rs7632505 on CHD may be explained by the inhibitory effect of SEMA5B on angiogenesis which is related to aging process (Lähteenvuo and Rosenzweig, 2012) and is purported to be involved in atherosclerosis and other CVDs (Khurana et al., 2005; Deveza et al., 2012). SEMA5B is a member of the phylogenetically conserved class 5 semaphorins that all contain a characteristic Sema domain along with thrombospondin repeats (Adams et al., 1996) and is functionally important for angiogenesis (Iruela-Arispe et al., 1999; Chen et al., 2000; Grundmann et al., 2013). The moderate expression of SEMA5B is detected in multiple tissues including heart and brain (Nagase et al., 2000). Besides, SEMA5B functions as a guidance cue and is implicated in Ca2+-mediated growth cone collapse (To et al., 2007). On the other hand, rs7632505 may associate with the expression of the neighboring PDIA5 gene through LD with the eQTLs and PDIA5 is involved in the endoplasmic reticulum (ER) redox homeostasis. In addition, regulatory activity of the PDIA5 gene is required for normal hematopoiesis (Gieger et al., 2011; Bielczyk-Maczyńska et al., 2014).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 41862,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "We observed that the effect of rs4905014 on the onset of stroke grew rapidly after age ~65, suggesting that it may have an increasing etiologic effect on stroke for the elderly. Its effects on stroke and HF were not mediated through HC, DBP, or HbA1c. The related gene ITPK1 is involved in inositol signaling pathways which regulate the conductance of calcium-activated chloride channels (Chamberlain et al., 2007; Saiardi and Cockcroft, 2008). The enzyme is associated with neural tube defects (Majerus et al., 2010; Guan et al., 2014). A study using an expression probe array and rt-PCR has found that ITPK1 expression in peripheral blood shows a significant correlation with a CAD index (Sinnaeve et al., 2009).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 42576,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Rs8082812, located in a DNase hypersensitive site and surrounded by regulatory regions, is adjacent to (~300 b) an enhancer (ENSR00001899253) active in multiple cell lines, ~1.4 kb from a CNV (esv3641717) and ~2.4 kb from a CTCF binding site (ENSR00000667587). RAB12 (~87 kb) and PTPRM (~116 kb) are the closest protein coding genes. RAB12 is involved in protein transport, degradation of transferrin receptor and autophagy (Matsui and Fukuda, 2013). Maintenance of cellular iron homeostasis is indispensable in the management of diseases and aging, and thus relates to mortality (Altamura and Muckenthaler, 2009; Weinberg, 2010). Inhibition or over-activation of autophagy might be associated with various CVDs (Salabei and Conklin, 2013). PTPRM is required for neurite outgrowth and axonal migration by regulating adhesion through the classical cadherins (Oblander and Brady-Kalnay, 2010). This gene contributes to potassium channels gene regulation in adult cardiac myocytes by cell-cell contact (Hershman and Levitan, 2000). Also, PTPRM may play a role in angiogenesis (Sommer et al., 1997). Its heterogeneous dynamic patterns of age-dependent effects on the hazards of stroke and CHD may be partly explained by its effects on a broad spectrum of endophenotypes.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 43842,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Rs1869717 is located in MAML3 (Mastermind Like Transcriptional Coactivator 3), which is a transcriptional coactivator for NOTCH proteins (Wu et al., 2002). A previous GWAS finds that another SNP (rs1531070) in MAML3 is significantly (p = 4.99e-12) associated with congenital heart malformation in Han Chinese (Hu et al., 2013). Another genome-wide meta-analysis identifies a locus near this gene that is associated with protein intake (Tanaka et al., 2013).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 44299,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "To sum up, all of the identified pleiotropic SNPs are either within a gene or next to regulatory regions, highlighting the probability of their involvement in gene expression or various regulatory activities. A previous report discovers that disease-associated variants are frequently located in strong enhancer elements and patterns of enhancer activity are strongly correlated with patterns of nearest-gene expression (Ernst et al., 2011). Our results showing that most of the identified variants are associated with tissue-specific strong enhancers, DNase clusters or missense variants are consistent with the previous finding. On the other hand, we further discovered the age-dependent effects of some SNPs on CHD and stroke, confirming the previous findings that the effects of variants on the complex diseases in post-reproductive period could be age-dependent (Kulminski, 2013; Kulminski et al., 2015b; Yashin et al., 2015). It seems that their pleiotropic effects result from their diverse involvement in different underlying mechanisms potentially related to nervous, cardiovascular and immune system functions including axon guidance and angiogenesis (SEMA5B, PTPRM), ion channels (SEMA5B, PTPRM, ITPK1), stress resistance, inflammation and immunity (HSPA8, TMPRSS2/MX1), and hematopoiesis (ANKRD26, HSPA8). On the other hand, some of the SNPs such as rs7081476 and rs8082812 are related to lipids or blood related metabolites. As these metabolites have critical influence on CVDs, DM and thus eventually mortality, the strong association of these SNPs with age-related diseases is mediated, at least in part, through their effects on the metabolites, which can be classified as mediated pleiotropic effects. Interestingly, rs7632505 and rs8082812 with age-dependent effects of minor alleles are linked to genes (SEMA5B, PTPRM) involved in axonal migration and angiogenesis which are age-dependent processes.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 46217,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "The power advantage of the pleiotropic analysis can be demonstrated by rs8082812 for which the p-value from the pleiotropic meta-analysis was more significant than any from the univariate analysis. It can be seen from the results of the pleiotropic analysis for the 343 SNPs that the omnibus test based on the O'Brien's test (O'Brien, 1984) increases the statistical power when the pleiotropic effect of a SNP is heterogeneous and opposite to the correlation between the statistics from the univariate analysis. Nevertheless, it may not be the optimal solution to detecting a SNP that affects two correlated phenotypes in the same direction through independent paths. Many extensions to the general omnibus tests have been proposed by assigning different weights for phenotypes (Xu et al., 2003; Zhu et al., 2015). In general, no methods are optimal in all situations, and the choice of these methods depends on the assumptions we make and the sort of pleiotropic effect we aim to detect.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 47205,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "Although the large-scale data sets under investigation are widely recognized and documented, there still exist some limitations. The definitions and criteria of measurements of the complex diseases and the targeted populations vary in the five cohorts. Moreover, some SNPs are not available in other cohorts as different genotyping chips are adopted in these studies. Imputation did not come to a rescue for harmonizing missing data of low-frequency variants as the imputation quality is low. Because of these, the replication of a significant association in other cohorts is not straightforward. The lack of some replications may also suggest that the effects of age-related loci are more sensitive to environment such as age as many of the identified SNPs have age-dependent effects. In addition, in terms of the statistical power of the omnibus test, the inclusion of many endophenotypes reduces the chance to detect the SNPs that are only associated with a small proportion of phenotypes. Methods with adaptive weights on different phenotypes might identify more signals in this case. Another problem is that although we assumed that there were no other unmeasured confounders than the included covariates underlying the endophenotypes at the baseline and the onset of the complex diseases, it is still possible that these confounders exist, and in this case, the estimated mediation effect would be biased (Pearl, 2000). For example, we observed an indirect effect but no direct effect of rs7081476 on DM that was mediated through HbA1c. However, the no-confounder assumption was probably violated for HbA1c and DM as it has been shown that the association of HbA1c with DM may be explained by its biomarker for the presence and severity of hyperglycemia (Lyons and Basu, 2012).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 48988,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "discussion section",
+                "iao_id": "IAO:0000319"
+              }
+            ],
+            "section_title_1": "Discussion"
+          },
+          "text": "In conclusion, we identified seven novel loci that exhibit pleiotropic effects on a variety of endophenotypes and age-related diseases using five large-scale longitudinal cohorts. The enrichment of identified pleiotropic variants involved in immune system and inflammation supports the hypothesis of shared pathological role of infection and inflammation in chronic age-related diseases. The findings indicating the potential regulatory involvement of these genetic variants in a diversity of functions contribute to the understanding of the shared mechanisms underlying comorbidity and the relationship between anthropometry, lipid- and blood-related traits, CVDs, DM, and NDs. Our results suggest that the effects on the risk of CVDs often follow different age-dependent patterns and are probably through angiogenesis. These findings are valuable for guiding follow-up analyses and provide evidence for further scrutinizing the molecular mechanisms and implication of the relevant genes in the age-related diseases.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50005,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "author contributions section",
+                "iao_id": "IAO:0000323"
+              }
+            ],
+            "section_title_1": "Author contributions"
+          },
+          "text": "Design of the work (AK, LH), acquired the phenotype data (OB, MD, AIY, SU, MK, KA, AY), acquired the genotype data (AIY, SU, MK, KA, AY), genotype quality control and other manipulations (YL), analyzed the data (LH, YK, AK, YL), interpreted the results (AK, LH, IK, EL), and wrote the paper (LH, AK, IK, EL, YK).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50337,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "funding source declaration section",
+                "iao_id": "IAO:0000623"
+              }
+            ],
+            "section_title_1": "Funding"
+          },
+          "text": "The research reported in this paper was supported by Grants No P01 AG043352 and R01 AG047310 from the National Institute on Aging (NIA). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health (NIH).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50760,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "funding source declaration section",
+                "iao_id": "IAO:0000623"
+              }
+            ],
+            "section_title_1": "Funding",
+            "section_title_2": "Conflict of interest statement"
+          },
+          "text": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 50962,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "acknowledgements section",
+                "iao_id": "IAO:0000324"
+              }
+            ],
+            "section_title_1": "Acknowledgments"
+          },
+          "text": "The Atherosclerosis Risk in Communities Study (ARIC) is carried out as a collaborative study supported by the NHLBI contracts (HHSN268201100005C, HHSN268201 100006C, HHSN268201100007C, HHSN268201100008C, HHSN2682011000 09C, HHSN268201100010C, HHSN268201100011C, and HHSN268201100012C). The authors thank the staff and participants of the ARIC study for their important contributions. Funding for GENEVA was provided by the National Human Genome Research Institute grant U01HG004402 (E. Boerwinkle). The Framingham Heart Study (FHS) is conducted and supported by the National Heart, Lung, and Blood Institute (NHLBI) in collaboration with Boston University (Contract No. N01-HC-25195). This manuscript was not prepared in collaboration with investigators of the FHS and does not necessarily reflect the opinions or views of the FHS, Boston University, or NHLBI. Funding for SHARe Affymetrix genotyping was provided by NHLBI Contract N02-HL-64278. SHARe Illumina genotyping was provided under an agreement between Illumina and Boston University. Multi-Ethnic Study of Atherosclerosis (MESA) and the MESA SHARe project are conducted and supported by the NHLBI in collaboration with MESA investigators. Support for MESA is provided by contracts N01-HC-95159, N01-HC-95160, N01-HC-95161, N01-HC-95162, N01-HC-95163, N01-HC-95164, N01-HC-95165, N01-HC-95166, N01-HC-95167, N01-HC-95168, N01-HC-95169, and CTSA UL1-RR-024156. Funding for SHARe genotyping was provided by NHLBI Contract N02-HL-64278. This manuscript was not prepared in collaboration with MESA investigators and does not necessarily reflect the opinions or views of MESA, or the NHLBI. The Cardiovascular Health Study (CHS) was supported by contract numbers N01-HC-85079, N01-HC-85080, N01-HC-85081, N01-HC-85082, N01-HC-85083, N01-HC- 85084, N01-HC-85085, N01-HC-85086, N01-HC-35129, N01 HC-15103, N01 HC-55222, N01-HC-75150, N01-HC-45133, N01-HC-85239, and HHSN268201200036C; grant numbers U01 HL080295 from the NHLBI and R01 AG-023629 from the NIA, with additional contribution from the National Institute of Neurological Disorders and Stroke. A full list of principal CHS investigators and institutions can be found at http://chs-nhlbi.org. This manuscript was not prepared in collaboration with CHS investigators and does not necessarily reflect the opinions or views of CHS, or the NHLBI. Support for the genotyping through the CARe Study was provided by NHLBI Contract N01-HC-65226. We are grateful to the editor and three referees for their constructive comments which helped us to substantially improve the presentation of this article.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 53581,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material"
+          },
+          "text": "The Supplementary Material for this article can be found online at: http://journal.frontiersin.org/article/10.3389/fgene.2016.00179",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 53734,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Table S1"
+          },
+          "text": "The basic information of the 343 SNPs selected from the GWAS with the ARIC dataset (SNP ID, chromosome, position, alleles, MAF, imputation) and p-values from the three pleiotropic analyses in each study. The genome-wide significant (p < 5e-08) SNPs identified from the pleiotropic analysis of endo-phenotypes, complex diseases and both are highlighted in red, blue and green, respectively.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 54131,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Table S2"
+          },
+          "text": "Endophenotype- and disease-specific summary statistics [effect sizes, HRs (or ORs), and p-values] from the univariate analyses in each study of the 343 SNPs selected from the GWAS with the ARIC dataset. The numbers of SNPs in FHS, CHS, and HRS are less than 343 as some SNPs were excluded due to poor imputation quality in these studies.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 54476,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Table S3"
+          },
+          "text": "Results from the mediation analyses for the five identified SNPs that are associated with both endophenotypes and diseases. HR, Hazard ratio; CI, 95% confidence interval; P, p-value from the bootstrap method; Direct, the effect of the SNP on the disease directly or through other unmeasured mechanisms; Indirect, the effect of the SNP on the disease mediated through the endo-phenotype; Total, the total effect of the SNP on the disease.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 54921,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Table S4"
+          },
+          "text": "The information extracted from the GTEx database (as of Sep 2016) of the eQTLs in the nearby or associated genes in moderate or modest LD with the identified SNPs. Rs7069690 and rs12573313 are in LD with the identified SNP rs7081476, which is an eQTL per se. Rs7280422 and rs11910387 are in LD with rs460976. Rs72974405 and rs9829771 are in LD with rs7632505. Gencode ID: Ensembl ID; Effect size, P-value: the effect size and p-value of the association test of the gene expression; Tissue: the tissue in which the gene expression is measured.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 55471,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Table S5"
+          },
+          "text": "The regulatory characterization extracted from the ENCODE and Roadmap databases using HaploReg v3 of the seven identified SNPs together with the variants in high LD (r2 > 0.8). AFR, AMR, ASN, EUR: The MAFs of this variant in African, American, Asian and European populations; Promoter_ENCODE, Enhancer_ENCODE, Promoter_Roadmap, Enhancer_Roadmap: The promoter or enhancer information including the promoter or enhancer type and the cell line of this variant in the ENCODE and Roadmap databases.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 55972,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Figure S1"
+          },
+          "text": "A heatmap of the correlation matrix of the summary statistics estimated from the univariate association analysis in ARIC.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 56102,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Figure S2"
+          },
+          "text": "A heatmap of the correlation matrix of the summary statistics estimated from the univariate association analysis in FHS cohort 1.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 56240,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Figure S3"
+          },
+          "text": "A heatmap of the correlation matrix of the summary statistics estimated from the univariate association analysis in FHS cohort 2.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 56378,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Figure S4"
+          },
+          "text": "A heatmap of the correlation matrix of the summary statistics estimated from the univariate association analysis in MESA. SBP was removed in the follow-up pleiotropic meta-analysis as it was highly correlated with (r > 0.7) DBP and PP (brightly yellow in the figure).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 56654,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Figure S5"
+          },
+          "text": "A heatmap of the correlation matrix of the summary statistics estimated from the univariate association analysis in CHS. FVC was removed in the follow-up pleiotropic meta-analysis as it was highly correlated with FEV1 (r > 0.7) (brightly yellow in the figure).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 56923,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Figure S6"
+          },
+          "text": "A heatmap of the correlation matrix of the summary statistics estimated from the univariate association analysis in HRS.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 57052,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "supplementary material section",
+                "iao_id": "IAO:0000326"
+              }
+            ],
+            "section_title_1": "Supplementary material",
+            "section_title_2": "Figure S7"
+          },
+          "text": "A plot of K-M survival curves for the SNPs rs7632505, rs4905014, and rs8082812, which exhibit age-dependent effects on CHD or stroke.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 57194,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A novel class of murine semaphorins with homology to thrombospondin is differentially expressed during early embryogenesis",
+            "journal": "Mech. Dev.",
+            "volume": "57",
+            "section_title_1": "References"
+          },
+          "text": "Adams R. H., Betz H., Püschel A. W. (1996). A novel class of murine semaphorins with homology to thrombospondin is differentially expressed during early embryogenesis. Mech. Dev.\n57, 33–45.  [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 57420,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A missense mutation in ANKRD26 segregates with thrombocytopenia",
+            "journal": "Blood",
+            "volume": "122",
+            "section_title_1": "References"
+          },
+          "text": "Al Daama S. A., Housawi Y. H., Dridi W., Sager M., Otieno F. G., Hou C., et al. . (2013). A missense mutation in ANKRD26 segregates with thrombocytopenia. Blood\n122, 461–462. 10.1182/blood-2013-03-489344 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 57660,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Iron toxicity in diseases of aging: Alzheimer's disease, Parkinson's disease and atherosclerosis",
+            "journal": "J. Alzheimers Dis.",
+            "volume": "16",
+            "section_title_1": "References"
+          },
+          "text": "Altamura S., Muckenthaler M. U. (2009). Iron toxicity in diseases of aging: Alzheimer's disease, Parkinson's disease and atherosclerosis. J. Alzheimers Dis.\n16, 879–895. 10.3233/JAD-2009-1010 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 57888,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide association defines more than 30 distinct susceptibility loci for Crohn's disease",
+            "journal": "Nat. Genet.",
+            "volume": "40",
+            "section_title_1": "References"
+          },
+          "text": "Barrett J. C., Hansoul S., Nicolae D. L., Cho J. H., Duerr R. H., Rioux J. D., et al. . (2008). Genome-wide association defines more than 30 distinct susceptibility loci for Crohn's disease. Nat. Genet.\n40, 955–962. 10.1038/ng.175 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 58174,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Fitting linear mixed-effects models using lme4",
+            "section_title_1": "References"
+          },
+          "text": "Bates D., Mächler M., Bolker B., Walker S. (2014). Fitting linear mixed-effects models using lme4. ArXiv Prepr. ArXiv14065823. Available online at: http://arxiv.org/abs/1406.5823 (Accessed March 17, 2016). ",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 58380,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A model for obesity and gigantism due to disruption of the Ankrd26 gene",
+            "journal": "Proc. Natl. Acad. Sci. U.S.A.",
+            "volume": "105",
+            "section_title_1": "References"
+          },
+          "text": "Bera T. K., Liu X.-F., Yamada M., Gavrilova O., Mezey E., Tessarollo L., et al. . (2008). A model for obesity and gigantism due to disruption of the Ankrd26 gene. Proc. Natl. Acad. Sci. U.S.A.\n105, 270–275. 10.1073/pnas.0710978105 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 58666,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A loss of function screen of identified genome-wide association study Loci reveals new genes controlling hematopoiesis",
+            "journal": "PLoS Genet.",
+            "volume": "10",
+            "section_title_1": "References"
+          },
+          "text": "Bielczyk-Maczyńska E., Serbanovic-Canic J., Ferreira L., Soranzo N., Stemple D. L., Ouwehand W. H., et al. . (2014). A loss of function screen of identified genome-wide association study Loci reveals new genes controlling hematopoiesis. PLoS Genet.\n10:e1004450. 10.1371/journal.pgen.1004450 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 59012,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Multi-ethnic study of atherosclerosis: objectives and design",
+            "journal": "Am. J. Epidemiol.",
+            "volume": "156",
+            "section_title_1": "References"
+          },
+          "text": "Bild D. E., Bluemke D. A., Burke G. L., Detrano R., Roux A. V. D., Folsom A. R., et al. . (2002). Multi-ethnic study of atherosclerosis: objectives and design. Am. J. Epidemiol.\n156, 871–881. 10.1093/aje/kwf113 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 59259,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Thrombocytopenia-associated mutations in the ANKRD26 regulatory region induce MAPK hyperactivation",
+            "journal": "J. Clin. Invest.",
+            "volume": "124",
+            "section_title_1": "References"
+          },
+          "text": "Bluteau D., Balduini A., Balayn N., Currao M., Nurden P., Deswarte C., et al. . (2014). Thrombocytopenia-associated mutations in the ANKRD26 regulatory region induce MAPK hyperactivation. J. Clin. Invest.\n124, 580–591. 10.1172/JCI71861 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 59550,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A multi-trait, meta-analysis for detecting pleiotropic polymorphisms for stature, fatness and reproduction in beef cattle",
+            "journal": "PLoS Genet.",
+            "volume": "10",
+            "section_title_1": "References"
+          },
+          "text": "Bolormaa S., Pryce J. E., Reverter A., Zhang Y., Barendse W., Kemper K., et al. . (2014). A multi-trait, meta-analysis for detecting pleiotropic polymorphisms for stature, fatness and reproduction in beef cattle. PLoS Genet.\n10:e1004198. 10.1371/journal.pgen.1004198 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 59872,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetics of healthy aging and longevity",
+            "journal": "Hum. Genet.",
+            "volume": "132",
+            "section_title_1": "References"
+          },
+          "text": "Brooks-Wilson A. R. (2013). Genetics of healthy aging and longevity. Hum. Genet.\n132, 1323–1338. 10.1007/s00439-013-1342-z [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 60050,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Putative regulatory factors associated with intramuscular fat content",
+            "journal": "PLoS ONE",
+            "volume": "10",
+            "section_title_1": "References"
+          },
+          "text": "Cesar A. S. M., Regitano L. C. A., Koltes J. E., Fritz-Waters E. R., Lanna D. P. D., Gasparin G., et al. . (2015). Putative regulatory factors associated with intramuscular fat content. PLoS ONE\n10:e0128350. 10.1371/journal.pone.0128350 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 60342,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Integration of inositol phosphate signaling pathways via human ITPK1",
+            "journal": "J. Biol. Chem.",
+            "volume": "282",
+            "section_title_1": "References"
+          },
+          "text": "Chamberlain P. P., Qian X., Stiles A. R., Cho J., Jones D. H., Lesley S. A., et al. . (2007). Integration of inositol phosphate signaling pathways via human ITPK1. J. Biol. Chem.\n282, 28117–28125. 10.1074/jbc.M703121200 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 60617,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "An excess of risk-increasing low-frequency variants can be a signal of polygenic inheritance in complex diseases",
+            "journal": "Am. J. Hum. Genet.",
+            "volume": "94",
+            "section_title_1": "References"
+          },
+          "text": "Chan Y., Lim E. T., Sandholm N., Wang S. R., McKnight A. J., Ripke S., et al. . (2014). An excess of risk-increasing low-frequency variants can be a signal of polygenic inheritance in complex diseases. Am. J. Hum. Genet.\n94, 437–452. 10.1016/j.ajhg.2014.02.006 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 60933,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The cell biology of thrombospondin-1",
+            "journal": "Matrix Biol.",
+            "volume": "19",
+            "section_title_1": "References"
+          },
+          "text": "Chen H., Herndon M. E., Lawler J. (2000). The cell biology of thrombospondin-1. Matrix Biol.\n19, 597–614. 10.1016/S0945-053X(00)00107-4 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 61105,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The quest for genetic determinants of human longevity: challenges and insights",
+            "journal": "Nat. Rev. Genet.",
+            "volume": "7",
+            "section_title_1": "References"
+          },
+          "text": "Christensen K., Johnson T. E., Vaupel J. W. (2006). The quest for genetic determinants of human longevity: challenges and insights. Nat. Rev. Genet.\n7, 436–448. 10.1038/nrg1871 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 61337,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetics analysis workshop 16 problem 2: the Framingham Heart Study data",
+            "journal": "BMC Proc.",
+            "volume": "3",
+            "section_title_1": "References"
+          },
+          "text": "Cupples L. A., Heard-Costa N., Lee M., Atwood L. D. (2009). Genetics analysis workshop 16 problem 2: the Framingham Heart Study data. BMC Proc.\n3:S3. 10.1186/1753-6561-3-S7-S3 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 61568,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The unusual genetics of human longevity",
+            "journal": "Sci. Aging Knowledge Environ.",
+            "volume": "2006",
+            "section_title_1": "References"
+          },
+          "text": "De Benedictis G., Franceschi C. (2006). The unusual genetics of human longevity. Sci. Aging Knowledge Environ.\n2006:pe20. 10.1126/sageke.2006.10.pe20 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 61754,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Therapeutic angiogenesis for treating cardiovascular diseases",
+            "journal": "Theranostics",
+            "volume": "2",
+            "section_title_1": "References"
+          },
+          "text": "Deveza L., Choi J., Yang F. (2012). Therapeutic angiogenesis for treating cardiovascular diseases. Theranostics\n2, 801–814. 10.7150/thno.4419 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 61951,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Thrombocytopenias due to gray platelet syndrome or THC2 mutations",
+            "journal": "Semin. Thromb. Hemost.",
+            "volume": "37",
+            "section_title_1": "References"
+          },
+          "text": "Di Paola J., Johnson J. (2011). Thrombocytopenias due to gray platelet syndrome or THC2 mutations. Semin. Thromb. Hemost.\n37, 690–697. 10.1055/s-0031-1291379 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 62145,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Mapping and analysis of chromatin state dynamics in nine human cell types",
+            "journal": "Nature",
+            "volume": "473",
+            "section_title_1": "References"
+          },
+          "text": "Ernst J., Kheradpour P., Mikkelsen T. S., Shoresh N., Ward L. D., Epstein C. B., et al. . (2011). Mapping and analysis of chromatin state dynamics in nine human cell types. Nature\n473, 43–49. 10.1038/nature09906 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 62412,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Mortality differences by APOE genotype estimated from demographic synthesis",
+            "journal": "Genet. Epidemiol.",
+            "volume": "22",
+            "section_title_1": "References"
+          },
+          "text": "Ewbank D. C. (2002). Mortality differences by APOE genotype estimated from demographic synthesis. Genet. Epidemiol.\n22, 146–155. 10.1002/gepi.0164 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 62595,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Ankrd26 gene disruption enhances adipogenesis of mouse embryonic fibroblasts",
+            "journal": "J. Biol. Chem.",
+            "volume": "286",
+            "section_title_1": "References"
+          },
+          "text": "Fei Z., Bera T. K., Liu X., Xiang L., Pastan I. (2011). Ankrd26 gene disruption enhances adipogenesis of mouse embryonic fibroblasts. J. Biol. Chem.\n286, 27761–27768. 10.1074/jbc.M111.248435 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 62841,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Evolution of the human lifespan and diseases of aging: roles of infection, inflammation, and nutrition",
+            "journal": "Proc. Natl. Acad. Sci.U.S.A.",
+            "volume": "107",
+            "section_title_1": "References"
+          },
+          "text": "Finch C. E. (2010). Evolution of the human lifespan and diseases of aging: roles of infection, inflammation, and nutrition. Proc. Natl. Acad. Sci.U.S.A.\n107, 1718–1724. 10.1073/pnas.0909606106 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 63089,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Evolution of the human lifespan, past, present, and future: phases in the evolution of human life expectancy in relation to the inflammatory load",
+            "journal": "Proc. Am. Philos. Soc.",
+            "volume": "156",
+            "section_title_1": "References"
+          },
+          "text": "Finch C. E. (2012). Evolution of the human lifespan, past, present, and future: phases in the evolution of human life expectancy in relation to the inflammatory load. Proc. Am. Philos. Soc.\n156, 9–44.  [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 63316,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "journal": "Statistical Methods for Research Workers",
+            "section_title_1": "References"
+          },
+          "text": "Fisher R. A. (1925). Statistical Methods for Research Workers. Edinburgh: Genesis Publishing Pvt Ltd. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 63434,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Inflammaging as a major characteristic of old people: can it be prevented or cured?",
+            "journal": "Nutr. Rev.",
+            "volume": "65",
+            "section_title_1": "References"
+          },
+          "text": "Franceschi C. (2007). Inflammaging as a major characteristic of old people: can it be prevented or cured?\nNutr. Rev.\n65, S173–S176. 10.1016/j.ijrobp.2016.06.421 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 63631,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Immunity, atherosclerosis and cardiovascular disease",
+            "journal": "BMC Med.",
+            "volume": "11",
+            "section_title_1": "References"
+          },
+          "text": "Frostegård J. (2013). Immunity, atherosclerosis and cardiovascular disease. BMC Med.\n11:117. 10.1186/1741-7015-11-117 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 63804,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "New gene functions in megakaryopoiesis and platelet formation",
+            "journal": "Nature",
+            "volume": "480",
+            "section_title_1": "References"
+          },
+          "text": "Gieger C., Radhakrishnan A., Cvejic A., Tang W., Porcu E., Pistis G., et al. . (2011). New gene functions in megakaryopoiesis and platelet formation. Nature\n480, 201–208. 10.1038/nature10659 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 64050,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Predictors of congestive heart failure in the elderly: the cardiovascular health study",
+            "journal": "J. Am. Coll. Cardiol.",
+            "volume": "35",
+            "section_title_1": "References"
+          },
+          "text": "Gottdiener J. S., Arnold A. M., Aurigemma G. P., Polak J. F., Tracy R. P., Kitzman D. W., et al. . (2000). Predictors of congestive heart failure in the elderly: the cardiovascular health study. J. Am. Coll. Cardiol.\n35, 1628–1637. 10.1016/S0735-1097(00)00582-9 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 64348,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetics of the Framingham Heart Study population",
+            "journal": "Adv. Genet.",
+            "volume": "62",
+            "section_title_1": "References"
+          },
+          "text": "Govindaraju D. R., Cupples L. A., Kannel W. B., O'Donnell C. J., Atwood L. D., D'Agostino R. B., et al. . (2008). Genetics of the Framingham Heart Study population. Adv. Genet.\n62, 33–65. 10.1016/S0065-2660(08)00602-0 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 64621,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Proportional hazards tests and diagnostics based on weighted residuals",
+            "journal": "Biometrika",
+            "volume": "81",
+            "section_title_1": "References"
+          },
+          "text": "Grambsch P. M., Therneau T. M. (1994). Proportional hazards tests and diagnostics based on weighted residuals. Biometrika\n81, 515–526. 10.1093/biomet/81.3.515 [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 64807,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "FoxP1 stimulates angiogenesis by repressing the inhibitory guidance protein semaphorin 5B in endothelial cells",
+            "journal": "PLoS ONE",
+            "volume": "8",
+            "section_title_1": "References"
+          },
+          "text": "Grundmann S., Lindmayer C., Hans F. P., Hoefer I., Helbing T., Pasterkamp G., et al. . (2013). FoxP1 stimulates angiogenesis by repressing the inhibitory guidance protein semaphorin 5B in endothelial cells. PLoS ONE\n8:e70873. 10.1371/journal.pone.0070873 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 65117,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The maternal ITPK1 gene polymorphism is associated with neural tube defects in a high-risk Chinese population",
+            "journal": "PLoS ONE",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "Guan Z., Wang J., Guo J., Wang F., Wang X., Li G., et al. . (2014). The maternal ITPK1 gene polymorphism is associated with neural tube defects in a high-risk Chinese population. PLoS ONE\n9:e86145. 10.1371/journal.pone.0086145 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 65399,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetic variations in HSPA8 gene associated with coronary heart disease risk in a Chinese population",
+            "journal": "PLoS ONE",
+            "volume": "5",
+            "section_title_1": "References"
+          },
+          "text": "He M., Guo H., Yang X., Zhou L., Zhang X., Cheng L., et al. . (2010). Genetic variations in HSPA8 gene associated with coronary heart disease risk in a Chinese population. PLoS ONE\n5:e9684. 10.1371/journal.pone.0009684 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 65673,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A class of invariant consistent tests for multivariate normality",
+            "journal": "Comm. Statist. Theory Methods",
+            "volume": "19",
+            "section_title_1": "References"
+          },
+          "text": "Henze N., Zirkler B. (1990). A class of invariant consistent tests for multivariate normality. Comm. Statist. Theory Methods\n19, 3595–3617. 10.1080/03610929008830400 [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 65866,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "RPTPmu and protein tyrosine phosphorylation regulate K(+) channel mRNA expression in adult cardiac myocytes",
+            "journal": "Am. J. Physiol. Cell Physiol.",
+            "volume": "278",
+            "section_title_1": "References"
+          },
+          "text": "Hershman K. M., Levitan E. S. (2000). RPTPmu and protein tyrosine phosphorylation regulate K(+) channel mRNA expression in adult cardiac myocytes. Am. J. Physiol. Cell Physiol.\n278, C397–C403.  [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 66085,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A flexible and accurate genotype imputation method for the next generation of genome-wide association studies",
+            "journal": "PLoS Genet.",
+            "volume": "5",
+            "section_title_1": "References"
+          },
+          "text": "Howie B. N., Donnelly P., Marchini J. (2009). A flexible and accurate genotype imputation method for the next generation of genome-wide association studies. PLoS Genet.\n5:e1000529. 10.1371/journal.pgen.1000529 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 66350,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A genome-wide association study identifies two risk loci for congenital heart malformations in Han Chinese populations",
+            "journal": "Nat. Genet.",
+            "volume": "45",
+            "section_title_1": "References"
+          },
+          "text": "Hu Z., Shi Y., Mo X., Xu J., Zhao B., Lin Y., et al. . (2013). A genome-wide association study identifies two risk loci for congenital heart malformations in Han Chinese populations. Nat. Genet.\n45, 818–821. 10.1038/ng.2636 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 66610,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Inhibition of angiogenesis by thrombospondin-1 is mediated by 2 independent regions within the type 1 repeats",
+            "journal": "Circulation",
+            "volume": "100",
+            "section_title_1": "References"
+          },
+          "text": "Iruela-Arispe M. L., Lombardo M., Krutzsch H. C., Lawler J., Roberts D. D. (1999). Inhibition of angiogenesis by thrombospondin-1 is mediated by 2 independent regions within the type 1 repeats. Circulation\n100, 1423–1431.  [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 66858,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "SNAP: a web-based tool for identification and annotation of proxy SNPs using HapMap",
+            "journal": "Bioinformatics",
+            "volume": "24",
+            "section_title_1": "References"
+          },
+          "text": "Johnson A. D., Handsaker R. E., Pulit S. L., Nizzari M. M., O'Donnell C. J., de Bakker P. I. W. (2008). SNAP: a web-based tool for identification and annotation of proxy SNPs using HapMap. Bioinformatics\n24, 2938–2939. 10.1093/bioinformatics/btn564 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 67162,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Healthy aging: the ultimate preventative medicine",
+            "journal": "Science",
+            "volume": "350",
+            "section_title_1": "References"
+          },
+          "text": "Kaeberlein M., Rabinovitch P. S., Martin G. M. (2015). Healthy aging: the ultimate preventative medicine. Science\n350, 1191–1193. 10.1126/science.aad3267 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 67371,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Role of angiogenesis in cardiovascular disease: a critical appraisal",
+            "journal": "Circulation",
+            "volume": "112",
+            "section_title_1": "References"
+          },
+          "text": "Khurana R., Simons M., Martin J. F., Zachary I. C. (2005). Role of angiogenesis in cardiovascular disease: a critical appraisal. Circulation\n112, 1813–1824. 10.1161/CIRCULATIONAHA.105.535294 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 67598,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Enhanced efficiency of quantitative trait loci mapping analysis based on multivariate complexes of quantitative traits",
+            "journal": "Genetics",
+            "volume": "157",
+            "section_title_1": "References"
+          },
+          "text": "Korol A. B., Ronin Y. I., Itskovich A. M., Peng J., Nevo E. (2001). Enhanced efficiency of quantitative trait loci mapping analysis based on multivariate complexes of quantitative traits. Genetics\n157, 1789–1803.  [PMC free article] [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 67856,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Unraveling genetic origin of aging-related traits: evolving concepts",
+            "journal": "Rejuvenation Res.",
+            "volume": "16",
+            "section_title_1": "References"
+          },
+          "text": "Kulminski A. M. (2013). Unraveling genetic origin of aging-related traits: evolving concepts. Rejuvenation Res.\n16, 304–312. 10.1089/rej.2013.1441 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 68058,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Age, gender, and cancer but not neurodegenerative and cardiovascular diseases strongly modulate systemic effect of the apolipoprotein E4 allele on lifespan",
+            "journal": "PLoS Genet.",
+            "volume": "10",
+            "section_title_1": "References"
+          },
+          "text": "Kulminski A. M., Arbeev K. G., Culminskaya I., Arbeeva L., Ukraintseva S. V., Stallard E., et al. . (2014). Age, gender, and cancer but not neurodegenerative and cardiovascular diseases strongly modulate systemic effect of the apolipoprotein E4 allele on lifespan. PLoS Genet.\n10:e1004141. 10.1371/journal.pone.0127717 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 68432,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Trade-offs in the effects of the apolipoprotein E polymorphism on risks of diseases of the heart, cancer, and neurodegenerative disorders: insights on mechanisms from the long life family study",
+            "journal": "Rejuvenation Res.",
+            "volume": "18",
+            "section_title_1": "References"
+          },
+          "text": "Kulminski A. M., Arbeev K. G., Culminskaya I., Ukraintseva S. V., Stallard E., Province M. A., et al. . (2015a). Trade-offs in the effects of the apolipoprotein E polymorphism on risks of diseases of the heart, cancer, and neurodegenerative disorders: insights on mechanisms from the long life family study. Rejuvenation Res.\n18, 128–135. 10.1089/rej.2014.1616 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 68848,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Birth cohort, age, and sex strongly modulate effects of lipid risk alleles identified in genome-wide association studies",
+            "journal": "PLoS ONE",
+            "volume": "10",
+            "section_title_1": "References"
+          },
+          "text": "Kulminski A. M., Culminskaya I., Arbeev K. G., Arbeeva L., Ukraintseva S. V., Stallard E., et al. . (2015b). Birth cohort, age, and sex strongly modulate effects of lipid risk alleles identified in genome-wide association studies. PLoS ONE\n10:e0136319. 10.1371/journal.pone.0136319 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 69185,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Influenza, influenza-like symptoms and their association with cardiovascular risks: a systematic review and meta-analysis of observational studies",
+            "journal": "Int. J. Clin. Pract.",
+            "volume": "69",
+            "section_title_1": "References"
+          },
+          "text": "Kwok C. S., Aslam S., Kontopantelis E., Myint P. K., Zaman M. J. S., Buchan I., et al. . (2015). Influenza, influenza-like symptoms and their association with cardiovascular risks: a systematic review and meta-analysis of observational studies. Int. J. Clin. Pract.\n69, 928–937. 10.1111/ijcp.12646 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 69538,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Fitness benefits of prolonged post-reproductive lifespan in women",
+            "journal": "Nature",
+            "volume": "428",
+            "section_title_1": "References"
+          },
+          "text": "Lahdenperä M., Lummaa V., Helle S., Tremblay M., Russell A. F. (2004). Fitness benefits of prolonged post-reproductive lifespan in women. Nature\n428, 178–181. 10.1038/nature02367 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 69753,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Effects of aging on angiogenesis",
+            "journal": "Circ. Res.",
+            "volume": "110",
+            "section_title_1": "References"
+          },
+          "text": "Lähteenvuo J., Rosenzweig A. (2012). Effects of aging on angiogenesis. Circ. Res.\n110, 1252–1264. 10.1161/CIRCRESAHA.111.246116 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 69936,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "A simple unified approach for estimating natural direct and indirect effects",
+            "journal": "Am. J. Epidemiol.",
+            "volume": "176",
+            "section_title_1": "References"
+          },
+          "text": "Lange T., Vansteelandt S., Bekaert M. (2012). A simple unified approach for estimating natural direct and indirect effects. Am. J. Epidemiol.\n176, 190–195. 10.1093/aje/kwr525 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 70147,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Aging of the immune system as a prognostic factor for human longevity",
+            "journal": "Physiology",
+            "volume": "23",
+            "section_title_1": "References"
+          },
+          "text": "Larbi A., Franceschi C., Mazzatti D., Solana R., Wikby A., Pawelec G. (2008). Aging of the immune system as a prognostic factor for human longevity. Physiology\n23, 64–74. 10.1152/physiol.00040.2007 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 70381,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Heat shock proteins and cardiac protection",
+            "journal": "Cardiovasc. Res.",
+            "volume": "51",
+            "section_title_1": "References"
+          },
+          "text": "Latchman D. S. (2001). Heat shock proteins and cardiac protection. Cardiovasc. Res.\n51, 637–646. 10.1016/S0008-6363(01)00354-6 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 70544,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "GRASP: analysis of genotype-phenotype results from 1390 genome-wide association studies and corresponding open access database",
+            "journal": "Bioinformatics",
+            "volume": "30",
+            "section_title_1": "References"
+          },
+          "text": "Leslie R., O'Donnell C. J., Johnson A. D. (2014). GRASP: analysis of genotype-phenotype results from 1390 genome-wide association studies and corresponding open access database. Bioinformatics\n30, i185–i194. 10.1093/bioinformatics/btu273 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 70837,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Disease risk factors identified through shared genetic architecture and electronic medical records",
+            "journal": "Sci. Transl. Med.",
+            "volume": "6",
+            "section_title_1": "References"
+          },
+          "text": "Li L., Ruau D. J., Patel C. J., Weber S. C., Chen R., Tatonetti N. P., et al. . (2014). Disease risk factors identified through shared genetic architecture and electronic medical records. Sci. Transl. Med.\n6, 234ra57. 10.1126/scitranslmed.3007191 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 71139,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The robust inference for the Cox proportional hazards model",
+            "journal": "J. Am. Stat. Assoc.",
+            "volume": "84",
+            "section_title_1": "References"
+          },
+          "text": "Lin D. Y., Wei L.-J. (1989). The robust inference for the Cox proportional hazards model. J. Am. Stat. Assoc.\n84, 1074–1078. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 71280,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The Genotype-Tissue Expression (GTEx) project",
+            "journal": "Nat. Genet.",
+            "volume": "45",
+            "section_title_1": "References"
+          },
+          "text": "Lonsdale J., Thomas J., Salvatore M., Phillips R., Lo E., Shad S., et al. . (2013). The Genotype-Tissue Expression (GTEx) project. Nat. Genet.\n45, 580–585. 10.1038/ng.2653 [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 71479,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Biomarkers in diabetes: hemoglobin A1c, vascular and tissue markers",
+            "journal": "Transl. Res.",
+            "volume": "159",
+            "section_title_1": "References"
+          },
+          "text": "Lyons T. J., Basu A. (2012). Biomarkers in diabetes: hemoglobin A1c, vascular and tissue markers. Transl. Res.\n159, 303–312. 10.1016/j.trsl.2012.01.009 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 71686,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Expression of inositol 1,3,4-trisphosphate 5/6-kinase (ITPK1) and its role in neural tube defects",
+            "journal": "Adv. Enzyme Regul.",
+            "volume": "50",
+            "section_title_1": "References"
+          },
+          "text": "Majerus P. W., Wilson D. B., Zhang C., Nicholas P. J., Wilson M. P. (2010). Expression of inositol 1,3,4-trisphosphate 5/6-kinase (ITPK1) and its role in neural tube defects. Adv. Enzyme Regul.\n50, 365–372. 10.1016/j.advenzreg.2009.10.017 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 71980,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "journal": "Dynamic Regression Models for Survival Data",
+            "section_title_1": "References"
+          },
+          "text": "Martinussen T., Scheike T. H. (2007). Dynamic Regression Models for Survival Data. Springer Science & Business Media;  Available online at: https://books.google.com/books?hl=en&lr=&id=uH6oD4eDdq0C&oi=fnd&pg=PA1&ots=x2AWPSSJXS&sig=o-GLl8XubxuLA357MusaXGXzg38 (Accessed March 17, 2016). [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 72281,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Rab12 regulates mTORC1 activity and autophagy through controlling the degradation of amino-acid transporter PAT4",
+            "journal": "EMBO Rep.",
+            "volume": "14",
+            "section_title_1": "References"
+          },
+          "text": "Matsui T., Fukuda M. (2013). Rab12 regulates mTORC1 activity and autophagy through controlling the degradation of amino-acid transporter PAT4. EMBO Rep.\n14, 450–457. 10.1038/embor.2013.32 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 72524,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Deriving the consequences of genomic variants with the Ensembl API and SNP effect predictor",
+            "journal": "Bioinformatics",
+            "volume": "26",
+            "section_title_1": "References"
+          },
+          "text": "McLaren W., Pritchard B., Rios D., Chen Y., Flicek P., Cunningham F. (2010). Deriving the consequences of genomic variants with the Ensembl API and SNP effect predictor. Bioinformatics\n26, 2069–2070. 10.1093/bioinformatics/btq330 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 72809,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Heat shock proteins in vascular disease–a review",
+            "journal": "Eur. J. Vasc. Endovasc. Surg.",
+            "volume": "29",
+            "section_title_1": "References"
+          },
+          "text": "Mehta T. A., Greenman J., Ettelaie C., Venkatasubramaniam A., Chetter I. C., McCollum P. T. (2005). Heat shock proteins in vascular disease–a review. Eur. J. Vasc. Endovasc. Surg.\n29, 395–402. 10.1016/j.ejvs.2005.01.005 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 73065,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Prediction of the coding sequences of unidentified human genes. XVII. the complete sequences of 100 new cdna clones from brain which code for large proteins in vitro",
+            "journal": "DNA Res.",
+            "volume": "7",
+            "section_title_1": "References"
+          },
+          "text": "Nagase T., Kikuno R., Ishikawa K., Hirosawa M., Ohara O. (2000). Prediction of the coding sequences of unidentified human genes. XVII. the complete sequences of 100 new cdna clones from brain which code for large proteins in vitro. DNA Res.\n7, 143–150. 10.1093/dnares/7.2.143 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 73377,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Evolutionary molecular medicine",
+            "journal": "J. Mol. Med.",
+            "volume": "90",
+            "section_title_1": "References"
+          },
+          "text": "Nesse R. M., Ganten D., Gregory T. R., Omenn G. S. (2012). Evolutionary molecular medicine. J. Mol. Med.\n90, 509–522. 10.1007/s00109-012-0889-9 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 73576,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Mutations in ANKRD26 are responsible for a frequent form of inherited thrombocytopenia: analysis of 78 patients from 21 families",
+            "journal": "Blood",
+            "volume": "117",
+            "section_title_1": "References"
+          },
+          "text": "Noris P., Perrotta S., Seri M., Pecci A., Gnan C., Loffredo G., et al. . (2011). Mutations in ANKRD26 are responsible for a frequent form of inherited thrombocytopenia: analysis of 78 patients from 21 families. Blood\n117, 6673–6680. 10.1182/blood-2011-02-336537 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 73874,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Procedures for comparing samples with multiple endpoints",
+            "journal": "Biometrics",
+            "volume": "40",
+            "section_title_1": "References"
+          },
+          "text": "O'Brien P. C. (1984). Procedures for comparing samples with multiple endpoints. Biometrics\n40, 1079–1087.  [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 74006,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "MultiPhen: joint model of multiple phenotypes can increase discovery in GWAS",
+            "journal": "PLoS ONE",
+            "volume": "7",
+            "section_title_1": "References"
+          },
+          "text": "O'Reilly P. F., Hoggart C. J., Pomyen Y., Calboli F. C. F., Elliott P., Jarvelin M.-R., et al. . (2012). MultiPhen: joint model of multiple phenotypes can increase discovery in GWAS. PLoS ONE\n7:e34861. 10.1371/journal.pone.0034861 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 74292,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Distinct PTPmu-associated signaling molecules differentially regulate neurite outgrowth on E-, N-, and R-cadherin",
+            "journal": "Mol. Cell. Neurosci.",
+            "volume": "44",
+            "section_title_1": "References"
+          },
+          "text": "Oblander S. A., Brady-Kalnay S. M. (2010). Distinct PTPmu-associated signaling molecules differentially regulate neurite outgrowth on E-, N-, and R-cadherin. Mol. Cell. Neurosci.\n44, 78–93. 10.1016/j.mcn.2010.02.005 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 74563,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "journal": "Causality: Models, Reasoning, and Inference. 1st Edn",
+            "section_title_1": "References"
+          },
+          "text": "Pearl J. (2000). Causality: Models, Reasoning, and Inference. 1st Edn. Cambridge, UK; New York, NY: Cambridge University Press. [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 74707,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Mutations in the 5′ UTR of ANKRD26, the ankirin repeat domain 26 gene, cause an autosomal-dominant form of inherited thrombocytopenia, THC2",
+            "journal": "Am. J. Hum. Genet.",
+            "volume": "88",
+            "section_title_1": "References"
+          },
+          "text": "Pippucci T., Savoia A., Perrotta S., Pujol-Moix N., Noris P., Castegnaro G., et al. . (2011). Mutations in the 5′ UTR of ANKRD26, the ankirin repeat domain 26 gene, cause an autosomal-dominant form of inherited thrombocytopenia, THC2. Am. J. Hum. Genet.\n88, 115–120. 10.1016/j.ajhg.2010.12.006 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 75056,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Replication of putative candidate-gene associations with rheumatoid arthritis in >4,000 samples from North America and Sweden: association of susceptibility with PTPN22, CTLA4, and PADI4",
+            "journal": "Am. J. Hum. Genet.",
+            "volume": "77",
+            "section_title_1": "References"
+          },
+          "text": "Plenge R. M., Padyukov L., Remmers E. F., Purcell S., Lee A. T., Karlson E. W., et al. . (2005). Replication of putative candidate-gene associations with rheumatoid arthritis in >4,000 samples from North America and Sweden: association of susceptibility with PTPN22, CTLA4, and PADI4. Am. J. Hum. Genet.\n77, 1044–1060. 10.1086/498651 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 75445,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Progress and promise in understanding the genetic basis of common diseases",
+            "journal": "Proc. R. Soc. B Biol. Sci.",
+            "volume": "282",
+            "section_title_1": "References"
+          },
+          "text": "Price A. L., Spencer C. C. A., Donnelly P. (2015). Progress and promise in understanding the genetic basis of common diseases. Proc. R. Soc. B Biol. Sci.\n282:20151684. 10.1098/rspb.2015.1684 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 75691,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "PLINK: a tool set for whole-genome association and population-based linkage analyses",
+            "journal": "Am. J. Hum. Genet.",
+            "volume": "81",
+            "section_title_1": "References"
+          },
+          "text": "Purcell S., Neale B., Todd-Brown K., Thomas L., Ferreira M. A. R., Bender D., et al. . (2007). PLINK: a tool set for whole-genome association and population-based linkage analyses. Am. J. Hum. Genet.\n81, 559–575. 10.1086/519795 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 75974,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Partial inactivation of Ankrd26 causes diabetes with enhanced insulin responsiveness of adipose tissue in mice",
+            "journal": "Diabetologia",
+            "volume": "54",
+            "section_title_1": "References"
+          },
+          "text": "Raciti G. A., Bera T. K., Gavrilova O., Pastan I. (2011). Partial inactivation of Ankrd26 causes diabetes with enhanced insulin responsiveness of adipose tissue in mice. Diabetologia\n54, 2911–2922. 10.1007/s00125-011-2263-9 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 76253,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Marginal structural models and causal inference in epidemiology",
+            "journal": "Epidemiology",
+            "volume": "11",
+            "section_title_1": "References"
+          },
+          "text": "Robins J. M., Hernán M. A., Brumback B. (2000). Marginal structural models and causal inference in epidemiology. Epidemiology\n11, 550–560.  [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 76418,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Mediation analysis of the relationship between institutional research activity and patient survival",
+            "journal": "BMC Med. Res. Methodol.",
+            "volume": "14",
+            "section_title_1": "References"
+          },
+          "text": "Rochon J., du Bois A., Lange T. (2014). Mediation analysis of the relationship between institutional research activity and patient survival. BMC Med. Res. Methodol.\n14:9. 10.1186/1471-2288-14-9 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 76667,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Human ITPK1: a reversible inositol phosphate kinase/phosphatase that links receptor-dependent phospholipase C to Ca2+-activated chloride channels",
+            "journal": "Sci. Signal.",
+            "volume": "1",
+            "section_title_1": "References"
+          },
+          "text": "Saiardi A., Cockcroft S. (2008). Human ITPK1: a reversible inositol phosphate kinase/phosphatase that links receptor-dependent phospholipase C to Ca2+-activated chloride channels. Sci. Signal.\n1:pe5. 10.1126/stke.14pe5 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 76922,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Cardiovascular autophagy: crossroads of pathology, pharmacology and toxicology",
+            "journal": "Cardiovasc. Toxicol.",
+            "volume": "13",
+            "section_title_1": "References"
+          },
+          "text": "Salabei J. K., Conklin D. J. (2013). Cardiovascular autophagy: crossroads of pathology, pharmacology and toxicology. Cardiovasc. Toxicol.\n13, 220–229. 10.1007/s12012-013-9200-8 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 77154,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Platelet counts and platelet activation markers in obese subjects",
+            "journal": "Mediators Inflamm.",
+            "volume": "2008",
+            "section_title_1": "References"
+          },
+          "text": "Samocha-Bonet D., Justo D., Rogowski O., Saar N., Abu-Abeid S., Shenkerman G., et al. . (2008). Platelet counts and platelet activation markers in obese subjects. Mediators Inflamm.\n2008:834153. 10.1155/2008/834153 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 77424,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The Atherosclerosis Risk in Communities (ARIC) study. Introduction and objectives of the hemostasis component",
+            "journal": "Ann. Epidemiol.",
+            "volume": "2",
+            "section_title_1": "References"
+          },
+          "text": "Sharrett A. R. (1992). The Atherosclerosis Risk in Communities (ARIC) study. Introduction and objectives of the hemostasis component. Ann. Epidemiol.\n2, 467–469.  [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 77612,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Association between Three SNPs and thromboangiitis obliterans in xinjiang uyghur population",
+            "journal": "Genet. Test. Mol. Biomarkers",
+            "volume": "20",
+            "section_title_1": "References"
+          },
+          "text": "Shi Z.-F., Fang Q.-B., Limu S., Jiareke T., Ge X.-H. (2016). Association between Three SNPs and thromboangiitis obliterans in xinjiang uyghur population. Genet. Test. Mol. Biomarkers\n20, 55–62. 10.1089/gtmb.2015.0264 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 77884,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Moving toward system genetics through multiple trait analysis in genome-wide association studies",
+            "journal": "Front. Genet.",
+            "volume": "3",
+            "section_title_1": "References"
+          },
+          "text": "Shriner D. (2012). Moving toward system genetics through multiple trait analysis in genome-wide association studies. Front. Genet.\n3:1. 10.3389/fgene.2012.00001 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 78100,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Gene expression patterns in peripheral blood correlate with the extent of coronary artery disease",
+            "journal": "PLoS ONE",
+            "volume": "4",
+            "section_title_1": "References"
+          },
+          "text": "Sinnaeve P. R., Donahue M. P., Grass P., Seo D., Vonderscher J., Chibout S.-D., et al. . (2009). Gene expression patterns in peripheral blood correlate with the extent of coronary artery disease. PLoS ONE\n4:e7037. 10.1371/journal.pone.0007037 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 78398,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Abundant pleiotropy in human complex diseases and traits",
+            "journal": "Am. J. Hum. Genet.",
+            "volume": "89",
+            "section_title_1": "References"
+          },
+          "text": "Sivakumaran S., Agakov F., Theodoratou E., Prendergast J. G., Zgaga L., Manolio T., et al. . (2011). Abundant pleiotropy in human complex diseases and traits. Am. J. Hum. Genet.\n89, 607–618. 10.1016/j.ajhg.2011.10.004 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 78671,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "TATES: efficient multivariate genotype-phenotype analysis for genome-wide association studies",
+            "journal": "PLoS Genet.",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "van der Sluis S., Posthuma D., Dolan C. V. (2013). TATES: efficient multivariate genotype-phenotype analysis for genome-wide association studies. PLoS Genet.\n9:e1003235. 10.1371/journal.pgen.1003235 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 78925,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Pleiotropy in complex traits: challenges and strategies",
+            "journal": "Nat. Rev. Genet.",
+            "volume": "14",
+            "section_title_1": "References"
+          },
+          "text": "Solovieff N., Cotsapas C., Lee P. H., Purcell S. M., Smoller J. W. (2013). Pleiotropy in complex traits: challenges and strategies. Nat. Rev. Genet.\n14, 483–495. 10.1038/nrg3461 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 79158,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "RPTP delta and the novel protein tyrosine phosphatase RPTP psi are expressed in restricted regions of the developing central nervous system",
+            "journal": "Dev. Dyn.",
+            "volume": "208",
+            "section_title_1": "References"
+          },
+          "text": "Sommer L., Rao M., Anderson D. J. (1997). RPTP delta and the novel protein tyrosine phosphatase RPTP psi are expressed in restricted regions of the developing central nervous system. Dev. Dyn.\n208, 48–61. 10.1002/(SICI)1097-0177(199701)208:1<48::AID-AJA5>3.0.CO;2-1 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 79460,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Cohort profile: the Health and Retirement Study (HRS)",
+            "journal": "Int. J. Epidemiol.",
+            "volume": "43",
+            "section_title_1": "References"
+          },
+          "text": "Sonnega A., Faul J. D., Ofstedal M. B., Langa K. M., Phillips J. W., Weir D. R. (2014). Cohort profile: the Health and Retirement Study (HRS). Int. J. Epidemiol.\n43, 576–585. 10.1093/ije/dyu067 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 79709,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The third generation cohort of the national heart, lung, and blood institute's Framingham Heart Study: design, recruitment, and initial examination",
+            "journal": "Am. J. Epidemiol.",
+            "volume": "165",
+            "section_title_1": "References"
+          },
+          "text": "Splansky G. L., Corey D., Yang Q., Atwood L. D., Cupples L. A., Benjamin E. J., et al. . (2007). The third generation cohort of the national heart, lung, and blood institute's Framingham Heart Study: design, recruitment, and initial examination. Am. J. Epidemiol.\n165, 1328–1335. 10.1093/aje/kwm021 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 80044,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "HSPA8/HSC70 chaperone protein: structure, function, and chemical targeting",
+            "journal": "Autophagy",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "Stricher F., Macri C., Ruff M., Muller S. (2013). HSPA8/HSC70 chaperone protein: structure, function, and chemical targeting. Autophagy\n9, 1937–1954. 10.4161/auto.26448 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 80249,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genome-wide meta-analysis of observational studies shows common genetic variants associated with macronutrient intake",
+            "journal": "Am. J. Clin. Nutr.",
+            "volume": "97",
+            "section_title_1": "References"
+          },
+          "text": "Tanaka T., Ngwa J. S., Van Rooij F. J., Zillikens M. C., Wojczynski M. K., Frazier-Wood A. C., et al. . (2013). Genome-wide meta-analysis of observational studies shows common genetic variants associated with macronutrient intake. Am. J. Clin. Nutr.\n97, 1395–1402. 10.3945/ajcn.112.052183 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 80593,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The atherosclerosis risk in communit (aric) stui) y: design and objectwes",
+            "journal": "Am. J. Epidemiol.",
+            "volume": "129",
+            "section_title_1": "References"
+          },
+          "text": "The ARIC investigators  (1989). The atherosclerosis risk in communit (aric) stui) y: design and objectwes. Am. J. Epidemiol.\n129, 687–702.  [PubMed] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 80758,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "An integrated encyclopedia of DNA elements in the human genome",
+            "journal": "Nature",
+            "volume": "489",
+            "section_title_1": "References"
+          },
+          "text": "The ENCODE Project Consortium  (2012). An integrated encyclopedia of DNA elements in the human genome. Nature\n489, 57–74. 10.1038/nature11247 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 80955,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "journal": "Package “Survival.”",
+            "section_title_1": "References"
+          },
+          "text": "Therneau T. M., Lumley T. (2015). Package “Survival.” [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 81025,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Combined activation of calpain and calcineurin during ligand-induced growth cone collapse",
+            "journal": "Mol. Cell. Neurosci.",
+            "volume": "36",
+            "section_title_1": "References"
+          },
+          "text": "To K. C. W., Church J., O'Connor T. P. (2007). Combined activation of calpain and calcineurin during ligand-induced growth cone collapse. Mol. Cell. Neurosci.\n36, 425–434. 10.1016/j.mcn.2007.08.001 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 81259,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Robust associations of four new chromosome regions from genome-wide analyses of type 1 diabetes",
+            "journal": "Nat. Genet.",
+            "volume": "39",
+            "section_title_1": "References"
+          },
+          "text": "Todd J. A., Walker N. M., Cooper J. D., Smyth D. J., Downes K., Plagnol V., et al. . (2007). Robust associations of four new chromosome regions from genome-wide analyses of type 1 diabetes. Nat. Genet.\n39, 857–864. 10.1038/ng2068 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 81544,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Platelets in inflammation and thrombosis",
+            "journal": "Arterioscler. Thromb. Vasc. Biol.",
+            "volume": "23",
+            "section_title_1": "References"
+          },
+          "text": "Wagner D. D., Burger P. C. (2003). Platelets in inflammation and thrombosis. Arterioscler. Thromb. Vasc. Biol.\n23, 2131–2137. 10.1161/01.ATV.0000095974.95122.EC [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 81741,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "HaploReg: a resource for exploring chromatin states, conservation, and regulatory motif alterations within sets of genetically linked variants",
+            "journal": "Nucleic Acids Res.",
+            "volume": "40",
+            "section_title_1": "References"
+          },
+          "text": "Ward L. D., Kellis M. (2012). HaploReg: a resource for exploring chromatin states, conservation, and regulatory motif alterations within sets of genetically linked variants. Nucleic Acids Res.\n40, D930–D934. 10.1093/nar/gkr917 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 82023,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "The hazards of iron loading",
+            "journal": "Metallomics",
+            "volume": "2",
+            "section_title_1": "References"
+          },
+          "text": "Weinberg E. D. (2010). The hazards of iron loading. Metallomics\n2, 732–740. 10.1039/c0mt00023j [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 82154,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Platelets and cardiovascular disease",
+            "journal": "Eur. J. Cardiovasc. Nurs.",
+            "volume": "1",
+            "section_title_1": "References"
+          },
+          "text": "Willoughby S., Holmes A., Loscalzo J. (2002). Platelets and cardiovascular disease. Eur. J. Cardiovasc. Nurs.\n1, 273–288. 10.1016/S1474-5151(02)00038-5 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 82342,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Identification of a family of mastermind-like transcriptional coactivators for mammalian notch receptors",
+            "journal": "Mol. Cell. Biol.",
+            "volume": "22",
+            "section_title_1": "References"
+          },
+          "text": "Wu L., Sun T., Kobayashi K., Gao P., Griffin J. D. (2002). Identification of a family of mastermind-like transcriptional coactivators for mammalian notch receptors. Mol. Cell. Biol.\n22, 7688–7700. 10.1128/MCB.22.21.7688-7700.2002 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 82627,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Combining dependent tests for linkage or association across multiple phenotypic traits",
+            "journal": "Biostatistics",
+            "volume": "4",
+            "section_title_1": "References"
+          },
+          "text": "Xu X., Tian L., Wei L. J. (2003). Combining dependent tests for linkage or association across multiple phenotypic traits. Biostatistics\n4, 223–229. 10.1093/biostatistics/4.2.223 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 82841,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Genetics of aging, health, and survival: dynamic regulation of human longevity related traits",
+            "journal": "Front. Genet.",
+            "volume": "6",
+            "section_title_1": "References"
+          },
+          "text": "Yashin A. I., Wu D., Arbeeva L. S., Arbeev K. G., Kulminski A. M., Akushevich I., et al. . (2015). Genetics of aging, health, and survival: dynamic regulation of human longevity related traits. Front. Genet.\n6:122. 10.3389/fgene.2015.00122 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 83136,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Identification of key genes and crucial modules associated with coronary artery disease by bioinformatics analysis",
+            "journal": "Int. J. Mol. Med.",
+            "volume": "34",
+            "section_title_1": "References"
+          },
+          "text": "Zhang X., Cheng X., Liu H., Zheng C., Rao K., Fang Y., et al. . (2014). Identification of key genes and crucial modules associated with coronary artery disease by bioinformatics analysis. Int. J. Mol. Med.\n34, 863–869. 10.3892/ijmm.2014.1817 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 83414,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "Meta-analysis of correlated traits via summary statistics from GWASs with an application in hypertension",
+            "journal": "Am. J. Hum. Genet.",
+            "volume": "96",
+            "section_title_1": "References"
+          },
+          "text": "Zhu X., Feng T., Tayo B. O., Liang J., Young J. H., Franceschini N., et al. . (2015). Meta-analysis of correlated traits via summary statistics from GWASs with an application in hypertension. Am. J. Hum. Genet.\n96, 21–36. 10.1016/j.ajhg.2014.11.011 [PMC free article] [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 83718,
+          "infons": {
+            "section_type": [
+              {
+                "iao_name": "references section",
+                "iao_id": "IAO:0000320"
+              }
+            ],
+            "title": "p57Kip2 and p27Kip1 cooperate to maintain hematopoietic stem cell quiescence through interactions with Hsc70",
+            "journal": "Cell Stem Cell",
+            "volume": "9",
+            "section_title_1": "References"
+          },
+          "text": "Zou P., Yoshihara H., Hosokawa K., Tai I., Shinmyozu K., Tsukahara F., et al. . (2011). p57Kip2 and p27Kip1 cooperate to maintain hematopoietic stem cell quiescence through interactions with Hsc70. Cell Stem Cell\n9, 247–261. 10.1016/j.stem.2011.07.003 [PubMed] [CrossRef] [Google Scholar]",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

@@ -1,0 +1,1269 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "25628645.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Candidate gene selected for siRNA screening based on GWA analysis.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 73,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": "A. mRNA Exp vs. AUC (PANEL 1)<!>Chr ."
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": "A. mRNA Exp vs. AUC (PANEL 1)<!>Probe id"
+            },
+            {
+              "cell_id": "1.1.3",
+              "cell_text": "A. mRNA Exp vs. AUC (PANEL 1)<!>P"
+            },
+            {
+              "cell_id": "1.1.4",
+              "cell_text": "A. mRNA Exp vs. AUC (PANEL 1)<!>R *"
+            },
+            {
+              "cell_id": "1.1.5",
+              "cell_text": "A. mRNA Exp vs. AUC (PANEL 1)<!>Q **"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "DST",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": "212254-S-at"
+                  },
+                  {
+                    "cell_id": "1.2.3",
+                    "cell_text": 3.2e-06
+                  },
+                  {
+                    "cell_id": "1.2.4",
+                    "cell_text": 0.28
+                  },
+                  {
+                    "cell_id": "1.2.5",
+                    "cell_text": 0.14
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": "215016-x-at"
+                  },
+                  {
+                    "cell_id": "1.3.3",
+                    "cell_text": 5.2e-05
+                  },
+                  {
+                    "cell_id": "1.3.4",
+                    "cell_text": 0.24
+                  },
+                  {
+                    "cell_id": "1.3.5",
+                    "cell_text": 0.24
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.4.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "1.4.2",
+                    "cell_text": "212253-x-at"
+                  },
+                  {
+                    "cell_id": "1.4.3",
+                    "cell_text": 6.19e-05
+                  },
+                  {
+                    "cell_id": "1.4.4",
+                    "cell_text": 0.24
+                  },
+                  {
+                    "cell_id": "1.4.5",
+                    "cell_text": 0.24
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "CTBP2",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.5.1",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "1.5.2",
+                    "cell_text": "201218-at"
+                  },
+                  {
+                    "cell_id": "1.5.3",
+                    "cell_text": 6.24e-06
+                  },
+                  {
+                    "cell_id": "1.5.4",
+                    "cell_text": -0.27
+                  },
+                  {
+                    "cell_id": "1.5.5",
+                    "cell_text": 0.14
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.6.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "1.6.2",
+                    "cell_text": "210835-s-at"
+                  },
+                  {
+                    "cell_id": "1.6.3",
+                    "cell_text": 1.39e-05
+                  },
+                  {
+                    "cell_id": "1.6.4",
+                    "cell_text": -0.26
+                  },
+                  {
+                    "cell_id": "1.6.5",
+                    "cell_text": 0.16
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.7.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "1.7.2",
+                    "cell_text": "201220-x-at"
+                  },
+                  {
+                    "cell_id": "1.7.3",
+                    "cell_text": 5.92e-05
+                  },
+                  {
+                    "cell_id": "1.7.4",
+                    "cell_text": -0.24
+                  },
+                  {
+                    "cell_id": "1.7.5",
+                    "cell_text": 0.24
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "DC88A",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.8.1",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "1.8.2",
+                    "cell_text": "238759-at"
+                  },
+                  {
+                    "cell_id": "1.8.3",
+                    "cell_text": 3.71e-05
+                  },
+                  {
+                    "cell_id": "1.8.4",
+                    "cell_text": 0.25
+                  },
+                  {
+                    "cell_id": "1.8.5",
+                    "cell_text": 0.24
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.9.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "1.9.2",
+                    "cell_text": "221078_s_at"
+                  },
+                  {
+                    "cell_id": "1.9.3",
+                    "cell_text": 0.000176
+                  },
+                  {
+                    "cell_id": "1.9.4",
+                    "cell_text": 0.29
+                  },
+                  {
+                    "cell_id": "1.9.5",
+                    "cell_text": 0.23
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 296,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "25628645.html",
+      "id": "2",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Candidate gene selected for siRNA screening based on GWA analysis.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 73,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "2.1.1",
+              "cell_text": "B. SNP vs. AUC (PANEL 2)<!>Chr ."
+            },
+            {
+              "cell_id": "2.1.2",
+              "cell_text": "B. SNP vs. AUC (PANEL 2)<!>SNP"
+            },
+            {
+              "cell_id": "2.1.3",
+              "cell_text": "B. SNP vs. AUC (PANEL 2)<!>Position"
+            },
+            {
+              "cell_id": "2.1.4",
+              "cell_text": "B. SNP vs. AUC (PANEL 2)<!>Location"
+            },
+            {
+              "cell_id": "2.1.5",
+              "cell_text": "B. SNP vs. AUC (PANEL 2)<!>MAF ***"
+            },
+            {
+              "cell_id": "2.1.6",
+              "cell_text": "B. SNP vs. AUC (PANEL 2)<!>P"
+            },
+            {
+              "cell_id": "2.1.7",
+              "cell_text": "B. SNP vs. AUC (PANEL 2)<!>R"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "WDHD1/SOCS4",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.2.1",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "2.2.2",
+                    "cell_text": "rs1187882"
+                  },
+                  {
+                    "cell_id": "2.2.3",
+                    "cell_text": 55488747.0
+                  },
+                  {
+                    "cell_id": "2.2.4",
+                    "cell_text": "Intron of WDHD1 5′-upstream of SOCS4"
+                  },
+                  {
+                    "cell_id": "2.2.5",
+                    "cell_text": 0.15
+                  },
+                  {
+                    "cell_id": "2.2.6",
+                    "cell_text": 5.07e-05
+                  },
+                  {
+                    "cell_id": "2.2.7",
+                    "cell_text": 0.25
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "SOCS4/WDHD1",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.3.1",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "2.3.2",
+                    "cell_text": "rs60805089"
+                  },
+                  {
+                    "cell_id": "2.3.3",
+                    "cell_text": 55503348.0
+                  },
+                  {
+                    "cell_id": "2.3.4",
+                    "cell_text": "Intron of SOCS4 3′-downstream of WDHD1"
+                  },
+                  {
+                    "cell_id": "2.3.5",
+                    "cell_text": 0.24
+                  },
+                  {
+                    "cell_id": "2.3.6",
+                    "cell_text": 9.73e-05
+                  },
+                  {
+                    "cell_id": "2.3.7",
+                    "cell_text": 0.36
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "SOCS4",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.4.1",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "2.4.2",
+                    "cell_text": "rs7150145"
+                  },
+                  {
+                    "cell_id": "2.4.3",
+                    "cell_text": 55508260.0
+                  },
+                  {
+                    "cell_id": "2.4.4",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.4.5",
+                    "cell_text": 0.24
+                  },
+                  {
+                    "cell_id": "2.4.6",
+                    "cell_text": 8.92e-05
+                  },
+                  {
+                    "cell_id": "2.4.7",
+                    "cell_text": 0.36
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "ZNF638",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.5.1",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "2.5.2",
+                    "cell_text": "rs2058899"
+                  },
+                  {
+                    "cell_id": "2.5.3",
+                    "cell_text": 71580129.0
+                  },
+                  {
+                    "cell_id": "2.5.4",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.5.5",
+                    "cell_text": 0.37
+                  },
+                  {
+                    "cell_id": "2.5.6",
+                    "cell_text": 6.94e-05
+                  },
+                  {
+                    "cell_id": "2.5.7",
+                    "cell_text": 0.24
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.6.1",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "2.6.2",
+                    "cell_text": "rs17749748"
+                  },
+                  {
+                    "cell_id": "2.6.3",
+                    "cell_text": 71605145.0
+                  },
+                  {
+                    "cell_id": "2.6.4",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.6.5",
+                    "cell_text": 0.38
+                  },
+                  {
+                    "cell_id": "2.6.6",
+                    "cell_text": 7.7e-05
+                  },
+                  {
+                    "cell_id": "2.6.7",
+                    "cell_text": 0.24
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.7.1",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "2.7.2",
+                    "cell_text": "rs12474072"
+                  },
+                  {
+                    "cell_id": "2.7.3",
+                    "cell_text": 71636036.0
+                  },
+                  {
+                    "cell_id": "2.7.4",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.7.5",
+                    "cell_text": 0.38
+                  },
+                  {
+                    "cell_id": "2.7.6",
+                    "cell_text": 7.78e-05
+                  },
+                  {
+                    "cell_id": "2.7.7",
+                    "cell_text": 0.24
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.8.1",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "2.8.2",
+                    "cell_text": "rs6714975"
+                  },
+                  {
+                    "cell_id": "2.8.3",
+                    "cell_text": 71633389.0
+                  },
+                  {
+                    "cell_id": "2.8.4",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.8.5",
+                    "cell_text": 0.38
+                  },
+                  {
+                    "cell_id": "2.8.6",
+                    "cell_text": 9.42e-05
+                  },
+                  {
+                    "cell_id": "2.8.7",
+                    "cell_text": 0.24
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.9.1",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "2.9.2",
+                    "cell_text": "rs4852782"
+                  },
+                  {
+                    "cell_id": "2.9.3",
+                    "cell_text": 71636240.0
+                  },
+                  {
+                    "cell_id": "2.9.4",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.9.5",
+                    "cell_text": 0.38
+                  },
+                  {
+                    "cell_id": "2.9.6",
+                    "cell_text": 9.42e-05
+                  },
+                  {
+                    "cell_id": "2.9.7",
+                    "cell_text": 0.24
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.10.1",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "2.10.2",
+                    "cell_text": "rs6745907"
+                  },
+                  {
+                    "cell_id": "2.10.3",
+                    "cell_text": 71609073.0
+                  },
+                  {
+                    "cell_id": "2.10.4",
+                    "cell_text": "Intron"
+                  },
+                  {
+                    "cell_id": "2.10.5",
+                    "cell_text": 0.38
+                  },
+                  {
+                    "cell_id": "2.10.6",
+                    "cell_text": 9.66e-05
+                  },
+                  {
+                    "cell_id": "2.10.7",
+                    "cell_text": 0.24
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 536,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "25628645.html",
+      "id": "3",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Candidate gene selected for siRNA screening based on GWA analysis.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 73,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "3.1.1",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>SNP<!>SNP"
+            },
+            {
+              "cell_id": "3.1.2",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>SNP<!>Chr ."
+            },
+            {
+              "cell_id": "3.1.3",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>SNP<!>Closest gene"
+            },
+            {
+              "cell_id": "3.1.4",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>SNP<!>SNP location"
+            },
+            {
+              "cell_id": "3.1.5",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>SNP<!>MAF"
+            },
+            {
+              "cell_id": "3.1.6",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>Genes<!>Probe id"
+            },
+            {
+              "cell_id": "3.1.7",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>Genes<!>Chr ."
+            },
+            {
+              "cell_id": "3.1.8",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>Genes<!>Gene symbol"
+            },
+            {
+              "cell_id": "3.1.9",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>SNP vs. EXP<!>P"
+            },
+            {
+              "cell_id": "3.1.10",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>SNP vs. EXP<!>R *"
+            },
+            {
+              "cell_id": "3.1.11",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>SNP vs. AUC<!>P"
+            },
+            {
+              "cell_id": "3.1.12",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>SNP vs. AUC<!>R *"
+            },
+            {
+              "cell_id": "3.1.13",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>EXP vs. AUC<!>P"
+            },
+            {
+              "cell_id": "3.1.14",
+              "cell_text": "C. INTEGRATED ANALYSIs (PANEL 3)<!>EXP vs. AUC<!>R *"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.2.1",
+                    "cell_text": "rs10771093"
+                  },
+                  {
+                    "cell_id": "3.2.2",
+                    "cell_text": 12.0
+                  },
+                  {
+                    "cell_id": "3.2.3",
+                    "cell_text": "SOX5"
+                  },
+                  {
+                    "cell_id": "3.2.4",
+                    "cell_text": "Inton"
+                  },
+                  {
+                    "cell_id": "3.2.5",
+                    "cell_text": 0.214
+                  },
+                  {
+                    "cell_id": "3.2.6",
+                    "cell_text": "212253_x_at"
+                  },
+                  {
+                    "cell_id": "3.2.7",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "3.2.8",
+                    "cell_text": "DST"
+                  },
+                  {
+                    "cell_id": "3.2.9",
+                    "cell_text": 5.34e-05
+                  },
+                  {
+                    "cell_id": "3.2.10",
+                    "cell_text": 0.242
+                  },
+                  {
+                    "cell_id": "3.2.11",
+                    "cell_text": 2.37e-05
+                  },
+                  {
+                    "cell_id": "3.2.12",
+                    "cell_text": 0.258
+                  },
+                  {
+                    "cell_id": "3.2.13",
+                    "cell_text": 3.2e-06
+                  },
+                  {
+                    "cell_id": "3.2.14",
+                    "cell_text": 0.278
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.3.1",
+                    "cell_text": "rs60342295"
+                  },
+                  {
+                    "cell_id": "3.3.2",
+                    "cell_text": 17.0
+                  },
+                  {
+                    "cell_id": "3.3.3",
+                    "cell_text": "—"
+                  },
+                  {
+                    "cell_id": "3.3.4",
+                    "cell_text": "—"
+                  },
+                  {
+                    "cell_id": "3.3.5",
+                    "cell_text": 0.119
+                  },
+                  {
+                    "cell_id": "3.3.6",
+                    "cell_text": "1566990_x_at"
+                  },
+                  {
+                    "cell_id": "3.3.7",
+                    "cell_text": 6.0
+                  },
+                  {
+                    "cell_id": "3.3.8",
+                    "cell_text": "ARID1B"
+                  },
+                  {
+                    "cell_id": "3.3.9",
+                    "cell_text": 9.73e-05
+                  },
+                  {
+                    "cell_id": "3.3.10",
+                    "cell_text": -0.234
+                  },
+                  {
+                    "cell_id": "3.3.11",
+                    "cell_text": 3.28e-05
+                  },
+                  {
+                    "cell_id": "3.3.12",
+                    "cell_text": -0.254
+                  },
+                  {
+                    "cell_id": "3.3.13",
+                    "cell_text": 0.000811
+                  },
+                  {
+                    "cell_id": "3.3.14",
+                    "cell_text": -0.202
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.4.1",
+                    "cell_text": "rs4531814"
+                  },
+                  {
+                    "cell_id": "3.4.2",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "3.4.3",
+                    "cell_text": "ZBTB7C"
+                  },
+                  {
+                    "cell_id": "3.4.4",
+                    "cell_text": "Inton"
+                  },
+                  {
+                    "cell_id": "3.4.5",
+                    "cell_text": 0.428
+                  },
+                  {
+                    "cell_id": "3.4.6",
+                    "cell_text": "231325_at"
+                  },
+                  {
+                    "cell_id": "3.4.7",
+                    "cell_text": 8.0
+                  },
+                  {
+                    "cell_id": "3.4.8",
+                    "cell_text": "UNC5D"
+                  },
+                  {
+                    "cell_id": "3.4.9",
+                    "cell_text": 0.00031
+                  },
+                  {
+                    "cell_id": "3.4.10",
+                    "cell_text": -0.217
+                  },
+                  {
+                    "cell_id": "3.4.11",
+                    "cell_text": 7.95e-05
+                  },
+                  {
+                    "cell_id": "3.4.12",
+                    "cell_text": 0.241
+                  },
+                  {
+                    "cell_id": "3.4.13",
+                    "cell_text": 9.8e-06
+                  },
+                  {
+                    "cell_id": "3.4.14",
+                    "cell_text": -0.264
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.5.1",
+                    "cell_text": "rs58707448"
+                  },
+                  {
+                    "cell_id": "3.5.2",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "3.5.3",
+                    "cell_text": "—"
+                  },
+                  {
+                    "cell_id": "3.5.4",
+                    "cell_text": "—"
+                  },
+                  {
+                    "cell_id": "3.5.5",
+                    "cell_text": 0.482
+                  },
+                  {
+                    "cell_id": "3.5.6",
+                    "cell_text": "205352_at"
+                  },
+                  {
+                    "cell_id": "3.5.7",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "3.5.8",
+                    "cell_text": "SERPINI1"
+                  },
+                  {
+                    "cell_id": "3.5.9",
+                    "cell_text": 0.000138
+                  },
+                  {
+                    "cell_id": "3.5.10",
+                    "cell_text": 0.229
+                  },
+                  {
+                    "cell_id": "3.5.11",
+                    "cell_text": 4.6e-05
+                  },
+                  {
+                    "cell_id": "3.5.12",
+                    "cell_text": -0.249
+                  },
+                  {
+                    "cell_id": "3.5.13",
+                    "cell_text": 6.96e-05
+                  },
+                  {
+                    "cell_id": "3.5.14",
+                    "cell_text": -0.238
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 406,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "*Represents the correlation coefficient R-value for associations.**Represents the false discovery rate Q-value.***Represents the minor allele frequency (MAF).",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "25628645.html",
+      "id": "4",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 2",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Top 5 networks associated with HHT response obtained by Ingenuity pathway analysis.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 90,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "4.1.1",
+              "cell_text": "ID"
+            },
+            {
+              "cell_id": "4.1.2",
+              "cell_text": "molecules in network"
+            },
+            {
+              "cell_id": "4.1.3",
+              "cell_text": "Score"
+            },
+            {
+              "cell_id": "4.1.4",
+              "cell_text": "Focus molecules"
+            },
+            {
+              "cell_id": "4.1.5",
+              "cell_text": "Top diseases and functions"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.2.1",
+                    "cell_text": 1.0
+                  },
+                  {
+                    "cell_id": "4.2.2",
+                    "cell_text": "AICDA, AKR1B1, Akt, ANKRD1, BANK1, CASP2, CASP12, caspase, CBS/LOC102724560, CCDC88A, CD3, Ck2, EBF1, ERK1/2, FADD, IgG1, Igm, Immun oglobulin, Insulin, Interferon alpha, Jnk, NAP1L1, NFkB (complex), NRF1, P38 MAPK, PAWR, PPIA, PRDX3, PRKCE, SCD5, SER PINB9, SIRT4, SPRY4, STX6, TRAF5"
+                  },
+                  {
+                    "cell_id": "4.2.3",
+                    "cell_text": 36.0
+                  },
+                  {
+                    "cell_id": "4.2.4",
+                    "cell_text": 17.0
+                  },
+                  {
+                    "cell_id": "4.2.5",
+                    "cell_text": "Cellular growth and proliferation, cell death and Survival, renal necrosis/cell death"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.3.1",
+                    "cell_text": 2.0
+                  },
+                  {
+                    "cell_id": "4.3.2",
+                    "cell_text": "ALG1L2, ATG9A, BRD3, C14orf2, CALM1 (includes others), CEP68, CHD4, CRYAA/LOC102724652, CTBP1, FAM178A, FXR2, GID8, GIMAP1, GIMAP7, GJA3, GON4L, HAGHL, ITFG1, LCMT1, MAEA, MAP1LC3B, MKLN1, MRPL44, MTMR14, OPTN, PPP2R4, PPP2R2B, PTEN, RAB30, RMND5A, SCCPDH, SMAD9, UBC, WHSC1L1, ZNF143"
+                  },
+                  {
+                    "cell_id": "4.3.3",
+                    "cell_text": 33.0
+                  },
+                  {
+                    "cell_id": "4.3.4",
+                    "cell_text": 16.0
+                  },
+                  {
+                    "cell_id": "4.3.5",
+                    "cell_text": "Ophthalmic disease, hereditary disorder, cellular Assembly and organization"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.4.1",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "4.4.2",
+                    "cell_text": "APP, ARID1B, BAZ2B, C15orf39, CASP12, CDK3, CLIP4, COL17A1, CTBP2, CTPS2, DOCK4, DST, ELAVL1, FAM117B, FAM178A, FBXL2, FNDC3B, GATAD2A, GIMAP5, GIMAP6, IL13, ISCU, KIAA1549, KLF8, MOB1B, NEFH, PLXDC2, RAB33A, RAI2, RALGPS1, RASSF3, SH3BP5, TWISTNB, UBC, ZBTB20"
+                  },
+                  {
+                    "cell_id": "4.4.3",
+                    "cell_text": 33.0
+                  },
+                  {
+                    "cell_id": "4.4.4",
+                    "cell_text": 16.0
+                  },
+                  {
+                    "cell_id": "4.4.5",
+                    "cell_text": "Cellular compromise, neurological disease, Organismal injury and abnormalities"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.5.1",
+                    "cell_text": 4.0
+                  },
+                  {
+                    "cell_id": "4.5.2",
+                    "cell_text": "ACACA, AFF3, AKR1B1, APOBR, BCL3, CASP2, CLCN4, CMC4, COA4, COPS7B, DDIT3, EPO, FAHD2A, FOXO1, GNS, Hdac, HNF4A, IRF2BP2, ITGA6, KAT2B, MON1B, NRIP1, NTN1, NUDCD3, OCLN, ONECUT1, PPP1R15A, RASSF1, STK4, TEX10, TNF, UNC5D, UXT, VASH1, ZBTB45"
+                  },
+                  {
+                    "cell_id": "4.5.3",
+                    "cell_text": 28.0
+                  },
+                  {
+                    "cell_id": "4.5.4",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "4.5.5",
+                    "cell_text": "Cell death and survival, renal necrosis/cell death, Lymphoid tissue structure and development"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.6.1",
+                    "cell_text": 5.0
+                  },
+                  {
+                    "cell_id": "4.6.2",
+                    "cell_text": "AChR, Akap9, CDH1, CREB1, DRD2, ERBB2, ESR1, G6PC, GCG, GPATCH2, HDAC2, IFNG, ITPR1, KIAA2022, LDL, NFKB1, NPY, phosphatase, PI3K(complex), PIAS1, PIAS3, Pka catalytic subunit, PLAT, POU5F1, PPP1CA, PPP1R15A, PPP3CB, PRKACA, PTEN, PTPRN, SERPINI1, SHIP, sphingomyelinase, SYNJ2, VCPIP1"
+                  },
+                  {
+                    "cell_id": "4.6.3",
+                    "cell_text": 8.0
+                  },
+                  {
+                    "cell_id": "4.6.4",
+                    "cell_text": 5.0
+                  },
+                  {
+                    "cell_id": "4.6.5",
+                    "cell_text": "Cellular compromise, neurological disease, Organismal injury and abnormalities"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1905,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "24009623.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "mTOR",
+          "text_long": "molecular target of rapamycin"
+        },
+        {
+          "text_short": "GWA",
+          "text_long": "genome-wide association"
+        },
+        {
+          "text_short": "LCLs",
+          "text_long": "lymphoblastoid cell lines"
+        },
+        {
+          "text_short": "TORC1",
+          "text_long": "through key downstream effectors of mTOR complex 1"
+        },
+        {
+          "text_short": "S6K",
+          "text_long": "S6 kinase"
+        },
+        {
+          "text_short": "NIGMS",
+          "text_long": "National Institute of General Medical Sciences"
+        },
+        {
+          "text_short": "CA",
+          "text_long": "Caucasian–American"
+        },
+        {
+          "text_short": "AA",
+          "text_long": "American"
+        },
+        {
+          "text_short": "HCA",
+          "text_long": "Han Chinese–American"
+        },
+        {
+          "text_short": "GSR",
+          "text_long": "Genotype Shared Resource"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequency"
+        },
+        {
+          "text_short": "HWE",
+          "text_long": "Hardy–Weinberg Equilibrium"
+        },
+        {
+          "text_short": "MSO",
+          "text_long": "microRNA-specific oligonucleotide"
+        },
+        {
+          "text_short": "SAM",
+          "text_long": "Sentrix Array Matrix"
+        },
+        {
+          "text_short": "SE",
+          "text_long": "standard error"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "mTOR",
+          "text_long": "molecular target of rapamycin"
+        },
+        {
+          "text_short": "GWA",
+          "text_long": "genome-wide association"
+        },
+        {
+          "text_short": "LCLs",
+          "text_long": "lymphoblastoid cell lines"
+        },
+        {
+          "text_short": "TORC1",
+          "text_long": "through key downstream effectors of mTOR complex 1"
+        },
+        {
+          "text_short": "S6K",
+          "text_long": "S6 kinase"
+        },
+        {
+          "text_short": "NIGMS",
+          "text_long": "National Institute of General Medical Sciences"
+        },
+        {
+          "text_short": "CA",
+          "text_long": "Caucasian–American"
+        },
+        {
+          "text_short": "AA",
+          "text_long": "American"
+        },
+        {
+          "text_short": "HCA",
+          "text_long": "Han Chinese–American"
+        },
+        {
+          "text_short": "GSR",
+          "text_long": "Genotype Shared Resource"
+        },
+        {
+          "text_short": "MAF",
+          "text_long": "minor allele frequency"
+        },
+        {
+          "text_short": "HWE",
+          "text_long": "Hardy–Weinberg Equilibrium"
+        },
+        {
+          "text_short": "MSO",
+          "text_long": "microRNA-specific oligonucleotide"
+        },
+        {
+          "text_short": "SAM",
+          "text_long": "Sentrix Array Matrix"
+        },
+        {
+          "text_short": "SE",
+          "text_long": "standard error"
+        }
+      ]
+    }
+  ]
+}

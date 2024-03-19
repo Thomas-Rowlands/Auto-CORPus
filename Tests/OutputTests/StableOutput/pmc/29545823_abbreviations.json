@@ -1,0 +1,66 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "29545823.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "SNPs",
+          "text_long": "single nucleotide polymorphisms"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "genome-wide association studies"
+        },
+        {
+          "text_short": "LC/MS",
+          "text_long": "liquid chromatography/tandem mass spectrometry"
+        },
+        {
+          "text_short": "AIMs",
+          "text_long": "ancestry informative markers"
+        },
+        {
+          "text_short": "GTEx",
+          "text_long": "Genotype-Tissue Expression"
+        },
+        {
+          "text_short": "Raine",
+          "text_long": "replication in the Western Australian Pregnancy Cohort"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "SNPs",
+          "text_long": "single nucleotide polymorphisms"
+        },
+        {
+          "text_short": "GWAS",
+          "text_long": "genome-wide association studies"
+        },
+        {
+          "text_short": "LC/MS",
+          "text_long": "liquid chromatography/tandem mass spectrometry"
+        },
+        {
+          "text_short": "AIMs",
+          "text_long": "ancestry informative markers"
+        },
+        {
+          "text_short": "GTEx",
+          "text_long": "Genotype-Tissue Expression"
+        },
+        {
+          "text_short": "Raine",
+          "text_long": "replication in the Western Australian Pregnancy Cohort"
+        }
+      ]
+    }
+  ]
+}

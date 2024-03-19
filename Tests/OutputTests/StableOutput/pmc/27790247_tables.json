@@ -1,0 +1,2301 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "27790247.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Basic characteristics of the samples, endophenotypes, and diseases in the six cohorts included in the analyses.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 118,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": "Study"
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": "Total observations"
+            },
+            {
+              "cell_id": "1.1.3",
+              "cell_text": "Sample size a"
+            },
+            {
+              "cell_id": "1.1.4",
+              "cell_text": "Number of families"
+            },
+            {
+              "cell_id": "1.1.5",
+              "cell_text": "Age b"
+            },
+            {
+              "cell_id": "1.1.6",
+              "cell_text": "Female (%)"
+            },
+            {
+              "cell_id": "1.1.7",
+              "cell_text": "Endophenotype c"
+            },
+            {
+              "cell_id": "1.1.8",
+              "cell_text": "Diseases or death d"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": "ARIC"
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": 38472.0
+                  },
+                  {
+                    "cell_id": "1.2.3",
+                    "cell_text": 9618.0
+                  },
+                  {
+                    "cell_id": "1.2.4",
+                    "cell_text": "9093 e"
+                  },
+                  {
+                    "cell_id": "1.2.5",
+                    "cell_text": 54.32
+                  },
+                  {
+                    "cell_id": "1.2.6",
+                    "cell_text": 52.99
+                  },
+                  {
+                    "cell_id": "1.2.7",
+                    "cell_text": "VR, BG, BMI, SBP, DBP, HDLC, TG, TC, HC"
+                  },
+                  {
+                    "cell_id": "1.2.8",
+                    "cell_text": "AF, Cancer, CHD, DM, HF, Stroke, Death"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": "FHS C1"
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": 30212.0
+                  },
+                  {
+                    "cell_id": "1.3.3",
+                    "cell_text": 1079.0
+                  },
+                  {
+                    "cell_id": "1.3.4",
+                    "cell_text": 675.0
+                  },
+                  {
+                    "cell_id": "1.3.5",
+                    "cell_text": 37.68
+                  },
+                  {
+                    "cell_id": "1.3.6",
+                    "cell_text": 61.08
+                  },
+                  {
+                    "cell_id": "1.3.7",
+                    "cell_text": "VR, BG, BMI, SBP, DBP, HDLC, TG, TC, HC"
+                  },
+                  {
+                    "cell_id": "1.3.8",
+                    "cell_text": "Cancer, CHD, DM, ND, HF, IC, Stroke, Death"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.4.1",
+                    "cell_text": "FHS C2"
+                  },
+                  {
+                    "cell_id": "1.4.2",
+                    "cell_text": 28120.0
+                  },
+                  {
+                    "cell_id": "1.4.3",
+                    "cell_text": 3515.0
+                  },
+                  {
+                    "cell_id": "1.4.4",
+                    "cell_text": 1191.0
+                  },
+                  {
+                    "cell_id": "1.4.5",
+                    "cell_text": 35.42
+                  },
+                  {
+                    "cell_id": "1.4.6",
+                    "cell_text": 52.83
+                  },
+                  {
+                    "cell_id": "1.4.7",
+                    "cell_text": "VR, BG, BMI, SBP, DBP, HDLC, TG, TC"
+                  },
+                  {
+                    "cell_id": "1.4.8",
+                    "cell_text": "Cancer, CHD, DM, ND, HF, IC, Stroke, Death"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.5.1",
+                    "cell_text": "MESA"
+                  },
+                  {
+                    "cell_id": "1.5.2",
+                    "cell_text": 12275.0
+                  },
+                  {
+                    "cell_id": "1.5.3",
+                    "cell_text": 2455.0
+                  },
+                  {
+                    "cell_id": "1.5.4",
+                    "cell_text": 2421.0
+                  },
+                  {
+                    "cell_id": "1.5.5",
+                    "cell_text": 62.67
+                  },
+                  {
+                    "cell_id": "1.5.6",
+                    "cell_text": 52.06
+                  },
+                  {
+                    "cell_id": "1.5.7",
+                    "cell_text": "VR, BG, BMI, DBP, HDLC, TG, TC, PP, HbA1c"
+                  },
+                  {
+                    "cell_id": "1.5.8",
+                    "cell_text": "CHD, CVD, DM, HF, Death"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.6.1",
+                    "cell_text": "CHS"
+                  },
+                  {
+                    "cell_id": "1.6.2",
+                    "cell_text": 66946.0
+                  },
+                  {
+                    "cell_id": "1.6.3",
+                    "cell_text": 3043.0
+                  },
+                  {
+                    "cell_id": "1.6.4",
+                    "cell_text": 3043.0
+                  },
+                  {
+                    "cell_id": "1.6.5",
+                    "cell_text": 72.39
+                  },
+                  {
+                    "cell_id": "1.6.6",
+                    "cell_text": 60.4
+                  },
+                  {
+                    "cell_id": "1.6.7",
+                    "cell_text": "VR, BG, BMI, SBP, DBP, HDLC, TG, TC, HC, Creatinine, CRP, FEV1"
+                  },
+                  {
+                    "cell_id": "1.6.8",
+                    "cell_text": "AD, Cancer, CHD, CVD, DM, HF, Death"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.7.1",
+                    "cell_text": "HRS"
+                  },
+                  {
+                    "cell_id": "1.7.2",
+                    "cell_text": 9704.0
+                  },
+                  {
+                    "cell_id": "1.7.3",
+                    "cell_text": 9704.0
+                  },
+                  {
+                    "cell_id": "1.7.4",
+                    "cell_text": 9643.0
+                  },
+                  {
+                    "cell_id": "1.7.5",
+                    "cell_text": 58.13
+                  },
+                  {
+                    "cell_id": "1.7.6",
+                    "cell_text": 57.95
+                  },
+                  {
+                    "cell_id": "1.7.7",
+                    "cell_text": "BG, BMI, HDLC, TC, CRP, Cystatin C"
+                  },
+                  {
+                    "cell_id": "1.7.8",
+                    "cell_text": "Cancer, DM, stroke, HBP, Lung, Psych, Arthr, CHD, Death"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 800,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aThe sample size corresponds to the number of subjects after exclusion of those with the missing rate >0.05.bAverage age of the individuals included at the entry of the follow-up.cAll endophenotypes included were quantitative traits. SBP was not included in the pleiotropic analysis for MESA as it was highly correlated with PP (r = 0.83) and DBP (r = 0.71) (Figure S4). FVC was not included in the pleiotropic analysis for CHS as it was highly correlated with FEV1 (Figure S5). PP, pulse pressure, HbA1c, Hemoglobin A1c. CRP, C-reactive protein. Log-transformation (100*log(.)) was performed for VR, BG, BMI, HDLC, TC, TG, and PP to correct for their distribution skewness.dCancer, DM, Stroke, Lung (lung diseases), Psych (Psychiatric diseases), Arthr (Arthritis), CHD in HRS were binary traits, and the others were time-to-event traits. HBP, IC, and AD refer to hypertension, intermittent claudication, and Alzheimer's diseases, respectively. ND in the FHS cohorts included AD and dementia.eThe number of families in ARIC was estimated from a kinship matrix based on the genotype data of the ARIC subjects.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "27790247.html",
+      "id": "2",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 2",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Basic information of the seven identified SNPs with the p-values from the pleiotropic meta-analysis and MAFs acorss the five cohorts.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 140,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "2.1.1",
+              "cell_text": "SNP ID"
+            },
+            {
+              "cell_id": "2.1.2",
+              "cell_text": "Chr"
+            },
+            {
+              "cell_id": "2.1.3",
+              "cell_text": "Position a"
+            },
+            {
+              "cell_id": "2.1.4",
+              "cell_text": "A1"
+            },
+            {
+              "cell_id": "2.1.5",
+              "cell_text": "A2"
+            },
+            {
+              "cell_id": "2.1.6",
+              "cell_text": "Associated or flanking gene"
+            },
+            {
+              "cell_id": "2.1.7",
+              "cell_text": "P b"
+            },
+            {
+              "cell_id": "2.1.8",
+              "cell_text": "P c"
+            },
+            {
+              "cell_id": "2.1.9",
+              "cell_text": "P d"
+            },
+            {
+              "cell_id": "2.1.10",
+              "cell_text": "MAF e"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.2.1",
+                    "cell_text": "rs7632505"
+                  },
+                  {
+                    "cell_id": "2.2.2",
+                    "cell_text": 3.0
+                  },
+                  {
+                    "cell_id": "2.2.3",
+                    "cell_text": 123019460.0
+                  },
+                  {
+                    "cell_id": "2.2.4",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "2.2.5",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "2.2.6",
+                    "cell_text": "SEMA5B  (intron)"
+                  },
+                  {
+                    "cell_id": "2.2.7",
+                    "cell_text": 0.111
+                  },
+                  {
+                    "cell_id": "2.2.8",
+                    "cell_text": 8.04e-22
+                  },
+                  {
+                    "cell_id": "2.2.9",
+                    "cell_text": 7.26e-19
+                  },
+                  {
+                    "cell_id": "2.2.10",
+                    "cell_text": "ARIC: 34.23%, MESA: 37.63%, FHS1: 16.07 (imp), FHS2: 14.79% (imp), CHS: 23.8% (imp), HRS: 23.5% (imp)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.3.1",
+                    "cell_text": "rs1869717"
+                  },
+                  {
+                    "cell_id": "2.3.2",
+                    "cell_text": 4.0
+                  },
+                  {
+                    "cell_id": "2.3.3",
+                    "cell_text": 139829967.0
+                  },
+                  {
+                    "cell_id": "2.3.4",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "2.3.5",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "2.3.6",
+                    "cell_text": "MAML3  (intron)"
+                  },
+                  {
+                    "cell_id": "2.3.7",
+                    "cell_text": 0.000691
+                  },
+                  {
+                    "cell_id": "2.3.8",
+                    "cell_text": 1.68e-05
+                  },
+                  {
+                    "cell_id": "2.3.9",
+                    "cell_text": 4.82e-08
+                  },
+                  {
+                    "cell_id": "2.3.10",
+                    "cell_text": "ARIC: 3.19%, FHS1: 3.05%, FHS2: 3.70%, CHS: 8.80% (imp), MESA: NA, HRS: 7.90% (imp)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.4.1",
+                    "cell_text": "rs7081476"
+                  },
+                  {
+                    "cell_id": "2.4.2",
+                    "cell_text": 10.0
+                  },
+                  {
+                    "cell_id": "2.4.3",
+                    "cell_text": 26969741.0
+                  },
+                  {
+                    "cell_id": "2.4.4",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "2.4.5",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "2.4.6",
+                    "cell_text": "ANKRD26  (intron)"
+                  },
+                  {
+                    "cell_id": "2.4.7",
+                    "cell_text": 0.176
+                  },
+                  {
+                    "cell_id": "2.4.8",
+                    "cell_text": 2.47e-08
+                  },
+                  {
+                    "cell_id": "2.4.9",
+                    "cell_text": 4.75e-06
+                  },
+                  {
+                    "cell_id": "2.4.10",
+                    "cell_text": "ARIC: 2.12%, MESA: 1.87%, FHS1: 1.81%, FHS2: 2.56%, CHS: 3.1% (imp), HRS: 4.1% (imp)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.5.1",
+                    "cell_text": "rs12420422"
+                  },
+                  {
+                    "cell_id": "2.5.2",
+                    "cell_text": 11.0
+                  },
+                  {
+                    "cell_id": "2.5.3",
+                    "cell_text": 123009573.0
+                  },
+                  {
+                    "cell_id": "2.5.4",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "2.5.5",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "2.5.6",
+                    "cell_text": "BSX  (~20 kb),  HSPA8  (~40 kb)"
+                  },
+                  {
+                    "cell_id": "2.5.7",
+                    "cell_text": 0.872
+                  },
+                  {
+                    "cell_id": "2.5.8",
+                    "cell_text": 5.21e-10
+                  },
+                  {
+                    "cell_id": "2.5.9",
+                    "cell_text": 1.63e-07
+                  },
+                  {
+                    "cell_id": "2.5.10",
+                    "cell_text": "ARIC: 2.23%, FHS1: 2.42%, FHS2: 1.67%, MESA: 1.77%, CHS: NA, HRS: 1.74%"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.6.1",
+                    "cell_text": "rs4905014"
+                  },
+                  {
+                    "cell_id": "2.6.2",
+                    "cell_text": 14.0
+                  },
+                  {
+                    "cell_id": "2.6.3",
+                    "cell_text": 92945686.0
+                  },
+                  {
+                    "cell_id": "2.6.4",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "2.6.5",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "2.6.6",
+                    "cell_text": "ITPK1  (intron)"
+                  },
+                  {
+                    "cell_id": "2.6.7",
+                    "cell_text": 0.0296
+                  },
+                  {
+                    "cell_id": "2.6.8",
+                    "cell_text": 4.93e-16
+                  },
+                  {
+                    "cell_id": "2.6.9",
+                    "cell_text": 8.85e-15
+                  },
+                  {
+                    "cell_id": "2.6.10",
+                    "cell_text": "ARIC: 2.85%, MESA: 1.70%, FHS: NA, CHS: NA, HRS: NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.7.1",
+                    "cell_text": "rs8082812"
+                  },
+                  {
+                    "cell_id": "2.7.2",
+                    "cell_text": 18.0
+                  },
+                  {
+                    "cell_id": "2.7.3",
+                    "cell_text": 8522684.0
+                  },
+                  {
+                    "cell_id": "2.7.4",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "2.7.5",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "2.7.6",
+                    "cell_text": "intergenic"
+                  },
+                  {
+                    "cell_id": "2.7.7",
+                    "cell_text": 4.44e-08
+                  },
+                  {
+                    "cell_id": "2.7.8",
+                    "cell_text": 5.71e-64
+                  },
+                  {
+                    "cell_id": "2.7.9",
+                    "cell_text": 5.01e-67
+                  },
+                  {
+                    "cell_id": "2.7.10",
+                    "cell_text": "ARIC: 2.41%, MESA: 0.37%, HRS: 2.1% (imp), FHS: NA, CHS: NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.8.1",
+                    "cell_text": "rs460976"
+                  },
+                  {
+                    "cell_id": "2.8.2",
+                    "cell_text": 21.0
+                  },
+                  {
+                    "cell_id": "2.8.3",
+                    "cell_text": 41463567.0
+                  },
+                  {
+                    "cell_id": "2.8.4",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "2.8.5",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "2.8.6",
+                    "cell_text": "TMPRSS2  (~1 kb)"
+                  },
+                  {
+                    "cell_id": "2.8.7",
+                    "cell_text": 0.924
+                  },
+                  {
+                    "cell_id": "2.8.8",
+                    "cell_text": 1.37e-08
+                  },
+                  {
+                    "cell_id": "2.8.9",
+                    "cell_text": 4.32e-06
+                  },
+                  {
+                    "cell_id": "2.8.10",
+                    "cell_text": "ARIC: 2.33%, MESA: 2.16%, FHS1: 0.81%, FHS2: 1.30%, CHS: 2% (imp), HRS: 2.26%"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1115,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aThe position information is based on the genome assembly version: GRCh38.p5.bThe p-values from the pleiotropic meta-analysis of quantitative endophenotypes.cThe p-values from the pleiotropic meta-analysis of combined complex diseases.dThe p-values from the pleiotropic meta-analysis of both.eThe MAFs (A2 is the coding allele) were estimated from the subjects included in the pleiotropic analysis. The expected MAF from IMPUTE2 is reported, denoted by (imp), when a SNP was imputed in that study. NAs imply that the SNP was excluded from that study.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "27790247.html",
+      "id": "3",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 3",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Nomially significant associations of the seven novel SNPs identified from the univariate analyses in each cohort.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 120,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "3.1.1",
+              "cell_text": "Study"
+            },
+            {
+              "cell_id": "3.1.2",
+              "cell_text": "Trait"
+            },
+            {
+              "cell_id": "3.1.3",
+              "cell_text": "Effect size a"
+            },
+            {
+              "cell_id": "3.1.4",
+              "cell_text": "P b  (< 0.05)"
+            },
+            {
+              "cell_id": "3.1.5",
+              "cell_text": "P c"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "rs7632505",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.2.1",
+                    "cell_text": "ARIC"
+                  },
+                  {
+                    "cell_id": "3.2.2",
+                    "cell_text": "BG"
+                  },
+                  {
+                    "cell_id": "3.2.3",
+                    "cell_text": 0.792
+                  },
+                  {
+                    "cell_id": "3.2.4",
+                    "cell_text": 0.00483
+                  },
+                  {
+                    "cell_id": "3.2.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.3.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.3.2",
+                    "cell_text": "TG"
+                  },
+                  {
+                    "cell_id": "3.3.3",
+                    "cell_text": 1.51
+                  },
+                  {
+                    "cell_id": "3.3.4",
+                    "cell_text": 0.0261
+                  },
+                  {
+                    "cell_id": "3.3.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.4.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.4.2",
+                    "cell_text": "HF"
+                  },
+                  {
+                    "cell_id": "3.4.3",
+                    "cell_text": 0.269
+                  },
+                  {
+                    "cell_id": "3.4.4",
+                    "cell_text": 7.3e-08
+                  },
+                  {
+                    "cell_id": "3.4.5",
+                    "cell_text": 0.567
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.5.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.5.2",
+                    "cell_text": "CHD"
+                  },
+                  {
+                    "cell_id": "3.5.3",
+                    "cell_text": 0.402
+                  },
+                  {
+                    "cell_id": "3.5.4",
+                    "cell_text": 2.75e-28
+                  },
+                  {
+                    "cell_id": "3.5.5",
+                    "cell_text": 1.5e-05
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.6.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.6.2",
+                    "cell_text": "Stroke"
+                  },
+                  {
+                    "cell_id": "3.6.3",
+                    "cell_text": -0.176
+                  },
+                  {
+                    "cell_id": "3.6.4",
+                    "cell_text": 0.0214
+                  },
+                  {
+                    "cell_id": "3.6.5",
+                    "cell_text": 0.575
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.7.1",
+                    "cell_text": "FHS C1"
+                  },
+                  {
+                    "cell_id": "3.7.2",
+                    "cell_text": "BMI"
+                  },
+                  {
+                    "cell_id": "3.7.3",
+                    "cell_text": -1.792
+                  },
+                  {
+                    "cell_id": "3.7.4",
+                    "cell_text": 0.0217
+                  },
+                  {
+                    "cell_id": "3.7.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.8.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.8.2",
+                    "cell_text": "TC"
+                  },
+                  {
+                    "cell_id": "3.8.3",
+                    "cell_text": -1.695
+                  },
+                  {
+                    "cell_id": "3.8.4",
+                    "cell_text": 0.04
+                  },
+                  {
+                    "cell_id": "3.8.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.9.1",
+                    "cell_text": "FHS C2"
+                  },
+                  {
+                    "cell_id": "3.9.2",
+                    "cell_text": "VR"
+                  },
+                  {
+                    "cell_id": "3.9.3",
+                    "cell_text": 0.929
+                  },
+                  {
+                    "cell_id": "3.9.4",
+                    "cell_text": 0.0278
+                  },
+                  {
+                    "cell_id": "3.9.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.10.1",
+                    "cell_text": "CHS"
+                  },
+                  {
+                    "cell_id": "3.10.2",
+                    "cell_text": "CHD"
+                  },
+                  {
+                    "cell_id": "3.10.3",
+                    "cell_text": 0.139
+                  },
+                  {
+                    "cell_id": "3.10.4",
+                    "cell_text": 0.0287
+                  },
+                  {
+                    "cell_id": "3.10.5",
+                    "cell_text": 0.292
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.11.1",
+                    "cell_text": "HRS"
+                  },
+                  {
+                    "cell_id": "3.11.2",
+                    "cell_text": "DM"
+                  },
+                  {
+                    "cell_id": "3.11.3",
+                    "cell_text": "0.11 d"
+                  },
+                  {
+                    "cell_id": "3.11.4",
+                    "cell_text": 0.0127
+                  },
+                  {
+                    "cell_id": "3.11.5",
+                    "cell_text": "NA"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs1869717",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.12.1",
+                    "cell_text": "ARIC"
+                  },
+                  {
+                    "cell_id": "3.12.2",
+                    "cell_text": "DBP"
+                  },
+                  {
+                    "cell_id": "3.12.3",
+                    "cell_text": -0.745
+                  },
+                  {
+                    "cell_id": "3.12.4",
+                    "cell_text": 0.0183
+                  },
+                  {
+                    "cell_id": "3.12.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.13.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.13.2",
+                    "cell_text": "TC"
+                  },
+                  {
+                    "cell_id": "3.13.3",
+                    "cell_text": 1.828
+                  },
+                  {
+                    "cell_id": "3.13.4",
+                    "cell_text": 0.00601
+                  },
+                  {
+                    "cell_id": "3.13.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.14.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.14.2",
+                    "cell_text": "HF"
+                  },
+                  {
+                    "cell_id": "3.14.3",
+                    "cell_text": 0.287
+                  },
+                  {
+                    "cell_id": "3.14.4",
+                    "cell_text": 0.0174
+                  },
+                  {
+                    "cell_id": "3.14.5",
+                    "cell_text": 0.175
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.15.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.15.2",
+                    "cell_text": "CHD"
+                  },
+                  {
+                    "cell_id": "3.15.3",
+                    "cell_text": 0.516
+                  },
+                  {
+                    "cell_id": "3.15.4",
+                    "cell_text": 7.2e-10
+                  },
+                  {
+                    "cell_id": "3.15.5",
+                    "cell_text": 0.564
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.16.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.16.2",
+                    "cell_text": "Stroke"
+                  },
+                  {
+                    "cell_id": "3.16.3",
+                    "cell_text": 0.412
+                  },
+                  {
+                    "cell_id": "3.16.4",
+                    "cell_text": 0.0119
+                  },
+                  {
+                    "cell_id": "3.16.5",
+                    "cell_text": 0.321
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.17.1",
+                    "cell_text": "FHS C1"
+                  },
+                  {
+                    "cell_id": "3.17.2",
+                    "cell_text": "TG"
+                  },
+                  {
+                    "cell_id": "3.17.3",
+                    "cell_text": -12.355
+                  },
+                  {
+                    "cell_id": "3.17.4",
+                    "cell_text": 0.0205
+                  },
+                  {
+                    "cell_id": "3.17.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.18.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.18.2",
+                    "cell_text": "Stroke"
+                  },
+                  {
+                    "cell_id": "3.18.3",
+                    "cell_text": 0.589
+                  },
+                  {
+                    "cell_id": "3.18.4",
+                    "cell_text": 0.0101
+                  },
+                  {
+                    "cell_id": "3.18.5",
+                    "cell_text": 0.569
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.19.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.19.2",
+                    "cell_text": "Death"
+                  },
+                  {
+                    "cell_id": "3.19.3",
+                    "cell_text": 0.47
+                  },
+                  {
+                    "cell_id": "3.19.4",
+                    "cell_text": 0.000259
+                  },
+                  {
+                    "cell_id": "3.19.5",
+                    "cell_text": 0.553
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.20.1",
+                    "cell_text": "CHS"
+                  },
+                  {
+                    "cell_id": "3.20.2",
+                    "cell_text": "BMI"
+                  },
+                  {
+                    "cell_id": "3.20.3",
+                    "cell_text": -2.451
+                  },
+                  {
+                    "cell_id": "3.20.4",
+                    "cell_text": 0.0342
+                  },
+                  {
+                    "cell_id": "3.20.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.21.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.21.2",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.21.3",
+                    "cell_text": -4.484
+                  },
+                  {
+                    "cell_id": "3.21.4",
+                    "cell_text": 0.000735
+                  },
+                  {
+                    "cell_id": "3.21.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.22.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.22.2",
+                    "cell_text": "HDLC"
+                  },
+                  {
+                    "cell_id": "3.22.3",
+                    "cell_text": 4.837
+                  },
+                  {
+                    "cell_id": "3.22.4",
+                    "cell_text": 0.0047
+                  },
+                  {
+                    "cell_id": "3.22.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.23.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.23.2",
+                    "cell_text": "TG"
+                  },
+                  {
+                    "cell_id": "3.23.3",
+                    "cell_text": -7.805
+                  },
+                  {
+                    "cell_id": "3.23.4",
+                    "cell_text": 0.00966
+                  },
+                  {
+                    "cell_id": "3.23.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.24.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.24.2",
+                    "cell_text": "FEV1"
+                  },
+                  {
+                    "cell_id": "3.24.3",
+                    "cell_text": -0.095
+                  },
+                  {
+                    "cell_id": "3.24.4",
+                    "cell_text": 0.00945
+                  },
+                  {
+                    "cell_id": "3.24.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.25.1",
+                    "cell_text": "HRS"
+                  },
+                  {
+                    "cell_id": "3.25.2",
+                    "cell_text": "BG"
+                  },
+                  {
+                    "cell_id": "3.25.3",
+                    "cell_text": 1.727
+                  },
+                  {
+                    "cell_id": "3.25.4",
+                    "cell_text": 0.00239
+                  },
+                  {
+                    "cell_id": "3.25.5",
+                    "cell_text": "NA"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs7081476",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.26.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.26.2",
+                    "cell_text": "DM"
+                  },
+                  {
+                    "cell_id": "3.26.3",
+                    "cell_text": "0.19 d"
+                  },
+                  {
+                    "cell_id": "3.26.4",
+                    "cell_text": 0.0433
+                  },
+                  {
+                    "cell_id": "3.26.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.27.1",
+                    "cell_text": "ARIC"
+                  },
+                  {
+                    "cell_id": "3.27.2",
+                    "cell_text": "BMI"
+                  },
+                  {
+                    "cell_id": "3.27.3",
+                    "cell_text": 2.51
+                  },
+                  {
+                    "cell_id": "3.27.4",
+                    "cell_text": 0.00282
+                  },
+                  {
+                    "cell_id": "3.27.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.28.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.28.2",
+                    "cell_text": "SBP"
+                  },
+                  {
+                    "cell_id": "3.28.3",
+                    "cell_text": 1.626
+                  },
+                  {
+                    "cell_id": "3.28.4",
+                    "cell_text": 0.0151
+                  },
+                  {
+                    "cell_id": "3.28.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.29.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.29.2",
+                    "cell_text": "HDLC"
+                  },
+                  {
+                    "cell_id": "3.29.3",
+                    "cell_text": -3.54
+                  },
+                  {
+                    "cell_id": "3.29.4",
+                    "cell_text": 0.00664
+                  },
+                  {
+                    "cell_id": "3.29.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.30.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.30.2",
+                    "cell_text": "TG"
+                  },
+                  {
+                    "cell_id": "3.30.3",
+                    "cell_text": 4.68
+                  },
+                  {
+                    "cell_id": "3.30.4",
+                    "cell_text": 0.0324
+                  },
+                  {
+                    "cell_id": "3.30.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.31.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.31.2",
+                    "cell_text": "DM"
+                  },
+                  {
+                    "cell_id": "3.31.3",
+                    "cell_text": 0.0489
+                  },
+                  {
+                    "cell_id": "3.31.4",
+                    "cell_text": 0.0489
+                  },
+                  {
+                    "cell_id": "3.31.5",
+                    "cell_text": 0.495
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.32.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.32.2",
+                    "cell_text": "AF"
+                  },
+                  {
+                    "cell_id": "3.32.3",
+                    "cell_text": 0.412
+                  },
+                  {
+                    "cell_id": "3.32.4",
+                    "cell_text": 0.00288
+                  },
+                  {
+                    "cell_id": "3.32.5",
+                    "cell_text": 0.0836
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.33.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.33.2",
+                    "cell_text": "HF"
+                  },
+                  {
+                    "cell_id": "3.33.3",
+                    "cell_text": 0.363
+                  },
+                  {
+                    "cell_id": "3.33.4",
+                    "cell_text": 0.00832
+                  },
+                  {
+                    "cell_id": "3.33.5",
+                    "cell_text": 0.616
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.34.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.34.2",
+                    "cell_text": "CHD"
+                  },
+                  {
+                    "cell_id": "3.34.3",
+                    "cell_text": 0.582
+                  },
+                  {
+                    "cell_id": "3.34.4",
+                    "cell_text": 5.5e-10
+                  },
+                  {
+                    "cell_id": "3.34.5",
+                    "cell_text": 0.732
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.35.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.35.2",
+                    "cell_text": "Stroke"
+                  },
+                  {
+                    "cell_id": "3.35.3",
+                    "cell_text": 0.492
+                  },
+                  {
+                    "cell_id": "3.35.4",
+                    "cell_text": 0.00762
+                  },
+                  {
+                    "cell_id": "3.35.5",
+                    "cell_text": 0.576
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.36.1",
+                    "cell_text": "FHS C2"
+                  },
+                  {
+                    "cell_id": "3.36.2",
+                    "cell_text": "ND"
+                  },
+                  {
+                    "cell_id": "3.36.3",
+                    "cell_text": -1.884
+                  },
+                  {
+                    "cell_id": "3.36.4",
+                    "cell_text": 0.00918
+                  },
+                  {
+                    "cell_id": "3.36.5",
+                    "cell_text": 0.801
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.37.1",
+                    "cell_text": "MESA"
+                  },
+                  {
+                    "cell_id": "3.37.2",
+                    "cell_text": "BG"
+                  },
+                  {
+                    "cell_id": "3.37.3",
+                    "cell_text": 3.42
+                  },
+                  {
+                    "cell_id": "3.37.4",
+                    "cell_text": 0.0195
+                  },
+                  {
+                    "cell_id": "3.37.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.38.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.38.2",
+                    "cell_text": "HbA1c"
+                  },
+                  {
+                    "cell_id": "3.38.3",
+                    "cell_text": 0.18
+                  },
+                  {
+                    "cell_id": "3.38.4",
+                    "cell_text": 0.00344
+                  },
+                  {
+                    "cell_id": "3.38.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.39.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.39.2",
+                    "cell_text": "DM"
+                  },
+                  {
+                    "cell_id": "3.39.3",
+                    "cell_text": 0.626
+                  },
+                  {
+                    "cell_id": "3.39.4",
+                    "cell_text": 0.000478
+                  },
+                  {
+                    "cell_id": "3.39.5",
+                    "cell_text": 0.495
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.40.1",
+                    "cell_text": "CHS"
+                  },
+                  {
+                    "cell_id": "3.40.2",
+                    "cell_text": "HF"
+                  },
+                  {
+                    "cell_id": "3.40.3",
+                    "cell_text": 0.437
+                  },
+                  {
+                    "cell_id": "3.40.4",
+                    "cell_text": 0.00507
+                  },
+                  {
+                    "cell_id": "3.40.5",
+                    "cell_text": 0.141
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs12420422",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.41.1",
+                    "cell_text": "HRS"
+                  },
+                  {
+                    "cell_id": "3.41.2",
+                    "cell_text": "Stroke"
+                  },
+                  {
+                    "cell_id": "3.41.3",
+                    "cell_text": "0.286 d"
+                  },
+                  {
+                    "cell_id": "3.41.4",
+                    "cell_text": 0.0248
+                  },
+                  {
+                    "cell_id": "3.41.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.42.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.42.2",
+                    "cell_text": "Death"
+                  },
+                  {
+                    "cell_id": "3.42.3",
+                    "cell_text": 0.26
+                  },
+                  {
+                    "cell_id": "3.42.4",
+                    "cell_text": 0.0188
+                  },
+                  {
+                    "cell_id": "3.42.5",
+                    "cell_text": 0.253
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.43.1",
+                    "cell_text": "ARIC"
+                  },
+                  {
+                    "cell_id": "3.43.2",
+                    "cell_text": "Death"
+                  },
+                  {
+                    "cell_id": "3.43.3",
+                    "cell_text": 0.266
+                  },
+                  {
+                    "cell_id": "3.43.4",
+                    "cell_text": 0.0165
+                  },
+                  {
+                    "cell_id": "3.43.5",
+                    "cell_text": 0.175
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs4905014",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.44.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.44.2",
+                    "cell_text": "AF"
+                  },
+                  {
+                    "cell_id": "3.44.3",
+                    "cell_text": 0.331
+                  },
+                  {
+                    "cell_id": "3.44.4",
+                    "cell_text": 0.0196
+                  },
+                  {
+                    "cell_id": "3.44.5",
+                    "cell_text": 0.76
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.45.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.45.2",
+                    "cell_text": "HF"
+                  },
+                  {
+                    "cell_id": "3.45.3",
+                    "cell_text": 0.425
+                  },
+                  {
+                    "cell_id": "3.45.4",
+                    "cell_text": 0.00318
+                  },
+                  {
+                    "cell_id": "3.45.5",
+                    "cell_text": 0.596
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.46.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.46.2",
+                    "cell_text": "CHD"
+                  },
+                  {
+                    "cell_id": "3.46.3",
+                    "cell_text": 0.775
+                  },
+                  {
+                    "cell_id": "3.46.4",
+                    "cell_text": 5.2e-17
+                  },
+                  {
+                    "cell_id": "3.46.5",
+                    "cell_text": 0.841
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.47.1",
+                    "cell_text": "FHS C1"
+                  },
+                  {
+                    "cell_id": "3.47.2",
+                    "cell_text": "DBP"
+                  },
+                  {
+                    "cell_id": "3.47.3",
+                    "cell_text": 2.384
+                  },
+                  {
+                    "cell_id": "3.47.4",
+                    "cell_text": 0.0162
+                  },
+                  {
+                    "cell_id": "3.47.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.48.1",
+                    "cell_text": "ARIC"
+                  },
+                  {
+                    "cell_id": "3.48.2",
+                    "cell_text": "HC"
+                  },
+                  {
+                    "cell_id": "3.48.3",
+                    "cell_text": 0.376
+                  },
+                  {
+                    "cell_id": "3.48.4",
+                    "cell_text": 0.000978
+                  },
+                  {
+                    "cell_id": "3.48.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.49.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.49.2",
+                    "cell_text": "Stroke"
+                  },
+                  {
+                    "cell_id": "3.49.3",
+                    "cell_text": 1.166
+                  },
+                  {
+                    "cell_id": "3.49.4",
+                    "cell_text": 3.75e-21
+                  },
+                  {
+                    "cell_id": "3.49.5",
+                    "cell_text": 0.0068
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs8082812",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.50.1",
+                    "cell_text": "MESA"
+                  },
+                  {
+                    "cell_id": "3.50.2",
+                    "cell_text": "DBP"
+                  },
+                  {
+                    "cell_id": "3.50.3",
+                    "cell_text": -1.925
+                  },
+                  {
+                    "cell_id": "3.50.4",
+                    "cell_text": 0.0255
+                  },
+                  {
+                    "cell_id": "3.50.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.51.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.51.2",
+                    "cell_text": "HbA1c"
+                  },
+                  {
+                    "cell_id": "3.51.3",
+                    "cell_text": 0.17
+                  },
+                  {
+                    "cell_id": "3.51.4",
+                    "cell_text": 0.0144
+                  },
+                  {
+                    "cell_id": "3.51.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.52.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.52.2",
+                    "cell_text": "HF"
+                  },
+                  {
+                    "cell_id": "3.52.3",
+                    "cell_text": 1.029
+                  },
+                  {
+                    "cell_id": "3.52.4",
+                    "cell_text": 0.0258
+                  },
+                  {
+                    "cell_id": "3.52.5",
+                    "cell_text": 0.565
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.53.1",
+                    "cell_text": "ARIC"
+                  },
+                  {
+                    "cell_id": "3.53.2",
+                    "cell_text": "BG"
+                  },
+                  {
+                    "cell_id": "3.53.3",
+                    "cell_text": 4.042
+                  },
+                  {
+                    "cell_id": "3.53.4",
+                    "cell_text": 2.63e-07
+                  },
+                  {
+                    "cell_id": "3.53.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.54.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.54.2",
+                    "cell_text": "DBP"
+                  },
+                  {
+                    "cell_id": "3.54.3",
+                    "cell_text": -0.827
+                  },
+                  {
+                    "cell_id": "3.54.4",
+                    "cell_text": 0.0107
+                  },
+                  {
+                    "cell_id": "3.54.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.55.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.55.2",
+                    "cell_text": "HDLC"
+                  },
+                  {
+                    "cell_id": "3.55.3",
+                    "cell_text": -2.993
+                  },
+                  {
+                    "cell_id": "3.55.4",
+                    "cell_text": 0.00812
+                  },
+                  {
+                    "cell_id": "3.55.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.56.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.56.2",
+                    "cell_text": "TC"
+                  },
+                  {
+                    "cell_id": "3.56.3",
+                    "cell_text": 2.778
+                  },
+                  {
+                    "cell_id": "3.56.4",
+                    "cell_text": 4.64e-05
+                  },
+                  {
+                    "cell_id": "3.56.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.57.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.57.2",
+                    "cell_text": "Death"
+                  },
+                  {
+                    "cell_id": "3.57.3",
+                    "cell_text": 0.279
+                  },
+                  {
+                    "cell_id": "3.57.4",
+                    "cell_text": 0.00146
+                  },
+                  {
+                    "cell_id": "3.57.5",
+                    "cell_text": 0.449
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.58.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.58.2",
+                    "cell_text": "AF"
+                  },
+                  {
+                    "cell_id": "3.58.3",
+                    "cell_text": 0.305
+                  },
+                  {
+                    "cell_id": "3.58.4",
+                    "cell_text": 0.00599
+                  },
+                  {
+                    "cell_id": "3.58.5",
+                    "cell_text": 0.221
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.59.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.59.2",
+                    "cell_text": "HF"
+                  },
+                  {
+                    "cell_id": "3.59.3",
+                    "cell_text": 0.538
+                  },
+                  {
+                    "cell_id": "3.59.4",
+                    "cell_text": 1.66e-07
+                  },
+                  {
+                    "cell_id": "3.59.5",
+                    "cell_text": 0.486
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.60.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.60.2",
+                    "cell_text": "CHD"
+                  },
+                  {
+                    "cell_id": "3.60.3",
+                    "cell_text": 0.848
+                  },
+                  {
+                    "cell_id": "3.60.4",
+                    "cell_text": 3.37e-37
+                  },
+                  {
+                    "cell_id": "3.60.5",
+                    "cell_text": 0.0143
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.61.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.61.2",
+                    "cell_text": "Stroke"
+                  },
+                  {
+                    "cell_id": "3.61.3",
+                    "cell_text": 1.226
+                  },
+                  {
+                    "cell_id": "3.61.4",
+                    "cell_text": 3.4e-41
+                  },
+                  {
+                    "cell_id": "3.61.5",
+                    "cell_text": 0.00291
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.62.1",
+                    "cell_text": "MESA"
+                  },
+                  {
+                    "cell_id": "3.62.2",
+                    "cell_text": "BMI"
+                  },
+                  {
+                    "cell_id": "3.62.3",
+                    "cell_text": 8.018
+                  },
+                  {
+                    "cell_id": "3.62.4",
+                    "cell_text": 0.0383
+                  },
+                  {
+                    "cell_id": "3.62.5",
+                    "cell_text": "NA"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "rs460976",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.63.1",
+                    "cell_text": "ARIC"
+                  },
+                  {
+                    "cell_id": "3.63.2",
+                    "cell_text": "HF"
+                  },
+                  {
+                    "cell_id": "3.63.3",
+                    "cell_text": 0.468
+                  },
+                  {
+                    "cell_id": "3.63.4",
+                    "cell_text": 0.000299
+                  },
+                  {
+                    "cell_id": "3.63.5",
+                    "cell_text": 0.139
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.64.1",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "3.64.2",
+                    "cell_text": "CHD"
+                  },
+                  {
+                    "cell_id": "3.64.3",
+                    "cell_text": 0.714
+                  },
+                  {
+                    "cell_id": "3.64.4",
+                    "cell_text": 1.13e-16
+                  },
+                  {
+                    "cell_id": "3.64.5",
+                    "cell_text": 0.292
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.65.1",
+                    "cell_text": "FHS C2"
+                  },
+                  {
+                    "cell_id": "3.65.2",
+                    "cell_text": "TG"
+                  },
+                  {
+                    "cell_id": "3.65.3",
+                    "cell_text": -9.927
+                  },
+                  {
+                    "cell_id": "3.65.4",
+                    "cell_text": 0.0308
+                  },
+                  {
+                    "cell_id": "3.65.5",
+                    "cell_text": "NA"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.66.1",
+                    "cell_text": "HRS"
+                  },
+                  {
+                    "cell_id": "3.66.2",
+                    "cell_text": "DM"
+                  },
+                  {
+                    "cell_id": "3.66.3",
+                    "cell_text": 0.22
+                  },
+                  {
+                    "cell_id": "3.66.4",
+                    "cell_text": 0.0414
+                  },
+                  {
+                    "cell_id": "3.66.5",
+                    "cell_text": "NA"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1417,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "aLog-transformation (100*log(.)) was performed on the original measurements for some of the endophenotypes (Please refer to Table ​Table11 for the details). For the time-to-event traits, this is log(HR).bThe p-value of the association with an endophenotype or a disease from that cohort.cThe p-value from the cox.zph function for checking the PH assumption. A p-value < 0.05 leads to rejection of the assumption. It is not available for quantitative traits.dThis is an OR as prevalence was used instead of time-to-event traits in HRS.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

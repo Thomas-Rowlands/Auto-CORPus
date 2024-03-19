@@ -1,0 +1,3338 @@
+{
+  "source": "Auto-CORPus (tables)",
+  "date": "20210927",
+  "key": "autocorpus_tables.key",
+  "infons": {},
+  "documents": [
+    {
+      "inputfile": "24478790.html",
+      "id": "1",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 1",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Demographic and clinical characteristics: restricted to whites.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 70,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "1.1.1",
+              "cell_text": ""
+            },
+            {
+              "cell_id": "1.1.2",
+              "cell_text": "Overall"
+            },
+            {
+              "cell_id": "1.1.3",
+              "cell_text": "Boston"
+            },
+            {
+              "cell_id": "1.1.4",
+              "cell_text": "Denmark"
+            },
+            {
+              "cell_id": "1.1.5",
+              "cell_text": "New york"
+            },
+            {
+              "cell_id": "1.1.6",
+              "cell_text": "Pittsburgh"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "1.2.1",
+                    "cell_text": "Subjects"
+                  },
+                  {
+                    "cell_id": "1.2.2",
+                    "cell_text": 4289.0
+                  },
+                  {
+                    "cell_id": "1.2.3",
+                    "cell_text": 1145.0
+                  },
+                  {
+                    "cell_id": "1.2.4",
+                    "cell_text": 1178.0
+                  },
+                  {
+                    "cell_id": "1.2.5",
+                    "cell_text": 825.0
+                  },
+                  {
+                    "cell_id": "1.2.6",
+                    "cell_text": 1141.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.3.1",
+                    "cell_text": "Age at blood draw (Range)"
+                  },
+                  {
+                    "cell_id": "1.3.2",
+                    "cell_text": "70.1 ± 15.7 (24–110)"
+                  },
+                  {
+                    "cell_id": "1.3.3",
+                    "cell_text": "69.4 ± 15.9 (32–110)"
+                  },
+                  {
+                    "cell_id": "1.3.4",
+                    "cell_text": "67.2 ± 14.2 (36–104)"
+                  },
+                  {
+                    "cell_id": "1.3.5",
+                    "cell_text": "74.1 ± 16.3 (24–108)"
+                  },
+                  {
+                    "cell_id": "1.3.6",
+                    "cell_text": "71.1 ± 15.9 (36–104)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.4.1",
+                    "cell_text": "Proband generation (Range)"
+                  },
+                  {
+                    "cell_id": "1.4.2",
+                    "cell_text": "89.5 ± 6.7 (55–110)"
+                  },
+                  {
+                    "cell_id": "1.4.3",
+                    "cell_text": "89.5 ± 7.2 (55–110)"
+                  },
+                  {
+                    "cell_id": "1.4.4",
+                    "cell_text": "90.8 ± 6.3 (64–104)"
+                  },
+                  {
+                    "cell_id": "1.4.5",
+                    "cell_text": "89.2 ± 6.8 (58–108)"
+                  },
+                  {
+                    "cell_id": "1.4.6",
+                    "cell_text": "89.0 ± 6.3 (71–104)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.5.1",
+                    "cell_text": "Offspring generation (Range)"
+                  },
+                  {
+                    "cell_id": "1.5.2",
+                    "cell_text": "60.6 ± 8.4 (24–88)"
+                  },
+                  {
+                    "cell_id": "1.5.3",
+                    "cell_text": "59.9 ± 8.2 (32–88)"
+                  },
+                  {
+                    "cell_id": "1.5.4",
+                    "cell_text": "61.4 ± 8.4 (36–87)"
+                  },
+                  {
+                    "cell_id": "1.5.5",
+                    "cell_text": "60.4 ± 8.3 (24–83)"
+                  },
+                  {
+                    "cell_id": "1.5.6",
+                    "cell_text": "60.3 ± 8.5 (36–87)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.6.1",
+                    "cell_text": "Age of married–in's (Range)"
+                  },
+                  {
+                    "cell_id": "1.6.2",
+                    "cell_text": "64.9 ± 11.9 (24–98)"
+                  },
+                  {
+                    "cell_id": "1.6.3",
+                    "cell_text": "65.1 ± 12.6 (37–98)"
+                  },
+                  {
+                    "cell_id": "1.6.4",
+                    "cell_text": "62.6 ± 10.1 (36–94)"
+                  },
+                  {
+                    "cell_id": "1.6.5",
+                    "cell_text": "68.4 ± 13.5 (24–94)"
+                  },
+                  {
+                    "cell_id": "1.6.6",
+                    "cell_text": "68.0 ± 12.8 (36–91)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.7.1",
+                    "cell_text": "Proband generation (Range)"
+                  },
+                  {
+                    "cell_id": "1.7.2",
+                    "cell_text": "83.0 ± 7.0 (55–98)"
+                  },
+                  {
+                    "cell_id": "1.7.3",
+                    "cell_text": "83.2 ± 8.6 (55–98)"
+                  },
+                  {
+                    "cell_id": "1.7.4",
+                    "cell_text": "83.6 ± 6.6 (64–94)"
+                  },
+                  {
+                    "cell_id": "1.7.5",
+                    "cell_text": "82.2 ± 6.8 (67–94)"
+                  },
+                  {
+                    "cell_id": "1.7.6",
+                    "cell_text": "83.1 ± 5.7 (71–91)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.8.1",
+                    "cell_text": "Offspring generation (Range)"
+                  },
+                  {
+                    "cell_id": "1.8.2",
+                    "cell_text": "61.0 ± 8.7 (24–88)"
+                  },
+                  {
+                    "cell_id": "1.8.3",
+                    "cell_text": "60.8 ± 9.1 (37–88)"
+                  },
+                  {
+                    "cell_id": "1.8.4",
+                    "cell_text": "61.0 ± 8.4 (36–87)"
+                  },
+                  {
+                    "cell_id": "1.8.5",
+                    "cell_text": "60.4 ± 9.3 (24–79)"
+                  },
+                  {
+                    "cell_id": "1.8.6",
+                    "cell_text": "61.5 ± 8.8 (36–80)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.9.1",
+                    "cell_text": "Men (%)"
+                  },
+                  {
+                    "cell_id": "1.9.2",
+                    "cell_text": "1927 (44.9)"
+                  },
+                  {
+                    "cell_id": "1.9.3",
+                    "cell_text": "509 (44.5)"
+                  },
+                  {
+                    "cell_id": "1.9.4",
+                    "cell_text": "539 (45.8)"
+                  },
+                  {
+                    "cell_id": "1.9.5",
+                    "cell_text": "379 (45.9)"
+                  },
+                  {
+                    "cell_id": "1.9.6",
+                    "cell_text": "500 (43.8)"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.10.1",
+                    "cell_text": "Education (years)"
+                  },
+                  {
+                    "cell_id": "1.10.2",
+                    "cell_text": "11.60 ± 3.62"
+                  },
+                  {
+                    "cell_id": "1.10.3",
+                    "cell_text": "12.55 ± 2.94"
+                  },
+                  {
+                    "cell_id": "1.10.4",
+                    "cell_text": "9.73 ± 4.32"
+                  },
+                  {
+                    "cell_id": "1.10.5",
+                    "cell_text": "12.25 ± 3.25"
+                  },
+                  {
+                    "cell_id": "1.10.6",
+                    "cell_text": "12.11 ± 2.95"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.11.1",
+                    "cell_text": "% Smoking (0 vs. 1 vs. 2) *"
+                  },
+                  {
+                    "cell_id": "1.11.2",
+                    "cell_text": "57.1/33.4/6.9%"
+                  },
+                  {
+                    "cell_id": "1.11.3",
+                    "cell_text": "58.8/37.1/3.2%"
+                  },
+                  {
+                    "cell_id": "1.11.4",
+                    "cell_text": "50.9/31.2/14.0%"
+                  },
+                  {
+                    "cell_id": "1.11.5",
+                    "cell_text": "53.8/36.0/3.9%"
+                  },
+                  {
+                    "cell_id": "1.11.6",
+                    "cell_text": "64.2/30.0/5.3%"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.12.1",
+                    "cell_text": "% Alcohol consumption (0 vs. 1 vs. 2) **"
+                  },
+                  {
+                    "cell_id": "1.12.2",
+                    "cell_text": "47.4/33.2/19.2%"
+                  },
+                  {
+                    "cell_id": "1.12.3",
+                    "cell_text": "47.2/36.0/16.8%"
+                  },
+                  {
+                    "cell_id": "1.12.4",
+                    "cell_text": "26.3/36.0/37.6%"
+                  },
+                  {
+                    "cell_id": "1.12.5",
+                    "cell_text": "54.9/33.9/9.8%"
+                  },
+                  {
+                    "cell_id": "1.12.6",
+                    "cell_text": "63.8/26.8/9.3%"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.13.1",
+                    "cell_text": "% Marital status (0 vs. 1 vs. 2) ***"
+                  },
+                  {
+                    "cell_id": "1.13.2",
+                    "cell_text": "21.7/12.4/65.9%"
+                  },
+                  {
+                    "cell_id": "1.13.3",
+                    "cell_text": "20.2/14.4/65.4%"
+                  },
+                  {
+                    "cell_id": "1.13.4",
+                    "cell_text": "16.4/8.9/74.7%"
+                  },
+                  {
+                    "cell_id": "1.13.5",
+                    "cell_text": "27.5/13.8/58.1%"
+                  },
+                  {
+                    "cell_id": "1.13.6",
+                    "cell_text": "24.2/12.8/62.8%"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "1.14.1",
+                    "cell_text": "A history of heart disease"
+                  },
+                  {
+                    "cell_id": "1.14.2",
+                    "cell_text": "8.60%"
+                  },
+                  {
+                    "cell_id": "1.14.3",
+                    "cell_text": "8.60%"
+                  },
+                  {
+                    "cell_id": "1.14.4",
+                    "cell_text": "5.70%"
+                  },
+                  {
+                    "cell_id": "1.14.5",
+                    "cell_text": "11.30%"
+                  },
+                  {
+                    "cell_id": "1.14.6",
+                    "cell_text": "9.60%"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1334,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "*0 = never, 1 = past, 2 = current.**0 = never/occasional drinking, 1 = 1–7 per week, 2 = 7 per week.***0 = widowed, 1 = some form of marriage, 2 = currently married.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "24478790.html",
+      "id": "2",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 2",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Mean leukocyte telomere length by site and by sex and generation.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 72,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "2.1.1",
+              "cell_text": ""
+            },
+            {
+              "cell_id": "2.1.2",
+              "cell_text": "Over all<!>Mean BP"
+            },
+            {
+              "cell_id": "2.1.3",
+              "cell_text": "Over all<!>SD"
+            },
+            {
+              "cell_id": "2.1.4",
+              "cell_text": "Boston<!>Mean BP"
+            },
+            {
+              "cell_id": "2.1.5",
+              "cell_text": "Boston<!>SD"
+            },
+            {
+              "cell_id": "2.1.6",
+              "cell_text": "Denmark *<!>Mean BP"
+            },
+            {
+              "cell_id": "2.1.7",
+              "cell_text": "Denmark *<!>SD"
+            },
+            {
+              "cell_id": "2.1.8",
+              "cell_text": "New york<!>Mean BP"
+            },
+            {
+              "cell_id": "2.1.9",
+              "cell_text": "New york<!>SD"
+            },
+            {
+              "cell_id": "2.1.10",
+              "cell_text": "Pittsburgh<!>Mean BP"
+            },
+            {
+              "cell_id": "2.1.11",
+              "cell_text": "Pittsburgh<!>SD"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": "",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.2.1",
+                    "cell_text": "All subjects"
+                  },
+                  {
+                    "cell_id": "2.2.2",
+                    "cell_text": 5325.3
+                  },
+                  {
+                    "cell_id": "2.2.3",
+                    "cell_text": 485.5
+                  },
+                  {
+                    "cell_id": "2.2.4",
+                    "cell_text": 5365.3
+                  },
+                  {
+                    "cell_id": "2.2.5",
+                    "cell_text": 502.9
+                  },
+                  {
+                    "cell_id": "2.2.6",
+                    "cell_text": 5216.2
+                  },
+                  {
+                    "cell_id": "2.2.7",
+                    "cell_text": 363.7
+                  },
+                  {
+                    "cell_id": "2.2.8",
+                    "cell_text": 5362.7
+                  },
+                  {
+                    "cell_id": "2.2.9",
+                    "cell_text": 552.3
+                  },
+                  {
+                    "cell_id": "2.2.10",
+                    "cell_text": 5370.8
+                  },
+                  {
+                    "cell_id": "2.2.11",
+                    "cell_text": 508.6
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "Sex",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.3.1",
+                    "cell_text": "Men **"
+                  },
+                  {
+                    "cell_id": "2.3.2",
+                    "cell_text": 5286.8
+                  },
+                  {
+                    "cell_id": "2.3.3",
+                    "cell_text": 466.4
+                  },
+                  {
+                    "cell_id": "2.3.4",
+                    "cell_text": 5359.2
+                  },
+                  {
+                    "cell_id": "2.3.5",
+                    "cell_text": 518.5
+                  },
+                  {
+                    "cell_id": "2.3.6",
+                    "cell_text": 5167.8
+                  },
+                  {
+                    "cell_id": "2.3.7",
+                    "cell_text": 292.0
+                  },
+                  {
+                    "cell_id": "2.3.8",
+                    "cell_text": 5294.9
+                  },
+                  {
+                    "cell_id": "2.3.9",
+                    "cell_text": 504.0
+                  },
+                  {
+                    "cell_id": "2.3.10",
+                    "cell_text": 5335.4
+                  },
+                  {
+                    "cell_id": "2.3.11",
+                    "cell_text": 508.4
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.4.1",
+                    "cell_text": "Women"
+                  },
+                  {
+                    "cell_id": "2.4.2",
+                    "cell_text": 5356.7
+                  },
+                  {
+                    "cell_id": "2.4.3",
+                    "cell_text": 498.4
+                  },
+                  {
+                    "cell_id": "2.4.4",
+                    "cell_text": 5370.3
+                  },
+                  {
+                    "cell_id": "2.4.5",
+                    "cell_text": 490.5
+                  },
+                  {
+                    "cell_id": "2.4.6",
+                    "cell_text": 5257.0
+                  },
+                  {
+                    "cell_id": "2.4.7",
+                    "cell_text": 410.5
+                  },
+                  {
+                    "cell_id": "2.4.8",
+                    "cell_text": 5420.3
+                  },
+                  {
+                    "cell_id": "2.4.9",
+                    "cell_text": 584.6
+                  },
+                  {
+                    "cell_id": "2.4.10",
+                    "cell_text": 5398.5
+                  },
+                  {
+                    "cell_id": "2.4.11",
+                    "cell_text": 507.4
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "Generation",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.5.1",
+                    "cell_text": "Proband"
+                  },
+                  {
+                    "cell_id": "2.5.2",
+                    "cell_text": 5170.5
+                  },
+                  {
+                    "cell_id": "2.5.3",
+                    "cell_text": 398.9
+                  },
+                  {
+                    "cell_id": "2.5.4",
+                    "cell_text": 5161.8
+                  },
+                  {
+                    "cell_id": "2.5.5",
+                    "cell_text": 421.9
+                  },
+                  {
+                    "cell_id": "2.5.6",
+                    "cell_text": 5157.0
+                  },
+                  {
+                    "cell_id": "2.5.7",
+                    "cell_text": 367.3
+                  },
+                  {
+                    "cell_id": "2.5.8",
+                    "cell_text": 5209.6
+                  },
+                  {
+                    "cell_id": "2.5.9",
+                    "cell_text": 411.5
+                  },
+                  {
+                    "cell_id": "2.5.10",
+                    "cell_text": 5149.7
+                  },
+                  {
+                    "cell_id": "2.5.11",
+                    "cell_text": 382.0
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.6.1",
+                    "cell_text": "Offspring"
+                  },
+                  {
+                    "cell_id": "2.6.2",
+                    "cell_text": 5401.8
+                  },
+                  {
+                    "cell_id": "2.6.3",
+                    "cell_text": 505.8
+                  },
+                  {
+                    "cell_id": "2.6.4",
+                    "cell_text": 5461.4
+                  },
+                  {
+                    "cell_id": "2.6.5",
+                    "cell_text": 509.7
+                  },
+                  {
+                    "cell_id": "2.6.6",
+                    "cell_text": 5230.6
+                  },
+                  {
+                    "cell_id": "2.6.7",
+                    "cell_text": 361.6
+                  },
+                  {
+                    "cell_id": "2.6.8",
+                    "cell_text": 5500.6
+                  },
+                  {
+                    "cell_id": "2.6.9",
+                    "cell_text": 622.6
+                  },
+                  {
+                    "cell_id": "2.6.10",
+                    "cell_text": 5504.1
+                  },
+                  {
+                    "cell_id": "2.6.11",
+                    "cell_text": 528.8
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": "Married-in's",
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "2.7.1",
+                    "cell_text": "Proband"
+                  },
+                  {
+                    "cell_id": "2.7.2",
+                    "cell_text": 5165.2
+                  },
+                  {
+                    "cell_id": "2.7.3",
+                    "cell_text": 370.0
+                  },
+                  {
+                    "cell_id": "2.7.4",
+                    "cell_text": 5225.6
+                  },
+                  {
+                    "cell_id": "2.7.5",
+                    "cell_text": 457.3
+                  },
+                  {
+                    "cell_id": "2.7.6",
+                    "cell_text": 5023.5
+                  },
+                  {
+                    "cell_id": "2.7.7",
+                    "cell_text": 221.6
+                  },
+                  {
+                    "cell_id": "2.7.8",
+                    "cell_text": 5193.4
+                  },
+                  {
+                    "cell_id": "2.7.9",
+                    "cell_text": 395.6
+                  },
+                  {
+                    "cell_id": "2.7.10",
+                    "cell_text": 5163.5
+                  },
+                  {
+                    "cell_id": "2.7.11",
+                    "cell_text": 296.5
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.8.1",
+                    "cell_text": "Offspring"
+                  },
+                  {
+                    "cell_id": "2.8.2",
+                    "cell_text": 5336.6
+                  },
+                  {
+                    "cell_id": "2.8.3",
+                    "cell_text": 498.5
+                  },
+                  {
+                    "cell_id": "2.8.4",
+                    "cell_text": 5466.8
+                  },
+                  {
+                    "cell_id": "2.8.5",
+                    "cell_text": 532.6
+                  },
+                  {
+                    "cell_id": "2.8.6",
+                    "cell_text": 5217.6
+                  },
+                  {
+                    "cell_id": "2.8.7",
+                    "cell_text": 432.1
+                  },
+                  {
+                    "cell_id": "2.8.8",
+                    "cell_text": 5431.0
+                  },
+                  {
+                    "cell_id": "2.8.9",
+                    "cell_text": 521.4
+                  },
+                  {
+                    "cell_id": "2.8.10",
+                    "cell_text": 5440.3
+                  },
+                  {
+                    "cell_id": "2.8.11",
+                    "cell_text": 539.5
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "2.9.1",
+                    "cell_text": "Total"
+                  },
+                  {
+                    "cell_id": "2.9.2",
+                    "cell_text": 5306.1
+                  },
+                  {
+                    "cell_id": "2.9.3",
+                    "cell_text": 482.4
+                  },
+                  {
+                    "cell_id": "2.9.4",
+                    "cell_text": 5420.8
+                  },
+                  {
+                    "cell_id": "2.9.5",
+                    "cell_text": 526.8
+                  },
+                  {
+                    "cell_id": "2.9.6",
+                    "cell_text": 5203.8
+                  },
+                  {
+                    "cell_id": "2.9.7",
+                    "cell_text": 423.4
+                  },
+                  {
+                    "cell_id": "2.9.8",
+                    "cell_text": 5344.6
+                  },
+                  {
+                    "cell_id": "2.9.9",
+                    "cell_text": 491.2
+                  },
+                  {
+                    "cell_id": "2.9.10",
+                    "cell_text": 5356.4
+                  },
+                  {
+                    "cell_id": "2.9.11",
+                    "cell_text": 494.8
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 572,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "*Mean leukocyte telomere length comparisons differed significantly between Denmark and Boston as well as Denmark and Pittsburgh.**Mean leukocyte telomere length differed between males and females at p < 0.05 for all sites except for Boston.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "24478790.html",
+      "id": "3",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 4",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Association of leukocyte telomere length and candidate genes under the significant linkage signals.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 106,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "3.1.1",
+              "cell_text": "Gene"
+            },
+            {
+              "cell_id": "3.1.2",
+              "cell_text": "~cM"
+            },
+            {
+              "cell_id": "3.1.3",
+              "cell_text": "Start (bp) *"
+            },
+            {
+              "cell_id": "3.1.4",
+              "cell_text": "end (bp)"
+            },
+            {
+              "cell_id": "3.1.5",
+              "cell_text": "# of SNPs **"
+            },
+            {
+              "cell_id": "3.1.6",
+              "cell_text": "p gene-wise"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": 17.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.2.1",
+                    "cell_text": "17q23.2 (LOD = 2.52; HLOD = 4.77  & )"
+                  },
+                  {
+                    "cell_id": "3.2.2",
+                    "cell_text": "17q23.2 (LOD = 2.52; HLOD = 4.77  & )"
+                  },
+                  {
+                    "cell_id": "3.2.3",
+                    "cell_text": "17q23.2 (LOD = 2.52; HLOD = 4.77  & )"
+                  },
+                  {
+                    "cell_id": "3.2.4",
+                    "cell_text": "17q23.2 (LOD = 2.52; HLOD = 4.77  & )"
+                  },
+                  {
+                    "cell_id": "3.2.5",
+                    "cell_text": "17q23.2 (LOD = 2.52; HLOD = 4.77  & )"
+                  },
+                  {
+                    "cell_id": "3.2.6",
+                    "cell_text": "17q23.2 (LOD = 2.52; HLOD = 4.77  & )"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.3.1",
+                    "cell_text": "DCAF7"
+                  },
+                  {
+                    "cell_id": "3.3.2",
+                    "cell_text": "95.04–95.76"
+                  },
+                  {
+                    "cell_id": "3.3.3",
+                    "cell_text": 61628682.0
+                  },
+                  {
+                    "cell_id": "3.3.4",
+                    "cell_text": 61673745.0
+                  },
+                  {
+                    "cell_id": "3.3.5",
+                    "cell_text": 35.0
+                  },
+                  {
+                    "cell_id": "3.3.6",
+                    "cell_text": 0.040309
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.4.1",
+                    "cell_text": "POLG2"
+                  },
+                  {
+                    "cell_id": "3.4.2",
+                    "cell_text": "96.11–96.76"
+                  },
+                  {
+                    "cell_id": "3.4.3",
+                    "cell_text": 62466058.0
+                  },
+                  {
+                    "cell_id": "3.4.4",
+                    "cell_text": 62493829.0
+                  },
+                  {
+                    "cell_id": "3.4.5",
+                    "cell_text": 12.0
+                  },
+                  {
+                    "cell_id": "3.4.6",
+                    "cell_text": 0.031087
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.5.1",
+                    "cell_text": "CEP95"
+                  },
+                  {
+                    "cell_id": "3.5.2",
+                    "cell_text": "96.11–96.76"
+                  },
+                  {
+                    "cell_id": "3.5.3",
+                    "cell_text": 62494043.0
+                  },
+                  {
+                    "cell_id": "3.5.4",
+                    "cell_text": 62528641.0
+                  },
+                  {
+                    "cell_id": "3.5.5",
+                    "cell_text": 19.0
+                  },
+                  {
+                    "cell_id": "3.5.6",
+                    "cell_text": 0.000189
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 10.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "3.6.1",
+                    "cell_text": "SMURF2"
+                  },
+                  {
+                    "cell_id": "3.6.2",
+                    "cell_text": "96.11–96.76"
+                  },
+                  {
+                    "cell_id": "3.6.3",
+                    "cell_text": 62536879.0
+                  },
+                  {
+                    "cell_id": "3.6.4",
+                    "cell_text": 62694893.0
+                  },
+                  {
+                    "cell_id": "3.6.5",
+                    "cell_text": 38.0
+                  },
+                  {
+                    "cell_id": "3.6.6",
+                    "cell_text": 0.000271
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.7.1",
+                    "cell_text": "10q11.21 (LOD = 2.72; HLOD = 4.36  & )"
+                  },
+                  {
+                    "cell_id": "3.7.2",
+                    "cell_text": "10q11.21 (LOD = 2.72; HLOD = 4.36  & )"
+                  },
+                  {
+                    "cell_id": "3.7.3",
+                    "cell_text": "10q11.21 (LOD = 2.72; HLOD = 4.36  & )"
+                  },
+                  {
+                    "cell_id": "3.7.4",
+                    "cell_text": "10q11.21 (LOD = 2.72; HLOD = 4.36  & )"
+                  },
+                  {
+                    "cell_id": "3.7.5",
+                    "cell_text": "10q11.21 (LOD = 2.72; HLOD = 4.36  & )"
+                  },
+                  {
+                    "cell_id": "3.7.6",
+                    "cell_text": "10q11.21 (LOD = 2.72; HLOD = 4.36  & )"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.8.1",
+                    "cell_text": "RASGEF1A"
+                  },
+                  {
+                    "cell_id": "3.8.2",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "3.8.3",
+                    "cell_text": 43682162.0
+                  },
+                  {
+                    "cell_id": "3.8.4",
+                    "cell_text": 43859398.0
+                  },
+                  {
+                    "cell_id": "3.8.5",
+                    "cell_text": 108.0
+                  },
+                  {
+                    "cell_id": "3.8.6",
+                    "cell_text": 0.011053
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.9.1",
+                    "cell_text": "HNRNPF"
+                  },
+                  {
+                    "cell_id": "3.9.2",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "3.9.3",
+                    "cell_text": 43871952.0
+                  },
+                  {
+                    "cell_id": "3.9.4",
+                    "cell_text": 43926871.0
+                  },
+                  {
+                    "cell_id": "3.9.5",
+                    "cell_text": 36.0
+                  },
+                  {
+                    "cell_id": "3.9.6",
+                    "cell_text": 0.03289
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.10.1",
+                    "cell_text": "ANF487"
+                  },
+                  {
+                    "cell_id": "3.10.2",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "3.10.3",
+                    "cell_text": 43904919.0
+                  },
+                  {
+                    "cell_id": "3.10.4",
+                    "cell_text": 44050715.0
+                  },
+                  {
+                    "cell_id": "3.10.5",
+                    "cell_text": 63.0
+                  },
+                  {
+                    "cell_id": "3.10.6",
+                    "cell_text": 0.010759
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.11.1",
+                    "cell_text": "CSTF2T"
+                  },
+                  {
+                    "cell_id": "3.11.2",
+                    "cell_text": "73.00–73.52"
+                  },
+                  {
+                    "cell_id": "3.11.3",
+                    "cell_text": 53455004.0
+                  },
+                  {
+                    "cell_id": "3.11.4",
+                    "cell_text": 53461266.0
+                  },
+                  {
+                    "cell_id": "3.11.5",
+                    "cell_text": 16.0
+                  },
+                  {
+                    "cell_id": "3.11.6",
+                    "cell_text": 0.046672
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "3.12.1",
+                    "cell_text": "PRKG1"
+                  },
+                  {
+                    "cell_id": "3.12.2",
+                    "cell_text": "73.00–73.52"
+                  },
+                  {
+                    "cell_id": "3.12.3",
+                    "cell_text": 53459593.0
+                  },
+                  {
+                    "cell_id": "3.12.4",
+                    "cell_text": 54073739.0
+                  },
+                  {
+                    "cell_id": "3.12.5",
+                    "cell_text": 596.0
+                  },
+                  {
+                    "cell_id": "3.12.6",
+                    "cell_text": 0.040813
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 996,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "*HG19.**Number of genotyped SNPs.&HLOD based on all families.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "24478790.html",
+      "id": "4",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 5B",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 8,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "SNP association under the 10q11.21 linkage peak.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 56,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "4.1.1",
+              "cell_text": "SNP"
+            },
+            {
+              "cell_id": "4.1.2",
+              "cell_text": "Base pair (HG19)"
+            },
+            {
+              "cell_id": "4.1.3",
+              "cell_text": "cM"
+            },
+            {
+              "cell_id": "4.1.4",
+              "cell_text": "Adjusted multipoint LOD *"
+            },
+            {
+              "cell_id": "4.1.5",
+              "cell_text": "A1"
+            },
+            {
+              "cell_id": "4.1.6",
+              "cell_text": "A2"
+            },
+            {
+              "cell_id": "4.1.7",
+              "cell_text": "Measured genotype  p -value **"
+            },
+            {
+              "cell_id": "4.1.8",
+              "cell_text": "Gene"
+            },
+            {
+              "cell_id": "4.1.9",
+              "cell_text": "Gene"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": 10.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "4.2.1",
+                    "cell_text": "rs117783414"
+                  },
+                  {
+                    "cell_id": "4.2.2",
+                    "cell_text": 29005814.0
+                  },
+                  {
+                    "cell_id": "4.2.3",
+                    "cell_text": "56.01–56.52"
+                  },
+                  {
+                    "cell_id": "4.2.4",
+                    "cell_text": 9.15
+                  },
+                  {
+                    "cell_id": "4.2.5",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "4.2.6",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "4.2.7",
+                    "cell_text": 0.000417
+                  },
+                  {
+                    "cell_id": "4.2.8",
+                    "cell_text": "( BAMBI )_beyond"
+                  },
+                  {
+                    "cell_id": "4.2.9",
+                    "cell_text": ""
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.3.1",
+                    "cell_text": "rs17500653 &"
+                  },
+                  {
+                    "cell_id": "4.3.2",
+                    "cell_text": 35535597.0
+                  },
+                  {
+                    "cell_id": "4.3.3",
+                    "cell_text": 63.0
+                  },
+                  {
+                    "cell_id": "4.3.4",
+                    "cell_text": "–"
+                  },
+                  {
+                    "cell_id": "4.3.5",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.3.6",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.3.7",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.3.8",
+                    "cell_text": "–"
+                  },
+                  {
+                    "cell_id": "4.3.9",
+                    "cell_text": "–"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.4.1",
+                    "cell_text": "rs56080575"
+                  },
+                  {
+                    "cell_id": "4.4.2",
+                    "cell_text": 43788778.0
+                  },
+                  {
+                    "cell_id": "4.4.3",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "4.4.4",
+                    "cell_text": 9.09
+                  },
+                  {
+                    "cell_id": "4.4.5",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "4.4.6",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "4.4.7",
+                    "cell_text": 0.000152
+                  },
+                  {
+                    "cell_id": "4.4.8",
+                    "cell_text": "( RASGEF1A )_beyond"
+                  },
+                  {
+                    "cell_id": "4.4.9",
+                    "cell_text": "–"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.5.1",
+                    "cell_text": "rs2460535"
+                  },
+                  {
+                    "cell_id": "4.5.2",
+                    "cell_text": 43821380.0
+                  },
+                  {
+                    "cell_id": "4.5.3",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "4.5.4",
+                    "cell_text": 9.02
+                  },
+                  {
+                    "cell_id": "4.5.5",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "4.5.6",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "4.5.7",
+                    "cell_text": 0.000433
+                  },
+                  {
+                    "cell_id": "4.5.8",
+                    "cell_text": "( FXYD4 )_beyond"
+                  },
+                  {
+                    "cell_id": "4.5.9",
+                    "cell_text": "–"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.6.1",
+                    "cell_text": "rs59383062"
+                  },
+                  {
+                    "cell_id": "4.6.2",
+                    "cell_text": 43847135.0
+                  },
+                  {
+                    "cell_id": "4.6.3",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "4.6.4",
+                    "cell_text": 9.15
+                  },
+                  {
+                    "cell_id": "4.6.5",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "4.6.6",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "4.6.7",
+                    "cell_text": 0.000146
+                  },
+                  {
+                    "cell_id": "4.6.8",
+                    "cell_text": "( FXYD4 )_beyond"
+                  },
+                  {
+                    "cell_id": "4.6.9",
+                    "cell_text": "–"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.7.1",
+                    "cell_text": "rs10466239"
+                  },
+                  {
+                    "cell_id": "4.7.2",
+                    "cell_text": 43849827.0
+                  },
+                  {
+                    "cell_id": "4.7.3",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "4.7.4",
+                    "cell_text": 9.47
+                  },
+                  {
+                    "cell_id": "4.7.5",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "4.7.6",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "4.7.7",
+                    "cell_text": 5.62e-06
+                  },
+                  {
+                    "cell_id": "4.7.8",
+                    "cell_text": "( FXYD4 )_beyond"
+                  },
+                  {
+                    "cell_id": "4.7.9",
+                    "cell_text": "–"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.8.1",
+                    "cell_text": "rs11814409"
+                  },
+                  {
+                    "cell_id": "4.8.2",
+                    "cell_text": 43852721.0
+                  },
+                  {
+                    "cell_id": "4.8.3",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "4.8.4",
+                    "cell_text": 9.15
+                  },
+                  {
+                    "cell_id": "4.8.5",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "4.8.6",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "4.8.7",
+                    "cell_text": 0.000339
+                  },
+                  {
+                    "cell_id": "4.8.8",
+                    "cell_text": "( FXYD4 )_beyond"
+                  },
+                  {
+                    "cell_id": "4.8.9",
+                    "cell_text": "–"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.9.1",
+                    "cell_text": "rs80027918"
+                  },
+                  {
+                    "cell_id": "4.9.2",
+                    "cell_text": 43881183.0
+                  },
+                  {
+                    "cell_id": "4.9.3",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "4.9.4",
+                    "cell_text": 9.69
+                  },
+                  {
+                    "cell_id": "4.9.5",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "4.9.6",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "4.9.7",
+                    "cell_text": 0.000191
+                  },
+                  {
+                    "cell_id": "4.9.8",
+                    "cell_text": "HNRNPF"
+                  },
+                  {
+                    "cell_id": "4.9.9",
+                    "cell_text": "reference"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.10.1",
+                    "cell_text": "rs13376803"
+                  },
+                  {
+                    "cell_id": "4.10.2",
+                    "cell_text": 43881355.0
+                  },
+                  {
+                    "cell_id": "4.10.3",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "4.10.4",
+                    "cell_text": 9.69
+                  },
+                  {
+                    "cell_id": "4.10.5",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "4.10.6",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "4.10.7",
+                    "cell_text": 0.000207
+                  },
+                  {
+                    "cell_id": "4.10.8",
+                    "cell_text": "HNRNPF"
+                  },
+                  {
+                    "cell_id": "4.10.9",
+                    "cell_text": "reference"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.11.1",
+                    "cell_text": "rs10409"
+                  },
+                  {
+                    "cell_id": "4.11.2",
+                    "cell_text": 43881921.0
+                  },
+                  {
+                    "cell_id": "4.11.3",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "4.11.4",
+                    "cell_text": 9.69
+                  },
+                  {
+                    "cell_id": "4.11.5",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "4.11.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "4.11.7",
+                    "cell_text": 0.000199
+                  },
+                  {
+                    "cell_id": "4.11.8",
+                    "cell_text": "HNRNPF"
+                  },
+                  {
+                    "cell_id": "4.11.9",
+                    "cell_text": "reference"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.12.1",
+                    "cell_text": "rs 10899803"
+                  },
+                  {
+                    "cell_id": "4.12.2",
+                    "cell_text": 43940898.0
+                  },
+                  {
+                    "cell_id": "4.12.3",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "4.12.4",
+                    "cell_text": 9.69
+                  },
+                  {
+                    "cell_id": "4.12.5",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.12.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "4.12.7",
+                    "cell_text": 0.000185
+                  },
+                  {
+                    "cell_id": "4.12.8",
+                    "cell_text": "ZNF487P"
+                  },
+                  {
+                    "cell_id": "4.12.9",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.13.1",
+                    "cell_text": "rs10899803"
+                  },
+                  {
+                    "cell_id": "4.13.2",
+                    "cell_text": 43940898.0
+                  },
+                  {
+                    "cell_id": "4.13.3",
+                    "cell_text": "67.54–68.01"
+                  },
+                  {
+                    "cell_id": "4.13.4",
+                    "cell_text": 8.26
+                  },
+                  {
+                    "cell_id": "4.13.5",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "4.13.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "4.13.7",
+                    "cell_text": 0.000185
+                  },
+                  {
+                    "cell_id": "4.13.8",
+                    "cell_text": "ZNF487P"
+                  },
+                  {
+                    "cell_id": "4.13.9",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.14.1",
+                    "cell_text": "rs2843562 &"
+                  },
+                  {
+                    "cell_id": "4.14.2",
+                    "cell_text": 48313591.0
+                  },
+                  {
+                    "cell_id": "4.14.3",
+                    "cell_text": "~72"
+                  },
+                  {
+                    "cell_id": "4.14.4",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.14.5",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.14.6",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.14.7",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.14.8",
+                    "cell_text": ""
+                  },
+                  {
+                    "cell_id": "4.14.9",
+                    "cell_text": ""
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.15.1",
+                    "cell_text": "rs1904017"
+                  },
+                  {
+                    "cell_id": "4.15.2",
+                    "cell_text": 53853542.0
+                  },
+                  {
+                    "cell_id": "4.15.3",
+                    "cell_text": "73.00–73.52"
+                  },
+                  {
+                    "cell_id": "4.15.4",
+                    "cell_text": 8.45
+                  },
+                  {
+                    "cell_id": "4.15.5",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "4.15.6",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "4.15.7",
+                    "cell_text": 0.000339
+                  },
+                  {
+                    "cell_id": "4.15.8",
+                    "cell_text": "PRKG1"
+                  },
+                  {
+                    "cell_id": "4.15.9",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.16.1",
+                    "cell_text": "rs1904013"
+                  },
+                  {
+                    "cell_id": "4.16.2",
+                    "cell_text": 53859440.0
+                  },
+                  {
+                    "cell_id": "4.16.3",
+                    "cell_text": "73.00–73.52"
+                  },
+                  {
+                    "cell_id": "4.16.4",
+                    "cell_text": 8.45
+                  },
+                  {
+                    "cell_id": "4.16.5",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "4.16.6",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "4.16.7",
+                    "cell_text": 7.4e-05
+                  },
+                  {
+                    "cell_id": "4.16.8",
+                    "cell_text": "PRKG1"
+                  },
+                  {
+                    "cell_id": "4.16.9",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.17.1",
+                    "cell_text": "rs60830257"
+                  },
+                  {
+                    "cell_id": "4.17.2",
+                    "cell_text": 53867534.0
+                  },
+                  {
+                    "cell_id": "4.17.3",
+                    "cell_text": "73.00–73.52"
+                  },
+                  {
+                    "cell_id": "4.17.4",
+                    "cell_text": 8.45
+                  },
+                  {
+                    "cell_id": "4.17.5",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "4.17.6",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "4.17.7",
+                    "cell_text": 6.9e-05
+                  },
+                  {
+                    "cell_id": "4.17.8",
+                    "cell_text": "PRKG1"
+                  },
+                  {
+                    "cell_id": "4.17.9",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.18.1",
+                    "cell_text": "rs61448551"
+                  },
+                  {
+                    "cell_id": "4.18.2",
+                    "cell_text": 53874705.0
+                  },
+                  {
+                    "cell_id": "4.18.3",
+                    "cell_text": "73.00–73.52"
+                  },
+                  {
+                    "cell_id": "4.18.4",
+                    "cell_text": 8.45
+                  },
+                  {
+                    "cell_id": "4.18.5",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "4.18.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "4.18.7",
+                    "cell_text": 4.7e-05
+                  },
+                  {
+                    "cell_id": "4.18.8",
+                    "cell_text": "PRKG1"
+                  },
+                  {
+                    "cell_id": "4.18.9",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.19.1",
+                    "cell_text": "rs16927026"
+                  },
+                  {
+                    "cell_id": "4.19.2",
+                    "cell_text": 53887029.0
+                  },
+                  {
+                    "cell_id": "4.19.3",
+                    "cell_text": "73.00–73.52"
+                  },
+                  {
+                    "cell_id": "4.19.4",
+                    "cell_text": 8.45
+                  },
+                  {
+                    "cell_id": "4.19.5",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "4.19.6",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "4.19.7",
+                    "cell_text": 6.5e-05
+                  },
+                  {
+                    "cell_id": "4.19.8",
+                    "cell_text": "PRKG1"
+                  },
+                  {
+                    "cell_id": "4.19.9",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "4.20.1",
+                    "cell_text": "rs58118931"
+                  },
+                  {
+                    "cell_id": "4.20.2",
+                    "cell_text": 53893871.0
+                  },
+                  {
+                    "cell_id": "4.20.3",
+                    "cell_text": "73.00–73.52"
+                  },
+                  {
+                    "cell_id": "4.20.4",
+                    "cell_text": 8.45
+                  },
+                  {
+                    "cell_id": "4.20.5",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "4.20.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "4.20.7",
+                    "cell_text": 7.1e-05
+                  },
+                  {
+                    "cell_id": "4.20.8",
+                    "cell_text": "PRKG1"
+                  },
+                  {
+                    "cell_id": "4.20.9",
+                    "cell_text": "intron-variant"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1169,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "&The 2 linkage peaks (~63 and ~72 cM) were located near these SNPs.*Adjusted mulitipoint LOD at 63 and 72 cM in 12 families, adjusting for one SNP plus all previoiusly adjusted coavariates.**p-values for association for each SNP, adjusting for covariatesGene.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    },
+    {
+      "inputfile": "24478790.html",
+      "id": "5",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_title",
+                "iao_name": "document title",
+                "iao_id": "IAO:0000305"
+              }
+            ]
+          },
+          "text": "Table 6",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 7,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_caption",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "Association in previously reported genes from other studies.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 67,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_content",
+                "iao_name": "table",
+                "iao_id": "IAO:0000306"
+              }
+            ]
+          },
+          "column_headings": [
+            {
+              "cell_id": "5.1.1",
+              "cell_text": "Gene"
+            },
+            {
+              "cell_id": "5.1.2",
+              "cell_text": "SNP"
+            },
+            {
+              "cell_id": "5.1.3",
+              "cell_text": "Position (bp) *"
+            },
+            {
+              "cell_id": "5.1.4",
+              "cell_text": "N"
+            },
+            {
+              "cell_id": "5.1.5",
+              "cell_text": "Allele freq"
+            },
+            {
+              "cell_id": "5.1.6",
+              "cell_text": "Risk allele"
+            },
+            {
+              "cell_id": "5.1.7",
+              "cell_text": "Beta"
+            },
+            {
+              "cell_id": "5.1.8",
+              "cell_text": "Nominal  P **"
+            },
+            {
+              "cell_id": "5.1.9",
+              "cell_text": "SNPwise- P"
+            },
+            {
+              "cell_id": "5.1.10",
+              "cell_text": "Genewise- p"
+            },
+            {
+              "cell_id": "5.1.11",
+              "cell_text": "Experiment-wise- p"
+            },
+            {
+              "cell_id": "5.1.12",
+              "cell_text": "Role"
+            }
+          ],
+          "data_section": [
+            {
+              "section_title_1": 2.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "5.2.1",
+                    "cell_text": "CXCR4"
+                  },
+                  {
+                    "cell_id": "5.2.2",
+                    "cell_text": "rs75157608"
+                  },
+                  {
+                    "cell_id": "5.2.3",
+                    "cell_text": 136994500.0
+                  },
+                  {
+                    "cell_id": "5.2.4",
+                    "cell_text": 4276.0
+                  },
+                  {
+                    "cell_id": "5.2.5",
+                    "cell_text": 0.0005
+                  },
+                  {
+                    "cell_id": "5.2.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "5.2.7",
+                    "cell_text": -0.96
+                  },
+                  {
+                    "cell_id": "5.2.8",
+                    "cell_text": 0.04476
+                  },
+                  {
+                    "cell_id": "5.2.9",
+                    "cell_text": 0.025
+                  },
+                  {
+                    "cell_id": "5.2.10",
+                    "cell_text": 0.338
+                  },
+                  {
+                    "cell_id": "5.2.11",
+                    "cell_text": 0.712
+                  },
+                  {
+                    "cell_id": "5.2.12",
+                    "cell_text": ""
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 3.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "5.3.1",
+                    "cell_text": "TERC"
+                  },
+                  {
+                    "cell_id": "5.3.2",
+                    "cell_text": "rs12638862"
+                  },
+                  {
+                    "cell_id": "5.3.3",
+                    "cell_text": 169477506.0
+                  },
+                  {
+                    "cell_id": "5.3.4",
+                    "cell_text": 4278.0
+                  },
+                  {
+                    "cell_id": "5.3.5",
+                    "cell_text": 0.2498
+                  },
+                  {
+                    "cell_id": "5.3.6",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "5.3.7",
+                    "cell_text": -0.0714
+                  },
+                  {
+                    "cell_id": "5.3.8",
+                    "cell_text": 0.00676
+                  },
+                  {
+                    "cell_id": "5.3.9",
+                    "cell_text": "<0.002"
+                  },
+                  {
+                    "cell_id": "5.3.10",
+                    "cell_text": 0.01
+                  },
+                  {
+                    "cell_id": "5.3.11",
+                    "cell_text": 0.374
+                  },
+                  {
+                    "cell_id": "5.3.12",
+                    "cell_text": ""
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.4.1",
+                    "cell_text": "TERC"
+                  },
+                  {
+                    "cell_id": "5.4.2",
+                    "cell_text": "rs12630450"
+                  },
+                  {
+                    "cell_id": "5.4.3",
+                    "cell_text": 169480204.0
+                  },
+                  {
+                    "cell_id": "5.4.4",
+                    "cell_text": 4274.0
+                  },
+                  {
+                    "cell_id": "5.4.5",
+                    "cell_text": 0.2647
+                  },
+                  {
+                    "cell_id": "5.4.6",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "5.4.7",
+                    "cell_text": -0.0553
+                  },
+                  {
+                    "cell_id": "5.4.8",
+                    "cell_text": 0.03325
+                  },
+                  {
+                    "cell_id": "5.4.9",
+                    "cell_text": 0.02
+                  },
+                  {
+                    "cell_id": "5.4.10",
+                    "cell_text": 0.06
+                  },
+                  {
+                    "cell_id": "5.4.11",
+                    "cell_text": 0.864
+                  },
+                  {
+                    "cell_id": "5.4.12",
+                    "cell_text": ""
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.5.1",
+                    "cell_text": "ARPM1"
+                  },
+                  {
+                    "cell_id": "5.5.2",
+                    "cell_text": "rs2068178"
+                  },
+                  {
+                    "cell_id": "5.5.3",
+                    "cell_text": 169485639.0
+                  },
+                  {
+                    "cell_id": "5.5.4",
+                    "cell_text": 4278.0
+                  },
+                  {
+                    "cell_id": "5.5.5",
+                    "cell_text": 0.0219
+                  },
+                  {
+                    "cell_id": "5.5.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "5.5.7",
+                    "cell_text": 0.1843
+                  },
+                  {
+                    "cell_id": "5.5.8",
+                    "cell_text": 0.02198
+                  },
+                  {
+                    "cell_id": "5.5.9",
+                    "cell_text": 0.038
+                  },
+                  {
+                    "cell_id": "5.5.10",
+                    "cell_text": 0.082
+                  },
+                  {
+                    "cell_id": "5.5.11",
+                    "cell_text": 0.852
+                  },
+                  {
+                    "cell_id": "5.5.12",
+                    "cell_text": "missense"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.6.1",
+                    "cell_text": "ARPM1"
+                  },
+                  {
+                    "cell_id": "5.6.2",
+                    "cell_text": "rs9822885"
+                  },
+                  {
+                    "cell_id": "5.6.3",
+                    "cell_text": 169486144.0
+                  },
+                  {
+                    "cell_id": "5.6.4",
+                    "cell_text": 4272.0
+                  },
+                  {
+                    "cell_id": "5.6.5",
+                    "cell_text": 0.2637
+                  },
+                  {
+                    "cell_id": "5.6.6",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "5.6.7",
+                    "cell_text": -0.0565
+                  },
+                  {
+                    "cell_id": "5.6.8",
+                    "cell_text": 0.03018
+                  },
+                  {
+                    "cell_id": "5.6.9",
+                    "cell_text": 0.02
+                  },
+                  {
+                    "cell_id": "5.6.10",
+                    "cell_text": 0.086
+                  },
+                  {
+                    "cell_id": "5.6.11",
+                    "cell_text": 0.852
+                  },
+                  {
+                    "cell_id": "5.6.12",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.7.1",
+                    "cell_text": "ARPM1"
+                  },
+                  {
+                    "cell_id": "5.7.2",
+                    "cell_text": "rs9860874"
+                  },
+                  {
+                    "cell_id": "5.7.3",
+                    "cell_text": 169486271.0
+                  },
+                  {
+                    "cell_id": "5.7.4",
+                    "cell_text": 4277.0
+                  },
+                  {
+                    "cell_id": "5.7.5",
+                    "cell_text": 0.2634
+                  },
+                  {
+                    "cell_id": "5.7.6",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "5.7.7",
+                    "cell_text": -0.0579
+                  },
+                  {
+                    "cell_id": "5.7.8",
+                    "cell_text": 0.02613
+                  },
+                  {
+                    "cell_id": "5.7.9",
+                    "cell_text": 0.016
+                  },
+                  {
+                    "cell_id": "5.7.10",
+                    "cell_text": 0.066
+                  },
+                  {
+                    "cell_id": "5.7.11",
+                    "cell_text": 0.81
+                  },
+                  {
+                    "cell_id": "5.7.12",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.8.1",
+                    "cell_text": "ARPM1"
+                  },
+                  {
+                    "cell_id": "5.8.2",
+                    "cell_text": "rs9866776"
+                  },
+                  {
+                    "cell_id": "5.8.3",
+                    "cell_text": 169487651.0
+                  },
+                  {
+                    "cell_id": "5.8.4",
+                    "cell_text": 4252.0
+                  },
+                  {
+                    "cell_id": "5.8.5",
+                    "cell_text": 0.2619
+                  },
+                  {
+                    "cell_id": "5.8.6",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "5.8.7",
+                    "cell_text": -0.0571
+                  },
+                  {
+                    "cell_id": "5.8.8",
+                    "cell_text": 0.0289
+                  },
+                  {
+                    "cell_id": "5.8.9",
+                    "cell_text": 0.016
+                  },
+                  {
+                    "cell_id": "5.8.10",
+                    "cell_text": 0.07
+                  },
+                  {
+                    "cell_id": "5.8.11",
+                    "cell_text": 0.826
+                  },
+                  {
+                    "cell_id": "5.8.12",
+                    "cell_text": "reference"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.9.1",
+                    "cell_text": "MYNN"
+                  },
+                  {
+                    "cell_id": "5.9.2",
+                    "cell_text": "rs3821383"
+                  },
+                  {
+                    "cell_id": "5.9.3",
+                    "cell_text": 169489946.0
+                  },
+                  {
+                    "cell_id": "5.9.4",
+                    "cell_text": 4263.0
+                  },
+                  {
+                    "cell_id": "5.9.5",
+                    "cell_text": 0.2635
+                  },
+                  {
+                    "cell_id": "5.9.6",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "5.9.7",
+                    "cell_text": -0.0594
+                  },
+                  {
+                    "cell_id": "5.9.8",
+                    "cell_text": 0.0228
+                  },
+                  {
+                    "cell_id": "5.9.9",
+                    "cell_text": 0.013
+                  },
+                  {
+                    "cell_id": "5.9.10",
+                    "cell_text": 0.089
+                  },
+                  {
+                    "cell_id": "5.9.11",
+                    "cell_text": 0.768
+                  },
+                  {
+                    "cell_id": "5.9.12",
+                    "cell_text": ""
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.10.1",
+                    "cell_text": "MYNN"
+                  },
+                  {
+                    "cell_id": "5.10.2",
+                    "cell_text": "rs10936599"
+                  },
+                  {
+                    "cell_id": "5.10.3",
+                    "cell_text": 169492101.0
+                  },
+                  {
+                    "cell_id": "5.10.4",
+                    "cell_text": 4276.0
+                  },
+                  {
+                    "cell_id": "5.10.5",
+                    "cell_text": 0.2289
+                  },
+                  {
+                    "cell_id": "5.10.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "5.10.7",
+                    "cell_text": "s−0.0944"
+                  },
+                  {
+                    "cell_id": "5.10.8",
+                    "cell_text": 0.000483
+                  },
+                  {
+                    "cell_id": "5.10.9",
+                    "cell_text": "<0.002"
+                  },
+                  {
+                    "cell_id": "5.10.10",
+                    "cell_text": 0.002
+                  },
+                  {
+                    "cell_id": "5.10.11",
+                    "cell_text": 0.044
+                  },
+                  {
+                    "cell_id": "5.10.12",
+                    "cell_text": "nc-transcript-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.11.1",
+                    "cell_text": "MYNN"
+                  },
+                  {
+                    "cell_id": "5.11.2",
+                    "cell_text": "rs1317082 &"
+                  },
+                  {
+                    "cell_id": "5.11.3",
+                    "cell_text": 169497585.0
+                  },
+                  {
+                    "cell_id": "5.11.4",
+                    "cell_text": 4270.0
+                  },
+                  {
+                    "cell_id": "5.11.5",
+                    "cell_text": 0.2292
+                  },
+                  {
+                    "cell_id": "5.11.6",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "5.11.7",
+                    "cell_text": -0.0964
+                  },
+                  {
+                    "cell_id": "5.11.8",
+                    "cell_text": 0.000372
+                  },
+                  {
+                    "cell_id": "5.11.9",
+                    "cell_text": "<0.002"
+                  },
+                  {
+                    "cell_id": "5.11.10",
+                    "cell_text": 0.002
+                  },
+                  {
+                    "cell_id": "5.11.11",
+                    "cell_text": 0.037
+                  },
+                  {
+                    "cell_id": "5.11.12",
+                    "cell_text": "intron-variant"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 10.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "5.12.1",
+                    "cell_text": "OBFC1"
+                  },
+                  {
+                    "cell_id": "5.12.2",
+                    "cell_text": "rs2902638"
+                  },
+                  {
+                    "cell_id": "5.12.3",
+                    "cell_text": 105636989.0
+                  },
+                  {
+                    "cell_id": "5.12.4",
+                    "cell_text": 4276.0
+                  },
+                  {
+                    "cell_id": "5.12.5",
+                    "cell_text": 0.2572
+                  },
+                  {
+                    "cell_id": "5.12.6",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "5.12.7",
+                    "cell_text": -0.0604
+                  },
+                  {
+                    "cell_id": "5.12.8",
+                    "cell_text": 0.0198
+                  },
+                  {
+                    "cell_id": "5.12.9",
+                    "cell_text": 0.017
+                  },
+                  {
+                    "cell_id": "5.12.10",
+                    "cell_text": 0.19
+                  },
+                  {
+                    "cell_id": "5.12.11",
+                    "cell_text": 0.534
+                  },
+                  {
+                    "cell_id": "5.12.12",
+                    "cell_text": ""
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.13.1",
+                    "cell_text": "OBFC1"
+                  },
+                  {
+                    "cell_id": "5.13.2",
+                    "cell_text": "rs10748858"
+                  },
+                  {
+                    "cell_id": "5.13.3",
+                    "cell_text": 105639514.0
+                  },
+                  {
+                    "cell_id": "5.13.4",
+                    "cell_text": 4277.0
+                  },
+                  {
+                    "cell_id": "5.13.5",
+                    "cell_text": 0.4322
+                  },
+                  {
+                    "cell_id": "5.13.6",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "5.13.7",
+                    "cell_text": 0.0518
+                  },
+                  {
+                    "cell_id": "5.13.8",
+                    "cell_text": 0.02305
+                  },
+                  {
+                    "cell_id": "5.13.9",
+                    "cell_text": 0.012
+                  },
+                  {
+                    "cell_id": "5.13.10",
+                    "cell_text": 0.128
+                  },
+                  {
+                    "cell_id": "5.13.11",
+                    "cell_text": 0.39
+                  },
+                  {
+                    "cell_id": "5.13.12",
+                    "cell_text": "reference"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.14.1",
+                    "cell_text": "OBFC1"
+                  },
+                  {
+                    "cell_id": "5.14.2",
+                    "cell_text": "rs11191841"
+                  },
+                  {
+                    "cell_id": "5.14.3",
+                    "cell_text": 105639611.0
+                  },
+                  {
+                    "cell_id": "5.14.4",
+                    "cell_text": 4276.0
+                  },
+                  {
+                    "cell_id": "5.14.5",
+                    "cell_text": 0.4828
+                  },
+                  {
+                    "cell_id": "5.14.6",
+                    "cell_text": "C"
+                  },
+                  {
+                    "cell_id": "5.14.7",
+                    "cell_text": -0.0575
+                  },
+                  {
+                    "cell_id": "5.14.8",
+                    "cell_text": 0.01105
+                  },
+                  {
+                    "cell_id": "5.14.9",
+                    "cell_text": "<0.002"
+                  },
+                  {
+                    "cell_id": "5.14.10",
+                    "cell_text": 0.059
+                  },
+                  {
+                    "cell_id": "5.14.11",
+                    "cell_text": 0.204
+                  },
+                  {
+                    "cell_id": "5.14.12",
+                    "cell_text": "reference"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.15.1",
+                    "cell_text": "OBFC1"
+                  },
+                  {
+                    "cell_id": "5.15.2",
+                    "cell_text": "rs7100920"
+                  },
+                  {
+                    "cell_id": "5.15.3",
+                    "cell_text": 105640978.0
+                  },
+                  {
+                    "cell_id": "5.15.4",
+                    "cell_text": 4277.0
+                  },
+                  {
+                    "cell_id": "5.15.5",
+                    "cell_text": 0.4755
+                  },
+                  {
+                    "cell_id": "5.15.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "5.15.7",
+                    "cell_text": -0.0598
+                  },
+                  {
+                    "cell_id": "5.15.8",
+                    "cell_text": 0.00806
+                  },
+                  {
+                    "cell_id": "5.15.9",
+                    "cell_text": "<0.002"
+                  },
+                  {
+                    "cell_id": "5.15.10",
+                    "cell_text": 0.051
+                  },
+                  {
+                    "cell_id": "5.15.11",
+                    "cell_text": 0.178
+                  },
+                  {
+                    "cell_id": "5.15.12",
+                    "cell_text": "reference"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.16.1",
+                    "cell_text": "OBFC1"
+                  },
+                  {
+                    "cell_id": "5.16.2",
+                    "cell_text": "rs2067832"
+                  },
+                  {
+                    "cell_id": "5.16.3",
+                    "cell_text": 105643134.0
+                  },
+                  {
+                    "cell_id": "5.16.4",
+                    "cell_text": 4268.0
+                  },
+                  {
+                    "cell_id": "5.16.5",
+                    "cell_text": 0.4752
+                  },
+                  {
+                    "cell_id": "5.16.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "5.16.7",
+                    "cell_text": -0.0627
+                  },
+                  {
+                    "cell_id": "5.16.8",
+                    "cell_text": 0.005524
+                  },
+                  {
+                    "cell_id": "5.16.9",
+                    "cell_text": "<0.002"
+                  },
+                  {
+                    "cell_id": "5.16.10",
+                    "cell_text": 0.037
+                  },
+                  {
+                    "cell_id": "5.16.11",
+                    "cell_text": 0.13
+                  },
+                  {
+                    "cell_id": "5.16.12",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.17.1",
+                    "cell_text": "OBFC1"
+                  },
+                  {
+                    "cell_id": "5.17.2",
+                    "cell_text": "rs11598840"
+                  },
+                  {
+                    "cell_id": "5.17.3",
+                    "cell_text": 105645181.0
+                  },
+                  {
+                    "cell_id": "5.17.4",
+                    "cell_text": 4270.0
+                  },
+                  {
+                    "cell_id": "5.17.5",
+                    "cell_text": 0.1006
+                  },
+                  {
+                    "cell_id": "5.17.6",
+                    "cell_text": "A"
+                  },
+                  {
+                    "cell_id": "5.17.7",
+                    "cell_text": 0.0767
+                  },
+                  {
+                    "cell_id": "5.17.8",
+                    "cell_text": 0.04448
+                  },
+                  {
+                    "cell_id": "5.17.9",
+                    "cell_text": 0.064
+                  },
+                  {
+                    "cell_id": "5.17.10",
+                    "cell_text": 0.522
+                  },
+                  {
+                    "cell_id": "5.17.11",
+                    "cell_text": 0.918
+                  },
+                  {
+                    "cell_id": "5.17.12",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.18.1",
+                    "cell_text": "OBFC1"
+                  },
+                  {
+                    "cell_id": "5.18.2",
+                    "cell_text": "rs4918069"
+                  },
+                  {
+                    "cell_id": "5.18.3",
+                    "cell_text": 105654391.0
+                  },
+                  {
+                    "cell_id": "5.18.4",
+                    "cell_text": 4274.0
+                  },
+                  {
+                    "cell_id": "5.18.5",
+                    "cell_text": 0.2763
+                  },
+                  {
+                    "cell_id": "5.18.6",
+                    "cell_text": "G"
+                  },
+                  {
+                    "cell_id": "5.18.7",
+                    "cell_text": -0.0553
+                  },
+                  {
+                    "cell_id": "5.18.8",
+                    "cell_text": 0.02839
+                  },
+                  {
+                    "cell_id": "5.18.9",
+                    "cell_text": 0.018
+                  },
+                  {
+                    "cell_id": "5.18.10",
+                    "cell_text": 0.256
+                  },
+                  {
+                    "cell_id": "5.18.11",
+                    "cell_text": 0.638
+                  },
+                  {
+                    "cell_id": "5.18.12",
+                    "cell_text": "intron-variant"
+                  }
+                ]
+              ]
+            },
+            {
+              "section_title_1": 19.0,
+              "data_rows": [
+                [
+                  {
+                    "cell_id": "5.19.1",
+                    "cell_text": "OBFC1"
+                  },
+                  {
+                    "cell_id": "5.19.2",
+                    "cell_text": "rs77987791"
+                  },
+                  {
+                    "cell_id": "5.19.3",
+                    "cell_text": 105670702.0
+                  },
+                  {
+                    "cell_id": "5.19.4",
+                    "cell_text": 4278.0
+                  },
+                  {
+                    "cell_id": "5.19.5",
+                    "cell_text": 0.0007
+                  },
+                  {
+                    "cell_id": "5.19.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "5.19.7",
+                    "cell_text": 1.111
+                  },
+                  {
+                    "cell_id": "5.19.8",
+                    "cell_text": 0.0375
+                  },
+                  {
+                    "cell_id": "5.19.9",
+                    "cell_text": 0.0472
+                  },
+                  {
+                    "cell_id": "5.19.10",
+                    "cell_text": 0.395
+                  },
+                  {
+                    "cell_id": "5.19.11",
+                    "cell_text": 0.832
+                  },
+                  {
+                    "cell_id": "5.19.12",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.20.1",
+                    "cell_text": "ZNF729"
+                  },
+                  {
+                    "cell_id": "5.20.2",
+                    "cell_text": "rs115647405"
+                  },
+                  {
+                    "cell_id": "5.20.3",
+                    "cell_text": 22483912.0
+                  },
+                  {
+                    "cell_id": "5.20.4",
+                    "cell_text": 4278.0
+                  },
+                  {
+                    "cell_id": "5.20.5",
+                    "cell_text": 0.0003
+                  },
+                  {
+                    "cell_id": "5.20.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "5.20.7",
+                    "cell_text": 2.339
+                  },
+                  {
+                    "cell_id": "5.20.8",
+                    "cell_text": 0.01871
+                  },
+                  {
+                    "cell_id": "5.20.9",
+                    "cell_text": 0.01
+                  },
+                  {
+                    "cell_id": "5.20.10",
+                    "cell_text": 0.224
+                  },
+                  {
+                    "cell_id": "5.20.11",
+                    "cell_text": 0.532
+                  },
+                  {
+                    "cell_id": "5.20.12",
+                    "cell_text": "intron-variant"
+                  }
+                ],
+                [
+                  {
+                    "cell_id": "5.21.1",
+                    "cell_text": "ZNF729"
+                  },
+                  {
+                    "cell_id": "5.21.2",
+                    "cell_text": "rs76712090"
+                  },
+                  {
+                    "cell_id": "5.21.3",
+                    "cell_text": 22486056.0
+                  },
+                  {
+                    "cell_id": "5.21.4",
+                    "cell_text": 4267.0
+                  },
+                  {
+                    "cell_id": "5.21.5",
+                    "cell_text": 0.0127
+                  },
+                  {
+                    "cell_id": "5.21.6",
+                    "cell_text": "T"
+                  },
+                  {
+                    "cell_id": "5.21.7",
+                    "cell_text": -0.2122
+                  },
+                  {
+                    "cell_id": "5.21.8",
+                    "cell_text": 0.03684
+                  },
+                  {
+                    "cell_id": "5.21.9",
+                    "cell_text": 0.0312
+                  },
+                  {
+                    "cell_id": "5.21.10",
+                    "cell_text": 0.405
+                  },
+                  {
+                    "cell_id": "5.21.11",
+                    "cell_text": 0.823
+                  },
+                  {
+                    "cell_id": "5.21.12",
+                    "cell_text": "intron-variant"
+                  }
+                ]
+              ]
+            }
+          ],
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        },
+        {
+          "offset": 1595,
+          "infons": {
+            "section_type": [
+              {
+                "section_name": "table_footer",
+                "iao_name": "caption",
+                "iao_id": "IAO:0000304"
+              }
+            ]
+          },
+          "text": "*HG19.**Nominal p-values are presented for each SNP; however, SNPs with empirical p-value <0.05 are shown in bold.Only the genotyped SNPs are presented.&This SNP was previously reported.",
+          "sentences": [],
+          "annotations": [],
+          "relations": []
+        }
+      ],
+      "annotations": [],
+      "relations": []
+    }
+  ]
+}

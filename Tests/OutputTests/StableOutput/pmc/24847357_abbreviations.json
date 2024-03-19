@@ -1,0 +1,82 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "24847357.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "GWAS",
+          "text_long": "genome-wide association study"
+        },
+        {
+          "text_short": "PMRP",
+          "text_long": "Personalized Medicine Research Project"
+        },
+        {
+          "text_short": "BMI",
+          "text_long": "body mass index"
+        },
+        {
+          "text_short": "T2D",
+          "text_long": "Type 2 Diabetes"
+        },
+        {
+          "text_short": "CTSA",
+          "text_long": "Clinical and Translational Science Award"
+        },
+        {
+          "text_short": "NCRR",
+          "text_long": "National Center for Research Resources"
+        },
+        {
+          "text_short": "NCATS",
+          "text_long": "National Center for Advancing Translational Sciences"
+        },
+        {
+          "text_short": "MRSA",
+          "text_long": "methicillin-resistant Staphylococcus aureus"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "GWAS",
+          "text_long": "genome-wide association study"
+        },
+        {
+          "text_short": "PMRP",
+          "text_long": "Personalized Medicine Research Project"
+        },
+        {
+          "text_short": "BMI",
+          "text_long": "body mass index"
+        },
+        {
+          "text_short": "T2D",
+          "text_long": "Type 2 Diabetes"
+        },
+        {
+          "text_short": "CTSA",
+          "text_long": "Clinical and Translational Science Award"
+        },
+        {
+          "text_short": "NCRR",
+          "text_long": "National Center for Research Resources"
+        },
+        {
+          "text_short": "NCATS",
+          "text_long": "National Center for Advancing Translational Sciences"
+        },
+        {
+          "text_short": "MRSA",
+          "text_long": "methicillin-resistant Staphylococcus aureus"
+        }
+      ]
+    }
+  ]
+}

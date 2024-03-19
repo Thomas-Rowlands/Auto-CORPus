@@ -1,0 +1,122 @@
+{
+  "source": "Auto-CORPus (abbreviations)",
+  "inputfile": "29535761.html",
+  "date": "20210927",
+  "key": "autocorpus_abbreviations.key",
+  "documents": [
+    {
+      "id": "fulltext_algorithm",
+      "passages": [
+        {
+          "text_short": "CL/P",
+          "text_long": "cleft palate"
+        },
+        {
+          "text_short": "RRR",
+          "text_long": "relative risk ratio"
+        },
+        {
+          "text_short": "CPO",
+          "text_long": "cleft palate only"
+        },
+        {
+          "text_short": "RR",
+          "text_long": "relative risk"
+        },
+        {
+          "text_short": "QQ",
+          "text_long": "Quantile-Quantile"
+        },
+        {
+          "text_short": "NIEHS",
+          "text_long": "National Institute of Environmental Health Sciences"
+        },
+        {
+          "text_short": "RRRs",
+          "text_long": "relative risk ratios"
+        },
+        {
+          "text_short": "CIs",
+          "text_long": "confidence intervals"
+        },
+        {
+          "text_short": "ERs",
+          "text_long": "estrogen receptors"
+        },
+        {
+          "text_short": "ESRRs",
+          "text_long": "estrogen related receptors"
+        },
+        {
+          "text_short": "ERRγ",
+          "text_long": "Estrogen-related receptor γ”"
+        },
+        {
+          "text_short": "RCN",
+          "text_long": "Research Council of Norway"
+        },
+        {
+          "text_short": "PoOxE",
+          "text_long": "parent-of-origin interaction effects with environmental exposure"
+        }
+      ]
+    },
+    {
+      "id": "all_abbreviations",
+      "passages": [
+        {
+          "text_short": "CL/P",
+          "text_long": "cleft palate"
+        },
+        {
+          "text_short": "RRR",
+          "text_long": "relative risk ratio"
+        },
+        {
+          "text_short": "CPO",
+          "text_long": "cleft palate only"
+        },
+        {
+          "text_short": "RR",
+          "text_long": "relative risk"
+        },
+        {
+          "text_short": "QQ",
+          "text_long": "Quantile-Quantile"
+        },
+        {
+          "text_short": "NIEHS",
+          "text_long": "National Institute of Environmental Health Sciences"
+        },
+        {
+          "text_short": "RRRs",
+          "text_long": "relative risk ratios"
+        },
+        {
+          "text_short": "CIs",
+          "text_long": "confidence intervals"
+        },
+        {
+          "text_short": "ERs",
+          "text_long": "estrogen receptors"
+        },
+        {
+          "text_short": "ESRRs",
+          "text_long": "estrogen related receptors"
+        },
+        {
+          "text_short": "ERRγ",
+          "text_long": "Estrogen-related receptor γ”"
+        },
+        {
+          "text_short": "RCN",
+          "text_long": "Research Council of Norway"
+        },
+        {
+          "text_short": "PoOxE",
+          "text_long": "parent-of-origin interaction effects with environmental exposure"
+        }
+      ]
+    }
+  ]
+}
